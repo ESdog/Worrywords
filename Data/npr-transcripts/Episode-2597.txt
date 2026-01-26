@@ -1,0 +1,19 @@
+Host: We have heard a lot about Russia creating fake social media accounts to influence political discourse in other countries. Now Facebook and Twitter say they have shut down hundreds of fake accounts created and run by the Chinese government. These pages are mainly spreading messages against the Hong Kong protests. Adam Segal is the director of digital and cyberspace policy at the Council on Foreign Relations. He has studied China's use of disinformation, and he joins us now. Hi, there.
+Guest: Thanks for having me.
+Host: So help us understand what exactly China stands accused of doing. Give me an example of one of these fake accounts and what it's been tweeting or posting.
+Guest: Twitter and Facebook have said that the Chinese have created fake accounts or inauthentic accounts and that they've spread disinformation about the protests in Hong Kong. Some of the accounts have compared the protesters to cockroaches or to ISIS and have suggested that they've taken money from either foreigners or what one of the accounts called bad guys.
+Host: What is the scope of this operation, as far as we can tell?
+Guest: Fairly small. Twitter says, you know, less than a thousand - maybe 936 is the official number accounts. Facebook is five Facebook accounts, seven pages and three groups - so not huge, although some of them have a larger number of followers.
+Host: Are all of these accounts in Chinese? I was curious whether some were in other languages trying to reach, say, the international media that's descended on Hong Kong to cover these protests.
+Guest: The accounts that Facebook and Twitter highlighted were in Chinese and English - so clearly meant to influence inside of Hong Kong, but also English-speaking audience as well.
+Host: How do we know for sure that this is the Chinese government, Chinese state actors behind these accounts?
+Guest: We're not for sure, although Twitter and Facebook seem fairly certain. They, as evidenced, talk about unblocked IP addresses coming from the mainland. So these were addresses that, you know, were given access through the Great Firewall, which censors information which suggests that there was some government support there.
+Host: I mean, as someone who studies China and its presence online, have you seen anything like this before?
+Guest: We have. I mean, we've seen them use disinformation around the Taiwan elections in Taiwan quite frequently. We know that they've used disinformation on Chinese platforms and WeChat, you know, directed towards overseas Chinese.
+Host: WeChat, we should say, is a social media site popular inside China.
+Guest: That's right, but used widely outside of China among Chinese - overseas Chinese and Chinese speakers in Canada and Australia. There have been campaigns in English against Tibetan independence and Tibetan activists in - around 2012. So there have been previous attempts.
+Host: So in terms of what to do about it, we've said Twitter and Facebook have shut down these accounts, which prompts me to wonder - does shutting down a fake account do that much? Can't the Chinese government, if it's determined to go down this path, just open up two new ones in place of the one that was closed?
+Guest: It is a cat-and-mouse game, and the companies are constantly trying to get ahead of it. You know, they will try to apply machine learning and artificial intelligence, but it is not a long-term solution. As you said, they can always set up new accounts.
+Host: Adam Segal, thanks.
+Guest: My pleasure. Thanks for having me.
+Host: He is director of digital and cyberspace policy at the Council on Foreign Relations, talking there about the move by Facebook and Twitter. They have shut down hundreds of fake accounts they say were created by the Chinese government.
