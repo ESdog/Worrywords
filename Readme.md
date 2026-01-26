@@ -13,6 +13,6 @@ WorryWords/
 │   ├── Llama-transcripts/      # AI-generated transcripts
 │   └── qwen30-transcripts/      # AI-generated transcripts
 ├── Plots/                     # Generated histograms and KDE comparison charts
-├── Data/
+├── WorryWords/
 │   ├── worrywords-v1.txt      # The anxiety score reference dictionary
 └── Other python scripts for analysis           
