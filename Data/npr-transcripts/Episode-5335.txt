@@ -1,0 +1,41 @@
+Host: Up next, a look at what current research tells us about what causes inflammatory bowel disease and a potentially simple way to treat it. According to the Centers for Disease Control and Prevention, as many as a million-and-half people in the U.S. suffer from IBD, which includes Crohn's, a condition that occurs when a person's immune system inappropriately responds to harmless cells or bacteria and destroys healthy tissue. And to treat the disease, most patients take medications to suppress their immune systems, but some don't work very well, and they can have really awful side effects. Well, now a couple of new studies suggests ways to more directly attack the disease, one involving genetically engineering bacteria which might be put into yogurt, and you could eat it in the yogurt and, you know, treat yourself that way. Russell Cohen is professor of medicine and co-director of the Inflammatory Bowel Disease Center at the University of Chicago. He joins us today from the Windy City. Welcome to the program.
+Guest: Thank you very much.
+Host: Tell us about this bacteria, this new genetically engineered bacteria.
+Guest: Well, you know, the bacteria themselves aren't new. They're very common bacteria that you could find in yogurt or other products. But what these researchers did is they stuck some genes into the bacteria to make a particular type of protein that seems to protect the gut.
+Host: Mm-hmm. And when the protein is present, it soothes the inflammation?
+Guest: Well, yes. So they did this in mice. And what you can do is there are mice who are genetically determined to become inflammatory bowel disease mice, and it seemed that it happened less severely in them. And then they also did it in mice where you can give them a chemical to give them colitis, and then you can treat them with this, and it seemed that the inflammation decreased.
+Host: Mm-hmm. Let's start with the basic. When someone has Crohn's or inflammatory bowel disease, what's happening inside the person's body?
+Guest: Well, the immune system is attacking the intestines, and it's mostly through cells called T-cells. And they produce a lot of chemicals that bring in other T-cells and other immune cells, and you get a whole cascade of inflammation and destruction.
+Host: Mm-hmm. And there's no cure, right?
+Guest: Well, you know, the immune system is attacking the bowel. So sometimes the immune system can stop doing that. Sometimes people who have the entire part of the bowel cut out surgically are OK afterwards, and don't have recurrence. But for the most part, it's a chronic relapsing condition.
+Host: Mm-hmm. And what happens over time, if it continues?
+Guest: Well, what can happen over time is as you get repeated bouts of inflammation, you form scar tissue. And scar tissue doesn't respond to medicines, and eventually has to be cut out surgically.
+Host: Now, this genetically engineered bacteria, the lactobacillus - they were made to produce this protein LFn that reduced the inflammation in laboratory mice - is the same kind of bacteria that could survive in the human body?
+Guest: Oh, absolutely. The lactobacillus have been around for many years, thousands of years, perhaps millions of years, and they are already, you know, well identified as being able to survive in the human body and thought to be, quote, "beneficial," unquote, bacteria.
+Host: Mm-hmm. And it's just a question of testing this out, I would imagine.
+Guest: Well, yes. So the investigators did test it on human cells, like in a petri dish, where they caused them to get inflamed and then show that by giving them this bacteria, that produces the LFn that decreased that, too. So they've done it in live mice. They've done it in human cells.
+Host: Right.
+Guest: So, yeah, the next phase should be in live humans.
+Host: And that's somewhere down the road, I imagine.
+Guest: Yeah. I don't know the time frame, but given the fact that lactobacillus has been used to deliver other potential treatments, it probably is closer than we think.
+Host: Hmm. There was also a study - a different study published this week in Nature that looked at genetic links to Crohn's. What does this genetic information tell us? Is it a step closer to determining what causes Crohn's? Because that's a mysterious cause, too.
+Guest: Yeah. We - I agree. You know, the gut is, in a way, the biggest immune organ in the body because it's exposed to everything that you eat, everything you intake. And we're - we actually have to have bacteria and viruses and other things living inside of us to live, to help digest our food. This is how we've evolved. And we're - our immune system, in a normal person, is supposed to ignore all the bacteria and things that are down there unless they're harmful ones. But in Crohn's disease, it seems that the immune system is not ignoring them. Now, the first Crohn's gene was cofounded here at the University of Chicago by one of my colleagues. And subsequently, multiple genes for Crohn's disease have been found, most of which have to do with how the body's immune system interacts with the bugs living in the gut.
+Host: This is SCIENCE FRIDAY, from NPR. I'm Ira Flatow, talking with Dr. Russell Cohen. And so there's more than one gene involved, is what you're saying.
+Guest: Well, yes, there are multiple genes, and there's been big breakthroughs in genetic discoveries with something called genome-wide association, GWAS. So now the genes are falling out of the sky at us every time a group does a big genetic study.
+Host: Falling out of the sky. They're - is it that easy to discover them, or are there are just so many you can't really narrow down the important ones? Or are they all important?
+Guest: Well, you know, just like I said, be careful what you wish for, because it may come true.
+Host: Yeah.
+Guest: So now, with the explosion in great technology in genetics, we're getting a whole bunch of candidate genes. And then through other genetic studies and comparisons between groups around the world, we can see which ones seem to light up for multiple groups, although it can be different in different populations.
+Host: Yeah. There are some - how shall we say - unorthodox treatment ideas, are there not, like infesting patients with worms for treatment?
+Guest: Well, exactly. So it goes to back to the same idea: Why is it that for millions of years, helminths - or worms - have lived, cohabited inside humans? You know, is there a benefit of it? And there has been what's called the hygiene hypothesis, which suggests that in cultures that have cleaned up their act and - i.e. stopped getting worms as a child - they have higher rates of inflammatory diseases. So what I say to my patients when they ask why do they have Crohn's disease, I say it's your mother's fault.
+Host: Well, a little bit of genetics, a little bit of, yeah, cleaning your act up.
+Guest: Exactly.
+Host: And there's also something called fecal transplant. Tell us what that is.
+Guest: Well, you know, fecal transplant has been extremely successful in treating a recurrent infection of the bowel called Clostridium difficile, or C. diff. And now it's being tested in Crohn's disease and ulcerative colitis. You actually have feces usually put in through either a long tube down the mouth, or probably a little better way is doing it through a colonoscopy, feces from a healthy donor. And that's supposed to help repopulate the bacteria in the gut of the patient with Crohn's disease.
+Host: Yeah. Because we're learning that the biome is really important, isn't it? Everything that lives inside your body, all these bacteria and whatever.
+Guest: Oh, yeah. Absolutely. You know, there are, quote, unquote, good ones and bad ones. And sometimes, the ones we think are good may be bad. But in a way, there are differences in the bacteria that live in people with active Crohn's disease and in inactive, and in people without it.
+Host: Thank you very much for taking time to be with us today.
+Guest: Thank you.
+Host: Good luck in your research.
+Guest: Thank you very much.
+Host: Russell Cohen, professor of medicine and co-director of the Inflammatory Bowel Disease Center at the University of Chicago in Chicago.

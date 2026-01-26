@@ -1,0 +1,21 @@
+Host: Rembrandt's most ambitious painting is getting a tuneup, and the public gets to watch. The wall-sized masterpiece "The Night Watch" showcases a group of 17th-century militiamen in dramatic light. It hangs in Amsterdam's Rijksmuseum, which has planned the restoration in such fine detail that staff have dubbed it Operation Night Watch. It's the first major restoration since the 1970s, when a man attacked the painting with a knife. Petria Noble is head of the museum's conservation department, and she explained to me how this operation compares with past restorations.
+Guest: Well, of course, people, I think, carried out treatments to the best of their ability and with the available technology. And of course, the methods that were used in the 1970s are not the methods that we would use today. Also, our knowledge of Rembrandt's materials and technique is incredibly more advanced compared to the 1970s. And I think, in the last 20 years, there's also been a - huge advances in our understanding of aging of oil paint.
+Host: Meaning - what? - it changes in color or texture or...
+Guest: Yes. Certain pigments, for instance, fade. Certain pigments can become lighter or darker. You have to see it a little bit like in a hospital. You know, a patient goes in with a problem. There's a lot of different kinds of research done in order to make the proper diagnosis. And then there's a sort of a treatment plan presented. And then the actual operation may not be that extensive. I mean, that is actually the goal - to do as little as possible with the largest effect.
+Host: Operation Night Watch is going to be free for the public to see.
+Guest: To follow, yeah - to follow.
+Host: Because there's going to be this glass chamber, people can follow along.
+Guest: Right. It looks absolutely beautiful.
+Host: Oh, it does?
+Guest: Yeah, it looks absolutely beautiful.
+Host: 'Cause I've seen this painting - it's enormous. (Laughter) And I'm trying to picture, A, what that's like for people and, B, why you thought it was important for the public to see it as it was happening.
+Guest: Well, I think there's two factors. And one is that the painting is - it's very large. So you know, removing it from the galleries would also present a certain amount of risk. And the other thing is that it's not really possible at this time to say how long the research or the treatment will actually take. All in all, this is really the best possible scenario to actually treat it in the galleries, where it can be followed by the public. I think the public actually find it fascinating to look behind the scenes.
+Host: I'm sure you couldn't have imagined that the painting would have been attacked with a bread knife, and you're doing quite the operation here. So what are some of the challenges and obstacles that, you know, are making you guys nervous?
+Guest: The size of the painting certainly is a huge challenge. And because we're capturing so much data with a variety of imaging techniques, we're generating terabytes of data that, down the line, we'll be using computer analysis and artificial intelligence to actually interpret some of the data. So that is a sort of a goal down the line to actually figure out the best way to look at this kind of information.
+Host: So shoring up IT.
+Guest: That is certainly one of the goals. That doesn't mean to say that you still don't need the experts. In our Night Watch research team, we have experts of all different kinds - curators, art historians, conservators, scientists. You still need those experts, you know, for interpretation of the data. But I mean, you want to take away a lot of the manual work, a lot of the looking. And that's where artificial intelligence and computers will be very helpful.
+Host: Well, I'm sure Rembrandt couldn't imagine that. Right?
+Guest: (Laughter) I know. Exactly.
+Host: Petria Noble, thank you so much for speaking with us.
+Guest: It was a pleasure.
+Host: Petria Noble of the Rijksmuseum, she spoke to us about the restoration of Rembrandt's "The Night Watch."

@@ -1,0 +1,31 @@
+Host: A few decades ago when I visited Antarctica, I watched scientists drop huge steel fishing lines through the holes cut in the ice, trying to hook deep-swimming Antarctica cod, as they were called. And later in the evening, we would all feast on the fish smoked really under the midnight sun. And they were delicious. But the point of the ice-fishing expedition was not an evening snack. The scientists were draining the blood from the fish, studying how they were able to swim in sub-freezing water without freezing up themselves. And the answer, it was discovered, was that the fish had natural antifreeze in their bodies. Now we know it's not just chilly fish who can stay alive in amazingly cold temperatures. Grasses have it, snow, fleas, worms, beetles, beetles that can survive down 100 degrees below zero. How does the antifreeze evolve? How does it work? Peter Davies is Canada research chair in protein engineering at Queen's University in Kingston, Canada. Welcome to SCIENCE FRIDAY.
+Guest: Yes, hello Ira.
+Host: Tell us about some of the animals and plants that have these antifreeze proteins in them.
+Guest: Well as you've mentioned, they were initially found in fishes at both ends of the Earth, in the Arctic and Antarctic regions, and then in insects, plants and various microorganisms like algae and bacteria, fungi.
+Host: So how does it - let's look at the beetles because that was - the beetles were part of a paper published at the National Academy of Sciences this week.
+Guest: Right, right.
+Host: A hundred degrees below zero?
+Guest: Well, now are you working with Fahrenheit or Celsius?
+Host: Well, let's go Fahrenheit.
+Guest: No, I don't think they can go that cold.
+Host: We'll stick with Celsius then.
+Guest: We know they can go down to about minus-30, minus-30 Celsius.
+Host: And how are they protected from just freezing solid?
+Guest: Well, they have these antifreeze proteins, and as far as we know, what they do is bind to the surface of any seed ice crystal that might otherwise grow. And they stop it from growing because they've coated the ice with the protein.
+Host: Because it's the crystal, the actual, physical presence of the crystal that kills off the cells?
+Guest: Well yes, that ice crystal gets too big. It will definitely do serious damage to the organism, whether it be a fish or an insect. It will eventually kill it, yeah.
+Host: So the protein coats the ice crystal and sort of locks it up from freezing or becoming larger?
+Guest: Any larger, that's right, right. So you still have the ice crystal in the body of the insect, but it's essentially stopped from growing.
+Host: Where did you get these proteins from?
+Guest: Well, in this case they've come from a beetle. The people who did this paper, they used the fire-colored beetle, and we studied a similar beetle that's called the common yellow mealworm.
+Host: Would it be possible, then, to prevent let's say food damage if you could inject the proteins, from, you know, freezer burn or frostbite in people?
+Guest: Right, well certainly in terms of helping store frozen foods, this is actually being realized now. Unilever, which is a big company in Europe, who make frozen foods like ice cream for example, they have for some time now been putting the antifreeze proteins into especially low-fat ice cream. Now they don't call them antifreeze proteins because the public would, the consumers would be perhaps nervous about the idea of antifreeze being in food. So they actually call them ice structuring proteins.
+Host: And where do they come from?
+Guest: Well, the ones they've added to ice cream actually come from, originally from a fish. They're not extracted anymore from the fish. They're actually made by yeast in fermentation.
+Host: And what about let's say if you wanted to preserve body parts for transplantation or to keep other things cold or maybe even to prevent frostbite?
+Guest: Well certainly there's a lot of research going on on ways of storing cells, tissues and organs either in the frozen state or at very low temperatures without any ice damage, with a view to improving their opportunities for transplants and transfusions. So that's an ongoing area of research. You mentioned frostbite, and I do think that these proteins would be effective in stopping frostbite, but it's highly unlikely that you'd have these proteins ready on those rare occasions when somebody actually gets frostbitten. It might be something you would take with you on a dangerous expedition, if you're climbing Everest, or you're parachuting into the Arctic to - on a rescue mission. It might be something you'd want to take...
+Host: But it's not been tested yet, so don't try this at home.
+Guest: No, don't try this at home, but I do think it would be effective. These insect antifreeze proteins can certainly lower the temperature, freezing temperature by, oh, at least five degrees. So it would be very useful in that case.
+Host: Fascinating. Thank you very much, Dr. Davies.
+Guest: You're very welcome.
+Host: Peter Davies is the Canada research chair in protein engineering at Queen's University in Kingston, Canada.
