@@ -34,25 +34,63 @@ def kde_plot(npr_csv, qwen_csv, llama_csv, column, output_file):
 
 
 # mean anxiety
-# kde_plot('Data/NPR_anxiety_summary.csv',
-#          'Data/qwen30_anxiety_summary.csv',
-#          'Data/llama_anxiety_summary.csv',
-#          'MeanAnxiety',
-#          'kde_MeanAnxiety.png',)
-#
-# kde_plot('Data/NPR_anxiety_summary.csv',
-#          'Data/qwen30_anxiety_summary.csv',
-#          'Data/llama_anxiety_summary.csv',
-#          'StandardDeviation',
-#          'kde_StandardDeviation.png',)
-#
-#
-# # entropy
-# kde_plot('Data/NPR_entropy.csv',
-#          'Data/qwen_entropy.csv',
-#          'Data/llama_entropy.csv',
-#          'Entropy',
-#          'kde_Entropy.png',)
+kde_plot('Data/NPR_anxiety.csv',
+         'Data/qwen_anxiety.csv',
+         'Data/llama_anxiety.csv',
+         'Overall_Mean',
+         'Anxiety_mean_kde.png',)
+kde_plot('Data/NPR_anxiety.csv',
+         'Data/qwen_anxiety.csv',
+         'Data/llama_anxiety.csv',
+         'User_Mean',
+         'Anxiety_mean_USER_kde.png',)
+kde_plot('Data/NPR_anxiety.csv',
+         'Data/qwen_anxiety.csv',
+         'Data/llama_anxiety.csv',
+         'Asst_Mean',
+         'Anxiety_mean_ASST_kde.png',)
+
+kde_plot('Data/NPR_anxiety.csv',
+         'Data/qwen_anxiety.csv',
+         'Data/llama_anxiety.csv',
+         'StandardDeviation',
+         'Anxiety_StandardDeviation_kde.png',)
+
+
+# entropy
+kde_plot('Data/NPR_entropy.csv',
+         'Data/qwen_entropy.csv',
+         'Data/llama_entropy.csv',
+         'Entropy',
+         'Entropy_kde.png',)
+kde_plot('Data/NPR_entropy.csv',
+         'Data/qwen_entropy.csv',
+         'Data/llama_entropy.csv',
+         'User_Entropy',
+         'Entropy_User_kde.png',)
+kde_plot('Data/NPR_entropy.csv',
+         'Data/qwen_entropy.csv',
+         'Data/llama_entropy.csv',
+         'Assistant_Entropy',
+         'Entropy_Assistant_kde.png',)
+
+#distinct_1
+kde_plot('Data/NPR_distinct_n.csv',
+         'Data/qwen_distinct_n.csv',
+         'Data/llama_distinct_n.csv',
+         'Distinct_1',
+         'Distinct_kde.png',)
+kde_plot('Data/NPR_distinct_n.csv',
+         'Data/qwen_distinct_n.csv',
+         'Data/llama_distinct_n.csv',
+         'User_Distinct_1',
+         'Distinct_1User_kde.png',)
+kde_plot('Data/NPR_distinct_n.csv',
+         'Data/qwen_distinct_n.csv',
+         'Data/llama_distinct_n.csv',
+         'Assistant_Distinct_1',
+         'Distinct_1Assistant_kde.png',)
+
 
 
 

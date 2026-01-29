@@ -9,10 +9,11 @@ Analyzing the texts like transcripts/radio interviews for objective analytical o
 ```text
 WorryWords/
 ├── Data/
-│   ├── npr-transcripts/       # Source .txt files (episode-*.txt)
-│   ├── Llama-transcripts/      # AI-generated transcripts
-│   └── qwen30-transcripts/      # AI-generated transcripts
+│   ├── npr-transcripts/       # Radio interviews
+│   ├── Llama-transcripts/      # AI-generated intake transcripts
+│   └── qwen30-transcripts/      # AI-generated intake transcripts
 ├── Plots/                     # Generated histograms and KDE comparison charts
 ├── WorryWords/
 │   ├── worrywords-v1.txt      # The anxiety score reference dictionary
 └── Other python scripts for analysis           
+  

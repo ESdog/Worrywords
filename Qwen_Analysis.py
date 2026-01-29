@@ -26,8 +26,9 @@ with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
 
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
-                text = f.read()
+                full_text = f.read()
 
+            text = full_text.split('<STOP>')[0].strip()
             # Evaluate using your existing function
             results = anx.get_anxiety_distribution(text, word_scores)
 
