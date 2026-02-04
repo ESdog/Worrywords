@@ -1,6 +1,5 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
-import matplotlib.ticker as ticker  # For automatic tick management
 import pandas as pd
 
 def kde_plot(npr_csv, qwen_csv, llama_csv, column, output_file):
