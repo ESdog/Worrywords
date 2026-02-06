@@ -1,0 +1,310 @@
+Audio Transcription
+Generated: 2026-02-03 19:45:36
+Language: en
+Speakers detected: 4
+
+==================================================
+
+[00:00:09] SPEAKER_00: And I'm going to pull up the virtual human.
+[00:00:11] SPEAKER_00: She's going to chat with you for a bit.
+[00:00:12] SPEAKER_00: And then when she's done, she'll say goodbye.
+[00:00:14] SPEAKER_00: And I will put the doorbell over here so you can let me know when you're done.
+[00:00:18] SPEAKER_00: Okay?
+[00:00:18] SPEAKER_00: Okay.
+[00:00:19] SPEAKER_00: Thank you.
+[00:00:21] SPEAKER_00: Hi.
+[00:00:30] SPEAKER_00: I'm Ellie.
+[00:00:30] SPEAKER_00: Thanks for coming in today.
+[00:00:32] SPEAKER_00: I was created to talk to people in a safe and secure environment.
+[00:00:36] SPEAKER_00: I'm not a therapist, but I'm here to learn about people and would love to learn about you.
+[00:00:41] SPEAKER_00: I'll ask a few questions from the start.
+[00:00:43] SPEAKER_00: And please feel free to tell me anything.
+[00:00:46] SPEAKER_00: Your answers are totally confidential.
+[00:00:49] SPEAKER_00: Are you okay with this?
+[00:00:51] SPEAKER_02: Okay.
+[00:00:52] SPEAKER_02: So, how are you doing today?
+[00:00:55] SPEAKER_02: I'm okay.
+[00:00:56] SPEAKER_02: That's good.
+[00:00:57] SPEAKER_02: Where are you from originally?
+[00:01:00] SPEAKER_02: Born downtown Los Angeles.
+[00:01:02] SPEAKER_02: Really?
+[00:01:03] SPEAKER_02: What are some things you really like about LA?
+[00:01:06] SPEAKER_02: I love LA.
+[00:01:07] SPEAKER_02: I love the traffic on the 405.
+[00:01:09] SPEAKER_02: I love the beach.
+[00:01:10] SPEAKER_02: I live near the beach.
+[00:01:11] SPEAKER_02: I love...
+[00:01:12] SPEAKER_02: There's so much to do here.
+[00:01:13] SPEAKER_02: I just love...
+[00:01:14] SPEAKER_02: And I love the weather.
+[00:01:15] SPEAKER_02: I love it here.
+[00:01:17] SPEAKER_02: That's great.
+[00:01:18] SPEAKER_02: What are some things you don't really like about LA?
+[00:01:22] SPEAKER_02: Nothing.
+[00:01:25] SPEAKER_02: Okay.
+[00:01:26] SPEAKER_02: Do you travel a lot?
+[00:01:27] SPEAKER_02: A little bit.
+[00:01:30] SPEAKER_02: What do you enjoy about traveling?
+[00:01:33] SPEAKER_02: I guess visiting family and destinations.
+[00:01:38] SPEAKER_02: I'd love to hear about one of your trips.
+[00:01:42] SPEAKER_02: I last flew to Cedar Rapids to visit a friend and was there for a couple weeks.
+[00:01:49] SPEAKER_02: And I'm flying back February 11th to see him again.
+[00:01:53] SPEAKER_02: He's an old friend.
+[00:01:55] SPEAKER_02: And...
+[00:02:02] SPEAKER_02: No.
+[00:02:04] SPEAKER_02: Why?
+[00:02:06] SPEAKER_02: I'm pretty outgoing.
+[00:02:07] SPEAKER_02: I talk to people.
+[00:02:08] SPEAKER_02: I enjoy talking to people.
+[00:02:10] SPEAKER_02: I talk to people at the airport.
+[00:02:15] SPEAKER_02: What do you do for a living?
+[00:02:18] SPEAKER_02: I garden a little bit.
+[00:02:19] SPEAKER_02: I read a little bit.
+[00:02:20] SPEAKER_02: I watch TV.
+[00:02:21] SPEAKER_02: I'm a basketball fan.
+[00:02:23] SPEAKER_02: I go to the beach when the weather is nice.
+[00:02:26] SPEAKER_02: I go to the pool.
+[00:02:28] SPEAKER_02: Okay.
+[00:02:30] SPEAKER_02: What are some things that make you really mad?
+[00:02:35] SPEAKER_02: Annoying people, rude people, people that drive, that just have no consideration for others.
+[00:02:44] SPEAKER_02: What do you do when you're annoyed?
+[00:02:47] SPEAKER_02: I swear a lot.
+[00:02:51] SPEAKER_02: How are you at controlling your temper?
+[00:02:53] SPEAKER_02: Oh, I'm alright.
+[00:02:55] SPEAKER_02: I get mad once in a while.
+[00:02:57] SPEAKER_02: When was the last time you argued with someone?
+[00:03:00] SPEAKER_02: What was it about?
+[00:03:01] SPEAKER_02: Oh, it was probably my daughter.
+[00:03:02] SPEAKER_02: She's 21, almost 22.
+[00:03:04] SPEAKER_02: She probably...
+[00:03:05] SPEAKER_02: She lives at college but comes home on the weekends and she was probably...
+[00:03:10] SPEAKER_02: Her room was probably a mess.
+[00:03:11] SPEAKER_02: It's the same fight we've been having for years.
+[00:03:14] SPEAKER_02: Uh-oh.
+[00:03:15] SPEAKER_02: Does it stop?
+[00:03:16] SPEAKER_02: Yeah, it does.
+[00:03:18] SPEAKER_02: It's better now that we don't live together all the time, though.
+[00:03:21] SPEAKER_02: That's good.
+[00:03:23] SPEAKER_02: Do you find it easy to be a parent?
+[00:03:25] SPEAKER_02: No.
+[00:03:27] SPEAKER_02: What's the hardest thing about growing up?
+[00:03:29] SPEAKER_02: I don't know.
+[00:03:29] SPEAKER_02: 
+[00:03:29] SPEAKER_02: 
+[00:03:29] SPEAKER_02: I guess making the right decisions.
+[00:03:32] SPEAKER_02: Like, started out when she was little about education, the right school to go to, the
+[00:03:39] SPEAKER_02: right activities to do, setting a good example, being a good role model.
+[00:03:48] SPEAKER_02: What's the best thing about being a parent?
+[00:03:51] SPEAKER_02: Oh, everything.
+[00:03:53] SPEAKER_02: My kids are the greatest joy of my life.
+[00:03:56] SPEAKER_02: I love them so much.
+[00:03:58] SPEAKER_02: And you just get...
+[00:03:59] SPEAKER_02: I love them so much.
+[00:04:00] SPEAKER_02: I just feel like I'm so enriched and fulfilled by them.
+[00:04:03] SPEAKER_02: And when the kids are little, you see things through their eyes, which is exciting.
+[00:04:07] SPEAKER_02: You want to share everything with them.
+[00:04:11] SPEAKER_02: That's so good to hear.
+[00:04:14] SPEAKER_02: Tell me about your kids.
+[00:04:16] SPEAKER_02: I have an older son who's a financial analyst and then I have a daughter in college.
+[00:04:21] SPEAKER_02: She's a liberal studies major.
+[00:04:23] SPEAKER_02: She's going to be a teacher.
+[00:04:24] SPEAKER_02: Cool.
+[00:04:27] SPEAKER_02: What's your study at school?
+[00:04:28] SPEAKER_02: A business.
+[00:04:29] SPEAKER_02: Oh, business?
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:29] SPEAKER_02: 
+[00:04:30] SPEAKER_02: My daughter's going to be a financial advisor.
+[00:04:31] SPEAKER_02: 
+[00:04:31] SPEAKER_02: 
+[00:04:31] SPEAKER_02: Are you still working in that?
+[00:04:32] SPEAKER_02: Yes.
+[00:04:33] SPEAKER_02: What do you do now?
+[00:04:35] SPEAKER_02: I'm an office manager.
+[00:04:37] SPEAKER_02: What's your dream job?
+[00:04:43] SPEAKER_02: My dream job, wow, that's hard.
+[00:04:48] SPEAKER_02: I don't know.
+[00:04:49] SPEAKER_02: I like my job.
+[00:04:50] SPEAKER_02: It's good.
+[00:04:51] SPEAKER_02: I like the people.
+[00:04:52] SPEAKER_02: I enjoy it.
+[00:04:53] SPEAKER_02: It's fun.
+[00:04:54] SPEAKER_02: It's good.
+[00:04:56] SPEAKER_02: When do you think it's going to be, the kids?
+[00:04:59] SPEAKER_02: My son?
+[00:04:59] SPEAKER_02: 
+[00:04:59] SPEAKER_02: 
+[00:04:59] SPEAKER_02: My son told me they're called the teacup generation because they're fragile.
+[00:05:03] SPEAKER_02: And I think they're pains in the asses, most of them.
+[00:05:09] SPEAKER_02: Yeah, I see what you mean.
+[00:05:11] SPEAKER_02: Yeah.
+[00:05:14] SPEAKER_02: When was the last time you felt really happy?
+[00:05:18] SPEAKER_02: Not for a while.
+[00:05:19] SPEAKER_02: Maybe a month ago.
+[00:05:22] SPEAKER_02: Can you tell me about that?
+[00:05:25] SPEAKER_02: I have a new boyfriend and things were going really great and now they're just going.
+[00:05:33] SPEAKER_02: It was great and now it's just okay.
+[00:05:37] SPEAKER_02: I guess the newness wore off.
+[00:05:42] SPEAKER_02: How hard is that?
+[00:05:44] SPEAKER_02: It's hard. It's hard.
+[00:05:47] SPEAKER_02: And I don't really...
+[00:05:48] SPEAKER_02: How do you know them?
+[00:05:49] SPEAKER_02: I'm sorry?
+[00:05:50] SPEAKER_02: How do you know them?
+[00:05:52] SPEAKER_02: I don't know them.
+[00:05:53] SPEAKER_02: How do I know them?
+[00:05:56] SPEAKER_02: I don't know what you mean by them.
+[00:06:00] SPEAKER_02: Let's come back to that later.
+[00:06:01] SPEAKER_02: Okay.
+[00:06:04] SPEAKER_02: Have you ever served in the military?
+[00:06:06] SPEAKER_02: No.
+[00:06:07] SPEAKER_02: Have you ever been diagnosed with PTSD?
+[00:06:09] SPEAKER_02: No.
+[00:06:10] SPEAKER_02: Have you been diagnosed with depression?
+[00:06:12] SPEAKER_02: Yes.
+[00:06:13] SPEAKER_02: How long ago were you diagnosed?
+[00:06:15] SPEAKER_02: Oh, I don't know. A year or so.
+[00:06:17] SPEAKER_02: What got you into the health?
+[00:06:19] SPEAKER_02: I just didn't feel well.
+[00:06:21] SPEAKER_02: I just couldn't...
+[00:06:22] SPEAKER_02: I just didn't feel right.
+[00:06:23] SPEAKER_02: I couldn't pull myself out of it.
+[00:06:25] SPEAKER_02: Did you think you had a problem before you found out?
+[00:06:28] SPEAKER_02: Yeah.
+[00:06:30] SPEAKER_02: What were your symptoms?
+[00:06:31] SPEAKER_02: Oh, just sad and just lack of energy and didn't really...
+[00:06:35] SPEAKER_02: wasn't really motivated, didn't really...
+[00:06:37] SPEAKER_02: wasn't really my happy self.
+[00:06:39] SPEAKER_02: Mm-hmm.
+[00:06:42] SPEAKER_02: Do you feel like therapy's useful?
+[00:06:45] SPEAKER_02: Therapy? Yes.
+[00:06:47] SPEAKER_02: Do you still go to therapy now?
+[00:06:49] SPEAKER_02: I do.
+[00:06:50] SPEAKER_02: What sort of changes have you noticed
+[00:06:52] SPEAKER_02: since you've been going to therapy?
+[00:06:54] SPEAKER_02: Well, not that many.
+[00:06:55] SPEAKER_02: I still don't feel that great, but I just...
+[00:06:58] SPEAKER_02: It's good to talk to someone and tell them how you feel.
+[00:07:02] SPEAKER_02: Yeah.
+[00:07:02] SPEAKER_02: Even if it's just to get something off your chest.
+[00:07:05] SPEAKER_02: How have you been feeling lately?
+[00:07:08] SPEAKER_02: Tired, sad, depressed, blue.
+[00:07:15] SPEAKER_02: Have you noticed any changes in your behavior or thoughts lately?
+[00:07:19] SPEAKER_02: No.
+[00:07:20] SPEAKER_02: I'm just not happy.
+[00:07:21] SPEAKER_02: I don't feel good and I'm not happy.
+[00:07:26] SPEAKER_02: How do you cope with that?
+[00:07:29] SPEAKER_02: I don't just stay to myself, don't go out with friends as much as I used to.
+[00:07:36] SPEAKER_02: That sounds really hard.
+[00:07:38] SPEAKER_02: It's very hard.
+[00:07:40] SPEAKER_02: How easy is it for you to get a good night's sleep?
+[00:07:42] SPEAKER_02: Terrible. I don't sleep.
+[00:07:45] SPEAKER_02: I'm sorry.
+[00:07:46] SPEAKER_02: Thank you.
+[00:07:47] SPEAKER_02: What are you like when you don't sleep well?
+[00:07:50] SPEAKER_02: Oh, crazy, distracted.
+[00:07:51] SPEAKER_02: Just, it's hard for me to cope with things.
+[00:07:56] SPEAKER_02: Easy, you know, mundane things are just difficult.
+[00:08:01] SPEAKER_02: I see what you mean.
+[00:08:06] SPEAKER_02: What are some things that usually put you in a good mood?
+[00:08:10] SPEAKER_02: Well, being around my kids is fun.
+[00:08:14] SPEAKER_02: What about something you did recently that you really enjoy?
+[00:08:18] SPEAKER_02: Oh, we went out to...
+[00:08:19] SPEAKER_02: My son and daughter...
+[00:08:21] SPEAKER_02: My daughter-in-law and my daughter and I went out to have Hawaiian food.
+[00:08:25] SPEAKER_02: We got together.
+[00:08:26] SPEAKER_02: It's always fun to get together.
+[00:08:28] SPEAKER_02: We got together at my house on Christmas.
+[00:08:29] SPEAKER_02: I enjoy just getting together with them.
+[00:08:32] SPEAKER_02: Awesome.
+[00:08:34] SPEAKER_02: Is there anything you regret?
+[00:08:36] SPEAKER_02: No.
+[00:08:37] SPEAKER_02: What advice would you give yourself 10 or 20 years ago?
+[00:08:42] SPEAKER_02: I'll take better care of my health, I guess.
+[00:08:45] SPEAKER_02: Have you done anything to avoid it?
+[00:08:50] SPEAKER_02: Um...
+[00:08:52] SPEAKER_02: I don't know.
+[00:08:53] SPEAKER_02: I don't know.
+[00:08:55] SPEAKER_02: Okay.
+[00:08:56] SPEAKER_02: Who's someone that's been a positive influence in your life?
+[00:09:00] SPEAKER_02: Well, my daughter's pretty positive and upbeat.
+[00:09:06] SPEAKER_02: My parents, they're both gone, but they were pretty positive.
+[00:09:12] SPEAKER_02: What's one of your most memorable experiences?
+[00:09:18] SPEAKER_02: I suppose going on a trip to Canada with my daughter was very memorable.
+[00:09:26] SPEAKER_02: Can you tell me about that?
+[00:09:28] SPEAKER_02: We flew to Detroit where I have...
+[00:09:31] SPEAKER_02: My best friend lives there, and then we stayed with her.
+[00:09:34] SPEAKER_02: Then we went from...
+[00:09:35] SPEAKER_02: We drove from Detroit to...
+[00:09:37] SPEAKER_02: Through Canada, Niagara Falls, and we went to Buffalo where she's from.
+[00:09:43] SPEAKER_02: And we went to the...
+[00:09:44] SPEAKER_02: 
+[00:09:44] SPEAKER_02: 
+[00:09:44] SPEAKER_02: 
+[00:09:44] SPEAKER_02: 
+[00:09:44] SPEAKER_02: And she has three girls, and my daughter was, I think, I don't know, third, fourth
+[00:09:48] SPEAKER_02: grade, something like that.
+[00:09:49] SPEAKER_02: It was just fun for all of us to get together and do things.
+[00:09:53] SPEAKER_02: That sounds like a great situation.
+[00:09:57] SPEAKER_02: Yeah.
+[00:09:57] SPEAKER_02: Who's your best friend in grad year?
+[00:10:02] SPEAKER_02: Exactly like her.
+[00:10:03] SPEAKER_02: We're outgoing, we're outspoken, we tell it like it is.
+[00:10:09] SPEAKER_02: We're high energy people.
+[00:10:11] SPEAKER_02: We have a lot of anxiety.
+[00:10:14] SPEAKER_02: We like to do a lot of the same things.
+[00:10:17] SPEAKER_02: Okay.
+[00:10:18] SPEAKER_02: When was the last time you felt really happy?
+[00:10:22] SPEAKER_02: I don't know.
+[00:10:23] SPEAKER_02: About three or four weeks ago.
+[00:10:27] SPEAKER_02: Tell me more about that.
+[00:10:28] SPEAKER_02: Well, I say that my feeling is attributed to weather.
+[00:10:33] SPEAKER_02: I don't like cold weather, and I'm not comfortable at all in it.
+[00:10:37] SPEAKER_02: And whenever the weather changes, I sort of get down.
+[00:10:42] SPEAKER_02: Uh-huh.
+[00:10:46] SPEAKER_02: What would you say are some of your best qualities?
+[00:10:49] SPEAKER_02: Well, I'm funny.
+[00:10:52] SPEAKER_02: I'm hardworking.
+[00:10:54] SPEAKER_02: I care about everyone.
+[00:10:58] SPEAKER_02: I'm a very kind, compassionate person.
+[00:11:00] SPEAKER_02: I have sympathy for everyone.
+[00:11:03] SPEAKER_02: And I'll reach out to someone that I see in a store or anywhere that needs my help.
+[00:11:09] SPEAKER_02: That's good.
+[00:11:12] SPEAKER_02: What are you most proud of in your life?
+[00:11:14] SPEAKER_02: I suppose raising my kids and the good people they've turned out to be.
+[00:11:21] SPEAKER_02: That's great.
+[00:11:27] SPEAKER_02: Okay.
+[00:11:27] SPEAKER_02: I think I've asked everything I need to.
+[00:11:30] SPEAKER_02: Thanks for sharing your thoughts with me.
+[00:11:32] SPEAKER_02: Sure.
+[00:11:33] SPEAKER_02: Goodbye.
+[00:11:33] SPEAKER_02: Bye.
+[00:11:35] SPEAKER_03: Bye.
+[00:11:37] SPEAKER_03: Bye.
+[00:11:38] SPEAKER_03: Bye.
+[00:11:38] SPEAKER_03: 
+[00:11:40] SPEAKER_03: Bye.
+[00:11:41] SPEAKER_03: Bye.
+[00:11:42] SPEAKER_03: Bye.
+[00:11:43] SPEAKER_03: Bye.
+[00:11:44] SPEAKER_03: 
+[00:11:44] SPEAKER_03: 
+[00:11:44] SPEAKER_03: 
+[00:11:44] SPEAKER_03: 
+[00:11:44] SPEAKER_03: 
+[00:11:48] SPEAKER_03: Bye.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ And I'm going to pull up the virtual human. She's going to chat with you for a bit. And then when she's done, she'll say goodbye. And I will put the doorbell over here so you can let me know when you're done. Okay? Okay. Thank you. Hi. I'm Ellie. Thanks for coming in today. I was created to talk to people in a safe and secure environment. I'm not a therapist, but I'm here to learn about people and would love to learn about you. I'll ask a few questions from the start. And please feel free to tell me anything. Your answers are totally confidential. Are you okay with this? Okay. So, how are you doing today? I'm okay. That's good. Where are you from originally? Born downtown Los Angeles. Really? What are some things you really like about LA? I love LA. I love the traffic on the 405. I love the beach. I live near the beach. I love... There's so much to do here. I just love... And I love the weather. I love it here. That's great. What are some things you don't really like about LA? Nothing. Okay. Do you travel a lot? A little bit. What do you enjoy about traveling? I guess visiting family and destinations. I'd love to hear about one of your trips. I last flew to Cedar Rapids to visit a friend and was there for a couple weeks. And I'm flying back February 11th to see him again. He's an old friend. And... No. Why? I'm pretty outgoing. I talk to people. I enjoy talking to people. I talk to people at the airport. What do you do for a living? I garden a little bit. I read a little bit. I watch TV. I'm a basketball fan. I go to the beach when the weather is nice. I go to the pool. Okay. What are some things that make you really mad? Annoying people, rude people, people that drive, that just have no consideration for others. What do you do when you're annoyed? I swear a lot. How are you at controlling your temper? Oh, I'm alright. I get mad once in a while. When was the last time you argued with someone? What was it about? Oh, it was probably my daughter. She's 21, almost 22. She probably... She lives at college but comes home on the weekends and she was probably... Her room was probably a mess. It's the same fight we've been having for years. Uh-oh. Does it stop? Yeah, it does. It's better now that we don't live together all the time, though. That's good. Do you find it easy to be a parent? No. What's the hardest thing about growing up? I don't know. I guess making the right decisions. Like, started out when she was little about education, the right school to go to, the right activities to do, setting a good example, being a good role model. What's the best thing about being a parent? Oh, everything. My kids are the greatest joy of my life. I love them so much. And you just get... I love them so much. I just feel like I'm so enriched and fulfilled by them. And when the kids are little, you see things through their eyes, which is exciting. You want to share everything with them. That's so good to hear. Tell me about your kids. I have an older son who's a financial analyst and then I have a daughter in college. She's a liberal studies major. She's going to be a teacher. Cool. What's your study at school? A business. Oh, business? My daughter's going to be a financial advisor. Are you still working in that? Yes. What do you do now? I'm an office manager. What's your dream job? My dream job, wow, that's hard. I don't know. I like my job. It's good. I like the people. I enjoy it. It's fun. It's good. When do you think it's going to be, the kids? My son? My son told me they're called the teacup generation because they're fragile. And I think they're pains in the asses, most of them. Yeah, I see what you mean. Yeah. When was the last time you felt really happy? Not for a while. Maybe a month ago. Can you tell me about that? I have a new boyfriend and things were going really great and now they're just going. It was great and now it's just okay. I guess the newness wore off. How hard is that? It's hard. It's hard. And I don't really... How do you know them? I'm sorry? How do you know them? I don't know them. How do I know them? I don't know what you mean by them. Let's come back to that later. Okay. Have you ever served in the military? No. Have you ever been diagnosed with PTSD? No. Have you been diagnosed with depression? Yes. How long ago were you diagnosed? Oh, I don't know. A year or so. What got you into the health? I just didn't feel well. I just couldn't... I just didn't feel right. I couldn't pull myself out of it. Did you think you had a problem before you found out? Yeah. What were your symptoms? Oh, just sad and just lack of energy and didn't really... wasn't really motivated, didn't really... wasn't really my happy self. Mm-hmm. Do you feel like therapy's useful? Therapy? Yes. Do you still go to therapy now? I do. What sort of changes have you noticed since you've been going to therapy? Well, not that many. I still don't feel that great, but I just... It's good to talk to someone and tell them how you feel. Yeah. Even if it's just to get something off your chest. How have you been feeling lately? Tired, sad, depressed, blue. Have you noticed any changes in your behavior or thoughts lately? No. I'm just not happy. I don't feel good and I'm not happy. How do you cope with that? I don't just stay to myself, don't go out with friends as much as I used to. That sounds really hard. It's very hard. How easy is it for you to get a good night's sleep? Terrible. I don't sleep. I'm sorry. Thank you. What are you like when you don't sleep well? Oh, crazy, distracted. Just, it's hard for me to cope with things. Easy, you know, mundane things are just difficult. I see what you mean. What are some things that usually put you in a good mood? Well, being around my kids is fun. What about something you did recently that you really enjoy? Oh, we went out to... My son and daughter... My daughter-in-law and my daughter and I went out to have Hawaiian food. We got together. It's always fun to get together. We got together at my house on Christmas. I enjoy just getting together with them. Awesome. Is there anything you regret? No. What advice would you give yourself 10 or 20 years ago? I'll take better care of my health, I guess. Have you done anything to avoid it? Um... I don't know. I don't know. Okay. Who's someone that's been a positive influence in your life? Well, my daughter's pretty positive and upbeat. My parents, they're both gone, but they were pretty positive. What's one of your most memorable experiences? I suppose going on a trip to Canada with my daughter was very memorable. Can you tell me about that? We flew to Detroit where I have... My best friend lives there, and then we stayed with her. Then we went from... We drove from Detroit to... Through Canada, Niagara Falls, and we went to Buffalo where she's from. And we went to the... And she has three girls, and my daughter was, I think, I don't know, third, fourth grade, something like that. It was just fun for all of us to get together and do things. That sounds like a great situation. Yeah. Who's your best friend in grad year? Exactly like her. We're outgoing, we're outspoken, we tell it like it is. We're high energy people. We have a lot of anxiety. We like to do a lot of the same things. Okay. When was the last time you felt really happy? I don't know. About three or four weeks ago. Tell me more about that. Well, I say that my feeling is attributed to weather. I don't like cold weather, and I'm not comfortable at all in it. And whenever the weather changes, I sort of get down. Uh-huh. What would you say are some of your best qualities? Well, I'm funny. I'm hardworking. I care about everyone. I'm a very kind, compassionate person. I have sympathy for everyone. And I'll reach out to someone that I see in a store or anywhere that needs my help. That's good. What are you most proud of in your life? I suppose raising my kids and the good people they've turned out to be. That's great. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Sure. Goodbye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye.

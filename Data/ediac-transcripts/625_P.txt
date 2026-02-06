@@ -1,0 +1,361 @@
+Audio Transcription
+Generated: 2026-02-06 11:24:06
+Language: en
+Speakers detected: 5
+
+==================================================
+
+[00:00:00] SPEAKER_03: No, you're fine. Don't worry. You should just...however.
+[00:00:03] SPEAKER_03: I just wear them to see, so...
+[00:00:05] SPEAKER_03: Oh yeah, it's really fun.
+[00:00:08] SPEAKER_03: I just love to check.
+[00:00:10] SPEAKER_03: This isn't a part of your college thesis or anything, is it?
+[00:00:12] SPEAKER_03: No, this is not mine. I'm just here to get a research experience.
+[00:00:17] SPEAKER_03: Oh, okay.
+[00:00:18] SPEAKER_03: Yeah.
+[00:00:21] SPEAKER_03: So I'm gonna bring up the virtual human for a second,
+[00:00:25] SPEAKER_03: and then shrink her back down.
+[00:00:31] SPEAKER_03: No, this isn't part of my post-hoc thesis.
+[00:00:33] SPEAKER_03: I kind of wish. That would be really cool.
+[00:00:35] SPEAKER_03: Hmm.
+[00:00:37] SPEAKER_03: What's your study?
+[00:00:41] SPEAKER_03: Um, I...like my personal study?
+[00:00:43] SPEAKER_03: I am not doing study yet, because I just finished my second year, so...
+[00:00:48] SPEAKER_03: So you're a sophomore?
+[00:00:51] SPEAKER_03: Yeah. I'm gonna be at Bard.
+[00:00:53] SPEAKER_03: Oh, Bard.
+[00:00:54] SPEAKER_03: Yeah.
+[00:00:56] SPEAKER_03: So I don't know yet what I want to do.
+[00:01:01] SPEAKER_03: So this is your first California visit, then?
+[00:01:03] SPEAKER_03: Yeah.
+[00:01:03] SPEAKER_03: I know you're digging it.
+[00:01:04] SPEAKER_02: Yeah. Actually, the weather's awesome.
+[00:01:07] SPEAKER_02: Oh, it's very beautiful.
+[00:01:08] SPEAKER_02: Yeah. Okay, um, if you guys could just let me know.
+[00:01:11] SPEAKER_02: Sure.
+[00:01:12] SPEAKER_02: Um, it goes around your ears like this.
+[00:01:14] SPEAKER_02: Okay.
+[00:01:14] SPEAKER_02: Yeah.
+[00:01:17] SPEAKER_02: You got a big head.
+[00:01:19] SPEAKER_02: Just like so, right?
+[00:01:21] SPEAKER_02: Yeah.
+[00:01:23] SPEAKER_02: Okay.
+[00:01:24] SPEAKER_02: Okay.
+[00:01:25] SPEAKER_02: All right.
+[00:01:25] SPEAKER_02: This should be okay.
+[00:01:27] SPEAKER_02: Oh.
+[00:01:27] SPEAKER_02: Otherwise, I won't work.
+[00:01:28] SPEAKER_02: Oh, okay.
+[00:01:29] SPEAKER_02: For some reason. I don't know why.
+[00:01:30] SPEAKER_02: Okay.
+[00:01:33] SPEAKER_02: Um, I'm gonna bring it back up.
+[00:01:39] SPEAKER_03: I'm gonna start the recording.
+[00:01:41] SPEAKER_03: Okay.
+[00:01:47] SPEAKER_03: Virtual check.
+[00:01:49] SPEAKER_03: Yup.
+[00:02:02] SPEAKER_03: Okay.
+[00:02:03] SPEAKER_03: So she's gonna ask you a series of questions, and then, yeah, you just answer, and then
+[00:02:07] SPEAKER_03: when she's done, she should say goodbye.
+[00:02:09] SPEAKER_03: Okay.
+[00:02:09] SPEAKER_03: Um, but if she stops for more than, uh, 10 to 15 seconds, something may have stopped
+[00:02:14] SPEAKER_03: working, and so just press the button.
+[00:02:16] SPEAKER_03: You got it.
+[00:02:16] SPEAKER_03: Yeah.
+[00:02:16] SPEAKER_03: And when she's done, press the button.
+[00:02:18] SPEAKER_03: Okay.
+[00:02:18] SPEAKER_03: Um, and she cannot answer any questions at this moment.
+[00:02:20] SPEAKER_03: Okay.
+[00:02:21] SPEAKER_03: Okay.
+[00:02:21] SPEAKER_03: Okay.
+[00:02:22] SPEAKER_03: I'm sorry.
+[00:02:26] SPEAKER_03: Hi.
+[00:02:27] SPEAKER_03: I'm Ellie.
+[00:02:28] SPEAKER_03: Thanks for coming in today.
+[00:02:30] SPEAKER_03: I was created to talk to people in a city and secure environment.
+[00:02:34] SPEAKER_04: I'm not a therapist, but I'm here to learn about people and would love to learn about
+[00:02:38] SPEAKER_04: you.
+[00:02:38] SPEAKER_04: I'll ask a few questions to get it started.
+[00:02:41] SPEAKER_04: And please feel free to talk to anything.
+[00:02:43] SPEAKER_04: Your answers are totally confidential.
+[00:02:49] SPEAKER_00: Are you okay with that?
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: 
+[00:02:51] SPEAKER_00: Yes.
+[00:02:55] SPEAKER_00: Okay.
+[00:02:58] SPEAKER_00: So, how are you doing today?
+[00:03:01] SPEAKER_00: I'm feeling pretty good.
+[00:03:06] SPEAKER_00: That's great.
+[00:03:10] SPEAKER_00: Where are you from originally?
+[00:03:12] SPEAKER_00: Montgomery, Alabama.
+[00:03:16] SPEAKER_00: Okay.
+[00:03:17] SPEAKER_00: 
+[00:03:17] SPEAKER_00: Thank you.
+[00:03:20] SPEAKER_01: Thank you.
+[00:03:20] SPEAKER_01: Thank you.
+[00:03:20] SPEAKER_01: 
+[00:03:20] SPEAKER_01: 
+[00:03:20] SPEAKER_01: 
+[00:03:20] SPEAKER_01: 
+[00:03:20] SPEAKER_01: 
+[00:03:20] SPEAKER_01: 
+[00:03:20] SPEAKER_01: 
+[00:03:20] SPEAKER_01: 
+[00:03:20] SPEAKER_01: 
+[00:03:20] SPEAKER_01: 
+[00:03:27] SPEAKER_01: 精Next.com
+[00:03:27] SPEAKER_01: wir are here to share some part of your story.
+[00:03:28] SPEAKER_01: 
+[00:03:28] SPEAKER_01: 
+[00:03:28] SPEAKER_01: 
+[00:03:28] SPEAKER_01: Ray Levesque What are some of the things you really
+[00:03:28] SPEAKER_01: like about LA?
+[00:03:30] SPEAKER_01: Ray Levesque Um, a lot of the sites.
+[00:03:37] SPEAKER_00: Amusement parks.
+[00:03:38] SPEAKER_00: A lot of different places to go with my children.
+[00:03:41] SPEAKER_00: province of video about LA.
+[00:03:41] SPEAKER_00: Um, it's a big city.
+[00:03:45] SPEAKER_00: A lot of stars live here.
+[00:03:47] SPEAKER_00: It's a really, it's a it's a cool place.
+[00:03:50] SPEAKER_00: But, you know, you, you are your own little thing along the way.
+[00:03:51] SPEAKER_00: 
+[00:03:53] SPEAKER_00: Do you travel a lot?
+[00:03:55] SPEAKER_00: No, not anymore. I used to, but no, not lately in the last few years, no.
+[00:04:04] SPEAKER_00: What's one of your most memorable experiences?
+[00:04:08] SPEAKER_00: Working on a movie set and getting to meet one of my favorite actors.
+[00:04:12] SPEAKER_00: And also when I was in the military, being able to travel in Europe and a lot of places I thought I'd never be able to see.
+[00:04:27] SPEAKER_00: What did you study at school?
+[00:04:29] SPEAKER_00: My major was business administration. My minor was history.
+[00:04:37] SPEAKER_00: What do you do now?
+[00:04:39] SPEAKER_00: Actually right now, I work in the military.
+[00:04:42] SPEAKER_00: 
+[00:04:42] SPEAKER_00: I work part-time. I don't actually have a steady job, but I do some work with family members on home improvements.
+[00:04:51] SPEAKER_00: But primarily I'm disabled, so I don't get a chance to work very often at a regular job.
+[00:05:05] SPEAKER_00: What's your dream job?
+[00:05:07] SPEAKER_00: Oh, probably to work in some type of entertainment, film, music.
+[00:05:11] SPEAKER_00: That's my dream job.
+[00:05:12] SPEAKER_00: That's probably been my dream for years and years.
+[00:05:15] SPEAKER_00: I've kind of dabbled in it a little bit, but never really made a foothold in that industry.
+[00:05:28] SPEAKER_00: Do you consider yourself more shy or outgoing?
+[00:05:32] SPEAKER_00: I'd say outgoing.
+[00:05:36] SPEAKER_00: Why?
+[00:05:38] SPEAKER_00: I just love people. I always have been a people person.
+[00:05:42] SPEAKER_00: I like to talk to people.
+[00:05:44] SPEAKER_00: I probably don't talk to people as much as I used to since I've got this missing tooth in my smile,
+[00:05:52] SPEAKER_00: so it kind of takes away from me being as outgoing as I used to be.
+[00:05:59] SPEAKER_00: Tell me about your relationship with your family.
+[00:06:02] SPEAKER_00: It's pretty good. I have three children.
+[00:06:06] SPEAKER_00: I have two mom, baby moms, meaning I have two mothers of my kids.
+[00:06:12] SPEAKER_00: But primarily my mom and I are pretty close.
+[00:06:18] SPEAKER_00: But I have a very large family, but we really don't interact that much.
+[00:06:26] SPEAKER_00: Sometimes when I'm feeling tense, I turn on the Fishtip screensaver.
+[00:06:31] SPEAKER_00: Hey, I know it's not Hawaii, but it's the best I've got.
+[00:06:36] SPEAKER_00: What do you do to relax?
+[00:06:38] SPEAKER_00: Play video games.
+[00:06:39] SPEAKER_00: Sometimes write, read.
+[00:06:43] SPEAKER_00: I wish I could get enough get up and go to write a screenplay.
+[00:06:47] SPEAKER_00: I've always been wanting to write.
+[00:06:48] SPEAKER_00: And you never know what may happen with that.
+[00:06:51] SPEAKER_00: But if I ever get some get up and go, I'll write something.
+[00:06:54] SPEAKER_00: But that's primarily what I do.
+[00:07:01] SPEAKER_00: How are you at controlling your temper?
+[00:07:06] SPEAKER_00: Pretty good.
+[00:07:06] SPEAKER_00: I haven't done anything crazy or nothing in my life, I guess.
+[00:07:11] SPEAKER_00: But I do have a tendency to have a little bad temper.
+[00:07:21] SPEAKER_00: When was the last time you argued with someone?
+[00:07:23] SPEAKER_00: What was it about?
+[00:07:26] SPEAKER_00: This was recently.
+[00:07:28] SPEAKER_00: I argued with a friend over something very silly.
+[00:07:30] SPEAKER_00: It was a sports question, something about sports.
+[00:07:34] SPEAKER_00: And then, you know, over the years, my family, you know, they've been arguing.
+[00:07:39] SPEAKER_00: Obviously the mother and the son had a similar temperament.
+[00:07:42] SPEAKER_00: And so I thought maybe COVID had only their impact,
+[00:07:46] SPEAKER_00: 
+[00:07:46] SPEAKER_00: 
+[00:07:46] SPEAKER_00: But I tried to stay away from that issue
+[00:07:48] SPEAKER_00: I've been in the last 25 years of seriously enthusiastic being mooing.
+[00:07:53] SPEAKER_00: 
+[00:07:56] SPEAKER_00: Sometimes it's just uh, all kinds of stuff that happened.
+[00:07:59] SPEAKER_00: TV, I've sometimes seen likelr playсти
+[00:08:02] SPEAKER_00: or, you know, just from social media where I talk to a friend
+[00:08:03] SPEAKER_00: and get up quickly and also just talk at that.
+[00:08:04] SPEAKER_00: I've been bashing people.
+[00:08:06] SPEAKER_00: by a very affluent lawyer in Los Angeles.
+[00:08:12] SPEAKER_00: The only reason I'm mentioning his name
+[00:08:14] SPEAKER_00: because he's a very prominent lawyer
+[00:08:16] SPEAKER_00: not only in California but this country.
+[00:08:19] SPEAKER_00: And I lost a job there getting into an argument
+[00:08:23] SPEAKER_00: with the manager of the restaurant.
+[00:08:26] SPEAKER_00: But in actuality, the owners,
+[00:08:28] SPEAKER_00: one of his partners, were very, very kind
+[00:08:33] SPEAKER_00: and they really liked me a lot.
+[00:08:34] SPEAKER_00: And I shouldn't have never let that situation get to that point.
+[00:08:41] SPEAKER_00: All right.
+[00:08:46] SPEAKER_00: What's something you feel guilty about?
+[00:08:50] SPEAKER_00: Hmm.
+[00:08:52] SPEAKER_00: I think probably not spending more time with my children
+[00:08:58] SPEAKER_00: or actually spending time with my oldest daughter
+[00:09:02] SPEAKER_00: who lives in Maryland.
+[00:09:04] SPEAKER_00: I think.
+[00:09:04] SPEAKER_00: 
+[00:09:04] SPEAKER_00: 
+[00:09:04] SPEAKER_00: I feel guilty for not having been more of a success in my life,
+[00:09:10] SPEAKER_00: not having as much drive and determination as I should have.
+[00:09:13] SPEAKER_00: That's probably my biggest regret
+[00:09:15] SPEAKER_00: or what I feel is guilty about.
+[00:09:22] SPEAKER_00: Tell me about the hardest decision you've ever had to make.
+[00:09:27] SPEAKER_00: Hmm.
+[00:09:28] SPEAKER_00: Probably the hardest decision I've ever had to make
+[00:09:31] SPEAKER_00: was to join the military.
+[00:09:35] SPEAKER_00: I had heard a lot of bad things about it.
+[00:09:37] SPEAKER_00: I had heard good things about it.
+[00:09:38] SPEAKER_00: But at that particular time in my life,
+[00:09:41] SPEAKER_00: I had a, you know, a fork in the road
+[00:09:44] SPEAKER_00: and I had to choose whether to go left or right.
+[00:09:46] SPEAKER_00: And I chose to go left and join the Army.
+[00:09:49] SPEAKER_00: Turned out it wasn't that bad of a decision.
+[00:09:55] SPEAKER_00: All right.
+[00:09:59] SPEAKER_00: Tell me about an event or something that you wish you could erase from your memory.
+[00:10:07] SPEAKER_00: What do you remember most about your life?
+[00:10:08] SPEAKER_00: I haven't been arrested years and years ago.
+[00:10:14] SPEAKER_00: It's 20 years to be exact.
+[00:10:16] SPEAKER_00: And it hasn't really affected me employment-wise or anything like that.
+[00:10:21] SPEAKER_00: But it was on my record.
+[00:10:23] SPEAKER_00: And it was something that should have been avoided.
+[00:10:26] SPEAKER_00: But it happened.
+[00:10:27] SPEAKER_00: And I just wish I could take that one back.
+[00:10:37] SPEAKER_00: Have you ever served in the military?
+[00:10:39] SPEAKER_00: Yes.
+[00:10:43] SPEAKER_00: How old were you when you joined the military?
+[00:10:46] SPEAKER_00: 20 or 21 years old.
+[00:10:50] SPEAKER_00: Why did you decide to join the military?
+[00:10:54] SPEAKER_00: Well, three reasons.
+[00:10:55] SPEAKER_00: One, I needed a change in my life.
+[00:10:58] SPEAKER_00: Two, I had some personal things going on.
+[00:11:02] SPEAKER_00: And I felt it was time to, like, you know,
+[00:11:04] SPEAKER_00: just take an adventure and try something different.
+[00:11:07] SPEAKER_00: And I just wasn't really happy in my college experience.
+[00:11:11] SPEAKER_00: So I thought I'd try it.
+[00:11:17] SPEAKER_00: Are you happy you did that?
+[00:11:19] SPEAKER_00: Yes.
+[00:11:27] SPEAKER_00: Did you ever see combat?
+[00:11:30] SPEAKER_00: No, but I came close.
+[00:11:31] SPEAKER_00: I worked.
+[00:11:34] SPEAKER_00: I was in the military when the Russians were still prevalent in Eastern Europe.
+[00:11:42] SPEAKER_00: And we did some border duty between East and West Germany.
+[00:11:47] SPEAKER_00: And there were a few incidences on the border that could have gotten out of hand, but never did.
+[00:11:56] SPEAKER_00: I'm sorry to hear that.
+[00:12:00] SPEAKER_00: How easy was it to get out of the war?
+[00:12:01] SPEAKER_00: 
+[00:12:01] SPEAKER_00: 
+[00:12:01] SPEAKER_00: Was it for you to go back to civilian life?
+[00:12:05] SPEAKER_00: Fairly easy.
+[00:12:08] SPEAKER_00: Since leaving the military in 1990, I find myself not being able to kind of interact
+[00:12:17] SPEAKER_00: with people as much as I used to.
+[00:12:19] SPEAKER_00: You know, being that I was in the military, you'd think that would be a little easier
+[00:12:23] SPEAKER_00: having lived with people so close to you all the time.
+[00:12:26] SPEAKER_00: But it actually made me a little bit more anxious and have a little bit more anxiety around people.
+[00:12:35] SPEAKER_00: I'm sorry to hear that.
+[00:12:39] SPEAKER_00: What did you do after the military?
+[00:12:42] SPEAKER_00: I came back to Los Angeles and decided to move to Georgia and spent four years in Georgia
+[00:12:51] SPEAKER_00: working and going to school a little bit, and then came back to Los Angeles four years
+[00:12:58] SPEAKER_00: later after 1990.
+[00:13:00] SPEAKER_00: I guess that's the easy part.
+[00:13:01] SPEAKER_00: 
+[00:13:01] SPEAKER_00: 
+[00:13:01] SPEAKER_00: 
+[00:13:01] SPEAKER_00: 
+[00:13:04] SPEAKER_00: What did serving in the military change you?
+[00:13:11] SPEAKER_00: On the positive side, I was physically fit when I got out, very physically fit and enjoyed
+[00:13:20] SPEAKER_00: being that way for several years until some things happened in my life to where I kind
+[00:13:25] SPEAKER_00: of let myself go, but it changed me. It made me more orderly. Pull out things in perspective.
+[00:13:42] SPEAKER_00: How have you been feeling lately? Emotionally pretty good. Physically tired.
+[00:13:54] SPEAKER_00: Have you noticed any changes?
+[00:13:55] SPEAKER_00: 
+[00:13:55] SPEAKER_00: 
+[00:13:55] SPEAKER_00: 
+[00:13:55] SPEAKER_00: in your behavior or thoughts lately?
+[00:14:01] SPEAKER_00: If anything, I would say
+[00:14:05] SPEAKER_00: just thoughts of wanting to have more
+[00:14:08] SPEAKER_00: and do more in my life.
+[00:14:09] SPEAKER_00: That's about it.
+[00:14:17] SPEAKER_00: How easy is it for you to get a good night's sleep?
+[00:14:21] SPEAKER_00: Fairly easy.
+[00:14:21] SPEAKER_00: I usually go to sleep and sleep well.
+[00:14:26] SPEAKER_00: Some nights I toss and turn, but it's rare.
+[00:14:28] SPEAKER_00: I wouldn't say it's rare, but once I get to sleep,
+[00:14:31] SPEAKER_00: I sleep fairly well.
+[00:14:37] SPEAKER_00: What are you like when you don't sleep well?
+[00:14:41] SPEAKER_00: A little irritable in the mornings,
+[00:14:43] SPEAKER_00: but since I live alone,
+[00:14:45] SPEAKER_00: a lot of people don't really feel that.
+[00:14:50] SPEAKER_00: When my kids are around,
+[00:14:51] SPEAKER_00: it's more enjoyable to wake up
+[00:14:53] SPEAKER_00: because I can see their faces
+[00:14:55] SPEAKER_00: and enjoy their company.
+[00:15:02] SPEAKER_00: Have you ever been diagnosed with PTSD?
+[00:15:06] SPEAKER_00: Yes.
+[00:15:10] SPEAKER_00: All right.
+[00:15:14] SPEAKER_00: Have you been diagnosed with depression?
+[00:15:18] SPEAKER_00: No, I haven't actually been diagnosed with depression,
+[00:15:21] SPEAKER_00: but I have bats of that every now and then.
+[00:15:28] SPEAKER_00: All right.
+[00:15:31] SPEAKER_00: When was the last time you felt really happy?
+[00:15:38] SPEAKER_00: Fairly recently.
+[00:15:40] SPEAKER_00: I had my kids over for the weekend,
+[00:15:42] SPEAKER_00: and we had a good time enjoying each other's company,
+[00:15:45] SPEAKER_00: so I was pretty happy then.
+[00:15:51] SPEAKER_00: That's good.
+[00:15:54] SPEAKER_00: Who's someone that's been a positive influence in your life?
+[00:16:00] SPEAKER_00: I would probably say a pastor from my church.
+[00:16:05] SPEAKER_00: Her name is Pastor Beverly Allen.
+[00:16:07] SPEAKER_00: She's been kind of a mentor for me for several years,
+[00:16:10] SPEAKER_00: and she's been a really big influence in my life
+[00:16:13] SPEAKER_00: and always kind of been there for me.
+[00:16:19] SPEAKER_00: How would your best friend describe you?
+[00:16:23] SPEAKER_00: Hopefully well.
+[00:16:27] SPEAKER_00: They would say I was funny, reliable, steady,
+[00:16:33] SPEAKER_00: and primarily an upbeat person.
+[00:16:41] SPEAKER_00: Tell me about something you did recently that you really enjoyed.
+[00:16:45] SPEAKER_00: I like to bowl, so when we go bowling,
+[00:16:49] SPEAKER_00: a bunch of guys will go out,
+[00:16:51] SPEAKER_00: we'll go bowling, and they'll say,
+[00:16:51] SPEAKER_00: and just have a good evening, you know,
+[00:16:54] SPEAKER_00: enjoying each other's company
+[00:16:55] SPEAKER_00: and trying to kick each other's butt on the bowling.
+[00:17:03] SPEAKER_00: Nice.
+[00:17:08] SPEAKER_00: What are you most proud of in your life?
+[00:17:10] SPEAKER_00: My children.
+[00:17:13] SPEAKER_00: They're my pride and joy.
+[00:17:14] SPEAKER_00: They're an extension of me.
+[00:17:15] SPEAKER_00: Once I pass away, they'll live on.
+[00:17:18] SPEAKER_00: I'll live on through them, so.
+[00:17:21] SPEAKER_00: I love them.
+[00:17:21] SPEAKER_00: It's an honor to know y'all have three healthy children
+[00:17:23] SPEAKER_00: that are happy, very intelligent,
+[00:17:25] SPEAKER_00: and maybe make a good mark in society.
+[00:17:33] SPEAKER_00: Okay.
+[00:17:33] SPEAKER_00: I think I've asked everything I need to.
+[00:17:36] SPEAKER_01: Thanks for sharing your thoughts with me.
+[00:17:38] SPEAKER_01: Thank you.
+[00:17:42] SPEAKER_01: Goodbye.
+[00:17:42] SPEAKER_01: Goodbye.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ No, you're fine. Don't worry. You should just...however. I just wear them to see, so... Oh yeah, it's really fun. I just love to check. This isn't a part of your college thesis or anything, is it? No, this is not mine. I'm just here to get a research experience. Oh, okay. Yeah. So I'm gonna bring up the virtual human for a second, and then shrink her back down. No, this isn't part of my post-hoc thesis. I kind of wish. That would be really cool. Hmm. What's your study? Um, I...like my personal study? I am not doing study yet, because I just finished my second year, so... So you're a sophomore? Yeah. I'm gonna be at Bard. Oh, Bard. Yeah. So I don't know yet what I want to do. So this is your first California visit, then? Yeah. I know you're digging it. Yeah. Actually, the weather's awesome. Oh, it's very beautiful. Yeah. Okay, um, if you guys could just let me know. Sure. Um, it goes around your ears like this. Okay. Yeah. You got a big head. Just like so, right? Yeah. Okay. Okay. All right. This should be okay. Oh. Otherwise, I won't work. Oh, okay. For some reason. I don't know why. Okay. Um, I'm gonna bring it back up. I'm gonna start the recording. Okay. Virtual check. Yup. Okay. So she's gonna ask you a series of questions, and then, yeah, you just answer, and then when she's done, she should say goodbye. Okay. Um, but if she stops for more than, uh, 10 to 15 seconds, something may have stopped working, and so just press the button. You got it. Yeah. And when she's done, press the button. Okay. Um, and she cannot answer any questions at this moment. Okay. Okay. Okay. I'm sorry. Hi. I'm Ellie. Thanks for coming in today. I was created to talk to people in a city and secure environment. I'm not a therapist, but I'm here to learn about people and would love to learn about you. I'll ask a few questions to get it started. And please feel free to talk to anything. Your answers are totally confidential. Are you okay with that? Yes. Okay. So, how are you doing today? I'm feeling pretty good. That's great. Where are you from originally? Montgomery, Alabama. Okay. Thank you. Thank you. Thank you.精Next.com wir are here to share some part of your story. Ray Levesque What are some of the things you really like about LA? Ray Levesque Um, a lot of the sites. Amusement parks. A lot of different places to go with my children. province of video about LA. Um, it's a big city. A lot of stars live here. It's a really, it's a it's a cool place. But, you know, you, you are your own little thing along the way. Do you travel a lot? No, not anymore. I used to, but no, not lately in the last few years, no. What's one of your most memorable experiences? Working on a movie set and getting to meet one of my favorite actors. And also when I was in the military, being able to travel in Europe and a lot of places I thought I'd never be able to see. What did you study at school? My major was business administration. My minor was history. What do you do now? Actually right now, I work in the military. I work part-time. I don't actually have a steady job, but I do some work with family members on home improvements. But primarily I'm disabled, so I don't get a chance to work very often at a regular job. What's your dream job? Oh, probably to work in some type of entertainment, film, music. That's my dream job. That's probably been my dream for years and years. I've kind of dabbled in it a little bit, but never really made a foothold in that industry. Do you consider yourself more shy or outgoing? I'd say outgoing. Why? I just love people. I always have been a people person. I like to talk to people. I probably don't talk to people as much as I used to since I've got this missing tooth in my smile, so it kind of takes away from me being as outgoing as I used to be. Tell me about your relationship with your family. It's pretty good. I have three children. I have two mom, baby moms, meaning I have two mothers of my kids. But primarily my mom and I are pretty close. But I have a very large family, but we really don't interact that much. Sometimes when I'm feeling tense, I turn on the Fishtip screensaver. Hey, I know it's not Hawaii, but it's the best I've got. What do you do to relax? Play video games. Sometimes write, read. I wish I could get enough get up and go to write a screenplay. I've always been wanting to write. And you never know what may happen with that. But if I ever get some get up and go, I'll write something. But that's primarily what I do. How are you at controlling your temper? Pretty good. I haven't done anything crazy or nothing in my life, I guess. But I do have a tendency to have a little bad temper. When was the last time you argued with someone? What was it about? This was recently. I argued with a friend over something very silly. It was a sports question, something about sports. And then, you know, over the years, my family, you know, they've been arguing. Obviously the mother and the son had a similar temperament. And so I thought maybe COVID had only their impact, But I tried to stay away from that issue I've been in the last 25 years of seriously enthusiastic being mooing. Sometimes it's just uh, all kinds of stuff that happened. TV, I've sometimes seen likelr playсти or, you know, just from social media where I talk to a friend and get up quickly and also just talk at that. I've been bashing people. by a very affluent lawyer in Los Angeles. The only reason I'm mentioning his name because he's a very prominent lawyer not only in California but this country. And I lost a job there getting into an argument with the manager of the restaurant. But in actuality, the owners, one of his partners, were very, very kind and they really liked me a lot. And I shouldn't have never let that situation get to that point. All right. What's something you feel guilty about? Hmm. I think probably not spending more time with my children or actually spending time with my oldest daughter who lives in Maryland. I think. I feel guilty for not having been more of a success in my life, not having as much drive and determination as I should have. That's probably my biggest regret or what I feel is guilty about. Tell me about the hardest decision you've ever had to make. Hmm. Probably the hardest decision I've ever had to make was to join the military. I had heard a lot of bad things about it. I had heard good things about it. But at that particular time in my life, I had a, you know, a fork in the road and I had to choose whether to go left or right. And I chose to go left and join the Army. Turned out it wasn't that bad of a decision. All right. Tell me about an event or something that you wish you could erase from your memory. What do you remember most about your life? I haven't been arrested years and years ago. It's 20 years to be exact. And it hasn't really affected me employment-wise or anything like that. But it was on my record. And it was something that should have been avoided. But it happened. And I just wish I could take that one back. Have you ever served in the military? Yes. How old were you when you joined the military? 20 or 21 years old. Why did you decide to join the military? Well, three reasons. One, I needed a change in my life. Two, I had some personal things going on. And I felt it was time to, like, you know, just take an adventure and try something different. And I just wasn't really happy in my college experience. So I thought I'd try it. Are you happy you did that? Yes. Did you ever see combat? No, but I came close. I worked. I was in the military when the Russians were still prevalent in Eastern Europe. And we did some border duty between East and West Germany. And there were a few incidences on the border that could have gotten out of hand, but never did. I'm sorry to hear that. How easy was it to get out of the war? Was it for you to go back to civilian life? Fairly easy. Since leaving the military in 1990, I find myself not being able to kind of interact with people as much as I used to. You know, being that I was in the military, you'd think that would be a little easier having lived with people so close to you all the time. But it actually made me a little bit more anxious and have a little bit more anxiety around people. I'm sorry to hear that. What did you do after the military? I came back to Los Angeles and decided to move to Georgia and spent four years in Georgia working and going to school a little bit, and then came back to Los Angeles four years later after 1990. I guess that's the easy part. What did serving in the military change you? On the positive side, I was physically fit when I got out, very physically fit and enjoyed being that way for several years until some things happened in my life to where I kind of let myself go, but it changed me. It made me more orderly. Pull out things in perspective. How have you been feeling lately? Emotionally pretty good. Physically tired. Have you noticed any changes? in your behavior or thoughts lately? If anything, I would say just thoughts of wanting to have more and do more in my life. That's about it. How easy is it for you to get a good night's sleep? Fairly easy. I usually go to sleep and sleep well. Some nights I toss and turn, but it's rare. I wouldn't say it's rare, but once I get to sleep, I sleep fairly well. What are you like when you don't sleep well? A little irritable in the mornings, but since I live alone, a lot of people don't really feel that. When my kids are around, it's more enjoyable to wake up because I can see their faces and enjoy their company. Have you ever been diagnosed with PTSD? Yes. All right. Have you been diagnosed with depression? No, I haven't actually been diagnosed with depression, but I have bats of that every now and then. All right. When was the last time you felt really happy? Fairly recently. I had my kids over for the weekend, and we had a good time enjoying each other's company, so I was pretty happy then. That's good. Who's someone that's been a positive influence in your life? I would probably say a pastor from my church. Her name is Pastor Beverly Allen. She's been kind of a mentor for me for several years, and she's been a really big influence in my life and always kind of been there for me. How would your best friend describe you? Hopefully well. They would say I was funny, reliable, steady, and primarily an upbeat person. Tell me about something you did recently that you really enjoyed. I like to bowl, so when we go bowling, a bunch of guys will go out, we'll go bowling, and they'll say, and just have a good evening, you know, enjoying each other's company and trying to kick each other's butt on the bowling. Nice. What are you most proud of in your life? My children. They're my pride and joy. They're an extension of me. Once I pass away, they'll live on. I'll live on through them, so. I love them. It's an honor to know y'all have three healthy children that are happy, very intelligent, and maybe make a good mark in society. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Thank you. Goodbye. Goodbye.

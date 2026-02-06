@@ -1,0 +1,257 @@
+Audio Transcription
+Generated: 2026-02-03 18:22:34
+Language: en
+Speakers detected: 3
+
+==================================================
+
+[00:00:05] SPEAKER_00: Oh, there we go.
+[00:00:09] SPEAKER_00: All right, so now I'm going to start the virtual human.
+[00:00:12] SPEAKER_00: Okay.
+[00:00:12] SPEAKER_00: And like I said before, she'll chat with you for a bit.
+[00:00:14] SPEAKER_00: All right.
+[00:00:15] SPEAKER_00: And then you can hit that.
+[00:00:18] SPEAKER_00: She's done.
+[00:00:18] SPEAKER_00: Okay.
+[00:00:19] SPEAKER_00: Great.
+[00:00:20] SPEAKER_01: Thank you.
+[00:00:25] SPEAKER_01: Hi, I'm Ellie.
+[00:00:26] SPEAKER_01: Thanks for coming in today.
+[00:00:28] SPEAKER_01: I'm a creative talk to people in a safe and secure environment.
+[00:00:32] SPEAKER_01: I'm not a therapist, but I'm here to learn about people and would love to learn about you.
+[00:00:37] SPEAKER_02: I'll ask you a few questions to get started.
+[00:00:39] SPEAKER_02: And please feel free to call me.
+[00:00:44] SPEAKER_02: Are you okay with this?
+[00:00:46] SPEAKER_02: Yes.
+[00:00:47] SPEAKER_02: Okay.
+[00:00:48] SPEAKER_02: So, how are you doing today?
+[00:00:51] SPEAKER_01: Okay.
+[00:00:53] SPEAKER_01: That's good.
+[00:00:56] SPEAKER_01: Where are you from originally?
+[00:00:58] SPEAKER_01: Connecticut.
+[00:00:58] SPEAKER_01: 
+[00:00:59] SPEAKER_01: Really?
+[00:01:01] SPEAKER_01: Why did you move to LA?
+[00:01:04] SPEAKER_01: To be an actor.
+[00:01:07] SPEAKER_01: How did you decide to do that?
+[00:01:10] SPEAKER_01: Well, I moved to San Francisco in 94, and then I moved to Atlanta in 96, and then I moved out here to be an actor, and I became a realtor instead.
+[00:01:21] SPEAKER_01: What's your dream job?
+[00:01:24] SPEAKER_01: To be on a TV show, an actor.
+[00:01:28] SPEAKER_01: How hard is it?
+[00:01:29] SPEAKER_01: It's pretty hard to get discovered.
+[00:01:33] SPEAKER_01: You have to be lucky, and you have to know the right people, and you have to be talented.
+[00:01:38] SPEAKER_01: Yeah.
+[00:01:39] SPEAKER_01: That sucks.
+[00:01:41] SPEAKER_01: Yeah.
+[00:01:42] SPEAKER_01: Do you travel a lot?
+[00:01:44] SPEAKER_01: Not really.
+[00:01:45] SPEAKER_01: No, I don't travel that much.
+[00:01:46] SPEAKER_01: I used to move every couple of years to a different city, and then I've been here for a while, so I don't travel that much.
+[00:01:54] SPEAKER_01: Okay.
+[00:01:55] SPEAKER_01: What are some things you really like about LA?
+[00:01:57] SPEAKER_01: I like the city.
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:58] SPEAKER_01: The weather. There's always something to do, and that's pretty much it.
+[00:02:07] SPEAKER_01: Okay. What are some things you don't really like about LA?
+[00:02:12] SPEAKER_01: The people here tend to be a little more rude, and it's just always a fast pace.
+[00:02:21] SPEAKER_01: Yeah. I can't even remember.
+[00:02:24] SPEAKER_01: How old were you when you moved here?
+[00:02:28] SPEAKER_01: Well, when I moved here, I was 25, so it was a lot more fun, because when you're young in the city, you can have a lot of fun.
+[00:02:36] SPEAKER_01: And then I got into the real estate and did really well for a while, and then the market crashed, and so now I'm old, and I'm not making any money, so times are tough.
+[00:02:46] SPEAKER_01: Oh, I'm worried about that.
+[00:02:50] SPEAKER_01: Do you consider yourself a member?
+[00:02:53] SPEAKER_01: No, no. I'm much more of an extrovert.
+[00:03:00] SPEAKER_01: Okay. What are some things that make you really happy?
+[00:03:06] SPEAKER_01: When I don't get what I want, and rude people, and just inconsiderate people.
+[00:03:18] SPEAKER_01: Okay. How are you at controlling your hunger?
+[00:03:23] SPEAKER_01: I'm pretty good at controlling my temper when I'm not, like if I drink alcohol, it'll make my temper go worse. But when I don't drink, I'm pretty good at controlling my temper.
+[00:03:38] SPEAKER_01: Okay. When was the last time you argued with someone?
+[00:03:41] SPEAKER_01: The last time I argued with somebody was somebody that owed me money.
+[00:03:53] SPEAKER_01: Okay. Where do you live?
+[00:03:57] SPEAKER_01: I live in West Hollywood.
+[00:04:01] SPEAKER_01: Do you have a roommate?
+[00:04:03] SPEAKER_01: No, no, no. I live alone. I have a dog.
+[00:04:08] SPEAKER_01: How do you like your living situation?
+[00:04:12] SPEAKER_01: It's good. I mean, I don't like my neighbors. I hate my neighbors. But the ones upstairs just moved out, so that's good news. Hopefully the ones that move in are not that noisy.
+[00:04:20] SPEAKER_01: And the ones below, I just can't stand.
+[00:04:22] SPEAKER_01: Because they argue with me.
+[00:04:25] SPEAKER_01: Huh? Why? Because my hardwood floors, they say that... I've been there for ten years and they still argue about the noise of me walking on my hardwood floors.
+[00:04:36] SPEAKER_01: Oh. That sounds really hard.
+[00:04:39] SPEAKER_01: Yeah.
+[00:04:41] SPEAKER_01: Has someone else been a positive influence in your life?
+[00:04:44] SPEAKER_01: What was the question?
+[00:04:47] SPEAKER_01: Has someone else been a positive influence in your life?
+[00:04:49] SPEAKER_01: My mother has been a very positive influence. She's always kept me on track. She lived with me for the last ten years until she recently moved to Rhode Island to live with my brother.
+[00:05:00] SPEAKER_01: Wow. How close are you to your family?
+[00:05:06] SPEAKER_01: Very close to my mother. Not so close with my brother. We're close, but we're not like close-close.
+[00:05:15] SPEAKER_01: So, I mean, we love each other. We just don't really understand each other.
+[00:05:19] SPEAKER_01: 
+[00:05:19] SPEAKER_01: Okay. I have a question. How would your best friend describe you?
+[00:05:31] SPEAKER_01: Outgoing, life of the party, ambitious, and sometimes cutthroat.
+[00:05:44] SPEAKER_01: What do you most promise in your life?
+[00:05:50] SPEAKER_01: What am I most proud of? Being always able to get through the things I need to get through to get to where I want to be.
+[00:06:00] SPEAKER_01: That's great. What would you say about yourself?
+[00:06:09] SPEAKER_01: I'm generous. I'm loyal. I'm friendly. I'm accommodating.
+[00:06:16] SPEAKER_01: And...
+[00:06:19] SPEAKER_01: That's about it.
+[00:06:22] SPEAKER_01: Okay. Have you ever been molested?
+[00:06:24] SPEAKER_01: No.
+[00:06:25] SPEAKER_01: Have you ever been diagnosed with identity theft?
+[00:06:28] SPEAKER_01: Yes.
+[00:06:29] SPEAKER_01: How long ago were you diagnosed?
+[00:06:32] SPEAKER_01: About four years ago.
+[00:06:36] SPEAKER_01: What got you into this?
+[00:06:39] SPEAKER_01: Well, I was beaten up and I had identity theft.
+[00:06:44] SPEAKER_01: And, you know, I was just afraid to go out.
+[00:06:47] SPEAKER_01: 
+[00:06:47] SPEAKER_01: 
+[00:06:47] SPEAKER_01: So I needed to get over that.
+[00:06:49] SPEAKER_01: So after spending one year in my home without leaving and just depressed all the time, I said I have to get out and start talking to people.
+[00:06:58] SPEAKER_01: And so I did.
+[00:06:59] SPEAKER_01: Yeah. I'm sorry you're going on.
+[00:07:01] SPEAKER_01: Thank you.
+[00:07:03] SPEAKER_01: How have you been doing lately?
+[00:07:06] SPEAKER_01: Okay. I'm panicky about the job situation.
+[00:07:11] SPEAKER_01: You know, because my bills are pretty high and I don't really have a steady income right now.
+[00:07:16] SPEAKER_01: Okay.
+[00:07:17] SPEAKER_01: So that's what's worrying me the most is my financial situation.
+[00:07:23] SPEAKER_01: I'm sorry you're going on.
+[00:07:25] SPEAKER_01: Yeah.
+[00:07:27] SPEAKER_01: Have you ever said anything to your neighbor or your neighbor?
+[00:07:34] SPEAKER_01: Yeah. I mean...
+[00:07:37] SPEAKER_01: Well, basically it's like I just recently quit drinking altogether.
+[00:07:42] SPEAKER_01: So I don't drink anymore.
+[00:07:43] SPEAKER_01: So I'm noticing...
+[00:07:44] SPEAKER_01: Yeah. I mean, it's good.
+[00:07:46] SPEAKER_01: Because number one, I don't have the money.
+[00:07:47] SPEAKER_01: And number two, I don't like the way I act when I drink.
+[00:07:52] SPEAKER_01: So that's a positive thing.
+[00:07:53] SPEAKER_01: But when I was drinking, it helped me just forget and numb myself.
+[00:07:59] SPEAKER_01: Now I have to feel through the feelings, which is pretty good because I can talk my way through them.
+[00:08:03] SPEAKER_01: So I guess I'm evolving.
+[00:08:06] SPEAKER_01: That's good.
+[00:08:09] SPEAKER_01: Have you been diagnosed with depression?
+[00:08:11] SPEAKER_01: Yeah. A long time ago.
+[00:08:12] SPEAKER_01: You know, I've taken many medications here and there.
+[00:08:16] SPEAKER_01: And they really...
+[00:08:18] SPEAKER_01: Some of them would numb me.
+[00:08:19] SPEAKER_01: Some of them would make me feel hyper.
+[00:08:22] SPEAKER_01: So I've recently decided in the last six months, three to six months, just to not take anything.
+[00:08:28] SPEAKER_01: So I don't take anything.
+[00:08:29] SPEAKER_01: I barely even take an aspirin to get my body to a normal state.
+[00:08:36] SPEAKER_01: Yeah.
+[00:08:37] SPEAKER_01: Did you have any problems before you found out?
+[00:08:42] SPEAKER_01: Um...
+[00:08:42] SPEAKER_01: Yeah.
+[00:08:42] SPEAKER_01: Not really.
+[00:08:44] SPEAKER_01: What were you thinking?
+[00:08:47] SPEAKER_01: Always worrying.
+[00:08:48] SPEAKER_01: Just a lot of worrying.
+[00:08:49] SPEAKER_01: Always worrying, worrying, worrying about everything.
+[00:08:52] SPEAKER_01: Oh, what happens if I get in a car accident?
+[00:08:53] SPEAKER_01: What happens if I can't pay my mortgage?
+[00:08:56] SPEAKER_01: What happens if I...
+[00:08:58] SPEAKER_01: Just so many things I worry about.
+[00:09:00] SPEAKER_01: And that's what was making me depressed.
+[00:09:04] SPEAKER_01: Yeah.
+[00:09:09] SPEAKER_01: Do you feel like there's a reason?
+[00:09:11] SPEAKER_01: I do.
+[00:09:13] SPEAKER_01: At some point, I've had some good therapists and I've had some bad therapists.
+[00:09:18] SPEAKER_01: I tend to like the ones that talk back to me and kind of give me some guidance as opposed to the ones that just listen.
+[00:09:26] SPEAKER_01: And then they just say, okay, your time's up.
+[00:09:28] SPEAKER_01: So...
+[00:09:28] SPEAKER_01: And just prescribe me medication.
+[00:09:30] SPEAKER_01: So I think I'd be better with a psychologist as opposed to a psychiatrist.
+[00:09:35] SPEAKER_01: Yeah.
+[00:09:35] SPEAKER_01: I think...
+[00:09:37] SPEAKER_01: This sort of changes everything.
+[00:09:39] SPEAKER_01: I think it's...
+[00:09:40] SPEAKER_01: I think it's a very good thing.
+[00:09:40] SPEAKER_01: 
+[00:09:40] SPEAKER_01: And what's your opinion on this therapy?
+[00:09:42] SPEAKER_01: Well, I'm not going to therapy now, but the therapy that I had before was more like
+[00:09:49] SPEAKER_01: people trying to just come in and check in and give me medication.
+[00:09:54] SPEAKER_01: I have had other therapy where I was back and forth like, okay, well, this is what I
+[00:09:59] SPEAKER_01: think about this and you think about this.
+[00:10:01] SPEAKER_01: And that kind of therapy is better.
+[00:10:04] SPEAKER_01: Why did you stop?
+[00:10:06] SPEAKER_01: I just...
+[00:10:08] SPEAKER_01: I wasn't getting the right therapist.
+[00:10:09] SPEAKER_01: Yeah.
+[00:10:10] SPEAKER_01: recently. So, um, and I knew the root of my problem was the drinking because it's a depressant. So,
+[00:10:18] SPEAKER_01: you know, stopping the drinking has definitely made me have a much clearer mind and
+[00:10:23] SPEAKER_01: just to work through things myself, you know?
+[00:10:40] SPEAKER_01: I can't really think of anything right now.
+[00:10:52] SPEAKER_01: It's been a long time. I can't really think about a time when I felt really happy.
+[00:11:00] SPEAKER_01: Thank you.
+[00:11:05] SPEAKER_01: Um,
+[00:11:08] SPEAKER_01: um,
+[00:11:11] SPEAKER_01: okay. When I was a kid, um, I had a little dog and this big dog came and attacked it and killed
+[00:11:19] SPEAKER_01: it. So then a little while later, my father came and he says to my brother and me, we were kids,
+[00:11:27] SPEAKER_01: go to the car. There's two packages in the car. So go get them. So I was like, yeah, yeah, yeah,
+[00:11:32] SPEAKER_01: because I never listened to my parents. So it was like a spoiled brat. But finally he said,
+[00:11:36] SPEAKER_01: go to the car. What's that?
+[00:11:40] SPEAKER_01: Okay. He said, go to the car and get this out of the car. So I finally went. When I opened the
+[00:11:45] SPEAKER_01: door, there was a new dog and a bag of dog food. So that's one of my memorable experience.
+[00:11:51] SPEAKER_01: That's great.
+[00:11:52] SPEAKER_01: Yeah. Cause I'm an animal lover. So
+[00:12:01] SPEAKER_01: um, just the way that I've treated people before when I was hurting, I was really mean or rude to
+[00:12:07] SPEAKER_01: people when I felt like,
+[00:12:09] SPEAKER_01: you know,
+[00:12:10] SPEAKER_01: I was hurting. I had to hurt everybody around me. So, um, but ever since I stopped the drinking,
+[00:12:15] SPEAKER_01: I don't do that anymore. So, so I think the problem is, is the drinking. And so now that I've
+[00:12:20] SPEAKER_01: let that go, uh, cause I was doing it for the wrong reasons. You know, I was doing it to not
+[00:12:25] SPEAKER_01: feel I wasn't doing it to be sociable.
+[00:12:35] SPEAKER_01: Get in a career that is really stable.
+[00:12:40] SPEAKER_01: Like, uh, you know, like a doctor or a nurse or an attorney, something that, you know, or in advertising, I should have gone into that. A sales position is it could be very well, very good or very bad. So you always have to be on it in sales. You can make a ton of money in sales, but when you make your money, save your money. Don't go spend it on extravagant things.
+[00:13:01] SPEAKER_01: Yeah.
+[00:13:02] SPEAKER_01: What are some things that usually put you in good mood?
+[00:13:08] SPEAKER_01: Yeah.
+[00:13:09] SPEAKER_01: Yeah.
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: Yeah.
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:09] SPEAKER_01: 
+[00:13:10] SPEAKER_01: Um, when I have a job, when I, when I'm able to work, uh, when I'm helping other people, uh, when other people around me are happy and laughing, when I can make people laugh, that, that puts me in a good mood.
+[00:13:25] SPEAKER_01: That's great. Okay. I think I've asked everything I need to.
+[00:13:30] SPEAKER_01: Okay. Thank you.
+[00:13:31] SPEAKER_01: You're welcome. Thank you.
+[00:13:34] SPEAKER_01: Bye.
+[00:13:35] SPEAKER_01: Bye.
+[00:13:47] SPEAKER_00: Okay. Is this modeled after a real person or is it just like they just, uh, it's just like somebody's avatar or no?
+[00:13:55] SPEAKER_00: Yeah, I think it was built after a real person.
+[00:13:59] SPEAKER_00: So I'll chat with you a little bit about what she's about and about Ellie, um, after you finish the poster.
+[00:14:04] SPEAKER_00: Great.
+[00:14:04] SPEAKER_00: And then I'll just have you do the survey.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ Oh, there we go. All right, so now I'm going to start the virtual human. Okay. And like I said before, she'll chat with you for a bit. All right. And then you can hit that. She's done. Okay. Great. Thank you. Hi, I'm Ellie. Thanks for coming in today. I'm a creative talk to people in a safe and secure environment. I'm not a therapist, but I'm here to learn about people and would love to learn about you. I'll ask you a few questions to get started. And please feel free to call me. Are you okay with this? Yes. Okay. So, how are you doing today? Okay. That's good. Where are you from originally? Connecticut. Really? Why did you move to LA? To be an actor. How did you decide to do that? Well, I moved to San Francisco in 94, and then I moved to Atlanta in 96, and then I moved out here to be an actor, and I became a realtor instead. What's your dream job? To be on a TV show, an actor. How hard is it? It's pretty hard to get discovered. You have to be lucky, and you have to know the right people, and you have to be talented. Yeah. That sucks. Yeah. Do you travel a lot? Not really. No, I don't travel that much. I used to move every couple of years to a different city, and then I've been here for a while, so I don't travel that much. Okay. What are some things you really like about LA? I like the city. The weather. There's always something to do, and that's pretty much it. Okay. What are some things you don't really like about LA? The people here tend to be a little more rude, and it's just always a fast pace. Yeah. I can't even remember. How old were you when you moved here? Well, when I moved here, I was 25, so it was a lot more fun, because when you're young in the city, you can have a lot of fun. And then I got into the real estate and did really well for a while, and then the market crashed, and so now I'm old, and I'm not making any money, so times are tough. Oh, I'm worried about that. Do you consider yourself a member? No, no. I'm much more of an extrovert. Okay. What are some things that make you really happy? When I don't get what I want, and rude people, and just inconsiderate people. Okay. How are you at controlling your hunger? I'm pretty good at controlling my temper when I'm not, like if I drink alcohol, it'll make my temper go worse. But when I don't drink, I'm pretty good at controlling my temper. Okay. When was the last time you argued with someone? The last time I argued with somebody was somebody that owed me money. Okay. Where do you live? I live in West Hollywood. Do you have a roommate? No, no, no. I live alone. I have a dog. How do you like your living situation? It's good. I mean, I don't like my neighbors. I hate my neighbors. But the ones upstairs just moved out, so that's good news. Hopefully the ones that move in are not that noisy. And the ones below, I just can't stand. Because they argue with me. Huh? Why? Because my hardwood floors, they say that... I've been there for ten years and they still argue about the noise of me walking on my hardwood floors. Oh. That sounds really hard. Yeah. Has someone else been a positive influence in your life? What was the question? Has someone else been a positive influence in your life? My mother has been a very positive influence. She's always kept me on track. She lived with me for the last ten years until she recently moved to Rhode Island to live with my brother. Wow. How close are you to your family? Very close to my mother. Not so close with my brother. We're close, but we're not like close-close. So, I mean, we love each other. We just don't really understand each other. Okay. I have a question. How would your best friend describe you? Outgoing, life of the party, ambitious, and sometimes cutthroat. What do you most promise in your life? What am I most proud of? Being always able to get through the things I need to get through to get to where I want to be. That's great. What would you say about yourself? I'm generous. I'm loyal. I'm friendly. I'm accommodating. And... That's about it. Okay. Have you ever been molested? No. Have you ever been diagnosed with identity theft? Yes. How long ago were you diagnosed? About four years ago. What got you into this? Well, I was beaten up and I had identity theft. And, you know, I was just afraid to go out. So I needed to get over that. So after spending one year in my home without leaving and just depressed all the time, I said I have to get out and start talking to people. And so I did. Yeah. I'm sorry you're going on. Thank you. How have you been doing lately? Okay. I'm panicky about the job situation. You know, because my bills are pretty high and I don't really have a steady income right now. Okay. So that's what's worrying me the most is my financial situation. I'm sorry you're going on. Yeah. Have you ever said anything to your neighbor or your neighbor? Yeah. I mean... Well, basically it's like I just recently quit drinking altogether. So I don't drink anymore. So I'm noticing... Yeah. I mean, it's good. Because number one, I don't have the money. And number two, I don't like the way I act when I drink. So that's a positive thing. But when I was drinking, it helped me just forget and numb myself. Now I have to feel through the feelings, which is pretty good because I can talk my way through them. So I guess I'm evolving. That's good. Have you been diagnosed with depression? Yeah. A long time ago. You know, I've taken many medications here and there. And they really... Some of them would numb me. Some of them would make me feel hyper. So I've recently decided in the last six months, three to six months, just to not take anything. So I don't take anything. I barely even take an aspirin to get my body to a normal state. Yeah. Did you have any problems before you found out? Um... Yeah. Not really. What were you thinking? Always worrying. Just a lot of worrying. Always worrying, worrying, worrying about everything. Oh, what happens if I get in a car accident? What happens if I can't pay my mortgage? What happens if I... Just so many things I worry about. And that's what was making me depressed. Yeah. Do you feel like there's a reason? I do. At some point, I've had some good therapists and I've had some bad therapists. I tend to like the ones that talk back to me and kind of give me some guidance as opposed to the ones that just listen. And then they just say, okay, your time's up. So... And just prescribe me medication. So I think I'd be better with a psychologist as opposed to a psychiatrist. Yeah. I think... This sort of changes everything. I think it's... I think it's a very good thing. And what's your opinion on this therapy? Well, I'm not going to therapy now, but the therapy that I had before was more like people trying to just come in and check in and give me medication. I have had other therapy where I was back and forth like, okay, well, this is what I think about this and you think about this. And that kind of therapy is better. Why did you stop? I just... I wasn't getting the right therapist. Yeah. recently. So, um, and I knew the root of my problem was the drinking because it's a depressant. So, you know, stopping the drinking has definitely made me have a much clearer mind and just to work through things myself, you know? I can't really think of anything right now. It's been a long time. I can't really think about a time when I felt really happy. Thank you. Um, um, okay. When I was a kid, um, I had a little dog and this big dog came and attacked it and killed it. So then a little while later, my father came and he says to my brother and me, we were kids, go to the car. There's two packages in the car. So go get them. So I was like, yeah, yeah, yeah, because I never listened to my parents. So it was like a spoiled brat. But finally he said, go to the car. What's that? Okay. He said, go to the car and get this out of the car. So I finally went. When I opened the door, there was a new dog and a bag of dog food. So that's one of my memorable experience. That's great. Yeah. Cause I'm an animal lover. So um, just the way that I've treated people before when I was hurting, I was really mean or rude to people when I felt like, you know, I was hurting. I had to hurt everybody around me. So, um, but ever since I stopped the drinking, I don't do that anymore. So, so I think the problem is, is the drinking. And so now that I've let that go, uh, cause I was doing it for the wrong reasons. You know, I was doing it to not feel I wasn't doing it to be sociable. Get in a career that is really stable. Like, uh, you know, like a doctor or a nurse or an attorney, something that, you know, or in advertising, I should have gone into that. A sales position is it could be very well, very good or very bad. So you always have to be on it in sales. You can make a ton of money in sales, but when you make your money, save your money. Don't go spend it on extravagant things. Yeah. What are some things that usually put you in good mood? Yeah. Yeah. Yeah. Um, when I have a job, when I, when I'm able to work, uh, when I'm helping other people, uh, when other people around me are happy and laughing, when I can make people laugh, that, that puts me in a good mood. That's great. Okay. I think I've asked everything I need to. Okay. Thank you. You're welcome. Thank you. Bye. Bye. Okay. Is this modeled after a real person or is it just like they just, uh, it's just like somebody's avatar or no? Yeah, I think it was built after a real person. So I'll chat with you a little bit about what she's about and about Ellie, um, after you finish the poster. Great. And then I'll just have you do the survey.

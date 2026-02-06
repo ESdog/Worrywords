@@ -1,0 +1,364 @@
+Audio Transcription
+Generated: 2026-02-06 11:45:04
+Language: en
+Speakers detected: 3
+
+==================================================
+
+[00:00:00] SPEAKER_01: She's going to ask you some questions, and then you're just going to respond normally,
+[00:00:03] SPEAKER_01: and then she's going to use speech recognition technology to understand what you said,
+[00:00:07] SPEAKER_01: and then she uses a very complex series of equations established by our researchers here
+[00:00:12] SPEAKER_01: to respond to you and keep the conversation going.
+[00:00:14] SPEAKER_01: Okay.
+[00:00:15] SPEAKER_01: And she also uses software that incorporates the webcam and the Xbox Kinect.
+[00:00:20] SPEAKER_00: Well, it's all interactive.
+[00:00:22] SPEAKER_00: Yeah, to recognize your facial expressions and your posture.
+[00:00:25] SPEAKER_00: That way she can take your feelings into account.
+[00:00:26] SPEAKER_00: Absolutely.
+[00:00:28] SPEAKER_00: Will she pick up on my, if I do something?
+[00:00:33] SPEAKER_00: Yeah, so your body language, as you can see down here, that's the Xbox Kinect read,
+[00:00:36] SPEAKER_01: so she uses that as well.
+[00:00:38] SPEAKER_01: Okay.
+[00:00:38] SPEAKER_01: I'm going to go ahead and just loop this behind your ear, just so it doesn't get lost.
+[00:00:41] SPEAKER_01: Sure.
+[00:00:43] SPEAKER_01: Interaction, and this one as well.
+[00:00:45] SPEAKER_01: Perfect.
+[00:00:46] SPEAKER_01: Is that okay?
+[00:00:46] SPEAKER_01: Yeah.
+[00:00:47] SPEAKER_01: Great.
+[00:00:47] SPEAKER_01: All right.
+[00:00:48] SPEAKER_01: So I'm going to go ahead and I'm going to start her up here,
+[00:00:51] SPEAKER_01: and you're going to see her for a second,
+[00:00:52] SPEAKER_01: and then I have to shrink her back down as I continue setting up our recording equipment.
+[00:00:55] SPEAKER_01: And while I'm doing this,
+[00:00:57] SPEAKER_01: I'm going to just spit that out.
+[00:00:58] SPEAKER_01: Oh, okay.
+[00:00:59] SPEAKER_01: Thank you.
+[00:01:00] SPEAKER_01: That's better.
+[00:01:02] SPEAKER_01: So two things.
+[00:01:03] SPEAKER_01: Yes.
+[00:01:04] SPEAKER_01: One is that, you know, she's still in development,
+[00:01:06] SPEAKER_01: so right now, unfortunately, she can't answer your questions.
+[00:01:09] SPEAKER_01: Okay.
+[00:01:09] SPEAKER_01: She can only ask.
+[00:01:11] SPEAKER_01: And then the second thing is, as you will notice,
+[00:01:13] SPEAKER_01: there are some pauses as the interview progresses,
+[00:01:15] SPEAKER_01: because she's trying to give you some time to answer.
+[00:01:18] SPEAKER_01: If there's a pause of ten seconds or more,
+[00:01:21] SPEAKER_01: I'd like you to go ahead and press this button and alert me.
+[00:01:23] SPEAKER_01: Okay.
+[00:01:24] SPEAKER_01: Because every once in a while we're dealing with technology,
+[00:01:26] SPEAKER_01: and we're still preparing.
+[00:01:27] SPEAKER_01: So there's a chance that things might kick up,
+[00:01:30] SPEAKER_01: and I just don't want you to be sitting here and waiting for her to say something.
+[00:01:33] SPEAKER_01: Absolutely.
+[00:01:34] SPEAKER_01: Okay.
+[00:01:35] SPEAKER_01: So hopefully that won't happen, but I just wanted to give you a heads up.
+[00:01:37] SPEAKER_01: Okay.
+[00:01:39] SPEAKER_01: So we'll wait a few seconds here while this continues to set itself up.
+[00:01:50] SPEAKER_01: And so she's going to ask you a series of questions,
+[00:01:52] SPEAKER_01: and then at the end she'll say goodbye,
+[00:01:53] SPEAKER_01: and then you'll press this button.
+[00:01:54] SPEAKER_01: Okay.
+[00:01:55] SPEAKER_01: Sounds good.
+[00:02:04] SPEAKER_01: Okay.
+[00:02:05] SPEAKER_01: Ready?
+[00:02:06] SPEAKER_01: Mm-hmm.
+[00:02:09] SPEAKER_01: Hi, I'm Ellie.
+[00:02:11] SPEAKER_01: Thanks for coming in today.
+[00:02:13] SPEAKER_01: I was created to talk to you about a safe and secure environment.
+[00:02:17] SPEAKER_01: I'm not a therapist, but I'm here to learn about people,
+[00:02:20] SPEAKER_02: and would love to learn about you.
+[00:02:21] SPEAKER_02: I'll ask a few questions to get us started.
+[00:02:24] SPEAKER_02: And please feel free to tell me anything.
+[00:02:27] SPEAKER_02: Your answers are totally confidential.
+[00:02:32] SPEAKER_02: Are you okay with this?
+[00:02:34] SPEAKER_02: Yes.
+[00:02:38] SPEAKER_00: Okay.
+[00:02:41] SPEAKER_00: So, how are you doing today?
+[00:02:44] SPEAKER_00: I'm doing quite well.
+[00:02:49] SPEAKER_00: Where are you from originally?
+[00:02:51] SPEAKER_00: I am from West Covina, California.
+[00:02:58] SPEAKER_00: What are some things you really like about LA?
+[00:03:08] SPEAKER_00: What are some things you don't really like about LA?
+[00:03:23] SPEAKER_00: Other than that, that's probably it.
+[00:03:30] SPEAKER_00: I see.
+[00:03:34] SPEAKER_00: Do you travel a lot?
+[00:03:37] SPEAKER_00: No, not right now.
+[00:03:39] SPEAKER_00: I am in a job that just commute back and forth about 12 miles.
+[00:03:44] SPEAKER_00: So, that's about the extent of my traveling.
+[00:03:52] SPEAKER_00: What do you enjoy about LA?
+[00:03:54] SPEAKER_00: What do I enjoy about traveling?
+[00:03:57] SPEAKER_00: 
+[00:03:57] SPEAKER_00: Probably seeing new places when I do travel.
+[00:04:01] SPEAKER_00: Seeing new places, seeing people from different states, different countries, and picking up on their cultures.
+[00:04:17] SPEAKER_00: I'd like to hear about one of your trips.
+[00:04:20] SPEAKER_00: One of my trips, let's see.
+[00:04:24] SPEAKER_00: I have a friend in Atlanta, Georgia.
+[00:04:27] SPEAKER_00: He works for the TV network down there.
+[00:04:31] SPEAKER_00: When the Dodgers were playing in Atlanta, I took a trip to go see him.
+[00:04:36] SPEAKER_00: We went to go see the games as well.
+[00:04:38] SPEAKER_00: Atlanta is a good, nice sports town.
+[00:04:42] SPEAKER_00: Hot and muggy, but we can deal with it.
+[00:04:45] SPEAKER_00: It's much like here.
+[00:04:48] SPEAKER_00: The expressways are about the same.
+[00:04:51] SPEAKER_00: Traffic, they have their own traffic.
+[00:04:53] SPEAKER_00: They have their own traffic problems.
+[00:04:54] SPEAKER_00: But it was a really good experience.
+[00:04:57] SPEAKER_00: I got to see and meet people from Atlanta, Georgia.
+[00:05:01] SPEAKER_00: And it was a really nice time.
+[00:05:07] SPEAKER_00: What's one of your most memorable experiences?
+[00:05:11] SPEAKER_00: One of my most memorable experiences is being in the Marine Corps and liberating Kuwait.
+[00:05:22] SPEAKER_00: That was probably one of the best experiences of my life.
+[00:05:29] SPEAKER_00: We had little resistance and traveled from Saudi Arabia into Kuwait and liberated Kuwait City.
+[00:05:37] SPEAKER_00: It was great.
+[00:05:42] SPEAKER_00: What did you study at school?
+[00:05:45] SPEAKER_00: What I studied at school basically was broadcasting.
+[00:05:50] SPEAKER_00: And radio.
+[00:05:53] SPEAKER_00: Because I was a radio operator in the Marine Corps, so I studied broadcasting.
+[00:05:58] SPEAKER_00: But I also love history.
+[00:06:05] SPEAKER_00: What do you do now?
+[00:06:07] SPEAKER_00: What do I do now?
+[00:06:09] SPEAKER_00: I am a part-time broadcaster for . . .
+[00:06:15] SPEAKER_00: And it is . . .
+[00:06:17] SPEAKER_00: . . . and basically an operator.
+[00:06:20] SPEAKER_00: And I am an engineer.
+[00:06:21] SPEAKER_00: And I run all the programming from satellite sources and live programs.
+[00:06:31] SPEAKER_00: All right.
+[00:06:35] SPEAKER_00: What's your dream job?
+[00:06:38] SPEAKER_00: What is my dream job?
+[00:06:39] SPEAKER_00: Good question.
+[00:06:43] SPEAKER_00: Probably similar to what I had in the Marine Corps.
+[00:06:47] SPEAKER_00: I was a sergeant in the Marine Corps.
+[00:06:48] SPEAKER_00: I had my own squad.
+[00:06:48] SPEAKER_00: So if I could have . . .
+[00:06:51] SPEAKER_00: be in a management position where I have my own crew and take care of my own crew and look after their needs,
+[00:07:00] SPEAKER_00: that would probably be my dream position.
+[00:07:09] SPEAKER_00: Do you consider yourself more shy or outgoing?
+[00:07:15] SPEAKER_00: It depends on the kind of mood I'm in.
+[00:07:17] SPEAKER_00: Sometimes I am . . .
+[00:07:18] SPEAKER_00: I feel shy and just want to stay home.
+[00:07:21] SPEAKER_00: Other times I'm a little outgoing.
+[00:07:27] SPEAKER_00: I want to go out with my friends and go to dinner and have drinks and watch a sporting event.
+[00:07:38] SPEAKER_00: Why?
+[00:07:41] SPEAKER_00: Why?
+[00:07:41] SPEAKER_00: Because I'm feeling good and I want to feel company of my friends.
+[00:07:48] SPEAKER_00: And just want to talk and converse.
+[00:07:54] SPEAKER_00: Tell me about your relationship with your family.
+[00:07:58] SPEAKER_00: I have a good relationship with my family.
+[00:08:00] SPEAKER_00: My mother is like one of my best friends.
+[00:08:02] SPEAKER_00: I confide in her with basically all of my problems and good things.
+[00:08:12] SPEAKER_00: My dad is a very good man.
+[00:08:15] SPEAKER_00: He's a very good man.
+[00:08:16] SPEAKER_00: 
+[00:08:16] SPEAKER_00: We get along very well.
+[00:08:18] SPEAKER_00: And I have three sisters.
+[00:08:21] SPEAKER_00: Two of them I see on a regular basis.
+[00:08:23] SPEAKER_00: One of them I really don't.
+[00:08:25] SPEAKER_00: But we're all . . . we're a close family.
+[00:08:34] SPEAKER_00: Sometimes when I'm feeling tense, I turn on the fish tank screensaver.
+[00:08:39] SPEAKER_00: Hey, I know it's not Hawaii, but it's the best I've got.
+[00:08:43] SPEAKER_00: What do you do to relax?
+[00:08:45] SPEAKER_00: What do I do to relax?
+[00:08:49] SPEAKER_00: In my apartment complex, I have a jacuzzi.
+[00:08:52] SPEAKER_00: So I spend 20 minutes in the jacuzzi and I go for a swim afterwards.
+[00:08:57] SPEAKER_00: Or I will go on a bike ride.
+[00:09:00] SPEAKER_00: I have my own mountain bike and I like to travel five miles and get a workout in.
+[00:09:08] SPEAKER_00: So when I'm feeling tense, I go get a workout.
+[00:09:15] SPEAKER_00: How are you at controlling your temper?
+[00:09:19] SPEAKER_00: Good question.
+[00:09:20] SPEAKER_00: Sometimes it's very hard.
+[00:09:23] SPEAKER_00: But I have to look at myself and limit myself on what the possible consequences of an uproar, of my uproar, could lead to.
+[00:09:37] SPEAKER_00: So whether it be with my family or my coworkers,
+[00:09:41] SPEAKER_00: I have to always look at myself before I get very angry and temperamental.
+[00:09:52] SPEAKER_00: Has that gotten you in trouble?
+[00:09:57] SPEAKER_00: No, I don't think so. No.
+[00:10:02] SPEAKER_00: When was the last time you argued with someone and what was it about?
+[00:10:06] SPEAKER_00: Good question.
+[00:10:09] SPEAKER_00: Last time I argued with someone . . .
+[00:10:10] SPEAKER_00: 
+[00:10:10] SPEAKER_00: The last time I got into an argument was probably with my dad.
+[00:10:17] SPEAKER_00: I go visit my parents and they have a pool.
+[00:10:22] SPEAKER_00: And upon trying to clean the pool, we had a disagreement.
+[00:10:28] SPEAKER_00: So we had an argument.
+[00:10:37] SPEAKER_00: Tell me about a situation that you wish you would handle differently.
+[00:10:40] SPEAKER_00: Yes.
+[00:10:42] SPEAKER_00: A situation where I wish I was . . .
+[00:10:45] SPEAKER_00: Let's see.
+[00:10:48] SPEAKER_00: I was downsized from a full-time position back in December of 2012.
+[00:10:57] SPEAKER_00: And I think I could have probably avoided it if I had read the signs, probably worked a little harder.
+[00:11:08] SPEAKER_00: And . . .
+[00:11:12] SPEAKER_00: And probably . . .
+[00:11:15] SPEAKER_00: I don't know.
+[00:11:18] SPEAKER_00: Done a better job at that position.
+[00:11:24] SPEAKER_00: All right.
+[00:11:28] SPEAKER_00: What's something you feel guilty about?
+[00:11:32] SPEAKER_00: Something I feel guilty about . . .
+[00:11:38] SPEAKER_00: That's a good question.
+[00:11:39] SPEAKER_00: 
+[00:11:39] SPEAKER_00: 
+[00:11:39] SPEAKER_00: I don't think I feel really guilty.
+[00:11:43] SPEAKER_00: Everything I have done, I have lived up to and not felt guilty about.
+[00:11:51] SPEAKER_00: I haven't wronged anybody in particular.
+[00:11:57] SPEAKER_00: And not that I feel guilty.
+[00:12:00] SPEAKER_00: I don't feel guilty about anything.
+[00:12:05] SPEAKER_00: Tell me about the hardest decision you've ever had to make.
+[00:12:11] SPEAKER_00: Hardest decision I've ever had to make.
+[00:12:13] SPEAKER_00: Let's see.
+[00:12:15] SPEAKER_00: Probably when I was 17 years old.
+[00:12:19] SPEAKER_00: I signed a contract to join the Marine Corps.
+[00:12:22] SPEAKER_00: And it was a six-year contract.
+[00:12:26] SPEAKER_00: And I know that was probably a lot for my family.
+[00:12:31] SPEAKER_00: But it's something I wanted to do.
+[00:12:33] SPEAKER_00: But it was a really hard one.
+[00:12:36] SPEAKER_00: And I made it.
+[00:12:39] SPEAKER_00: And I'm happy with it.
+[00:12:39] SPEAKER_00: 
+[00:12:39] SPEAKER_00: 
+[00:12:39] SPEAKER_00: 
+[00:12:39] SPEAKER_00: 
+[00:12:39] SPEAKER_00: 
+[00:12:39] SPEAKER_00: 
+[00:12:39] SPEAKER_00: And I lived through it six years.
+[00:12:41] SPEAKER_00: And I think I am better for it.
+[00:12:48] SPEAKER_00: All right.
+[00:12:52] SPEAKER_00: Tell me about an event or something that you wish you could erase from your memory.
+[00:12:59] SPEAKER_00: Something I could erase from my memory.
+[00:13:01] SPEAKER_00: Let's see.
+[00:13:06] SPEAKER_00: Let's see.
+[00:13:07] SPEAKER_00: I'm trying to think.
+[00:13:16] SPEAKER_00: Probably I've gotten into two bar fights.
+[00:13:19] SPEAKER_00: So probably limiting the alcohol use at some of those times.
+[00:13:29] SPEAKER_00: And avoided trouble in the bar.
+[00:13:32] SPEAKER_00: 
+[00:13:37] SPEAKER_00: Have you ever served in the military?
+[00:13:39] SPEAKER_00: Yes, I have.
+[00:13:44] SPEAKER_00: How old were you when you joined the military?
+[00:13:47] SPEAKER_00: I was 18.
+[00:13:52] SPEAKER_00: Why did you decide to join the military?
+[00:13:56] SPEAKER_00: I wanted the toughest challenge for an 18-year-old.
+[00:13:58] SPEAKER_00: And I thought the.
+[00:14:00] SPEAKER_00: I knew that the Marine Corps would give it to me, so I took it.
+[00:14:09] SPEAKER_00: Are you happy you did that?
+[00:14:12] SPEAKER_00: Absolutely. Yes.
+[00:14:17] SPEAKER_00: Uh-huh.
+[00:14:20] SPEAKER_00: Did you ever see combat?
+[00:14:22] SPEAKER_00: Yes. I was in Desert Storm.
+[00:14:27] SPEAKER_00: Okay.
+[00:14:31] SPEAKER_00: How easy was it for you to go back to civilian life?
+[00:14:37] SPEAKER_00: Pretty easy. I used to growing my hair out again, because I had it really short for six years.
+[00:14:46] SPEAKER_00: And I really didn't like getting haircuts every week.
+[00:14:51] SPEAKER_00: Other than that, as soon as I got out, I went to broadcasting school.
+[00:14:57] SPEAKER_00: And everything pretty much went back to normal.
+[00:15:00] SPEAKER_00: It was pretty normal.
+[00:15:08] SPEAKER_00: What did you do after the military?
+[00:15:13] SPEAKER_00: I went to broadcasting school, and then I got a radio job in Palm Desert, California.
+[00:15:20] SPEAKER_00: And that was my first radio job. I worked there for three months, and I got a job in Riverside.
+[00:15:26] SPEAKER_00: So, after that, I kept getting job offers.
+[00:15:30] SPEAKER_00: 
+[00:15:30] SPEAKER_00: 
+[00:15:30] SPEAKER_00: And until now, I worked in radio for 22 years.
+[00:15:37] SPEAKER_00: Okay.
+[00:15:40] SPEAKER_00: How did serving in the military change you?
+[00:15:44] SPEAKER_00: It changed me because I am more disciplined, self-disciplined.
+[00:15:49] SPEAKER_00: I pay attention to detail, more attention to detail than I ever have.
+[00:15:55] SPEAKER_00: It's kind of a mental thing, paying attention to detail.
+[00:15:59] SPEAKER_00: but they drilled it into our heads.
+[00:16:05] SPEAKER_00: Pretty cleanly.
+[00:16:06] SPEAKER_00: I like to keep everything in its place.
+[00:16:11] SPEAKER_00: And I like to keep fit, the way they taught me.
+[00:16:20] SPEAKER_00: I'm sorry.
+[00:16:24] SPEAKER_00: How have you been feeling lately?
+[00:16:26] SPEAKER_00: In general, I've been feeling really well.
+[00:16:30] SPEAKER_00: I've been exercising four times a week,
+[00:16:34] SPEAKER_00: either swimming or bike riding and or both.
+[00:16:37] SPEAKER_00: So I've been feeling really well.
+[00:16:41] SPEAKER_00: I can't complain.
+[00:16:47] SPEAKER_00: Have you noticed any changes in your behavior or not feeling?
+[00:16:53] SPEAKER_00: No.
+[00:16:53] SPEAKER_00: No, I've always stayed pretty,
+[00:16:56] SPEAKER_00: even keel and I like to like to keep it that way.
+[00:17:00] SPEAKER_00: I don't like to get too low or get too high.
+[00:17:03] SPEAKER_00: I like to stay, stay even keeled.
+[00:17:13] SPEAKER_00: How easy is it for you to get a good night's sleep?
+[00:17:17] SPEAKER_00: It is pretty, pretty easy when I work out a lot.
+[00:17:21] SPEAKER_00: There are some times when I do a five mile, five mile bike ride, and then I,
+[00:17:26] SPEAKER_00: I swim like 10 laps in the pool.
+[00:17:29] SPEAKER_00: Those days are easy for me to get a good night's sleep.
+[00:17:33] SPEAKER_00: And some of the other days where I just do a bike ride or a swim, but not both.
+[00:17:40] SPEAKER_00: Those are pretty easy too.
+[00:17:41] SPEAKER_00: So sometimes I have too much energy, but but when I work out that energy,
+[00:17:50] SPEAKER_00: I soon do have a good night's sleep.
+[00:17:56] SPEAKER_00: What are you like when you don't sleep well?
+[00:18:00] SPEAKER_00: What am I like when I don't sleep well?
+[00:18:02] SPEAKER_00: Well, I get up and I'm really groggy and tired and I have to have at least three cups of coffee.
+[00:18:14] SPEAKER_00: And that usually gives me the energy that I need for the whole day.
+[00:18:22] SPEAKER_00: All right.
+[00:18:26] SPEAKER_00: Have you ever been diagnosed with PTSD?
+[00:18:28] SPEAKER_00: No. I have never have.
+[00:18:31] SPEAKER_00: I recently had a checkup from the, from the VA and
+[00:18:37] SPEAKER_00: everything was was perfect. So I do not have PTSD.
+[00:18:49] SPEAKER_00: Have you been diagnosed with depression?
+[00:18:52] SPEAKER_00: Again, I, at my last physical,
+[00:18:56] SPEAKER_00: I was asked if I was feeling depressed and I told them no and they did tests and determined that I wasn't a depressed person. So I never feel depressed. I always feel even killed and never feel depressed.
+[00:19:22] SPEAKER_00: When was the last time you felt really happy?
+[00:19:26] SPEAKER_00: Last time I felt really happy? Well, I'm a big sports fan so whenever the sports teams do well, especially the Dodgers, which they have been doing really well lately, it keeps me happy.
+[00:19:40] SPEAKER_00: And I like to see my favorite teams do well because I feel I'm a part of the team because I attend the games and support the team and like to see them succeed.
+[00:19:53] SPEAKER_00: So basically, I'm happy.
+[00:19:56] SPEAKER_00: It's baseball season right now but football season is around the corner and basketball season and hockey season.
+[00:20:02] SPEAKER_00: So I'm a big sports fan.
+[00:20:03] SPEAKER_00: So whenever my teams do well, I am feeling really good.
+[00:20:14] SPEAKER_00: That's good.
+[00:20:18] SPEAKER_00: Who's someone that's been a positive influence in your life?
+[00:20:22] SPEAKER_00: Somebody that's been a positive influence in my life.
+[00:20:26] SPEAKER_00: I would say my parents.
+[00:20:28] SPEAKER_00: They've been married since 1955.
+[00:20:33] SPEAKER_00: So we're going up on almost 70 years, 60 years.
+[00:20:38] SPEAKER_00: So I think my parents, my mom is a big influence and she's a very good woman and taught us to be very good people.
+[00:20:52] SPEAKER_00: So I would say my parents.
+[00:20:58] SPEAKER_00: How do your best friend describe you?
+[00:21:02] SPEAKER_00: My best friend described me as determined, driven, and willing to succeed, I would think.
+[00:21:19] SPEAKER_00: Tell me about something you did recently that you really enjoyed.
+[00:21:25] SPEAKER_00: Something I did recently?
+[00:21:26] SPEAKER_00: 
+[00:21:26] SPEAKER_00: Something I did recently which I really enjoyed.
+[00:21:27] SPEAKER_00: Let's see.
+[00:21:37] SPEAKER_00: I recently went to a baseball game with my boss and it was a couple weeks ago.
+[00:21:44] SPEAKER_00: And we had really good seats from the team.
+[00:21:48] SPEAKER_00: And we had a great night.
+[00:21:50] SPEAKER_00: The food, we had hot dogs and french fries.
+[00:21:55] SPEAKER_00: And the Dodgers won in the bottom of the ninth.
+[00:21:59] SPEAKER_00: So it was a really, really good game and it was a good experience.
+[00:22:06] SPEAKER_00: Nice.
+[00:22:11] SPEAKER_00: What are you most proud of in your life?
+[00:22:14] SPEAKER_00: I'm most proud of being a Marine.
+[00:22:17] SPEAKER_00: I served six years in the Marine Corps.
+[00:22:19] SPEAKER_00: I'm a Desert Storm veteran.
+[00:22:20] SPEAKER_00: So I achieved the rank of Sergeant at the Army.
+[00:22:25] SPEAKER_00: I'm a Marine at 22 years old.
+[00:22:27] SPEAKER_00: So I am grateful and most proud to be a United States Marine.
+[00:22:38] SPEAKER_00: Okay.
+[00:22:39] SPEAKER_00: I think I've asked everything I need to.
+[00:22:41] SPEAKER_00: Thanks for sharing your thoughts with me.
+[00:22:43] SPEAKER_00: Thank you.
+[00:22:47] SPEAKER_00: Goodbye.
+[00:22:48] SPEAKER_00: Goodbye.
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+[00:22:49] SPEAKER_00: 
+
+==================================================
+FULL TRANSCRIPTION:
+
+ She's going to ask you some questions, and then you're just going to respond normally, and then she's going to use speech recognition technology to understand what you said, and then she uses a very complex series of equations established by our researchers here to respond to you and keep the conversation going. Okay. And she also uses software that incorporates the webcam and the Xbox Kinect. Well, it's all interactive. Yeah, to recognize your facial expressions and your posture. That way she can take your feelings into account. Absolutely. Will she pick up on my, if I do something? Yeah, so your body language, as you can see down here, that's the Xbox Kinect read, so she uses that as well. Okay. I'm going to go ahead and just loop this behind your ear, just so it doesn't get lost. Sure. Interaction, and this one as well. Perfect. Is that okay? Yeah. Great. All right. So I'm going to go ahead and I'm going to start her up here, and you're going to see her for a second, and then I have to shrink her back down as I continue setting up our recording equipment. And while I'm doing this, I'm going to just spit that out. Oh, okay. Thank you. That's better. So two things. Yes. One is that, you know, she's still in development, so right now, unfortunately, she can't answer your questions. Okay. She can only ask. And then the second thing is, as you will notice, there are some pauses as the interview progresses, because she's trying to give you some time to answer. If there's a pause of ten seconds or more, I'd like you to go ahead and press this button and alert me. Okay. Because every once in a while we're dealing with technology, and we're still preparing. So there's a chance that things might kick up, and I just don't want you to be sitting here and waiting for her to say something. Absolutely. Okay. So hopefully that won't happen, but I just wanted to give you a heads up. Okay. So we'll wait a few seconds here while this continues to set itself up. And so she's going to ask you a series of questions, and then at the end she'll say goodbye, and then you'll press this button. Okay. Sounds good. Okay. Ready? Mm-hmm. Hi, I'm Ellie. Thanks for coming in today. I was created to talk to you about a safe and secure environment. I'm not a therapist, but I'm here to learn about people, and would love to learn about you. I'll ask a few questions to get us started. And please feel free to tell me anything. Your answers are totally confidential. Are you okay with this? Yes. Okay. So, how are you doing today? I'm doing quite well. Where are you from originally? I am from West Covina, California. What are some things you really like about LA? What are some things you don't really like about LA? Other than that, that's probably it. I see. Do you travel a lot? No, not right now. I am in a job that just commute back and forth about 12 miles. So, that's about the extent of my traveling. What do you enjoy about LA? What do I enjoy about traveling? Probably seeing new places when I do travel. Seeing new places, seeing people from different states, different countries, and picking up on their cultures. I'd like to hear about one of your trips. One of my trips, let's see. I have a friend in Atlanta, Georgia. He works for the TV network down there. When the Dodgers were playing in Atlanta, I took a trip to go see him. We went to go see the games as well. Atlanta is a good, nice sports town. Hot and muggy, but we can deal with it. It's much like here. The expressways are about the same. Traffic, they have their own traffic. They have their own traffic problems. But it was a really good experience. I got to see and meet people from Atlanta, Georgia. And it was a really nice time. What's one of your most memorable experiences? One of my most memorable experiences is being in the Marine Corps and liberating Kuwait. That was probably one of the best experiences of my life. We had little resistance and traveled from Saudi Arabia into Kuwait and liberated Kuwait City. It was great. What did you study at school? What I studied at school basically was broadcasting. And radio. Because I was a radio operator in the Marine Corps, so I studied broadcasting. But I also love history. What do you do now? What do I do now? I am a part-time broadcaster for . . . And it is . . . . . . and basically an operator. And I am an engineer. And I run all the programming from satellite sources and live programs. All right. What's your dream job? What is my dream job? Good question. Probably similar to what I had in the Marine Corps. I was a sergeant in the Marine Corps. I had my own squad. So if I could have . . . be in a management position where I have my own crew and take care of my own crew and look after their needs, that would probably be my dream position. Do you consider yourself more shy or outgoing? It depends on the kind of mood I'm in. Sometimes I am . . . I feel shy and just want to stay home. Other times I'm a little outgoing. I want to go out with my friends and go to dinner and have drinks and watch a sporting event. Why? Why? Because I'm feeling good and I want to feel company of my friends. And just want to talk and converse. Tell me about your relationship with your family. I have a good relationship with my family. My mother is like one of my best friends. I confide in her with basically all of my problems and good things. My dad is a very good man. He's a very good man. We get along very well. And I have three sisters. Two of them I see on a regular basis. One of them I really don't. But we're all . . . we're a close family. Sometimes when I'm feeling tense, I turn on the fish tank screensaver. Hey, I know it's not Hawaii, but it's the best I've got. What do you do to relax? What do I do to relax? In my apartment complex, I have a jacuzzi. So I spend 20 minutes in the jacuzzi and I go for a swim afterwards. Or I will go on a bike ride. I have my own mountain bike and I like to travel five miles and get a workout in. So when I'm feeling tense, I go get a workout. How are you at controlling your temper? Good question. Sometimes it's very hard. But I have to look at myself and limit myself on what the possible consequences of an uproar, of my uproar, could lead to. So whether it be with my family or my coworkers, I have to always look at myself before I get very angry and temperamental. Has that gotten you in trouble? No, I don't think so. No. When was the last time you argued with someone and what was it about? Good question. Last time I argued with someone . . . The last time I got into an argument was probably with my dad. I go visit my parents and they have a pool. And upon trying to clean the pool, we had a disagreement. So we had an argument. Tell me about a situation that you wish you would handle differently. Yes. A situation where I wish I was . . . Let's see. I was downsized from a full-time position back in December of 2012. And I think I could have probably avoided it if I had read the signs, probably worked a little harder. And . . . And probably . . . I don't know. Done a better job at that position. All right. What's something you feel guilty about? Something I feel guilty about . . . That's a good question. I don't think I feel really guilty. Everything I have done, I have lived up to and not felt guilty about. I haven't wronged anybody in particular. And not that I feel guilty. I don't feel guilty about anything. Tell me about the hardest decision you've ever had to make. Hardest decision I've ever had to make. Let's see. Probably when I was 17 years old. I signed a contract to join the Marine Corps. And it was a six-year contract. And I know that was probably a lot for my family. But it's something I wanted to do. But it was a really hard one. And I made it. And I'm happy with it. And I lived through it six years. And I think I am better for it. All right. Tell me about an event or something that you wish you could erase from your memory. Something I could erase from my memory. Let's see. Let's see. I'm trying to think. Probably I've gotten into two bar fights. So probably limiting the alcohol use at some of those times. And avoided trouble in the bar. Have you ever served in the military? Yes, I have. How old were you when you joined the military? I was 18. Why did you decide to join the military? I wanted the toughest challenge for an 18-year-old. And I thought the. I knew that the Marine Corps would give it to me, so I took it. Are you happy you did that? Absolutely. Yes. Uh-huh. Did you ever see combat? Yes. I was in Desert Storm. Okay. How easy was it for you to go back to civilian life? Pretty easy. I used to growing my hair out again, because I had it really short for six years. And I really didn't like getting haircuts every week. Other than that, as soon as I got out, I went to broadcasting school. And everything pretty much went back to normal. It was pretty normal. What did you do after the military? I went to broadcasting school, and then I got a radio job in Palm Desert, California. And that was my first radio job. I worked there for three months, and I got a job in Riverside. So, after that, I kept getting job offers. And until now, I worked in radio for 22 years. Okay. How did serving in the military change you? It changed me because I am more disciplined, self-disciplined. I pay attention to detail, more attention to detail than I ever have. It's kind of a mental thing, paying attention to detail. but they drilled it into our heads. Pretty cleanly. I like to keep everything in its place. And I like to keep fit, the way they taught me. I'm sorry. How have you been feeling lately? In general, I've been feeling really well. I've been exercising four times a week, either swimming or bike riding and or both. So I've been feeling really well. I can't complain. Have you noticed any changes in your behavior or not feeling? No. No, I've always stayed pretty, even keel and I like to like to keep it that way. I don't like to get too low or get too high. I like to stay, stay even keeled. How easy is it for you to get a good night's sleep? It is pretty, pretty easy when I work out a lot. There are some times when I do a five mile, five mile bike ride, and then I, I swim like 10 laps in the pool. Those days are easy for me to get a good night's sleep. And some of the other days where I just do a bike ride or a swim, but not both. Those are pretty easy too. So sometimes I have too much energy, but but when I work out that energy, I soon do have a good night's sleep. What are you like when you don't sleep well? What am I like when I don't sleep well? Well, I get up and I'm really groggy and tired and I have to have at least three cups of coffee. And that usually gives me the energy that I need for the whole day. All right. Have you ever been diagnosed with PTSD? No. I have never have. I recently had a checkup from the, from the VA and everything was was perfect. So I do not have PTSD. Have you been diagnosed with depression? Again, I, at my last physical, I was asked if I was feeling depressed and I told them no and they did tests and determined that I wasn't a depressed person. So I never feel depressed. I always feel even killed and never feel depressed. When was the last time you felt really happy? Last time I felt really happy? Well, I'm a big sports fan so whenever the sports teams do well, especially the Dodgers, which they have been doing really well lately, it keeps me happy. And I like to see my favorite teams do well because I feel I'm a part of the team because I attend the games and support the team and like to see them succeed. So basically, I'm happy. It's baseball season right now but football season is around the corner and basketball season and hockey season. So I'm a big sports fan. So whenever my teams do well, I am feeling really good. That's good. Who's someone that's been a positive influence in your life? Somebody that's been a positive influence in my life. I would say my parents. They've been married since 1955. So we're going up on almost 70 years, 60 years. So I think my parents, my mom is a big influence and she's a very good woman and taught us to be very good people. So I would say my parents. How do your best friend describe you? My best friend described me as determined, driven, and willing to succeed, I would think. Tell me about something you did recently that you really enjoyed. Something I did recently? Something I did recently which I really enjoyed. Let's see. I recently went to a baseball game with my boss and it was a couple weeks ago. And we had really good seats from the team. And we had a great night. The food, we had hot dogs and french fries. And the Dodgers won in the bottom of the ninth. So it was a really, really good game and it was a good experience. Nice. What are you most proud of in your life? I'm most proud of being a Marine. I served six years in the Marine Corps. I'm a Desert Storm veteran. So I achieved the rank of Sergeant at the Army. I'm a Marine at 22 years old. So I am grateful and most proud to be a United States Marine. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Thank you. Goodbye. Goodbye.

@@ -1,0 +1,221 @@
+Audio Transcription
+Generated: 2026-02-06 13:14:22
+Language: en
+Speakers detected: 2
+
+==================================================
+
+[00:00:02] SPEAKER_01: Wow, I got the last few.
+[00:00:06] SPEAKER_01: Now, the odd thing about this is because of the way that the cameras work
+[00:00:09] SPEAKER_01: and the way that things are processed,
+[00:00:11] SPEAKER_01: they try to ask that you not hold anything in your hand.
+[00:00:14] SPEAKER_01: So if you wouldn't mind, yeah, if you just want to put it there until you need it,
+[00:00:17] SPEAKER_01: that's okay.
+[00:00:18] SPEAKER_01: Okay.
+[00:00:19] SPEAKER_01: Is the mic good?
+[00:00:20] SPEAKER_01: That mic looks good.
+[00:00:21] SPEAKER_01: Okay.
+[00:00:22] SPEAKER_01: So now I'm going to bring up our virtual human.
+[00:00:24] SPEAKER_01: Let me take that for a second.
+[00:00:36] SPEAKER_00: There she is.
+[00:00:46] SPEAKER_00: Now I'm going to start up our recording equipment.
+[00:01:02] SPEAKER_00: Okay.
+[00:01:03] SPEAKER_00: Now I'm going to get her started up.
+[00:01:05] SPEAKER_00: Once she says goodbye, press this and I'll come back over for you.
+[00:01:08] SPEAKER_00: Okie dokie.
+[00:01:13] SPEAKER_00: Hi, I'm Ellie.
+[00:01:14] SPEAKER_00: Thanks for coming in today.
+[00:01:16] SPEAKER_00: I was created to talk to people in a safe and secure environment.
+[00:01:20] SPEAKER_00: I'm not a therapist, but I'm here to learn about people
+[00:01:23] SPEAKER_00: and would love to learn about you.
+[00:01:25] SPEAKER_00: I'll ask a few questions to get it started.
+[00:01:27] SPEAKER_00: And please feel free to tell me.
+[00:01:30] SPEAKER_00: Your answers are totally confidential.
+[00:01:36] SPEAKER_00: Are you okay with this?
+[00:01:37] SPEAKER_00: Yes.
+[00:01:42] SPEAKER_00: Okay.
+[00:01:45] SPEAKER_00: So, how are you doing today?
+[00:01:48] SPEAKER_00: I'm fine, thank you.
+[00:01:53] SPEAKER_01: That's good.
+[00:01:56] SPEAKER_01: Where are you from originally?
+[00:01:58] SPEAKER_01: Detroit, Michigan.
+[00:02:02] SPEAKER_01: And where is your favorite part of Los Angeles?
+[00:02:06] SPEAKER_01: Of course Montreal.
+[00:02:07] SPEAKER_01: 
+[00:02:07] SPEAKER_01: 
+[00:02:07] SPEAKER_01: 
+[00:02:07] SPEAKER_01: 
+[00:02:07] SPEAKER_01: 
+[00:02:07] SPEAKER_01: 
+[00:02:07] SPEAKER_01: The weather, the scenery, my family.
+[00:02:14] SPEAKER_01: It is countryside, and a lot is with the application
+[00:02:15] SPEAKER_01: 
+[00:02:15] SPEAKER_01: What are you opposed to Los Angeles?
+[00:02:19] SPEAKER_01: I Oh yeah, I like LA!
+[00:02:28] SPEAKER_01: LA!
+[00:02:29] SPEAKER_01: Just say what you mean.
+[00:02:33] SPEAKER_01: Do you travel a lot?
+[00:02:35] SPEAKER_00: No.
+[00:02:47] SPEAKER_00: What's one of your most memorable experiences?
+[00:02:53] SPEAKER_01: Giving birth to my two sons.
+[00:02:58] SPEAKER_01: What did you study at school?
+[00:03:01] SPEAKER_01: Child development.
+[00:03:05] SPEAKER_01: What do you do now?
+[00:03:07] SPEAKER_01: I'm a librarian at an elementary school part time.
+[00:03:14] SPEAKER_01: Okay. What's your dream job?
+[00:03:22] SPEAKER_01: To own my own house.
+[00:03:24] SPEAKER_01: 
+[00:03:24] SPEAKER_01: I'm a librarian at an educational facility.
+[00:03:30] SPEAKER_01: Do you consider yourself more shy or outgoing?
+[00:03:37] SPEAKER_01: Outgoing.
+[00:03:37] SPEAKER_01: Tell me about your relationship with your family.
+[00:03:41] SPEAKER_01: I have two sons.
+[00:03:42] SPEAKER_01: Sometimes when I'm feeling tense, I turn on the fish tank screen saver.
+[00:03:47] SPEAKER_01: Hey, I know it's not Hawaii, but it's the best I've got.
+[00:03:51] SPEAKER_01: What do you do to relax?
+[00:03:54] SPEAKER_01: Listen to music.
+[00:03:54] SPEAKER_01: Take a hot bath with candlelight.
+[00:04:02] SPEAKER_01: How are you at controlling your temper?
+[00:04:07] SPEAKER_01: Prior to this month, I was pretty good.
+[00:04:13] SPEAKER_01: When was the last time you argued with someone and what was it about?
+[00:04:19] SPEAKER_01: Maybe a week ago, I was on the bus and somebody invaded my private space.
+[00:04:24] SPEAKER_01: I was in a room with my husband and I was talking to him.
+[00:04:24] SPEAKER_01: 
+[00:04:24] SPEAKER_01: 
+[00:04:24] SPEAKER_01: 
+[00:04:24] SPEAKER_01: 
+[00:04:24] SPEAKER_01: 
+[00:04:24] SPEAKER_01: 
+[00:04:24] SPEAKER_01: 
+[00:04:27] SPEAKER_01: How are you?
+[00:04:31] SPEAKER_01: Pretty compete.
+[00:04:34] SPEAKER_01: Do you know what from the aliens is born to you and that故 Ohh.
+[00:04:40] SPEAKER_01: They're Peroo.
+[00:04:46] SPEAKER_01: What are the taxes?
+[00:04:49] SPEAKER_01: handled being raped in the military differently.
+[00:04:56] SPEAKER_01: What's something you feel guilty about?
+[00:05:03] SPEAKER_01: I can't think of anything.
+[00:05:10] SPEAKER_01: Tell me about the hardest decision
+[00:05:13] SPEAKER_01: you've ever had to make.
+[00:05:18] SPEAKER_01: Hmm.
+[00:05:18] SPEAKER_01: Getting a restraining order against my children's father
+[00:05:21] SPEAKER_01: when I was trying to exit the relationship
+[00:05:23] SPEAKER_01: and he didn't want me to leave.
+[00:05:28] SPEAKER_01: Okay.
+[00:05:31] SPEAKER_01: Tell me about an event or something
+[00:05:33] SPEAKER_01: that you wish you could erase from your memory.
+[00:05:37] SPEAKER_01: My entire military experience.
+[00:05:43] SPEAKER_01: Hmm.
+[00:05:45] SPEAKER_01: Have you ever served in the military?
+[00:05:48] SPEAKER_01: Yes.
+[00:05:52] SPEAKER_01: How old were you when you joined the military?
+[00:05:55] SPEAKER_01: 17.
+[00:05:59] SPEAKER_01: Why did you decide to enlist in the military?
+[00:06:04] SPEAKER_01: My mother threatened me that
+[00:06:06] SPEAKER_01: once I graduated high school
+[00:06:08] SPEAKER_01: that I had to do something
+[00:06:09] SPEAKER_01: and I didn't want to go to college
+[00:06:11] SPEAKER_01: and so I knew from the 10th grade on
+[00:06:13] SPEAKER_01: that I wanted to go to college.
+[00:06:14] SPEAKER_01: I wanted to be in the airport.
+[00:06:19] SPEAKER_01: Are you happy you did that?
+[00:06:22] SPEAKER_01: No, not now.
+[00:06:27] SPEAKER_01: Alright.
+[00:06:30] SPEAKER_01: Did you ever see combat?
+[00:06:32] SPEAKER_01: No.
+[00:06:35] SPEAKER_01: Hmm.
+[00:06:39] SPEAKER_01: How easy was it for you to go back to civilian life?
+[00:06:44] SPEAKER_01: It was easy.
+[00:06:48] SPEAKER_01: Hmm.
+[00:06:51] SPEAKER_01: What did you do after the military?
+[00:06:56] SPEAKER_01: I got pregnant,
+[00:06:57] SPEAKER_01: I ended up going to college anyway.
+[00:07:03] SPEAKER_01: Alrighty.
+[00:07:06] SPEAKER_01: How did serving in the military change you?
+[00:07:11] SPEAKER_01: It gave me a discipline that
+[00:07:14] SPEAKER_01: I wouldn't have even thought of then.
+[00:07:14] SPEAKER_01: 
+[00:07:14] SPEAKER_01: gotten otherwise but it damaged me tremendously.
+[00:07:20] SPEAKER_01: I'm sorry. How have you been feeling lately?
+[00:07:27] SPEAKER_01: Mood swings, depressed, anxious, fearful, all of the above.
+[00:07:39] SPEAKER_01: I'm sorry to hear that.
+[00:07:44] SPEAKER_01: Have you noticed any changes in your behavior or thoughts lately?
+[00:07:47] SPEAKER_01: Yes.
+[00:07:52] SPEAKER_01: Tell me more about that.
+[00:07:56] SPEAKER_01: I had basically buried my memory of the military for 30 years now and I only recently started
+[00:08:05] SPEAKER_01: acknowledging that I'm a vet since my youngest son, my 21 year old, joined the army in April.
+[00:08:12] SPEAKER_01: And as a result of doing that,
+[00:08:14] SPEAKER_01: my memories have slowly but surely started coming back to,
+[00:08:20] SPEAKER_01: like I said, my rape in the military and then how I in turn got discharged because I was reporting it.
+[00:08:30] SPEAKER_01: How easy is it for you to get a good night's sleep?
+[00:08:33] SPEAKER_01: Not very easy at all.
+[00:08:38] SPEAKER_01: What are you like when you don't sleep well?
+[00:08:42] SPEAKER_01: Irritable, cranky. I generally stay up late.
+[00:08:44] SPEAKER_01: I stay in the bed the next day not sleeping but just too tired to get up.
+[00:08:52] SPEAKER_01: All right. Have you ever been diagnosed with PTSD?
+[00:08:57] SPEAKER_01: Yes.
+[00:09:09] SPEAKER_00: Have you been diagnosed with depression?
+[00:09:12] SPEAKER_00: Yes.
+[00:09:16] SPEAKER_00: How long ago were you diagnosed?
+[00:09:19] SPEAKER_01: The 3rd of July of this year.
+[00:09:25] SPEAKER_01: What were your symptoms?
+[00:09:30] SPEAKER_01: Crying uncontrollably, not sleeping well, no will to get up, no motivation, crying at the drop of the hat, loss of appetite.
+[00:09:45] SPEAKER_01: loss in weight.
+[00:09:52] SPEAKER_01: Nothing in general, it's just been coming down on me.
+[00:10:03] SPEAKER_01: I don't understand the question.
+[00:10:09] SPEAKER_01: How do you cope with them?
+[00:10:12] SPEAKER_01: I was recently prescribed some medication that I've been taking for a week now. I still
+[00:10:21] SPEAKER_01: have emotional outbursts, disappointments just take me over the edge, things that I
+[00:10:28] SPEAKER_01: can't control. It bothers me.
+[00:10:38] SPEAKER_01: What got you to seek help?
+[00:10:43] SPEAKER_01: When the memories first started.
+[00:10:50] SPEAKER_01: Do you still go to therapy now?
+[00:10:53] SPEAKER_01: Yes, I do.
+[00:11:00] SPEAKER_01: Alright. Do you feel therapy is useful?
+[00:11:03] SPEAKER_01: Yes, I do.
+[00:11:04] SPEAKER_01: Okay.
+[00:11:07] SPEAKER_01: Can you tell me about that?
+[00:11:10] SPEAKER_01: I'm in group therapy at the Veterans Hospital and being in a group situation, it just lets
+[00:11:19] SPEAKER_01: me see that the things that I'm going through and the things that I'm feeling are not just
+[00:11:24] SPEAKER_01: me, I'm not crazy.
+[00:11:28] SPEAKER_01: What sort of changes have you noticed since you've been going to therapy?
+[00:11:38] SPEAKER_01: I'm able to talk about the rape in the military and how I eventually got put out and now I'm
+[00:11:48] SPEAKER_01: having to fight for my benefits because I served less than two years so it kind of feels
+[00:11:53] SPEAKER_01: like the fight is continuing.
+[00:12:00] SPEAKER_01: When was the last time you felt really happy?
+[00:12:04] SPEAKER_01: I don't know.
+[00:12:05] SPEAKER_01: 
+[00:12:05] SPEAKER_01: 
+[00:12:05] SPEAKER_01: 
+[00:12:10] SPEAKER_01: I don't know how many times I've felt really happy.
+[00:12:11] SPEAKER_01: 
+[00:12:11] SPEAKER_01: Good question.
+[00:12:14] SPEAKER_01: Can you tell me about that?
+[00:12:18] SPEAKER_01: It was probably January 1st of this year, it was my granddaughter's fourth birthday.
+[00:12:26] SPEAKER_01: Who's son has been a positive influence in your life?
+[00:12:30] SPEAKER_01: Both my sons, my granddaughter, my daughter-in-law.
+[00:12:34] SPEAKER_01: My father, my father.
+[00:12:35] SPEAKER_01: 
+[00:12:35] SPEAKER_01: 
+[00:12:35] SPEAKER_01: and my 88-year-old grandmother who still lives in Detroit.
+[00:12:41] SPEAKER_01: How would your best friend describe you?
+[00:12:46] SPEAKER_01: Aloof, a loner.
+[00:12:48] SPEAKER_01: I don't hang out.
+[00:12:50] SPEAKER_01: I don't communicate with him as much.
+[00:12:55] SPEAKER_01: Tell me about something you did recently that you really enjoyed.
+[00:13:06] SPEAKER_01: I took my granddaughter to the Natural History Museum.
+[00:13:14] SPEAKER_01: What are you most proud of in your life?
+[00:13:18] SPEAKER_01: The fact that I'm good at my job and I am a loving mother and grandmother.
+[00:13:27] SPEAKER_01: Okay, I think I've asked everything I need to.
+[00:13:30] SPEAKER_01: Thanks for sharing your thoughts with me.
+[00:13:32] SPEAKER_01: You're welcome.
+[00:13:35] SPEAKER_01: Goodbye.
+[00:13:36] SPEAKER_01: Goodbye.
+[00:13:48] SPEAKER_01: I didn't need the tissue after all.
+[00:13:52] SPEAKER_01: It's good to have it.
+[00:13:53] SPEAKER_01: All right, I'm going to go ahead and shut down the recording.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ Wow, I got the last few. Now, the odd thing about this is because of the way that the cameras work and the way that things are processed, they try to ask that you not hold anything in your hand. So if you wouldn't mind, yeah, if you just want to put it there until you need it, that's okay. Okay. Is the mic good? That mic looks good. Okay. So now I'm going to bring up our virtual human. Let me take that for a second. There she is. Now I'm going to start up our recording equipment. Okay. Now I'm going to get her started up. Once she says goodbye, press this and I'll come back over for you. Okie dokie. Hi, I'm Ellie. Thanks for coming in today. I was created to talk to people in a safe and secure environment. I'm not a therapist, but I'm here to learn about people and would love to learn about you. I'll ask a few questions to get it started. And please feel free to tell me. Your answers are totally confidential. Are you okay with this? Yes. Okay. So, how are you doing today? I'm fine, thank you. That's good. Where are you from originally? Detroit, Michigan. And where is your favorite part of Los Angeles? Of course Montreal. The weather, the scenery, my family. It is countryside, and a lot is with the application What are you opposed to Los Angeles? I Oh yeah, I like LA! LA! Just say what you mean. Do you travel a lot? No. What's one of your most memorable experiences? Giving birth to my two sons. What did you study at school? Child development. What do you do now? I'm a librarian at an elementary school part time. Okay. What's your dream job? To own my own house. I'm a librarian at an educational facility. Do you consider yourself more shy or outgoing? Outgoing. Tell me about your relationship with your family. I have two sons. Sometimes when I'm feeling tense, I turn on the fish tank screen saver. Hey, I know it's not Hawaii, but it's the best I've got. What do you do to relax? Listen to music. Take a hot bath with candlelight. How are you at controlling your temper? Prior to this month, I was pretty good. When was the last time you argued with someone and what was it about? Maybe a week ago, I was on the bus and somebody invaded my private space. I was in a room with my husband and I was talking to him. How are you? Pretty compete. Do you know what from the aliens is born to you and that故 Ohh. They're Peroo. What are the taxes? handled being raped in the military differently. What's something you feel guilty about? I can't think of anything. Tell me about the hardest decision you've ever had to make. Hmm. Getting a restraining order against my children's father when I was trying to exit the relationship and he didn't want me to leave. Okay. Tell me about an event or something that you wish you could erase from your memory. My entire military experience. Hmm. Have you ever served in the military? Yes. How old were you when you joined the military? 17. Why did you decide to enlist in the military? My mother threatened me that once I graduated high school that I had to do something and I didn't want to go to college and so I knew from the 10th grade on that I wanted to go to college. I wanted to be in the airport. Are you happy you did that? No, not now. Alright. Did you ever see combat? No. Hmm. How easy was it for you to go back to civilian life? It was easy. Hmm. What did you do after the military? I got pregnant, I ended up going to college anyway. Alrighty. How did serving in the military change you? It gave me a discipline that I wouldn't have even thought of then. gotten otherwise but it damaged me tremendously. I'm sorry. How have you been feeling lately? Mood swings, depressed, anxious, fearful, all of the above. I'm sorry to hear that. Have you noticed any changes in your behavior or thoughts lately? Yes. Tell me more about that. I had basically buried my memory of the military for 30 years now and I only recently started acknowledging that I'm a vet since my youngest son, my 21 year old, joined the army in April. And as a result of doing that, my memories have slowly but surely started coming back to, like I said, my rape in the military and then how I in turn got discharged because I was reporting it. How easy is it for you to get a good night's sleep? Not very easy at all. What are you like when you don't sleep well? Irritable, cranky. I generally stay up late. I stay in the bed the next day not sleeping but just too tired to get up. All right. Have you ever been diagnosed with PTSD? Yes. Have you been diagnosed with depression? Yes. How long ago were you diagnosed? The 3rd of July of this year. What were your symptoms? Crying uncontrollably, not sleeping well, no will to get up, no motivation, crying at the drop of the hat, loss of appetite. loss in weight. Nothing in general, it's just been coming down on me. I don't understand the question. How do you cope with them? I was recently prescribed some medication that I've been taking for a week now. I still have emotional outbursts, disappointments just take me over the edge, things that I can't control. It bothers me. What got you to seek help? When the memories first started. Do you still go to therapy now? Yes, I do. Alright. Do you feel therapy is useful? Yes, I do. Okay. Can you tell me about that? I'm in group therapy at the Veterans Hospital and being in a group situation, it just lets me see that the things that I'm going through and the things that I'm feeling are not just me, I'm not crazy. What sort of changes have you noticed since you've been going to therapy? I'm able to talk about the rape in the military and how I eventually got put out and now I'm having to fight for my benefits because I served less than two years so it kind of feels like the fight is continuing. When was the last time you felt really happy? I don't know. I don't know how many times I've felt really happy. Good question. Can you tell me about that? It was probably January 1st of this year, it was my granddaughter's fourth birthday. Who's son has been a positive influence in your life? Both my sons, my granddaughter, my daughter-in-law. My father, my father. and my 88-year-old grandmother who still lives in Detroit. How would your best friend describe you? Aloof, a loner. I don't hang out. I don't communicate with him as much. Tell me about something you did recently that you really enjoyed. I took my granddaughter to the Natural History Museum. What are you most proud of in your life? The fact that I'm good at my job and I am a loving mother and grandmother. Okay, I think I've asked everything I need to. Thanks for sharing your thoughts with me. You're welcome. Goodbye. Goodbye. I didn't need the tissue after all. It's good to have it. All right, I'm going to go ahead and shut down the recording.

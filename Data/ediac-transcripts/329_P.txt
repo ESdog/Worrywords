@@ -1,0 +1,226 @@
+Audio Transcription
+Generated: 2026-02-03 18:14:41
+Language: en
+Speakers detected: 6
+
+==================================================
+
+[00:00:00] SPEAKER_04: I'm going to do something with our equipment.
+[00:00:04] SPEAKER_04: Perfect.
+[00:00:05] SPEAKER_04: Now I'm going to go ahead and start up the virtual human.
+[00:00:08] SPEAKER_04: She's going to chat with you for a bit, and when she's done, she'll let you know.
+[00:00:11] SPEAKER_04: And I'm going to put the doorbell over here, and you can let me know when you're done.
+[00:00:14] SPEAKER_04: Okay.
+[00:00:26] SPEAKER_03: Hi, I'm Ellie.
+[00:00:27] SPEAKER_03: Thanks for coming in today.
+[00:00:28] SPEAKER_03: Hi, I'm just created to talk to people and stay in a secure environment.
+[00:00:33] SPEAKER_05: I'm not a therapist, but I'm here to learn about people, and would love to learn about you.
+[00:00:38] SPEAKER_05: I'll ask a few questions to get us started.
+[00:00:40] SPEAKER_05: And please feel free to tell me anything.
+[00:00:43] SPEAKER_05: Your answers are totally confidential.
+[00:00:45] SPEAKER_05: Are you okay with this?
+[00:00:47] SPEAKER_05: Yes.
+[00:00:49] SPEAKER_00: Okay, so, how are you doing today?
+[00:00:52] SPEAKER_00: Pretty well.
+[00:00:54] SPEAKER_00: That's good.
+[00:00:55] SPEAKER_00: Where are you from originally?
+[00:00:57] SPEAKER_00: From New York.
+[00:00:58] SPEAKER_00: Really?
+[00:00:59] SPEAKER_00: Why did you move to LA?
+[00:01:02] SPEAKER_00: To go to college.
+[00:01:03] SPEAKER_00: Well, to San Diego to go to college, and then later to LA.
+[00:01:08] SPEAKER_00: Cool.
+[00:01:09] SPEAKER_00: What did you study at school?
+[00:01:11] SPEAKER_00: Aerospace engineering.
+[00:01:13] SPEAKER_00: That sounds nice.
+[00:01:15] SPEAKER_00: How did you decide to do that?
+[00:01:19] SPEAKER_00: It was, I was really good at math and science, and I had an interest in airplanes.
+[00:01:26] SPEAKER_00: Are you still working on that?
+[00:01:28] SPEAKER_00: No.
+[00:01:29] SPEAKER_00: What do you do now?
+[00:01:30] SPEAKER_00: I'm a life coach.
+[00:01:34] SPEAKER_00: Cool.
+[00:01:36] SPEAKER_00: What's your dream job?
+[00:01:39] SPEAKER_00: To be a life coach and help people.
+[00:01:44] SPEAKER_00: Tell me more about that.
+[00:01:48] SPEAKER_00: I really, really like how it feels to help other people, and see them grow, and know that I made a contribution to their life.
+[00:01:59] SPEAKER_00: That's so good to hear.
+[00:02:02] SPEAKER_00: What are some things you really like about LA?
+[00:02:06] SPEAKER_00: I like the weather. It's great.
+[00:02:09] SPEAKER_00: I really like to do outdoor things, and I like doing things by the ocean.
+[00:02:15] SPEAKER_00: What are some things you don't really like about LA?
+[00:02:18] SPEAKER_00: Traffic. And how crowded it is.
+[00:02:24] SPEAKER_00: Do you have roommates?
+[00:02:26] SPEAKER_00: Yeah.
+[00:02:27] SPEAKER_00: What's your favorite thing about LA?
+[00:02:28] SPEAKER_00: I like the weather.
+[00:02:28] SPEAKER_00: How do you like your living situation?
+[00:02:31] SPEAKER_00: I like, I live with my girlfriend, and so I like it.
+[00:02:36] SPEAKER_00: How do you know them?
+[00:02:39] SPEAKER_00: We met on eHarmony.
+[00:02:45] SPEAKER_00: How close are you to them?
+[00:02:47] SPEAKER_00: Really close.
+[00:02:52] SPEAKER_00: That's great.
+[00:02:54] SPEAKER_00: Who's someone that's been a positive influence in your life?
+[00:02:57] SPEAKER_00: I met a friend.
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: She's a meditation teacher.
+[00:03:01] SPEAKER_00: Can you tell me about that?
+[00:03:04] SPEAKER_00: Yeah. I used to be very shy and self-conscious, and have a lot of anxiety.
+[00:03:10] SPEAKER_00: And I worry a lot about the future.
+[00:03:14] SPEAKER_00: And I took classes, meditation and yoga classes, and it really helped me to be more confident and more relaxed, and just enjoy life a lot more.
+[00:03:26] SPEAKER_00: That's good.
+[00:03:28] SPEAKER_00: What do you do to relax?
+[00:03:31] SPEAKER_00: Meditate and do yoga.
+[00:03:34] SPEAKER_00: What are some things that make you really mad?
+[00:03:39] SPEAKER_00: Let's see, really mad.
+[00:03:43] SPEAKER_00: I guess, I don't know about mad.
+[00:03:46] SPEAKER_00: I don't get mad that often, but frustrated, I would say like being stuck in traffic, or people that do mean things to other people for no real reason.
+[00:04:00] SPEAKER_00: What do you do when you're annoyed?
+[00:04:05] SPEAKER_00: I usually talk to somebody about it if I can, or if I can't, then I'll usually do meditation or yoga and try and just let it go.
+[00:04:17] SPEAKER_00: That's good.
+[00:04:19] SPEAKER_00: How are you at controlling your temper?
+[00:04:22] SPEAKER_00: Pretty good at controlling my temper.
+[00:04:25] SPEAKER_00: When was the last time you argued with someone, and what was it about?
+[00:04:28] SPEAKER_00: I don't know.
+[00:04:29] SPEAKER_00: With my girlfriend, and it was about, she was driving on the freeway, and I suggested that she get over, because there were some road workers on the side, and she refused to do that and stayed in the right lane.
+[00:04:45] SPEAKER_00: So we argued a little bit about that.
+[00:04:48] SPEAKER_00: How did you feel in that moment?
+[00:04:51] SPEAKER_00: I felt like she wasn't listening to me, and almost like she was purposely not doing what I suggested.
+[00:04:58] SPEAKER_00: I was like, I'm not going to do that.
+[00:04:59] SPEAKER_00: I'm going to be defiant.
+[00:05:00] SPEAKER_00: Do you do that way often?
+[00:05:03] SPEAKER_00: No.
+[00:05:05] SPEAKER_00: That's good.
+[00:05:07] SPEAKER_00: What are some things you like to do for fun?
+[00:05:11] SPEAKER_00: Rollerblade, kayak, sing. I sing in a choir.
+[00:05:16] SPEAKER_00: Nice.
+[00:05:21] SPEAKER_00: What's one of your most memorable experiences?
+[00:05:26] SPEAKER_00: A trip I took to India.
+[00:05:28] SPEAKER_00: 
+[00:05:28] SPEAKER_00: India and Nepal for six weeks.
+[00:05:32] SPEAKER_00: Do you travel a lot?
+[00:05:34] SPEAKER_00: Yeah, as much as I can.
+[00:05:37] SPEAKER_00: What do you enjoy about traveling?
+[00:05:39] SPEAKER_00: I love to explore.
+[00:05:41] SPEAKER_00: I've loved to explore ever since I was a little kid.
+[00:05:45] SPEAKER_00: And so I love seeing new things and discovering things about new cultures, and I love backpacking in the wilderness and exploring nature.
+[00:05:56] SPEAKER_00: I'd love to go on a trip.
+[00:05:59] SPEAKER_00: Cool.
+[00:06:00] SPEAKER_00: Well, I went on a trip to India and Nepal.
+[00:06:04] SPEAKER_00: It was my first time ever there.
+[00:06:07] SPEAKER_00: The first week and a half I was with a big group of people and did a meditation and yoga retreat and went whitewater rafting on the Ganga River.
+[00:06:15] SPEAKER_00: And then I went off on my own for the rest of the trip and went backpacking in Nepal with a guide there.
+[00:06:24] SPEAKER_00: And it was just really beautiful.
+[00:06:26] SPEAKER_00: I was in the Annapurna area.
+[00:06:28] SPEAKER_00: And then I went back into India and explored the area up near Tibet.
+[00:06:36] SPEAKER_00: And then I went to Rajasthan and to Tiger Park in Madai Pradesh.
+[00:06:42] SPEAKER_00: It was like really close to tigers.
+[00:06:48] SPEAKER_00: How did you decide to do that?
+[00:06:52] SPEAKER_00: I was contacted by a friend of mine and told that they were going to do it.
+[00:06:56] SPEAKER_00: 
+[00:06:56] SPEAKER_00: 
+[00:06:56] SPEAKER_00: They were going on this trip.
+[00:06:58] SPEAKER_00: And I had always wanted to go to India.
+[00:07:00] SPEAKER_00: So I decided to do it.
+[00:07:03] SPEAKER_00: That sounds like a great situation.
+[00:07:06] SPEAKER_00: Yeah, it was really fun.
+[00:07:10] SPEAKER_00: How would your best friend describe you?
+[00:07:15] SPEAKER_00: Caring and enthusiastic for life.
+[00:07:22] SPEAKER_00: That's good.
+[00:07:24] SPEAKER_00: Have you ever served in the military?
+[00:07:26] SPEAKER_00: No.
+[00:07:28] SPEAKER_00: Have you ever been diagnosed with PTSD?
+[00:07:31] SPEAKER_00: No.
+[00:07:32] SPEAKER_00: Have you been diagnosed with depression?
+[00:07:34] SPEAKER_00: No.
+[00:07:35] SPEAKER_00: How easy is it for you to get a good night's sleep?
+[00:07:38] SPEAKER_00: Pretty easy.
+[00:07:40] SPEAKER_00: I don't sleep as well as I did when I was younger.
+[00:07:43] SPEAKER_00: But for the most part I sleep well.
+[00:07:45] SPEAKER_00: Once in a while I'll wake up at like 4 in the morning or 5 in the morning when I want to sleep until 7.
+[00:07:52] SPEAKER_00: And not be able to get back to sleep.
+[00:07:54] SPEAKER_00: But in general it's pretty good.
+[00:07:58] SPEAKER_00: What are you like when you don't sleep well?
+[00:08:00] SPEAKER_00: I feel tired and not as motivated as usual.
+[00:08:05] SPEAKER_00: And then sometimes I want to take a nap in the afternoon.
+[00:08:09] SPEAKER_00: Okay.
+[00:08:11] SPEAKER_00: Have you ever studied Chinese in your career or thought about it?
+[00:08:16] SPEAKER_00: No.
+[00:08:18] SPEAKER_00: Okay.
+[00:08:21] SPEAKER_00: Have you ever studied Chinese in your career or thought about it?
+[00:08:22] SPEAKER_00: 
+[00:08:22] SPEAKER_00: 
+[00:08:22] SPEAKER_00: What advice would you give yourself 10 or 20 years ago?
+[00:08:28] SPEAKER_00: 10 or 20 years ago.
+[00:08:34] SPEAKER_00: I guess too I wish I would have invested money or bought like a house or something when I was younger.
+[00:08:44] SPEAKER_00: That would probably be the advice I would give myself.
+[00:08:48] SPEAKER_00: Okay.
+[00:08:52] SPEAKER_00: What would you say are some of your best qualities?
+[00:08:57] SPEAKER_00: I am empathetic with other people.
+[00:09:01] SPEAKER_00: Positive and kind of have a positive outlook on life.
+[00:09:05] SPEAKER_00: Very determined when I decide to do something.
+[00:09:09] SPEAKER_00: I'll figure out how to do it even if it's challenging.
+[00:09:13] SPEAKER_00: I'm very creative in figuring out creative ways to do things.
+[00:09:19] SPEAKER_00: I guess probably the strongest thing is that I'm very creative.
+[00:09:22] SPEAKER_00: I'm pretty balanced.
+[00:09:23] SPEAKER_00: I'm very organized but I'm also pretty creative.
+[00:09:26] SPEAKER_00: So I'm pretty balanced that way.
+[00:09:29] SPEAKER_00: That's good.
+[00:09:32] SPEAKER_00: How close are you to your family?
+[00:09:35] SPEAKER_00: Pretty close.
+[00:09:36] SPEAKER_00: Much closer than I was when I was younger.
+[00:09:41] SPEAKER_00: Although I'd say I'm probably closer to friends and people that are in a spiritual community with me than I'm able to get to my family.
+[00:09:51] SPEAKER_00: Okay.
+[00:09:55] SPEAKER_00: What are some things that you would put you on a good mood?
+[00:09:59] SPEAKER_00: Being outdoors in nature and exercising and also singing.
+[00:10:07] SPEAKER_00: What are you most proud of in your life?
+[00:10:12] SPEAKER_00: The fact that I've gone with, followed my heart and done what I wanted to do versus going with what I think I should do.
+[00:10:20] SPEAKER_00: Okay.
+[00:10:21] SPEAKER_00: That's great.
+[00:10:24] SPEAKER_00: When was the last time you felt very happy?
+[00:10:29] SPEAKER_00: I guess yesterday.
+[00:10:30] SPEAKER_00: I spent the day by the beach and just bicycled and went skating and visited some old friends there.
+[00:10:40] SPEAKER_00: How did you feel in that moment?
+[00:10:44] SPEAKER_00: I felt very relaxed and invigorated.
+[00:10:49] SPEAKER_00: And...
+[00:10:50] SPEAKER_00: Um...
+[00:10:51] SPEAKER_00: I also felt like I missed living by the beach because I used to live really close to the beach.
+[00:10:58] SPEAKER_00: So I guess a little bit sad that I didn't live there anymore but really happy to be there.
+[00:11:06] SPEAKER_00: I understand.
+[00:11:10] SPEAKER_00: Okay.
+[00:11:10] SPEAKER_00: I think I've asked everything I needed to.
+[00:11:13] SPEAKER_00: Thanks for sharing your thoughts with me.
+[00:11:16] SPEAKER_00: Goodbye.
+[00:11:17] SPEAKER_00: Goodbye.
+[00:11:32] SPEAKER_02: Bye bye.
+[00:11:33] SPEAKER_02: What's your name?
+[00:11:33] SPEAKER_02: 
+[00:11:34] SPEAKER_02: Okay.
+[00:11:34] SPEAKER_02: 
+[00:11:34] SPEAKER_02: 
+[00:11:34] SPEAKER_02: 
+[00:11:34] SPEAKER_02: 
+[00:11:34] SPEAKER_02: 
+[00:11:34] SPEAKER_02: 
+[00:11:34] SPEAKER_01: So I'm going to watch you dance in the booth.
+[00:11:36] SPEAKER_01: See you in ten minutes.
+[00:11:37] SPEAKER_01: Bye.
+[00:11:38] SPEAKER_01: Bye bye.
+[00:11:38] SPEAKER_01: 
+[00:11:38] SPEAKER_01: 
+[00:11:42] SPEAKER_01: See you tomorrow.
+[00:11:43] SPEAKER_01: 
+[00:11:43] SPEAKER_01: 
+[00:11:43] SPEAKER_01: Bye.
+[00:11:44] SPEAKER_01: Bye.
+[00:11:45] SPEAKER_01: Bye.
+[00:11:45] SPEAKER_01: Bye.
+[00:11:45] SPEAKER_01: Bye bye.
+[00:11:46] SPEAKER_01: 
+[00:11:46] SPEAKER_01: Thank you.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ I'm going to do something with our equipment. Perfect. Now I'm going to go ahead and start up the virtual human. She's going to chat with you for a bit, and when she's done, she'll let you know. And I'm going to put the doorbell over here, and you can let me know when you're done. Okay. Hi, I'm Ellie. Thanks for coming in today. Hi, I'm just created to talk to people and stay in a secure environment. I'm not a therapist, but I'm here to learn about people, and would love to learn about you. I'll ask a few questions to get us started. And please feel free to tell me anything. Your answers are totally confidential. Are you okay with this? Yes. Okay, so, how are you doing today? Pretty well. That's good. Where are you from originally? From New York. Really? Why did you move to LA? To go to college. Well, to San Diego to go to college, and then later to LA. Cool. What did you study at school? Aerospace engineering. That sounds nice. How did you decide to do that? It was, I was really good at math and science, and I had an interest in airplanes. Are you still working on that? No. What do you do now? I'm a life coach. Cool. What's your dream job? To be a life coach and help people. Tell me more about that. I really, really like how it feels to help other people, and see them grow, and know that I made a contribution to their life. That's so good to hear. What are some things you really like about LA? I like the weather. It's great. I really like to do outdoor things, and I like doing things by the ocean. What are some things you don't really like about LA? Traffic. And how crowded it is. Do you have roommates? Yeah. What's your favorite thing about LA? I like the weather. How do you like your living situation? I like, I live with my girlfriend, and so I like it. How do you know them? We met on eHarmony. How close are you to them? Really close. That's great. Who's someone that's been a positive influence in your life? I met a friend. She's a meditation teacher. Can you tell me about that? Yeah. I used to be very shy and self-conscious, and have a lot of anxiety. And I worry a lot about the future. And I took classes, meditation and yoga classes, and it really helped me to be more confident and more relaxed, and just enjoy life a lot more. That's good. What do you do to relax? Meditate and do yoga. What are some things that make you really mad? Let's see, really mad. I guess, I don't know about mad. I don't get mad that often, but frustrated, I would say like being stuck in traffic, or people that do mean things to other people for no real reason. What do you do when you're annoyed? I usually talk to somebody about it if I can, or if I can't, then I'll usually do meditation or yoga and try and just let it go. That's good. How are you at controlling your temper? Pretty good at controlling my temper. When was the last time you argued with someone, and what was it about? I don't know. With my girlfriend, and it was about, she was driving on the freeway, and I suggested that she get over, because there were some road workers on the side, and she refused to do that and stayed in the right lane. So we argued a little bit about that. How did you feel in that moment? I felt like she wasn't listening to me, and almost like she was purposely not doing what I suggested. I was like, I'm not going to do that. I'm going to be defiant. Do you do that way often? No. That's good. What are some things you like to do for fun? Rollerblade, kayak, sing. I sing in a choir. Nice. What's one of your most memorable experiences? A trip I took to India. India and Nepal for six weeks. Do you travel a lot? Yeah, as much as I can. What do you enjoy about traveling? I love to explore. I've loved to explore ever since I was a little kid. And so I love seeing new things and discovering things about new cultures, and I love backpacking in the wilderness and exploring nature. I'd love to go on a trip. Cool. Well, I went on a trip to India and Nepal. It was my first time ever there. The first week and a half I was with a big group of people and did a meditation and yoga retreat and went whitewater rafting on the Ganga River. And then I went off on my own for the rest of the trip and went backpacking in Nepal with a guide there. And it was just really beautiful. I was in the Annapurna area. And then I went back into India and explored the area up near Tibet. And then I went to Rajasthan and to Tiger Park in Madai Pradesh. It was like really close to tigers. How did you decide to do that? I was contacted by a friend of mine and told that they were going to do it. They were going on this trip. And I had always wanted to go to India. So I decided to do it. That sounds like a great situation. Yeah, it was really fun. How would your best friend describe you? Caring and enthusiastic for life. That's good. Have you ever served in the military? No. Have you ever been diagnosed with PTSD? No. Have you been diagnosed with depression? No. How easy is it for you to get a good night's sleep? Pretty easy. I don't sleep as well as I did when I was younger. But for the most part I sleep well. Once in a while I'll wake up at like 4 in the morning or 5 in the morning when I want to sleep until 7. And not be able to get back to sleep. But in general it's pretty good. What are you like when you don't sleep well? I feel tired and not as motivated as usual. And then sometimes I want to take a nap in the afternoon. Okay. Have you ever studied Chinese in your career or thought about it? No. Okay. Have you ever studied Chinese in your career or thought about it? What advice would you give yourself 10 or 20 years ago? 10 or 20 years ago. I guess too I wish I would have invested money or bought like a house or something when I was younger. That would probably be the advice I would give myself. Okay. What would you say are some of your best qualities? I am empathetic with other people. Positive and kind of have a positive outlook on life. Very determined when I decide to do something. I'll figure out how to do it even if it's challenging. I'm very creative in figuring out creative ways to do things. I guess probably the strongest thing is that I'm very creative. I'm pretty balanced. I'm very organized but I'm also pretty creative. So I'm pretty balanced that way. That's good. How close are you to your family? Pretty close. Much closer than I was when I was younger. Although I'd say I'm probably closer to friends and people that are in a spiritual community with me than I'm able to get to my family. Okay. What are some things that you would put you on a good mood? Being outdoors in nature and exercising and also singing. What are you most proud of in your life? The fact that I've gone with, followed my heart and done what I wanted to do versus going with what I think I should do. Okay. That's great. When was the last time you felt very happy? I guess yesterday. I spent the day by the beach and just bicycled and went skating and visited some old friends there. How did you feel in that moment? I felt very relaxed and invigorated. And... Um... I also felt like I missed living by the beach because I used to live really close to the beach. So I guess a little bit sad that I didn't live there anymore but really happy to be there. I understand. Okay. I think I've asked everything I needed to. Thanks for sharing your thoughts with me. Goodbye. Goodbye. Bye bye. What's your name? Okay. So I'm going to watch you dance in the booth. See you in ten minutes. Bye. Bye bye. See you tomorrow. Bye. Bye. Bye. Bye. Bye bye. Thank you.

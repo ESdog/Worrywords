@@ -1,0 +1,382 @@
+Audio Transcription
+Generated: 2026-02-06 10:42:25
+Language: en
+Speakers detected: 6
+
+==================================================
+
+[00:00:00] SPEAKER_00: Okay.
+[00:00:00] SPEAKER_00: Because it's technology that's in the works.
+[00:00:03] SPEAKER_00: Sure, sure, sure, the algorithm is all.
+[00:00:05] SPEAKER_00: We don't want you to sit here for a long time.
+[00:00:07] SPEAKER_00: Right.
+[00:00:08] SPEAKER_00: So we're just stuck so you can see her here.
+[00:00:18] SPEAKER_00: You'll see her for a second,
+[00:00:19] SPEAKER_05: and I'll shrink her back down
+[00:00:20] SPEAKER_05: while I continue sitting here.
+[00:00:32] SPEAKER_05: So another thing to mention is that,
+[00:00:35] SPEAKER_01: you know, it's natural to probably want to ask her
+[00:00:37] SPEAKER_01: some questions too.
+[00:00:38] SPEAKER_01: Some people want to ask her questions,
+[00:00:39] SPEAKER_01: but unfortunately the technology is not quite there yet.
+[00:00:41] SPEAKER_01: Sure, so I won't ask questions.
+[00:00:42] SPEAKER_01: So yeah, so.
+[00:00:43] SPEAKER_01: Okay.
+[00:00:44] SPEAKER_01: Eventually it would be great to have a full on
+[00:00:46] SPEAKER_01: actual back and forth conversation, but for now.
+[00:00:53] SPEAKER_01: Oh, and would you mind if I actually just realize
+[00:00:56] SPEAKER_01: you have gum.
+[00:00:56] SPEAKER_01: Can I have you spit that out?
+[00:00:57] SPEAKER_01: It's just to help with our speech recognition.
+[00:00:59] SPEAKER_01: No problem.
+[00:00:59] SPEAKER_01: Okay.
+[00:01:00] SPEAKER_01: Thank you.
+[00:01:17] SPEAKER_01: There you are.
+[00:01:18] SPEAKER_01: There you are.
+[00:01:20] SPEAKER_01: Okay.
+[00:01:28] SPEAKER_01: So I just answered the questions.
+[00:01:30] SPEAKER_01: Yeah.
+[00:01:30] SPEAKER_01: Okay.
+[00:01:32] SPEAKER_01: Okay, I'm going to start it in a second.
+[00:01:34] SPEAKER_01: Just when she says goodbye at the end,
+[00:01:35] SPEAKER_01: you're going to press this to let me know
+[00:01:36] SPEAKER_01: you guys are done.
+[00:01:37] SPEAKER_01: Gotcha.
+[00:01:38] SPEAKER_01: And if there's any really long pause,
+[00:01:39] SPEAKER_01: there's going to be short ones.
+[00:01:40] SPEAKER_01: You just have to bear with that one,
+[00:01:42] SPEAKER_01: but 10 seconds or longer to let me know.
+[00:01:44] SPEAKER_01: Okay.
+[00:01:44] SPEAKER_01: All right, thank you.
+[00:01:44] SPEAKER_01: Mm-hmm.
+[00:01:49] SPEAKER_01: Hi, I'm Ellie.
+[00:01:50] SPEAKER_01: Thanks for coming in today.
+[00:01:52] SPEAKER_01: Sure.
+[00:01:52] SPEAKER_01: I just created this talk for people
+[00:01:54] SPEAKER_01: in a safe and secure environment.
+[00:01:56] SPEAKER_01: I'm not a therapist,
+[00:01:58] SPEAKER_01: but I'm here to learn about people
+[00:01:59] SPEAKER_01: and the ways they can be helpful.
+[00:01:59] SPEAKER_01: 
+[00:01:59] SPEAKER_01: 
+[00:01:59] SPEAKER_01: 
+[00:01:59] SPEAKER_01: I'd love to learn about you.
+[00:02:01] SPEAKER_01: I'll ask a few questions
+[00:02:02] SPEAKER_01: to get us started.
+[00:02:03] SPEAKER_01: And please feel free to tell me
+[00:02:05] SPEAKER_00: if there's anything.
+[00:02:06] SPEAKER_00: Your answers are totally confidential.
+[00:02:10] SPEAKER_00: Okay.
+[00:02:12] SPEAKER_00: Are you okay with this?
+[00:02:13] SPEAKER_00: Yeah, I'm ready.
+[00:02:14] SPEAKER_00: I'm cool.
+[00:02:15] SPEAKER_00: Okay.
+[00:02:20] SPEAKER_00: So, how are you doing today?
+[00:02:22] SPEAKER_00: Good.
+[00:02:23] SPEAKER_00: Good.
+[00:02:23] SPEAKER_00: Nice day.
+[00:02:24] SPEAKER_00: No traffic to get here.
+[00:02:27] SPEAKER_00: So yeah, no complaints.
+[00:02:29] SPEAKER_00: Okay.
+[00:02:29] SPEAKER_00: So, how are you doing today?
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:33] SPEAKER_00: I'm good.
+[00:02:34] SPEAKER_00: I'm good.
+[00:02:37] SPEAKER_03: Okay.
+[00:02:37] SPEAKER_03: So, where are you from originally?
+[00:02:38] SPEAKER_03: The East Coast.
+[00:02:53] SPEAKER_00: What are some things you really like about LA?
+[00:02:57] SPEAKER_00: Well, the weather is fairly consistent.
+[00:02:59] SPEAKER_00: It's a very calm and nice place.
+[00:02:59] SPEAKER_00: 
+[00:02:59] SPEAKER_00: 
+[00:02:59] SPEAKER_00: 
+[00:02:59] SPEAKER_00: I like the surfing.
+[00:03:02] SPEAKER_00: Probably the most that I like about LA is the surfing, the beach, because I surf.
+[00:03:07] SPEAKER_00: Can't do that anywhere else.
+[00:03:12] SPEAKER_00: What are some things you don't really like about LA?
+[00:03:15] SPEAKER_00: Traffic, flaky people.
+[00:03:20] SPEAKER_00: Yeah, different culture than the East Coast.
+[00:03:24] SPEAKER_00: Education's more valued back East.
+[00:03:26] SPEAKER_00: So what I don't like is probably the, you know,
+[00:03:29] SPEAKER_00: the personalities of people here and traffic.
+[00:03:35] SPEAKER_00: I see what you mean.
+[00:03:39] SPEAKER_00: Do you travel a lot?
+[00:03:42] SPEAKER_00: Not currently, but I have traveled a lot in the past, but currently not really traveling.
+[00:03:52] SPEAKER_00: What do you enjoy about traveling?
+[00:03:56] SPEAKER_00: Changes the environment.
+[00:03:57] SPEAKER_00: Yeah.
+[00:03:58] SPEAKER_00: I mean, seeing different, you know, meeting different people, different cultures.
+[00:04:06] SPEAKER_00: You know, obviously depending where I'm traveling, if I'm traveling to Orange County, it's not
+[00:04:11] SPEAKER_00: an entirely different deal than here, but I mean like Europe or what have you.
+[00:04:16] SPEAKER_00: Just different cultures, different environments, seeing different things that obviously you
+[00:04:23] SPEAKER_00: couldn't see from sitting at home in your couch.
+[00:04:26] SPEAKER_00: Okay.
+[00:04:30] SPEAKER_00: I'd like to know about one of your trips.
+[00:04:33] SPEAKER_00: Name it.
+[00:04:34] SPEAKER_00: I've been to Europe many times.
+[00:04:38] SPEAKER_00: In 2003, I went to Europe for several months just traveling around and I went to places
+[00:04:45] SPEAKER_00: I'd never been before like Scandinavia and parts of Eastern Europe.
+[00:04:49] SPEAKER_00: And that was interesting because I'd never, you know, the typical Spain, Italy, London,
+[00:04:56] SPEAKER_00: France trip.
+[00:04:57] SPEAKER_00: I had done it.
+[00:04:58] SPEAKER_00: I've done it a million times, but I'd never been to Scandinavia, which is a little bit
+[00:05:03] SPEAKER_00: different than Western Europe.
+[00:05:06] SPEAKER_00: And obviously Eastern Europe is very different too.
+[00:05:13] SPEAKER_00: What's one of your most memorable experiences?
+[00:05:19] SPEAKER_00: Oh gosh, many of them.
+[00:05:25] SPEAKER_00: That's a tough question because I've had many good experiences.
+[00:05:28] SPEAKER_00: I've had a lot of good experiences.
+[00:05:28] SPEAKER_00: 
+[00:05:28] SPEAKER_00: 
+[00:05:29] SPEAKER_00: Traveling.
+[00:05:32] SPEAKER_00: Okay, not that particular trip, but running with the bulls in Pamplona, Spain.
+[00:05:36] SPEAKER_00: That's very memorable, which is actually going on right now as we speak.
+[00:05:45] SPEAKER_00: What did you study at school?
+[00:05:48] SPEAKER_00: History and political science.
+[00:05:53] SPEAKER_00: What do you do now?
+[00:05:57] SPEAKER_00: Trade.
+[00:05:58] SPEAKER_00: Trade.
+[00:05:58] SPEAKER_00: Basically.
+[00:06:01] SPEAKER_00: So, yeah, wholesale trade, if you will.
+[00:06:04] SPEAKER_00: So buying, selling.
+[00:06:09] SPEAKER_00: So I guess you could say distribution.
+[00:06:15] SPEAKER_00: All right.
+[00:06:18] SPEAKER_00: Yeah, equipment.
+[00:06:20] SPEAKER_00: My main job?
+[00:06:21] SPEAKER_00: That is my main job.
+[00:06:24] SPEAKER_00: So I guess it's logistics, you could call it.
+[00:06:27] SPEAKER_00: Yeah.
+[00:06:28] SPEAKER_00: So basically logistics of moving goods from point A to point B. Freight forwarding, you
+[00:06:37] SPEAKER_00: could call it.
+[00:06:38] SPEAKER_00: Many different variants of it.
+[00:06:46] SPEAKER_00: Are you considering yourself more shy or outgoing?
+[00:06:50] SPEAKER_00: I'm outgoing.
+[00:06:54] SPEAKER_00: Why?
+[00:06:56] SPEAKER_00: Why?
+[00:06:57] SPEAKER_00: I'm not going.
+[00:06:58] SPEAKER_00: I'm not shy.
+[00:06:59] SPEAKER_00: I'm not shy.
+[00:07:00] SPEAKER_00: I can talk to any stranger in a room, on the street.
+[00:07:04] SPEAKER_00: I'm not really afraid of people.
+[00:07:07] SPEAKER_00: I'm not nervous or afraid.
+[00:07:10] SPEAKER_00: So I'm comfortable talking to strangers.
+[00:07:14] SPEAKER_00: Not that I'm going up to every person on the street and having a conversation, but if I'm
+[00:07:19] SPEAKER_00: at a party, I don't know anybody, I can strike up a conversation very easily.
+[00:07:24] SPEAKER_00: Okay.
+[00:07:27] SPEAKER_00: Tell me about your relationship with your family.
+[00:07:32] SPEAKER_00: It's good, but I'm the only one out here.
+[00:07:35] SPEAKER_00: My family lives on the East Coast and abroad.
+[00:07:39] SPEAKER_00: So, but with technology, it's easy to communicate with email, Facebook, Skype.
+[00:07:46] SPEAKER_00: So even though distance-wise separated, it's pretty much easy and free to stay in touch.
+[00:07:54] SPEAKER_00: 
+[00:08:00] SPEAKER_00: And an easy thing I can do, because I have Facebook and Skype, is gone.
+[00:08:05] SPEAKER_00: Exactly.
+[00:08:05] SPEAKER_00: I love doing Instagram all the time, and when I use what's in the business list online,
+[00:08:15] SPEAKER_00: and I can't just sort ofDENG hem all the things, my friends and I go surfing.
+[00:08:19] SPEAKER_00: I'm not the only one.
+[00:08:20] SPEAKER_00: I've won on shared experiences with surfers, and by doing that I think we're actually
+[00:08:24] SPEAKER_00: salmon-savvys.
+[00:08:24] SPEAKER_00: 
+[00:08:24] SPEAKER_00: and that relaxes me because when I'm in the water and when I forgot whatever I was stressed out
+[00:08:33] SPEAKER_00: about I don't know if looking at a screensaver is going to do it for me I got to do something
+[00:08:39] SPEAKER_00: physical I'm good at controlling my temper I'm a very controlled person so I'm not you know you
+[00:08:57] SPEAKER_00: know for my buttons to get pushed they really have to get pushed so I don't even have a temper
+[00:09:01] SPEAKER_00: to control so it's not even an issue
+[00:09:05] SPEAKER_00: you
+[00:09:08] SPEAKER_00: know
+[00:09:09] SPEAKER_00: you
+[00:09:12] SPEAKER_00: oh probably politics argued over politics
+[00:09:18] SPEAKER_00: you know the current administration his opinion versus my opinion
+[00:09:35] SPEAKER_00: oh
+[00:09:35] SPEAKER_00: oh
+[00:09:36] SPEAKER_00: oh
+[00:09:39] SPEAKER_00: 
+[00:09:42] SPEAKER_00: there's probably a situation I handle differently I don't know that would probably be something
+[00:09:51] SPEAKER_00: related to relationship personal relationships I mean I feel guilty about
+[00:10:06] SPEAKER_00: probably having wasted
+[00:10:09] SPEAKER_00: you know I feel guilty when I waste time when I accomplished nothing and I waste time that makes me feel bad
+[00:10:22] SPEAKER_00: tell me about the hardest decision you've ever had to make
+[00:10:27] SPEAKER_00: good question
+[00:10:30] SPEAKER_00: hardest decision I've ever had to make probably breaking up with a girl
+[00:10:35] SPEAKER_00: oh
+[00:10:36] SPEAKER_00: oh
+[00:10:37] SPEAKER_00: oh
+[00:10:38] SPEAKER_00: oh
+[00:10:39] SPEAKER_00: konnte
+[00:10:39] SPEAKER_00: good question
+[00:10:45] SPEAKER_00: 
+[00:10:45] SPEAKER_00: 
+[00:10:50] SPEAKER_00: I want to go to that
+[00:10:52] SPEAKER_00: so you know there's a goal
+[00:10:56] SPEAKER_00: yes
+[00:11:00] SPEAKER_00: it's something that you've already reached
+[00:11:02] SPEAKER_00: get in there
+[00:11:02] SPEAKER_00: so I know
+[00:11:02] SPEAKER_00: and see if all your
+[00:11:08] SPEAKER_00: 22 or, yeah, probably 23.
+[00:11:13] SPEAKER_00: Why did you decide to move to the military?
+[00:11:19] SPEAKER_00: I wanted the action, the excitement.
+[00:11:25] SPEAKER_00: There was a war, a conflict going on,
+[00:11:28] SPEAKER_00: and it seemed like the right thing to do at the time.
+[00:11:32] SPEAKER_00: And it seemed like that was more
+[00:11:36] SPEAKER_00: of an important thing to do than sit in a job working.
+[00:11:45] SPEAKER_00: Are you happy with that?
+[00:11:46] SPEAKER_00: Yes, I would do it over again.
+[00:11:52] SPEAKER_00: Did you ever see combat?
+[00:11:58] SPEAKER_00: A little.
+[00:12:02] SPEAKER_00: All right.
+[00:12:05] SPEAKER_00: How easy was it for you
+[00:12:06] SPEAKER_00: to go back to civilian life?
+[00:12:09] SPEAKER_00: It was easy.
+[00:12:10] SPEAKER_00: I mean, the transition was easy.
+[00:12:12] SPEAKER_00: After I made a transition by going to graduate school
+[00:12:17] SPEAKER_00: after the military to ease into that transition.
+[00:12:20] SPEAKER_00: And that probably made it easier
+[00:12:24] SPEAKER_00: than going right from the military right to civilian life.
+[00:12:27] SPEAKER_00: So I had a transitional phase for several years.
+[00:12:35] SPEAKER_00: Okay.
+[00:12:38] SPEAKER_00: What did you do after the military?
+[00:12:40] SPEAKER_00: Started working.
+[00:12:45] SPEAKER_00: Oh, after the military?
+[00:12:47] SPEAKER_00: Oh, I'm sorry.
+[00:12:47] SPEAKER_00: After the military, I went to graduate school,
+[00:12:51] SPEAKER_00: and then I started working.
+[00:12:57] SPEAKER_00: How did serving in the military change you?
+[00:13:00] SPEAKER_00: I wouldn't say it changed me,
+[00:13:02] SPEAKER_00: because it probably just fine-tuned whatever I had.
+[00:13:06] SPEAKER_00: I was an officer, and so you can't go in,
+[00:13:10] SPEAKER_00: and you're not going in when you're 18.
+[00:13:13] SPEAKER_00: You're going in after college.
+[00:13:14] SPEAKER_00: So you got to have a little bit of discipline to go in,
+[00:13:19] SPEAKER_00: especially in the branch that I went in.
+[00:13:21] SPEAKER_00: So it didn't radically change me.
+[00:13:26] SPEAKER_00: It just basically fine-tuned me.
+[00:13:34] SPEAKER_00: You couldn't go in.
+[00:13:35] SPEAKER_00: Maybe if I went in at 18,
+[00:13:37] SPEAKER_00: it would have been something different,
+[00:13:38] SPEAKER_00: but it just fine-tuned me.
+[00:13:44] SPEAKER_00: I'm sorry.
+[00:13:46] SPEAKER_00: No, that was nothing to be sorry about.
+[00:13:51] SPEAKER_00: How have you been feeling lately?
+[00:13:54] SPEAKER_00: Fine.
+[00:13:59] SPEAKER_00: Tell me more about that.
+[00:14:02] SPEAKER_00: I've been feeling fine.
+[00:14:03] SPEAKER_00: I'm, you know, I'm not feeling too well.
+[00:14:05] SPEAKER_00: 
+[00:14:05] SPEAKER_00: You know, there's stress just like in anything,
+[00:14:08] SPEAKER_00: but I tend to have a good way of managing my stress.
+[00:14:16] SPEAKER_00: Because I guess I'm used to the stress,
+[00:14:18] SPEAKER_00: so I have learned to manage it well.
+[00:14:24] SPEAKER_00: Have you ever studied changes in your behavior or thoughts lately?
+[00:14:29] SPEAKER_00: Have I studied changes in my behavior?
+[00:14:31] SPEAKER_00: No.
+[00:14:33] SPEAKER_00: I'm pretty consistent.
+[00:14:35] SPEAKER_00: It's not like my behavior has radically changed.
+[00:14:46] SPEAKER_00: How easy is it for you to get a good next week?
+[00:14:52] SPEAKER_00: That's hit or miss.
+[00:14:53] SPEAKER_00: Sometimes it's easy and other times extremely difficult.
+[00:14:59] SPEAKER_00: So hit or miss.
+[00:15:01] SPEAKER_00: It's not a big deal.
+[00:15:01] SPEAKER_00: 
+[00:15:01] SPEAKER_00: 
+[00:15:01] SPEAKER_00: I wouldn't say it's always easy for me to get a good night's sleep.
+[00:15:05] SPEAKER_00: But, yeah, hit or miss.
+[00:15:09] SPEAKER_00: So it's not like every night I can't go to sleep,
+[00:15:12] SPEAKER_00: but if I work out enough and surf enough,
+[00:15:17] SPEAKER_00: I'm tired enough that I just sleep regardless.
+[00:15:21] SPEAKER_00: So I guess I would say it's moderately easy for me to get a good night's sleep
+[00:15:26] SPEAKER_00: if I exhaust myself appropriately.
+[00:15:34] SPEAKER_00: I'm sorry.
+[00:15:36] SPEAKER_00: Why?
+[00:15:38] SPEAKER_00: Otherwise I'll have too much energy, too much on my mind
+[00:15:42] SPEAKER_00: that I'm able to go to sleep.
+[00:15:44] SPEAKER_00: If I work out enough, surf for four hours, three hours, literally,
+[00:15:50] SPEAKER_00: I'll be so exhausted that I'll fall asleep on the couch.
+[00:15:55] SPEAKER_00: So if I don't, I'll have a lot of energy
+[00:16:00] SPEAKER_00: and I'll get antsy and I'll have a lot of thoughts going through my head
+[00:16:04] SPEAKER_00: when I'm laying down at night that it'll be hard to go to sleep
+[00:16:07] SPEAKER_00: because too much stuff is racing through my head.
+[00:16:12] SPEAKER_00: What I got to do, what I didn't do, what I need to do.
+[00:16:18] SPEAKER_00: What are you like when you don't sleep well?
+[00:16:24] SPEAKER_00: If I don't sleep well, I wouldn't say I'm irritable.
+[00:16:29] SPEAKER_00: I'm not an irritable person.
+[00:16:31] SPEAKER_00: But I just feel like crap so I'm probably not as happy when I don't sleep well.
+[00:16:38] SPEAKER_00: If I don't get a good night's sleep,
+[00:16:42] SPEAKER_00: my body feels like crap if I don't get a good night's sleep.
+[00:16:46] SPEAKER_00: You tend to eat, me personally, I tend to eat worse
+[00:16:50] SPEAKER_00: when I don't get a good night's sleep.
+[00:16:53] SPEAKER_00: I don't feel as good.
+[00:16:56] SPEAKER_00: Physically.
+[00:16:59] SPEAKER_00: Okay.
+[00:17:02] SPEAKER_00: Have you ever been diagnosed with PTSD?
+[00:17:05] SPEAKER_02: Yep.
+[00:17:17] SPEAKER_02: Have you been diagnosed with depression?
+[00:17:20] SPEAKER_00: No.
+[00:17:24] SPEAKER_00: All right.
+[00:17:27] SPEAKER_00: When was the last time you felt like you were in a coma?
+[00:17:29] SPEAKER_00: I felt really happy.
+[00:17:32] SPEAKER_00: Felt really happy.
+[00:17:34] SPEAKER_00: Hmm.
+[00:17:37] SPEAKER_00: The last time I felt really happy.
+[00:17:43] SPEAKER_00: That's great.
+[00:17:45] SPEAKER_00: Well, I didn't answer the question.
+[00:17:46] SPEAKER_00: Probably, I don't know, about a month ago
+[00:17:49] SPEAKER_00: when I caught a really good big wave.
+[00:17:52] SPEAKER_00: I felt really happy when I caught this big wave.
+[00:17:59] SPEAKER_00: Is there something that's been a positive influence in your life?
+[00:18:03] SPEAKER_00: Surfing?
+[00:18:03] SPEAKER_00: Of course it is.
+[00:18:04] SPEAKER_00: Absolutely.
+[00:18:06] SPEAKER_00: Yeah, I'm never upset or pissed off when I'm surfing.
+[00:18:10] SPEAKER_00: I'm very happy when I'm surfing.
+[00:18:11] SPEAKER_00: If I catch a big wave, very happy.
+[00:18:18] SPEAKER_00: How would your best friend describe you?
+[00:18:22] SPEAKER_00: Funny, extroverted, a lot of energy.
+[00:18:28] SPEAKER_00: Tell me the best thing you've ever done.
+[00:18:29] SPEAKER_00: 
+[00:18:29] SPEAKER_00: 
+[00:18:29] SPEAKER_00: What was something you did recently that you really enjoyed?
+[00:18:34] SPEAKER_00: Oh, yesterday, I could say surfing again,
+[00:18:38] SPEAKER_00: but I'll keep repeating myself.
+[00:18:40] SPEAKER_00: Oh, yesterday I went to Hollywood to do an independent bookstore
+[00:18:44] SPEAKER_00: where they had a book reading, and that was kind of cool.
+[00:18:52] SPEAKER_00: Nice.
+[00:18:57] SPEAKER_00: Oh, yeah.
+[00:18:57] SPEAKER_00: What were you most proud of in your life?
+[00:19:00] SPEAKER_00: My achievements, that I was in the military.
+[00:19:08] SPEAKER_00: My physical abilities I'm very proud of
+[00:19:11] SPEAKER_00: because I've worked hard to be able to, you know, do what I can do,
+[00:19:17] SPEAKER_00: surfing and other things.
+[00:19:19] SPEAKER_00: I'm a very good athlete.
+[00:19:20] SPEAKER_00: I'm proud that I'm a very good athlete
+[00:19:22] SPEAKER_00: because I've worked hard to be a good athlete.
+[00:19:28] SPEAKER_00: That's good.
+[00:19:29] SPEAKER_00: Thank you.
+[00:19:29] SPEAKER_00: 
+[00:19:29] SPEAKER_00: 
+[00:19:30] SPEAKER_00: Yeah, I guess I'm proud that I'm an intelligent person too.
+[00:19:35] SPEAKER_00: Not just whatever, born with an innate intelligence,
+[00:19:38] SPEAKER_00: but, you know, I'm fairly well educated that,
+[00:19:41] SPEAKER_00: and I've worked hard for that,
+[00:19:43] SPEAKER_00: so I'm proud that I'm an intelligent person
+[00:19:46] SPEAKER_00: because there was some work involved, you know, to get there.
+[00:19:54] SPEAKER_00: Okay, I think I've asked everything I need to.
+[00:19:56] SPEAKER_00: Okay.
+[00:19:57] SPEAKER_00: Thanks for sharing your thoughts with me.
+[00:19:59] SPEAKER_00: Sure, anytime.
+[00:20:04] SPEAKER_00: Bye.
+[00:20:04] SPEAKER_04: Bye.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ Okay. Because it's technology that's in the works. Sure, sure, sure, the algorithm is all. We don't want you to sit here for a long time. Right. So we're just stuck so you can see her here. You'll see her for a second, and I'll shrink her back down while I continue sitting here. So another thing to mention is that, you know, it's natural to probably want to ask her some questions too. Some people want to ask her questions, but unfortunately the technology is not quite there yet. Sure, so I won't ask questions. So yeah, so. Okay. Eventually it would be great to have a full on actual back and forth conversation, but for now. Oh, and would you mind if I actually just realize you have gum. Can I have you spit that out? It's just to help with our speech recognition. No problem. Okay. Thank you. There you are. There you are. Okay. So I just answered the questions. Yeah. Okay. Okay, I'm going to start it in a second. Just when she says goodbye at the end, you're going to press this to let me know you guys are done. Gotcha. And if there's any really long pause, there's going to be short ones. You just have to bear with that one, but 10 seconds or longer to let me know. Okay. All right, thank you. Mm-hmm. Hi, I'm Ellie. Thanks for coming in today. Sure. I just created this talk for people in a safe and secure environment. I'm not a therapist, but I'm here to learn about people and the ways they can be helpful. I'd love to learn about you. I'll ask a few questions to get us started. And please feel free to tell me if there's anything. Your answers are totally confidential. Okay. Are you okay with this? Yeah, I'm ready. I'm cool. Okay. So, how are you doing today? Good. Good. Nice day. No traffic to get here. So yeah, no complaints. Okay. So, how are you doing today? I'm good. I'm good. Okay. So, where are you from originally? The East Coast. What are some things you really like about LA? Well, the weather is fairly consistent. It's a very calm and nice place. I like the surfing. Probably the most that I like about LA is the surfing, the beach, because I surf. Can't do that anywhere else. What are some things you don't really like about LA? Traffic, flaky people. Yeah, different culture than the East Coast. Education's more valued back East. So what I don't like is probably the, you know, the personalities of people here and traffic. I see what you mean. Do you travel a lot? Not currently, but I have traveled a lot in the past, but currently not really traveling. What do you enjoy about traveling? Changes the environment. Yeah. I mean, seeing different, you know, meeting different people, different cultures. You know, obviously depending where I'm traveling, if I'm traveling to Orange County, it's not an entirely different deal than here, but I mean like Europe or what have you. Just different cultures, different environments, seeing different things that obviously you couldn't see from sitting at home in your couch. Okay. I'd like to know about one of your trips. Name it. I've been to Europe many times. In 2003, I went to Europe for several months just traveling around and I went to places I'd never been before like Scandinavia and parts of Eastern Europe. And that was interesting because I'd never, you know, the typical Spain, Italy, London, France trip. I had done it. I've done it a million times, but I'd never been to Scandinavia, which is a little bit different than Western Europe. And obviously Eastern Europe is very different too. What's one of your most memorable experiences? Oh gosh, many of them. That's a tough question because I've had many good experiences. I've had a lot of good experiences. Traveling. Okay, not that particular trip, but running with the bulls in Pamplona, Spain. That's very memorable, which is actually going on right now as we speak. What did you study at school? History and political science. What do you do now? Trade. Trade. Basically. So, yeah, wholesale trade, if you will. So buying, selling. So I guess you could say distribution. All right. Yeah, equipment. My main job? That is my main job. So I guess it's logistics, you could call it. Yeah. So basically logistics of moving goods from point A to point B. Freight forwarding, you could call it. Many different variants of it. Are you considering yourself more shy or outgoing? I'm outgoing. Why? Why? I'm not going. I'm not shy. I'm not shy. I can talk to any stranger in a room, on the street. I'm not really afraid of people. I'm not nervous or afraid. So I'm comfortable talking to strangers. Not that I'm going up to every person on the street and having a conversation, but if I'm at a party, I don't know anybody, I can strike up a conversation very easily. Okay. Tell me about your relationship with your family. It's good, but I'm the only one out here. My family lives on the East Coast and abroad. So, but with technology, it's easy to communicate with email, Facebook, Skype. So even though distance-wise separated, it's pretty much easy and free to stay in touch. And an easy thing I can do, because I have Facebook and Skype, is gone. Exactly. I love doing Instagram all the time, and when I use what's in the business list online, and I can't just sort ofDENG hem all the things, my friends and I go surfing. I'm not the only one. I've won on shared experiences with surfers, and by doing that I think we're actually salmon-savvys. and that relaxes me because when I'm in the water and when I forgot whatever I was stressed out about I don't know if looking at a screensaver is going to do it for me I got to do something physical I'm good at controlling my temper I'm a very controlled person so I'm not you know you know for my buttons to get pushed they really have to get pushed so I don't even have a temper to control so it's not even an issue you know you oh probably politics argued over politics you know the current administration his opinion versus my opinion oh oh oh there's probably a situation I handle differently I don't know that would probably be something related to relationship personal relationships I mean I feel guilty about probably having wasted you know I feel guilty when I waste time when I accomplished nothing and I waste time that makes me feel bad tell me about the hardest decision you've ever had to make good question hardest decision I've ever had to make probably breaking up with a girl oh oh oh oh konnte good question I want to go to that so you know there's a goal yes it's something that you've already reached get in there so I know and see if all your 22 or, yeah, probably 23. Why did you decide to move to the military? I wanted the action, the excitement. There was a war, a conflict going on, and it seemed like the right thing to do at the time. And it seemed like that was more of an important thing to do than sit in a job working. Are you happy with that? Yes, I would do it over again. Did you ever see combat? A little. All right. How easy was it for you to go back to civilian life? It was easy. I mean, the transition was easy. After I made a transition by going to graduate school after the military to ease into that transition. And that probably made it easier than going right from the military right to civilian life. So I had a transitional phase for several years. Okay. What did you do after the military? Started working. Oh, after the military? Oh, I'm sorry. After the military, I went to graduate school, and then I started working. How did serving in the military change you? I wouldn't say it changed me, because it probably just fine-tuned whatever I had. I was an officer, and so you can't go in, and you're not going in when you're 18. You're going in after college. So you got to have a little bit of discipline to go in, especially in the branch that I went in. So it didn't radically change me. It just basically fine-tuned me. You couldn't go in. Maybe if I went in at 18, it would have been something different, but it just fine-tuned me. I'm sorry. No, that was nothing to be sorry about. How have you been feeling lately? Fine. Tell me more about that. I've been feeling fine. I'm, you know, I'm not feeling too well. You know, there's stress just like in anything, but I tend to have a good way of managing my stress. Because I guess I'm used to the stress, so I have learned to manage it well. Have you ever studied changes in your behavior or thoughts lately? Have I studied changes in my behavior? No. I'm pretty consistent. It's not like my behavior has radically changed. How easy is it for you to get a good next week? That's hit or miss. Sometimes it's easy and other times extremely difficult. So hit or miss. It's not a big deal. I wouldn't say it's always easy for me to get a good night's sleep. But, yeah, hit or miss. So it's not like every night I can't go to sleep, but if I work out enough and surf enough, I'm tired enough that I just sleep regardless. So I guess I would say it's moderately easy for me to get a good night's sleep if I exhaust myself appropriately. I'm sorry. Why? Otherwise I'll have too much energy, too much on my mind that I'm able to go to sleep. If I work out enough, surf for four hours, three hours, literally, I'll be so exhausted that I'll fall asleep on the couch. So if I don't, I'll have a lot of energy and I'll get antsy and I'll have a lot of thoughts going through my head when I'm laying down at night that it'll be hard to go to sleep because too much stuff is racing through my head. What I got to do, what I didn't do, what I need to do. What are you like when you don't sleep well? If I don't sleep well, I wouldn't say I'm irritable. I'm not an irritable person. But I just feel like crap so I'm probably not as happy when I don't sleep well. If I don't get a good night's sleep, my body feels like crap if I don't get a good night's sleep. You tend to eat, me personally, I tend to eat worse when I don't get a good night's sleep. I don't feel as good. Physically. Okay. Have you ever been diagnosed with PTSD? Yep. Have you been diagnosed with depression? No. All right. When was the last time you felt like you were in a coma? I felt really happy. Felt really happy. Hmm. The last time I felt really happy. That's great. Well, I didn't answer the question. Probably, I don't know, about a month ago when I caught a really good big wave. I felt really happy when I caught this big wave. Is there something that's been a positive influence in your life? Surfing? Of course it is. Absolutely. Yeah, I'm never upset or pissed off when I'm surfing. I'm very happy when I'm surfing. If I catch a big wave, very happy. How would your best friend describe you? Funny, extroverted, a lot of energy. Tell me the best thing you've ever done. What was something you did recently that you really enjoyed? Oh, yesterday, I could say surfing again, but I'll keep repeating myself. Oh, yesterday I went to Hollywood to do an independent bookstore where they had a book reading, and that was kind of cool. Nice. Oh, yeah. What were you most proud of in your life? My achievements, that I was in the military. My physical abilities I'm very proud of because I've worked hard to be able to, you know, do what I can do, surfing and other things. I'm a very good athlete. I'm proud that I'm a very good athlete because I've worked hard to be a good athlete. That's good. Thank you. Yeah, I guess I'm proud that I'm an intelligent person too. Not just whatever, born with an innate intelligence, but, you know, I'm fairly well educated that, and I've worked hard for that, so I'm proud that I'm an intelligent person because there was some work involved, you know, to get there. Okay, I think I've asked everything I need to. Okay. Thanks for sharing your thoughts with me. Sure, anytime. Bye. Bye.

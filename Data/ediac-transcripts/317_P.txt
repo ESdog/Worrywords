@@ -1,0 +1,260 @@
+Audio Transcription
+Generated: 2026-02-03 17:26:38
+Language: en
+Speakers detected: 2
+
+==================================================
+
+[00:00:00] SPEAKER_01: Okay, so now I'm going to call the virtual human.
+[00:00:02] SPEAKER_01: She's going to chat with you for a minute.
+[00:00:04] SPEAKER_01: And then when she's done, she'll let you know.
+[00:00:06] SPEAKER_01: And then you can let me know that you're done by pressing the button again.
+[00:00:10] SPEAKER_01: Okay.
+[00:00:10] SPEAKER_01: How long is this?
+[00:00:12] SPEAKER_01: This is probably going to take about 10 to 15 minutes.
+[00:00:15] SPEAKER_01: Okay.
+[00:00:15] SPEAKER_01: Okay, thank you.
+[00:00:16] SPEAKER_01: Thanks.
+[00:00:24] SPEAKER_00: Hi, I'm Ellie.
+[00:00:25] SPEAKER_00: Thanks for coming in today.
+[00:00:27] SPEAKER_00: I was created to talk to people in a safe and secure environment.
+[00:00:31] SPEAKER_00: I'm not a therapist, but I'm here to learn about people and would love to learn about you.
+[00:00:36] SPEAKER_00: I'll ask you a few questions to get started.
+[00:00:38] SPEAKER_00: And please feel free to tell me anything.
+[00:00:41] SPEAKER_00: Your answers are totally confidential.
+[00:00:44] SPEAKER_00: Are you okay with this?
+[00:00:46] SPEAKER_00: Yes.
+[00:00:47] SPEAKER_00: Okay.
+[00:00:49] SPEAKER_01: So, how are you doing today?
+[00:00:52] SPEAKER_01: I'm okay.
+[00:00:53] SPEAKER_01: A little sleepy right now.
+[00:00:55] SPEAKER_01: Okay.
+[00:00:57] SPEAKER_01: I'm sorry to hear that.
+[00:00:59] SPEAKER_01: Where are you from originally?
+[00:01:01] SPEAKER_01: I'm from New York.
+[00:01:03] SPEAKER_01: Really?
+[00:01:05] SPEAKER_01: Why did you move to L.A.?
+[00:01:10] SPEAKER_01: I wanted a change of environment and I wanted to start over somewhere.
+[00:01:16] SPEAKER_01: When did you move to L.A.?
+[00:01:19] SPEAKER_01: About two years ago.
+[00:01:22] SPEAKER_01: How easy was it for you to get used to living in L.A.?
+[00:01:28] SPEAKER_01: It took a bit of adjustment, so I'd say it was moderately difficult.
+[00:01:37] SPEAKER_01: Why?
+[00:01:39] SPEAKER_01: Just getting used to the lifestyle, different pace, different environment, new people.
+[00:01:46] SPEAKER_01: I understand.
+[00:01:48] SPEAKER_01: What are some things you really like about L.A.?
+[00:01:54] SPEAKER_01: I like the...
+[00:01:55] SPEAKER_01: I like the...
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: 
+[00:01:57] SPEAKER_01: The nightlife and it's kind of a cosmopolitan city.
+[00:02:03] SPEAKER_01: What are some things you don't really like about L.A.?
+[00:02:12] SPEAKER_01: It's a little crowded sometimes and the traffic gets a little hectic.
+[00:02:17] SPEAKER_01: Yeah.
+[00:02:19] SPEAKER_01: How often do you go back to your hometown?
+[00:02:24] SPEAKER_01: Never.
+[00:02:24] SPEAKER_01: Never.
+[00:02:25] SPEAKER_01: Never.
+[00:02:27] SPEAKER_01: Why?
+[00:02:30] SPEAKER_01: My family...
+[00:02:32] SPEAKER_01: My parents passed away and my family and I no longer keep in touch, so I'm pretty alone.
+[00:02:37] SPEAKER_01: Yeah.
+[00:02:39] SPEAKER_01: Does that stop?
+[00:02:42] SPEAKER_01: Sometimes, yes.
+[00:02:48] SPEAKER_01: How close are you?
+[00:02:49] SPEAKER_01: Do you travel a lot?
+[00:02:50] SPEAKER_01: Do you travel a lot?
+[00:02:54] SPEAKER_01: Just locally travel since I've been here.
+[00:02:57] SPEAKER_01: What do you enjoy about traveling?
+[00:03:04] SPEAKER_01: Change of pace, new environment and relaxation and escape from reality.
+[00:03:12] SPEAKER_01: I'd love to hear about one of your trips.
+[00:03:18] SPEAKER_01: I haven't traveled in a while, but I've been moving around.
+[00:03:22] SPEAKER_01: But I...
+[00:03:24] SPEAKER_01: A long time ago I studied it.
+[00:03:26] SPEAKER_01: I was in a trip.
+[00:03:27] SPEAKER_01: I studied in Paris and that was a fun time.
+[00:03:30] SPEAKER_01: Awesome.
+[00:03:32] SPEAKER_01: What's one of your most memorable experiences?
+[00:03:42] SPEAKER_01: Probably the schools...
+[00:03:48] SPEAKER_01: Meeting new people at the schools there.
+[00:03:52] SPEAKER_01: Okay.
+[00:03:54] SPEAKER_01: You can tell us about your favorite?
+[00:03:56] SPEAKER_01: This is my favorite.
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:56] SPEAKER_01: 
+[00:03:58] SPEAKER_01: Yes, I'd say yes. Most of the time.
+[00:04:03] SPEAKER_01: Why?
+[00:04:05] SPEAKER_01: I don't know. I don't know why I'm like that. I've just always been more reserved.
+[00:04:11] SPEAKER_01: How are you at controlling your tongue size?
+[00:04:18] SPEAKER_01: Pretty good. Pretty controlled.
+[00:04:22] SPEAKER_01: What are some things that make you really mad?
+[00:04:33] SPEAKER_01: When people are doing things that don't make any sense to me.
+[00:04:38] SPEAKER_01: Can you give me an example of that?
+[00:04:46] SPEAKER_01: I don't know. When people seem to be deliberately trying to annoy me.
+[00:04:51] SPEAKER_01: Or...
+[00:04:52] SPEAKER_01: Yeah.
+[00:04:55] SPEAKER_01: I can't be more specific right now. I'm sorry.
+[00:04:59] SPEAKER_01: What do you do when you're annoyed?
+[00:05:05] SPEAKER_01: I usually try to work it out by myself somehow.
+[00:05:11] SPEAKER_01: That's good. What do you do to relax?
+[00:05:16] SPEAKER_01: I take walks and I do yoga.
+[00:05:22] SPEAKER_01: Cool.
+[00:05:24] SPEAKER_01: What do you do now?
+[00:05:30] SPEAKER_01: What do I do now for a living?
+[00:05:32] SPEAKER_01: For a living? I'm currently out of work. I used to work for the county.
+[00:05:39] SPEAKER_01: What's your dream job?
+[00:05:45] SPEAKER_01: Let's see.
+[00:05:49] SPEAKER_01: Um...
+[00:05:51] SPEAKER_01: What's your dream job?
+[00:05:54] SPEAKER_01: Um... probably...
+[00:05:59] SPEAKER_01: Doing something creative that allows me to travel at the same time.
+[00:06:06] SPEAKER_01: Okay.
+[00:06:11] SPEAKER_01: Have you ever served in the military?
+[00:06:14] SPEAKER_01: Uh... no.
+[00:06:16] SPEAKER_01: Have you ever been diagnosed with PTSD?
+[00:06:19] SPEAKER_01: Yes.
+[00:06:22] SPEAKER_01: How long ago were you diagnosed?
+[00:06:24] SPEAKER_01: Um... about... maybe 10 years ago?
+[00:06:29] SPEAKER_01: What got you to PTSD?
+[00:06:34] SPEAKER_01: Um... just feeling overwhelmed and anxious about some things that had happened.
+[00:06:39] SPEAKER_01: And, um... so I went into therapy for a while.
+[00:06:43] SPEAKER_01: Do you feel like there's a useful?
+[00:06:46] SPEAKER_01: Yes.
+[00:06:48] SPEAKER_01: Do you still go to therapy now?
+[00:06:51] SPEAKER_01: Yes.
+[00:06:52] SPEAKER_01: What sort of changes have you noticed since you've been going into therapy?
+[00:06:57] SPEAKER_01: Uh... I've been more confident and a little more at ease with myself.
+[00:07:04] SPEAKER_01: Less anxious?
+[00:07:05] SPEAKER_01: Have you been diagnosed with depression?
+[00:07:07] SPEAKER_01: Yes.
+[00:07:09] SPEAKER_01: How have you been feeling lately?
+[00:07:15] SPEAKER_01: Um... kind of... uh...
+[00:07:20] SPEAKER_01: I guess sort of... sort of depressed.
+[00:07:26] SPEAKER_01: Generally.
+[00:07:27] SPEAKER_01: Tell me more about that.
+[00:07:30] SPEAKER_01: Uh... just feeling tired and sluggish and, um... less... less motivated and less interested in things.
+[00:07:41] SPEAKER_01: I'm sorry to hear that.
+[00:07:45] SPEAKER_01: Is it uncomfortable for you to talk about this?
+[00:07:49] SPEAKER_01: Uh... yes.
+[00:07:51] SPEAKER_01: Uh... yes.
+[00:07:51] SPEAKER_01: Can you tell?
+[00:07:53] SPEAKER_01: Yes.
+[00:07:55] SPEAKER_01: 
+[00:07:55] SPEAKER_01: Yes.
+[00:07:57] SPEAKER_01: Yes.
+[00:07:58] SPEAKER_01: How would your best friend have been at you?
+[00:08:02] SPEAKER_01: Um... I guess... easygoing?
+[00:08:06] SPEAKER_01: And... um... likes to have fun sometimes?
+[00:08:10] SPEAKER_01: Yes.
+[00:08:10] SPEAKER_01: Yes.
+[00:08:11] SPEAKER_01: Yes.
+[00:08:12] SPEAKER_01: Yes.
+[00:08:13] SPEAKER_01: Yes.
+[00:08:15] SPEAKER_01: Yes.
+[00:08:17] SPEAKER_01: Yes.
+[00:08:17] SPEAKER_01: 
+[00:08:17] SPEAKER_01: Yes.
+[00:08:17] SPEAKER_01: 
+[00:08:17] SPEAKER_01: 
+[00:08:17] SPEAKER_01: 
+[00:08:17] SPEAKER_01: 
+[00:08:17] SPEAKER_01: 
+[00:08:17] SPEAKER_01: 
+[00:08:17] SPEAKER_01: 
+[00:08:17] SPEAKER_01: 
+[00:08:17] SPEAKER_01: 
+[00:08:21] SPEAKER_01: I'm smart and innovative and like to try new things. Very open-minded person. Very tolerant.
+[00:08:29] SPEAKER_01: That's great. What are some things that usually happen in a good mood?
+[00:08:42] SPEAKER_01: Music, seeing movies, any kind of adventure somewhere.
+[00:08:47] SPEAKER_01: When was the last time that happened?
+[00:08:54] SPEAKER_01: I'd say yesterday I saw a movie and I felt better.
+[00:08:57] SPEAKER_01: What was it about?
+[00:08:59] SPEAKER_01: It was the James Bond movie, Skyfall.
+[00:09:02] SPEAKER_01: Awesome.
+[00:09:03] SPEAKER_01: Yeah.
+[00:09:06] SPEAKER_01: Is there anything you regret?
+[00:09:13] SPEAKER_01: Regret? Yes. Yeah.
+[00:09:18] SPEAKER_01: What advice would you give yourself 10 or 20 years ago?
+[00:09:27] SPEAKER_01: Because...
+[00:09:34] SPEAKER_01: Be careful who you trust in life, maybe.
+[00:09:39] SPEAKER_01: Have you done anything to avoid it?
+[00:09:45] SPEAKER_01: It doesn't seem like it right now, but possibly, yes.
+[00:09:56] SPEAKER_01: When was the last time you felt really happy?
+[00:10:01] SPEAKER_01: Um...
+[00:10:02] SPEAKER_01: Yeah.
+[00:10:05] SPEAKER_01: I'd say maybe 10 years ago or so.
+[00:10:10] SPEAKER_01: Tell me more about that.
+[00:10:14] SPEAKER_01: Um...
+[00:10:16] SPEAKER_01: It was just a more carefree time.
+[00:10:19] SPEAKER_01: I had less stress, less of a burden on myself.
+[00:10:21] SPEAKER_01: Um...
+[00:10:23] SPEAKER_01: And I had a good group of friends.
+[00:10:26] SPEAKER_01: How did you feel in that moment?
+[00:10:31] SPEAKER_01: Um...
+[00:10:34] SPEAKER_01: I felt more, um...
+[00:10:40] SPEAKER_01: More capable and more competent about things.
+[00:10:44] SPEAKER_01: Who's some of the positive influence in your life?
+[00:10:52] SPEAKER_01: I'd say, uh...
+[00:10:58] SPEAKER_01: I can't think of anyone actually right now.
+[00:11:02] SPEAKER_01: Okay.
+[00:11:04] SPEAKER_01: When was the last time you argued with someone?
+[00:11:06] SPEAKER_01: And what was it about?
+[00:11:11] SPEAKER_01: Um...
+[00:11:16] SPEAKER_01: Friends about money issues, spending too much.
+[00:11:22] SPEAKER_01: I don't know.
+[00:11:22] SPEAKER_01: I don't think I ever had anyone in my life who was like,
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: But I just felt like I was...
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: 
+[00:11:23] SPEAKER_01: I know.
+[00:11:23] SPEAKER_01: That sounds really hard.
+[00:11:27] SPEAKER_01: How do you know them?
+[00:11:32] SPEAKER_01: Through school a long time ago.
+[00:11:36] SPEAKER_01: How close are you to them?
+[00:11:39] SPEAKER_01: We just speak on the phone.
+[00:11:41] SPEAKER_01: We don't really see each other anymore.
+[00:11:46] SPEAKER_01: Oh, okay.
+[00:11:56] SPEAKER_00: What are you most proud of in your life?
+[00:12:04] SPEAKER_01: I'd say finishing grad school and finishing some training at a seamanship maritime school.
+[00:12:17] SPEAKER_01: What do you study at school?
+[00:12:20] SPEAKER_01: Visual studies, cinema studies.
+[00:12:25] SPEAKER_01: That sounds amazing.
+[00:12:27] SPEAKER_01: Yes.
+[00:12:30] SPEAKER_01: Okay, I think I've asked everything I need to.
+[00:12:34] SPEAKER_00: Thanks for sharing your thoughts with me.
+[00:12:36] SPEAKER_00: Goodbye.
+[00:12:38] SPEAKER_00: Thank you. Goodbye.
+[00:13:02] SPEAKER_00: Thank you.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ Okay, so now I'm going to call the virtual human. She's going to chat with you for a minute. And then when she's done, she'll let you know. And then you can let me know that you're done by pressing the button again. Okay. How long is this? This is probably going to take about 10 to 15 minutes. Okay. Okay, thank you. Thanks. Hi, I'm Ellie. Thanks for coming in today. I was created to talk to people in a safe and secure environment. I'm not a therapist, but I'm here to learn about people and would love to learn about you. I'll ask you a few questions to get started. And please feel free to tell me anything. Your answers are totally confidential. Are you okay with this? Yes. Okay. So, how are you doing today? I'm okay. A little sleepy right now. Okay. I'm sorry to hear that. Where are you from originally? I'm from New York. Really? Why did you move to L.A.? I wanted a change of environment and I wanted to start over somewhere. When did you move to L.A.? About two years ago. How easy was it for you to get used to living in L.A.? It took a bit of adjustment, so I'd say it was moderately difficult. Why? Just getting used to the lifestyle, different pace, different environment, new people. I understand. What are some things you really like about L.A.? I like the... I like the... The nightlife and it's kind of a cosmopolitan city. What are some things you don't really like about L.A.? It's a little crowded sometimes and the traffic gets a little hectic. Yeah. How often do you go back to your hometown? Never. Never. Never. Why? My family... My parents passed away and my family and I no longer keep in touch, so I'm pretty alone. Yeah. Does that stop? Sometimes, yes. How close are you? Do you travel a lot? Do you travel a lot? Just locally travel since I've been here. What do you enjoy about traveling? Change of pace, new environment and relaxation and escape from reality. I'd love to hear about one of your trips. I haven't traveled in a while, but I've been moving around. But I... A long time ago I studied it. I was in a trip. I studied in Paris and that was a fun time. Awesome. What's one of your most memorable experiences? Probably the schools... Meeting new people at the schools there. Okay. You can tell us about your favorite? This is my favorite. Yes, I'd say yes. Most of the time. Why? I don't know. I don't know why I'm like that. I've just always been more reserved. How are you at controlling your tongue size? Pretty good. Pretty controlled. What are some things that make you really mad? When people are doing things that don't make any sense to me. Can you give me an example of that? I don't know. When people seem to be deliberately trying to annoy me. Or... Yeah. I can't be more specific right now. I'm sorry. What do you do when you're annoyed? I usually try to work it out by myself somehow. That's good. What do you do to relax? I take walks and I do yoga. Cool. What do you do now? What do I do now for a living? For a living? I'm currently out of work. I used to work for the county. What's your dream job? Let's see. Um... What's your dream job? Um... probably... Doing something creative that allows me to travel at the same time. Okay. Have you ever served in the military? Uh... no. Have you ever been diagnosed with PTSD? Yes. How long ago were you diagnosed? Um... about... maybe 10 years ago? What got you to PTSD? Um... just feeling overwhelmed and anxious about some things that had happened. And, um... so I went into therapy for a while. Do you feel like there's a useful? Yes. Do you still go to therapy now? Yes. What sort of changes have you noticed since you've been going into therapy? Uh... I've been more confident and a little more at ease with myself. Less anxious? Have you been diagnosed with depression? Yes. How have you been feeling lately? Um... kind of... uh... I guess sort of... sort of depressed. Generally. Tell me more about that. Uh... just feeling tired and sluggish and, um... less... less motivated and less interested in things. I'm sorry to hear that. Is it uncomfortable for you to talk about this? Uh... yes. Uh... yes. Can you tell? Yes. Yes. Yes. How would your best friend have been at you? Um... I guess... easygoing? And... um... likes to have fun sometimes? Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. I'm smart and innovative and like to try new things. Very open-minded person. Very tolerant. That's great. What are some things that usually happen in a good mood? Music, seeing movies, any kind of adventure somewhere. When was the last time that happened? I'd say yesterday I saw a movie and I felt better. What was it about? It was the James Bond movie, Skyfall. Awesome. Yeah. Is there anything you regret? Regret? Yes. Yeah. What advice would you give yourself 10 or 20 years ago? Because... Be careful who you trust in life, maybe. Have you done anything to avoid it? It doesn't seem like it right now, but possibly, yes. When was the last time you felt really happy? Um... Yeah. I'd say maybe 10 years ago or so. Tell me more about that. Um... It was just a more carefree time. I had less stress, less of a burden on myself. Um... And I had a good group of friends. How did you feel in that moment? Um... I felt more, um... More capable and more competent about things. Who's some of the positive influence in your life? I'd say, uh... I can't think of anyone actually right now. Okay. When was the last time you argued with someone? And what was it about? Um... Friends about money issues, spending too much. I don't know. I don't think I ever had anyone in my life who was like, But I just felt like I was... I know. That sounds really hard. How do you know them? Through school a long time ago. How close are you to them? We just speak on the phone. We don't really see each other anymore. Oh, okay. What are you most proud of in your life? I'd say finishing grad school and finishing some training at a seamanship maritime school. What do you study at school? Visual studies, cinema studies. That sounds amazing. Yes. Okay, I think I've asked everything I need to. Thanks for sharing your thoughts with me. Goodbye. Thank you. Goodbye. Thank you.

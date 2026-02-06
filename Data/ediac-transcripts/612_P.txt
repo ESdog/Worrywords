@@ -1,0 +1,296 @@
+Audio Transcription
+Generated: 2026-02-06 10:36:33
+Language: en
+Speakers detected: 5
+
+==================================================
+
+[00:00:00] SPEAKER_03: But as she gets started up, I'll tell you what we're doing.
+[00:00:01] SPEAKER_03: So research has shown that talking about your problems out loud can have long-term benefits.
+[00:00:06] SPEAKER_03: So we're trying to explore how we can use technology to improve that process.
+[00:00:10] SPEAKER_03: Okay.
+[00:00:10] SPEAKER_03: So our virtual human uses artificial intelligence to have a conversation with you
+[00:00:14] SPEAKER_03: while still preserving your anonymity.
+[00:00:16] SPEAKER_03: So I'll explain to you a little bit more about what I mean here.
+[00:00:20] SPEAKER_03: So this is Ellie.
+[00:00:21] SPEAKER_03: She's going to ask you some questions, and then you're just going to answer normally
+[00:00:23] SPEAKER_03: by talking into the microphone.
+[00:00:25] SPEAKER_03: She's going to use speech recognition technology to understand what you say,
+[00:00:28] SPEAKER_03: and then she's going to use a very complex series of equations to figure out
+[00:00:32] SPEAKER_03: the way to respond to you and keep the conversation going.
+[00:00:35] SPEAKER_03: Oh, there she goes.
+[00:00:37] SPEAKER_03: All right.
+[00:00:39] SPEAKER_03: She also uses software that incorporates the Xbox Kinect and the webcam
+[00:00:43] SPEAKER_03: to recognize your facial expressions and posture,
+[00:00:46] SPEAKER_03: so she can try to take your feelings into account as the interview progresses as well.
+[00:00:50] SPEAKER_03: Okay.
+[00:00:50] SPEAKER_03: Okay.
+[00:00:51] SPEAKER_03: So I'm going to wait for a couple other things to start up here.
+[00:00:55] SPEAKER_03: And the way that it will work is when I leave the room,
+[00:00:58] SPEAKER_03: she's going to start.
+[00:00:58] SPEAKER_03: She's going to start asking you questions, and then when she's done,
+[00:01:00] SPEAKER_03: she's going to say goodbye, and you're going to press this button
+[00:01:02] SPEAKER_03: to let me know you guys are done.
+[00:01:03] SPEAKER_03: Okay.
+[00:01:04] SPEAKER_03: So I know it's natural.
+[00:01:06] SPEAKER_03: You're going to maybe want to ask her some questions,
+[00:01:08] SPEAKER_03: but the technology is not quite there yet.
+[00:01:11] SPEAKER_03: So she'll ask you some things, but unfortunately,
+[00:01:13] SPEAKER_03: she probably can't answer too many questions about herself,
+[00:01:16] SPEAKER_03: so you can let her do the asking.
+[00:01:18] SPEAKER_03: Okay.
+[00:01:20] SPEAKER_03: And just based on prior experience,
+[00:01:22] SPEAKER_03: if there's a period of time where she takes more than about 10 seconds,
+[00:01:28] SPEAKER_03: to answer you, and she's not moving on, go ahead and press this button.
+[00:01:32] SPEAKER_03: Oh, it froze or something?
+[00:01:33] SPEAKER_03: Yeah.
+[00:01:33] SPEAKER_03: Hopefully that doesn't happen, but it's happened recently,
+[00:01:36] SPEAKER_03: and I don't want to have that happen to you.
+[00:01:38] SPEAKER_03: So I don't want you to be sitting in here wondering what's happening.
+[00:01:48] SPEAKER_03: Okay.
+[00:01:50] SPEAKER_03: Okay.
+[00:01:54] SPEAKER_03: Hi.
+[00:01:55] SPEAKER_03: I'm Ellie.
+[00:01:56] SPEAKER_03: Thanks for coming in today.
+[00:01:58] SPEAKER_03: Okay.
+[00:02:01] SPEAKER_03: I'm not a therapist, but I'm here to learn about people,
+[00:02:05] SPEAKER_04: and would love to learn about you.
+[00:02:06] SPEAKER_04: I'll ask you a few questions before I get started.
+[00:02:09] SPEAKER_04: And please feel free to tell me anything.
+[00:02:11] SPEAKER_04: Your answers are totally confidential.
+[00:02:18] SPEAKER_04: Are you okay with this?
+[00:02:20] SPEAKER_02: Yes.
+[00:02:22] SPEAKER_02: Okay.
+[00:02:23] SPEAKER_02: Okay.
+[00:02:26] SPEAKER_02: So, how are you doing today?
+[00:02:28] SPEAKER_02: Good.
+[00:02:33] SPEAKER_02: Good.
+[00:02:35] SPEAKER_00: 
+[00:02:35] SPEAKER_00: California.
+[00:02:36] SPEAKER_00: 
+[00:02:54] SPEAKER_00: There's a lot to do, I guess, a lot of activities.
+[00:03:02] SPEAKER_00: I admit, it's a love story.
+[00:03:02] SPEAKER_00: What are some done to make people
+[00:03:04] SPEAKER_00: 
+[00:03:04] SPEAKER_00: Oh, the traffic's pretty bad.
+[00:03:06] SPEAKER_00: Crime.
+[00:03:09] SPEAKER_00: Oh, the traffic's pretty bad.
+[00:03:10] SPEAKER_00: Crime.
+[00:03:11] SPEAKER_00: I'm alright?
+[00:03:12] SPEAKER_00: 
+[00:03:14] SPEAKER_00: I'm good.
+[00:03:15] SPEAKER_00: Have you traveled a lot?
+[00:03:17] SPEAKER_00: Some.
+[00:03:18] SPEAKER_00: Not too much.
+[00:03:18] SPEAKER_00: Some?
+[00:03:19] SPEAKER_00: 
+[00:03:22] SPEAKER_00: What do you enjoy about traveling?
+[00:03:24] SPEAKER_00: You can see new things, experience new things.
+[00:03:31] SPEAKER_00: I'd like to hear about one of your trips.
+[00:03:34] SPEAKER_00: Well, we work with pet rescues, so I've done some local travel just to work events to help save pets.
+[00:03:42] SPEAKER_00: And that's what I like to do.
+[00:03:49] SPEAKER_00: What's one of your most memorable experiences?
+[00:03:53] SPEAKER_00: In travel?
+[00:03:57] SPEAKER_00: Whatever comes to mind.
+[00:04:00] SPEAKER_00: I was in the military for a long time.
+[00:04:03] SPEAKER_00: That's usually a big chunk of my memories.
+[00:04:07] SPEAKER_00: I was in the military over 15 years.
+[00:04:09] SPEAKER_00: So...
+[00:04:14] SPEAKER_00: What did you study at school?
+[00:04:16] SPEAKER_00: Social work.
+[00:04:21] SPEAKER_00: What do you do now?
+[00:04:23] SPEAKER_00: Now I have a small business.
+[00:04:29] SPEAKER_00: All right.
+[00:04:32] SPEAKER_00: What's your dream job?
+[00:04:34] SPEAKER_00: I think a job where I can make a difference, maybe helping pet rescues.
+[00:04:42] SPEAKER_00: Maybe also helping veterans that are in need.
+[00:04:50] SPEAKER_00: Do you consider yourself more shy or outgoing?
+[00:04:54] SPEAKER_00: Outgoing.
+[00:04:58] SPEAKER_00: Why?
+[00:04:59] SPEAKER_00: I just do a lot of things.
+[00:05:01] SPEAKER_00: I easily adapt to new people, new situations, new surroundings.
+[00:05:07] SPEAKER_00: I'm always on the go.
+[00:05:13] SPEAKER_00: Tell me about your relationship with your family.
+[00:05:17] SPEAKER_00: My relationship is pretty good.
+[00:05:18] SPEAKER_00: A lot of my family is spread out, so a lot of communication is done by the phone or internet
+[00:05:23] SPEAKER_00: now, whereas we used to be a lot closer in location than we are now.
+[00:05:35] SPEAKER_00: Sometimes when I'm feeling tense, I turn on the Fish Tank screensaver.
+[00:05:40] SPEAKER_00: Hey, I know it's not a lot of fun.
+[00:05:42] SPEAKER_00: 
+[00:05:42] SPEAKER_00: 
+[00:05:42] SPEAKER_00: I'm from Hawaii, but it's the best I've got.
+[00:05:44] SPEAKER_00: What do you do to relax?
+[00:05:48] SPEAKER_00: Actually, I like to be physically active.
+[00:05:51] SPEAKER_00: It relaxes me.
+[00:05:52] SPEAKER_00: I like to go for walks.
+[00:05:53] SPEAKER_00: I'm overweight and working on the problems from that, so I like to do that because it feels like it's a positive thing.
+[00:06:07] SPEAKER_00: How are you at controlling your temper?
+[00:06:10] SPEAKER_00: Very good.
+[00:06:11] SPEAKER_00: Very good at that.
+[00:06:15] SPEAKER_00: That's good.
+[00:06:18] SPEAKER_00: When was the last time you argued with someone, and what was it about?
+[00:06:26] SPEAKER_00: Tell me more about that.
+[00:06:28] SPEAKER_00: I can't even think of anything.
+[00:06:32] SPEAKER_00: It's been so long.
+[00:06:33] SPEAKER_00: It's been a long time.
+[00:06:37] SPEAKER_00: Tell me about a situation that you wish you would handle differently.
+[00:06:45] SPEAKER_00: There's been times where things like I maybe didn't work as hard at something as I should have, perhaps.
+[00:06:54] SPEAKER_00: Okay.
+[00:06:58] SPEAKER_00: What's something you feel guilty about?
+[00:07:03] SPEAKER_00: I didn't finish my college education, and I kind of feel bad.
+[00:07:06] SPEAKER_00: Like I let people down.
+[00:07:08] SPEAKER_00: Okay.
+[00:07:14] SPEAKER_00: Tell me about the hardest decision you've ever had to make.
+[00:07:22] SPEAKER_00: I really don't know.
+[00:07:25] SPEAKER_00: Most things have come pretty easy for me.
+[00:07:27] SPEAKER_00: I don't really – I haven't really – I've been fortunate not to really be placed in a situation where I had to make a really difficult decision.
+[00:07:35] SPEAKER_00: Okay.
+[00:07:43] SPEAKER_00: Tell me about an event or something that you wish you could erase from your memory.
+[00:07:49] SPEAKER_00: My parents were divorced when I was young.
+[00:07:51] SPEAKER_00: Maybe that would be it.
+[00:07:59] SPEAKER_00: Have you ever served in the military?
+[00:08:01] SPEAKER_00: Yes.
+[00:08:04] SPEAKER_00: Okay.
+[00:08:05] SPEAKER_00: How old were you when you joined the military?
+[00:08:07] SPEAKER_00: Twenty-one.
+[00:08:11] SPEAKER_00: Why did you decide to join the military?
+[00:08:13] SPEAKER_00: I always wanted to do it, and I was engaged to be married, and I thought it would be a good opportunity.
+[00:08:22] SPEAKER_00: Are you happy you did that?
+[00:08:24] SPEAKER_00: Yes.
+[00:08:31] SPEAKER_00: Did you ever see combat?
+[00:08:32] SPEAKER_00: Yes.
+[00:08:37] SPEAKER_00: All right.
+[00:08:40] SPEAKER_00: How easy was it for you to go back to civilian life?
+[00:08:44] SPEAKER_00: Pretty easy.
+[00:08:44] SPEAKER_00: I wouldn't – I actually didn't go back into civilian life.
+[00:08:47] SPEAKER_00: I went into the Reserves.
+[00:08:49] SPEAKER_00: I was Reserves, then I went back into the Reserve.
+[00:08:52] SPEAKER_00: So I never really cut the ties with the military at that time.
+[00:09:00] SPEAKER_00: I'm sorry to hear that.
+[00:09:02] SPEAKER_00: Okay.
+[00:09:04] SPEAKER_00: What did you do after the military?
+[00:09:07] SPEAKER_00: Went back to work. Spent time with my family.
+[00:09:13] SPEAKER_00: Okay.
+[00:09:16] SPEAKER_00: How did serving in the military change you?
+[00:09:19] SPEAKER_00: I think it made me more patriotic, more honorable.
+[00:09:27] SPEAKER_00: All right.
+[00:09:30] SPEAKER_00: How have you been feeling lately?
+[00:09:32] SPEAKER_00: Pretty good.
+[00:09:37] SPEAKER_00: Tell me more about that.
+[00:09:40] SPEAKER_00: Emotionally great. My health isn't as good as it should be,
+[00:09:44] SPEAKER_00: so I'm working on that. That's one of my main focus.
+[00:09:52] SPEAKER_00: Have you noticed any changes in your behavior or thoughts lately?
+[00:09:56] SPEAKER_00: Not really.
+[00:10:03] SPEAKER_00: How easy is it for you to get a good night's sleep?
+[00:10:06] SPEAKER_00: Usually it's pretty easy. I go to bed pretty tired.
+[00:10:13] SPEAKER_00: What are you like when you don't sleep well?
+[00:10:15] SPEAKER_00: Sleepy. Worn down.
+[00:10:25] SPEAKER_00: Have you ever been diagnosed with PTSD?
+[00:10:27] SPEAKER_00: No.
+[00:10:28] SPEAKER_00: I've been diagnosed with PTSD for a long time.
+[00:10:32] SPEAKER_00: How long ago were you diagnosed?
+[00:10:34] SPEAKER_00: I was not diagnosed.
+[00:10:40] SPEAKER_00: What were your symptoms?
+[00:10:41] SPEAKER_00: I don't think I really have any symptoms of PTSD.
+[00:10:45] SPEAKER_00: I think I'm okay.
+[00:10:51] SPEAKER_00: Are they triggered by something?
+[00:10:53] SPEAKER_00: No. I don't have symptoms, I don't think.
+[00:11:01] SPEAKER_00: Can you tell me about that?
+[00:11:03] SPEAKER_00: I don't have any symptoms. I don't think I have any symptoms of PTSD.
+[00:11:07] SPEAKER_00: I know people that have PTSD or those who claim to have PTSD.
+[00:11:10] SPEAKER_00: I don't really match that.
+[00:11:17] SPEAKER_00: How do you cope with them?
+[00:11:20] SPEAKER_00: If I had symptoms, I would try to get help through the VA, I guess.
+[00:11:23] SPEAKER_00: But I don't have symptoms.
+[00:11:28] SPEAKER_00: Can you tell me about that?
+[00:11:30] SPEAKER_00: That I don't have symptoms? Sure. I don't have symptoms.
+[00:11:38] SPEAKER_00: What got you to seek help?
+[00:11:41] SPEAKER_00: I haven't sought help because I don't think I have PTSD.
+[00:11:48] SPEAKER_00: I haven't sought help because I don't think I have PTSD.
+[00:11:50] SPEAKER_00: Okay.
+[00:11:52] SPEAKER_00: Do you still go to therapy now?
+[00:11:55] SPEAKER_00: No, I don't.
+[00:12:00] SPEAKER_00: Okay.
+[00:12:04] SPEAKER_00: Do you feel therapy is useful?
+[00:12:06] SPEAKER_00: I guess so.
+[00:12:11] SPEAKER_00: Can you tell me about that?
+[00:12:13] SPEAKER_00: I think it's good to talk about things that bother you and get some professional assistance in dealing with problems.
+[00:12:18] SPEAKER_00: I think it's good to talk about things that bother you and get some professional assistance in dealing with problems.
+[00:12:22] SPEAKER_00: What sort of changes have you noticed since you've been going to therapy?
+[00:12:25] SPEAKER_00: I'm not going to therapy, so I don't really notice any changes.
+[00:12:30] SPEAKER_00: I'm not going to therapy, so I don't really notice any changes.
+[00:12:37] SPEAKER_00: When was the last time you felt really happy?
+[00:12:40] SPEAKER_00: When was the last time you felt really happy?
+[00:12:41] SPEAKER_00: This week.
+[00:12:42] SPEAKER_00: This week.
+[00:12:46] SPEAKER_00: Tell me more about that.
+[00:12:47] SPEAKER_00: Tell me more about that.
+[00:12:48] SPEAKER_00: Just working for a pet rescue event that I'm working on.
+[00:12:55] SPEAKER_00: I've got some good accomplishments on there that are new.
+[00:13:02] SPEAKER_00: I've got some good accomplishments on there that are new.
+[00:13:02] SPEAKER_00: New leads for help to help me help the pet.
+[00:13:06] SPEAKER_00: 
+[00:13:10] SPEAKER_00: Whose side of it's been a positive influence in your life?
+[00:13:13] SPEAKER_00: I'm sorry, I didn't understand.
+[00:13:14] SPEAKER_00: Whose side of it's been a positive influence I've had?
+[00:13:19] SPEAKER_00: I think that's what you said.
+[00:13:20] SPEAKER_00: Can you tell me about that?
+[00:13:21] SPEAKER_00: That must have been what you said.
+[00:13:23] SPEAKER_00: My family, a lot of my family members have been very positive in my life.
+[00:13:27] SPEAKER_00: It helped me very much when I came back from the military.
+[00:13:36] SPEAKER_00: How do your best friends grab you?
+[00:13:39] SPEAKER_00: Outgoing, fun, nice, hardworking.
+[00:13:44] SPEAKER_00: That's good.
+[00:13:47] SPEAKER_00: Tell me about something you did recently that you really enjoyed.
+[00:13:54] SPEAKER_00: I played tennis the other day.
+[00:13:56] SPEAKER_00: I love to play tennis.
+[00:13:57] SPEAKER_00: It's a lot of fun.
+[00:14:00] SPEAKER_00: I enjoy simple things.
+[00:14:05] SPEAKER_00: Nice.
+[00:14:09] SPEAKER_00: What are you most proud of in your life?
+[00:14:12] SPEAKER_00: Serving my country was a big part.
+[00:14:14] SPEAKER_00: I think I was a little bit more of a fan of my country.
+[00:14:15] SPEAKER_00: Most proud of, I don't really know.
+[00:14:17] SPEAKER_00: I haven't really accomplished anything monumental yet.
+[00:14:21] SPEAKER_00: I hope I still have time.
+[00:14:26] SPEAKER_00: Okay.
+[00:14:26] SPEAKER_00: I think I've asked everything I need to.
+[00:14:29] SPEAKER_00: Thanks for sharing your thoughts with me.
+[00:14:32] SPEAKER_00: Okay.
+[00:14:33] SPEAKER_00: Thank you.
+[00:14:33] SPEAKER_00: Bye.
+[00:14:34] SPEAKER_00: Bye.
+[00:14:35] SPEAKER_01: Okay.
+[00:14:35] SPEAKER_01: 
+[00:14:35] SPEAKER_01: 
+[00:14:35] SPEAKER_01: 
+[00:14:35] SPEAKER_01: 
+[00:14:35] SPEAKER_01: 
+[00:14:35] SPEAKER_01: 
+[00:14:35] SPEAKER_01: 
+[00:14:35] SPEAKER_01: 
+[00:14:35] SPEAKER_01: Bye.
+[00:14:36] SPEAKER_01: Bye.
+[00:14:36] SPEAKER_01: Bye.
+[00:14:37] SPEAKER_01: Bye.
+[00:14:37] SPEAKER_01: Bye.
+[00:14:39] SPEAKER_01: Bye.
+[00:14:40] SPEAKER_01: Bye.
+[00:14:46] SPEAKER_01: Bye.
+[00:14:46] SPEAKER_01: Okay.
+[00:14:48] SPEAKER_01: Okay.
+[00:14:49] SPEAKER_01: Okay.
+[00:14:50] SPEAKER_01: Thank you very much.
+[00:14:50] SPEAKER_01: 
+[00:14:50] SPEAKER_01: 
+[00:14:50] SPEAKER_01: 
+[00:14:50] SPEAKER_01: 
+[00:14:50] SPEAKER_01: 
+[00:14:50] SPEAKER_01: 
+[00:14:50] SPEAKER_01: 
+[00:14:50] SPEAKER_01: 
+
+==================================================
+FULL TRANSCRIPTION:
+
+ But as she gets started up, I'll tell you what we're doing. So research has shown that talking about your problems out loud can have long-term benefits. So we're trying to explore how we can use technology to improve that process. Okay. So our virtual human uses artificial intelligence to have a conversation with you while still preserving your anonymity. So I'll explain to you a little bit more about what I mean here. So this is Ellie. She's going to ask you some questions, and then you're just going to answer normally by talking into the microphone. She's going to use speech recognition technology to understand what you say, and then she's going to use a very complex series of equations to figure out the way to respond to you and keep the conversation going. Oh, there she goes. All right. She also uses software that incorporates the Xbox Kinect and the webcam to recognize your facial expressions and posture, so she can try to take your feelings into account as the interview progresses as well. Okay. Okay. So I'm going to wait for a couple other things to start up here. And the way that it will work is when I leave the room, she's going to start. She's going to start asking you questions, and then when she's done, she's going to say goodbye, and you're going to press this button to let me know you guys are done. Okay. So I know it's natural. You're going to maybe want to ask her some questions, but the technology is not quite there yet. So she'll ask you some things, but unfortunately, she probably can't answer too many questions about herself, so you can let her do the asking. Okay. And just based on prior experience, if there's a period of time where she takes more than about 10 seconds, to answer you, and she's not moving on, go ahead and press this button. Oh, it froze or something? Yeah. Hopefully that doesn't happen, but it's happened recently, and I don't want to have that happen to you. So I don't want you to be sitting in here wondering what's happening. Okay. Okay. Hi. I'm Ellie. Thanks for coming in today. Okay. I'm not a therapist, but I'm here to learn about people, and would love to learn about you. I'll ask you a few questions before I get started. And please feel free to tell me anything. Your answers are totally confidential. Are you okay with this? Yes. Okay. Okay. So, how are you doing today? Good. Good. California. There's a lot to do, I guess, a lot of activities. I admit, it's a love story. What are some done to make people Oh, the traffic's pretty bad. Crime. Oh, the traffic's pretty bad. Crime. I'm alright? I'm good. Have you traveled a lot? Some. Not too much. Some? What do you enjoy about traveling? You can see new things, experience new things. I'd like to hear about one of your trips. Well, we work with pet rescues, so I've done some local travel just to work events to help save pets. And that's what I like to do. What's one of your most memorable experiences? In travel? Whatever comes to mind. I was in the military for a long time. That's usually a big chunk of my memories. I was in the military over 15 years. So... What did you study at school? Social work. What do you do now? Now I have a small business. All right. What's your dream job? I think a job where I can make a difference, maybe helping pet rescues. Maybe also helping veterans that are in need. Do you consider yourself more shy or outgoing? Outgoing. Why? I just do a lot of things. I easily adapt to new people, new situations, new surroundings. I'm always on the go. Tell me about your relationship with your family. My relationship is pretty good. A lot of my family is spread out, so a lot of communication is done by the phone or internet now, whereas we used to be a lot closer in location than we are now. Sometimes when I'm feeling tense, I turn on the Fish Tank screensaver. Hey, I know it's not a lot of fun. I'm from Hawaii, but it's the best I've got. What do you do to relax? Actually, I like to be physically active. It relaxes me. I like to go for walks. I'm overweight and working on the problems from that, so I like to do that because it feels like it's a positive thing. How are you at controlling your temper? Very good. Very good at that. That's good. When was the last time you argued with someone, and what was it about? Tell me more about that. I can't even think of anything. It's been so long. It's been a long time. Tell me about a situation that you wish you would handle differently. There's been times where things like I maybe didn't work as hard at something as I should have, perhaps. Okay. What's something you feel guilty about? I didn't finish my college education, and I kind of feel bad. Like I let people down. Okay. Tell me about the hardest decision you've ever had to make. I really don't know. Most things have come pretty easy for me. I don't really – I haven't really – I've been fortunate not to really be placed in a situation where I had to make a really difficult decision. Okay. Tell me about an event or something that you wish you could erase from your memory. My parents were divorced when I was young. Maybe that would be it. Have you ever served in the military? Yes. Okay. How old were you when you joined the military? Twenty-one. Why did you decide to join the military? I always wanted to do it, and I was engaged to be married, and I thought it would be a good opportunity. Are you happy you did that? Yes. Did you ever see combat? Yes. All right. How easy was it for you to go back to civilian life? Pretty easy. I wouldn't – I actually didn't go back into civilian life. I went into the Reserves. I was Reserves, then I went back into the Reserve. So I never really cut the ties with the military at that time. I'm sorry to hear that. Okay. What did you do after the military? Went back to work. Spent time with my family. Okay. How did serving in the military change you? I think it made me more patriotic, more honorable. All right. How have you been feeling lately? Pretty good. Tell me more about that. Emotionally great. My health isn't as good as it should be, so I'm working on that. That's one of my main focus. Have you noticed any changes in your behavior or thoughts lately? Not really. How easy is it for you to get a good night's sleep? Usually it's pretty easy. I go to bed pretty tired. What are you like when you don't sleep well? Sleepy. Worn down. Have you ever been diagnosed with PTSD? No. I've been diagnosed with PTSD for a long time. How long ago were you diagnosed? I was not diagnosed. What were your symptoms? I don't think I really have any symptoms of PTSD. I think I'm okay. Are they triggered by something? No. I don't have symptoms, I don't think. Can you tell me about that? I don't have any symptoms. I don't think I have any symptoms of PTSD. I know people that have PTSD or those who claim to have PTSD. I don't really match that. How do you cope with them? If I had symptoms, I would try to get help through the VA, I guess. But I don't have symptoms. Can you tell me about that? That I don't have symptoms? Sure. I don't have symptoms. What got you to seek help? I haven't sought help because I don't think I have PTSD. I haven't sought help because I don't think I have PTSD. Okay. Do you still go to therapy now? No, I don't. Okay. Do you feel therapy is useful? I guess so. Can you tell me about that? I think it's good to talk about things that bother you and get some professional assistance in dealing with problems. I think it's good to talk about things that bother you and get some professional assistance in dealing with problems. What sort of changes have you noticed since you've been going to therapy? I'm not going to therapy, so I don't really notice any changes. I'm not going to therapy, so I don't really notice any changes. When was the last time you felt really happy? When was the last time you felt really happy? This week. This week. Tell me more about that. Tell me more about that. Just working for a pet rescue event that I'm working on. I've got some good accomplishments on there that are new. I've got some good accomplishments on there that are new. New leads for help to help me help the pet. Whose side of it's been a positive influence in your life? I'm sorry, I didn't understand. Whose side of it's been a positive influence I've had? I think that's what you said. Can you tell me about that? That must have been what you said. My family, a lot of my family members have been very positive in my life. It helped me very much when I came back from the military. How do your best friends grab you? Outgoing, fun, nice, hardworking. That's good. Tell me about something you did recently that you really enjoyed. I played tennis the other day. I love to play tennis. It's a lot of fun. I enjoy simple things. Nice. What are you most proud of in your life? Serving my country was a big part. I think I was a little bit more of a fan of my country. Most proud of, I don't really know. I haven't really accomplished anything monumental yet. I hope I still have time. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Okay. Thank you. Bye. Bye. Okay. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Okay. Okay. Okay. Thank you very much.

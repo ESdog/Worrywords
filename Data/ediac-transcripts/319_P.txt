@@ -1,0 +1,268 @@
+Audio Transcription
+Generated: 2026-02-03 17:33:13
+Language: en
+Speakers detected: 2
+
+==================================================
+
+[00:00:00] SPEAKER_00: There we go. Picking you up just fine. Now I'm going to do something that syncs our equipment.
+[00:00:11] SPEAKER_00: Syncs your equipment? What does that mean?
+[00:00:14] SPEAKER_00: Basically it means the audio and the video can get together.
+[00:00:17] SPEAKER_00: Oh, so they'll be in harmony.
+[00:00:19] SPEAKER_00: In harmony.
+[00:00:20] SPEAKER_00: Okay, alright, sounds good.
+[00:00:22] SPEAKER_00: So I'm going to pull up the virtual human, she's going to chat with you, and then when she's done, she'll let you know, and you can go ahead and ring that doorbell and let me know that you're there.
+[00:00:29] SPEAKER_00: Oh, okay.
+[00:00:32] SPEAKER_00: Alright, great.
+[00:00:41] SPEAKER_01: Hi, I'm Ellie. Thanks for coming in today.
+[00:00:44] SPEAKER_01: I was created to talk to people and stay in a secure environment.
+[00:00:48] SPEAKER_01: I'm not a therapist, but I'm here to learn about people and would love to learn about you.
+[00:00:53] SPEAKER_01: I'll ask a few questions to get started.
+[00:00:56] SPEAKER_01: And please feel free to tell me anything.
+[00:00:58] SPEAKER_01: Your answers are welcome.
+[00:01:00] SPEAKER_01: Are you okay with this?
+[00:01:02] SPEAKER_01: Sure.
+[00:01:04] SPEAKER_01: Okay.
+[00:01:06] SPEAKER_00: So, how are you doing today?
+[00:01:09] SPEAKER_00: Okay.
+[00:01:11] SPEAKER_00: That's great.
+[00:01:13] SPEAKER_00: Where are you from originally?
+[00:01:14] SPEAKER_00: Los Angeles.
+[00:01:16] SPEAKER_00: Really?
+[00:01:18] SPEAKER_00: What's the thing you really like about LA?
+[00:01:22] SPEAKER_00: Um...
+[00:01:25] SPEAKER_00: Well, that's a good question.
+[00:01:28] SPEAKER_00: Um...
+[00:01:28] SPEAKER_00: I like...
+[00:01:29] SPEAKER_00: I like the familiarity with everything.
+[00:01:31] SPEAKER_00: I know where everything is in the city.
+[00:01:34] SPEAKER_00: Mm-hmm.
+[00:01:38] SPEAKER_00: That's all I can say right now.
+[00:01:40] SPEAKER_00: Okay.
+[00:01:41] SPEAKER_00: What are some things you don't really like about LA?
+[00:01:44] SPEAKER_00: So spread out.
+[00:01:46] SPEAKER_00: It's so hard to get places.
+[00:01:50] SPEAKER_00: I see what you mean.
+[00:01:55] SPEAKER_00: Is there anything else?
+[00:01:57] SPEAKER_00: What's your dream job?
+[00:01:59] SPEAKER_00: Um...
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:02:00] SPEAKER_00: What's your dream job?
+[00:02:01] SPEAKER_00: My dream job?
+[00:02:03] SPEAKER_00: I don't think there is a dream job.
+[00:02:07] SPEAKER_00: For me, no.
+[00:02:09] SPEAKER_00: There isn't one.
+[00:02:10] SPEAKER_00: What do you do now?
+[00:02:13] SPEAKER_00: I'm, uh...
+[00:02:14] SPEAKER_00: Sort of unemployed right now.
+[00:02:20] SPEAKER_00: So am I.
+[00:02:25] SPEAKER_00: That's true.
+[00:02:26] SPEAKER_00: What did you study at school?
+[00:02:28] SPEAKER_00: I still didn't get my master's degree.
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: 
+[00:02:29] SPEAKER_00: I studied urban planning.
+[00:02:32] SPEAKER_00: Okay.
+[00:02:42] SPEAKER_00: Well, I think this school shooting thing
+[00:02:47] SPEAKER_00: and the NRA seeming to not want to budge on this gun control issue thing.
+[00:02:59] SPEAKER_00: That's it.
+[00:03:00] SPEAKER_00: What do you do when you're annoyed?
+[00:03:06] SPEAKER_00: I try to remove myself from that situation that's annoying me.
+[00:03:12] SPEAKER_00: How are you at controlling your emotions?
+[00:03:15] SPEAKER_00: I've gotten better over the years.
+[00:03:18] SPEAKER_00: Most of the time I just try to walk away
+[00:03:22] SPEAKER_00: or control my emotions in terms of just walking away.
+[00:03:30] SPEAKER_00: That's good.
+[00:03:31] SPEAKER_00: What do you do to relax?
+[00:03:39] SPEAKER_00: What's one of your most memorable experiences?
+[00:03:45] SPEAKER_00: Tell me more about that.
+[00:03:53] SPEAKER_00: Well, I have four children.
+[00:03:55] SPEAKER_00: Each birth was special.
+[00:03:57] SPEAKER_00: And...
+[00:03:57] SPEAKER_00: Yeah.
+[00:03:59] SPEAKER_00: You know, it was a unique experience each time.
+[00:04:05] SPEAKER_00: That's great.
+[00:04:09] SPEAKER_00: Do you find it easier to be a parent?
+[00:04:12] SPEAKER_00: Well, it's a lot easier now because they're all adults.
+[00:04:16] SPEAKER_00: But, you know, it was challenging.
+[00:04:20] SPEAKER_00: What's the best thing about being a parent?
+[00:04:24] SPEAKER_00: I would say seeing your children grow up to be successful
+[00:04:28] SPEAKER_00: and exceeding...
+[00:04:29] SPEAKER_00: your expectations.
+[00:04:33] SPEAKER_00: What's the hardest thing about being a parent?
+[00:04:35] SPEAKER_00: You worry all the time.
+[00:04:37] SPEAKER_00: You worry for them.
+[00:04:38] SPEAKER_00: You know, now I'm not around them as much
+[00:04:41] SPEAKER_00: and I certainly worry about them.
+[00:04:44] SPEAKER_00: That makes sense.
+[00:04:47] SPEAKER_00: When was the last time that happened to you?
+[00:04:50] SPEAKER_00: That I saw my children?
+[00:04:52] SPEAKER_00: Yes.
+[00:04:55] SPEAKER_00: When was the last time you saw your children?
+[00:04:55] SPEAKER_00: 
+[00:04:55] SPEAKER_00: Oh, about a week ago.
+[00:04:58] SPEAKER_00: How did you feel about your children?
+[00:04:59] SPEAKER_00: 
+[00:05:01] SPEAKER_00: I'm usually pretty happy when I see them.
+[00:05:05] SPEAKER_00: You know, I'm interested.
+[00:05:06] SPEAKER_00: Great.
+[00:05:07] SPEAKER_00: Yeah.
+[00:05:09] SPEAKER_00: When was the last time you argued with someone?
+[00:05:11] SPEAKER_00: And what were you about?
+[00:05:13] SPEAKER_00: Hmm...
+[00:05:15] SPEAKER_00: My girlfriend and...
+[00:05:18] SPEAKER_00: insignificant.
+[00:05:23] SPEAKER_00: Okay.
+[00:05:25] SPEAKER_00: Do you travel a lot?
+[00:05:26] SPEAKER_00: No.
+[00:05:27] SPEAKER_00: Around L.A. maybe, but that's...
+[00:05:29] SPEAKER_00: about it.
+[00:05:32] SPEAKER_00: Excuse me.
+[00:05:35] SPEAKER_00: Why?
+[00:05:37] SPEAKER_00: Why don't I travel?
+[00:05:38] SPEAKER_00: I don't have the funds to do that anymore.
+[00:05:42] SPEAKER_00: Or the health.
+[00:05:44] SPEAKER_00: Okay.
+[00:05:47] SPEAKER_00: Have you ever served in the military?
+[00:05:49] SPEAKER_00: No.
+[00:05:51] SPEAKER_00: Have you ever been diagnosed with PTSD?
+[00:05:54] SPEAKER_00: No.
+[00:05:55] SPEAKER_00: Have you been diagnosed with depression?
+[00:05:57] SPEAKER_00: Yes.
+[00:05:59] SPEAKER_00: How long did it take you to heal when you died now?
+[00:06:01] SPEAKER_00: Hmm... let's see, about a year.
+[00:06:04] SPEAKER_00: What got you to be so healthy?
+[00:06:07] SPEAKER_00: Um, recognizing that there were some things in me that...
+[00:06:11] SPEAKER_00: that were wrong.
+[00:06:13] SPEAKER_00: Did you think you had a problem before you found out?
+[00:06:16] SPEAKER_00: I knew that there was something wrong,
+[00:06:18] SPEAKER_00: because I wasn't myself.
+[00:06:21] SPEAKER_00: What were your symptoms?
+[00:06:24] SPEAKER_00: Well, you know, I was...
+[00:06:26] SPEAKER_00: always tired and...
+[00:06:28] SPEAKER_00: not excited about things anymore, and...
+[00:06:31] SPEAKER_00: kind of lethargic, you know, laying around, and...
+[00:06:36] SPEAKER_00: just not feeling myself.
+[00:06:39] SPEAKER_00: Hmm.
+[00:06:40] SPEAKER_00: How have you been feeling lately?
+[00:06:42] SPEAKER_00: About the same.
+[00:06:45] SPEAKER_00: I'm sorry to hear that.
+[00:06:47] SPEAKER_00: Do you still go to therapy now?
+[00:06:50] SPEAKER_00: Yes, I do, once a month.
+[00:06:52] SPEAKER_00: Do you still go to therapy now?
+[00:06:55] SPEAKER_00: Yeah, I do.
+[00:06:56] SPEAKER_00: I do.
+[00:07:00] SPEAKER_00: Can you tell me about that?
+[00:07:03] SPEAKER_00: Well, it's, you know, it's...
+[00:07:05] SPEAKER_00: you know, I see a psychologist, and, um...
+[00:07:08] SPEAKER_00: we talk about things, um...
+[00:07:10] SPEAKER_00: I don't really want to elaborate in detail, but...
+[00:07:13] SPEAKER_00: you know, it's...
+[00:07:13] SPEAKER_00: I seem to think that it's helpful.
+[00:07:17] SPEAKER_00: What sort of changes have you noticed in your life since then?
+[00:07:21] SPEAKER_00: Well, I think, um...
+[00:07:27] SPEAKER_00: that's a hard question.
+[00:07:28] SPEAKER_00: Let's move on, please.
+[00:07:30] SPEAKER_00: Okay.
+[00:07:31] SPEAKER_00: What are you like when you don't feel well?
+[00:07:35] SPEAKER_00: Irritable.
+[00:07:37] SPEAKER_00: Cranky.
+[00:07:40] SPEAKER_00: That sounds really hard.
+[00:07:44] SPEAKER_00: Yeah, it is.
+[00:07:46] SPEAKER_00: When was the last time you felt really happy?
+[00:07:51] SPEAKER_00: Ooh.
+[00:07:52] SPEAKER_00: That's a good question.
+[00:07:53] SPEAKER_00: It's been a while.
+[00:07:54] SPEAKER_00: I'd say...
+[00:07:56] SPEAKER_00: a year and a half, maybe.
+[00:07:59] SPEAKER_00: Can you say a little more about that?
+[00:08:01] SPEAKER_00: Mm-hmm.
+[00:08:03] SPEAKER_00: Well, there's been a lot going on in my life, you know.
+[00:08:05] SPEAKER_00: I just lost my parent, my dad, my last parent.
+[00:08:09] SPEAKER_00: Just a lot of stuff going on, so...
+[00:08:12] SPEAKER_00: I'll leave it at that.
+[00:08:14] SPEAKER_00: I see what you mean.
+[00:08:17] SPEAKER_00: What are some things that usually put you through good news?
+[00:08:21] SPEAKER_00: Hmm.
+[00:08:22] SPEAKER_00: Well, I still like sports, you know, and...
+[00:08:27] SPEAKER_00: watching a good game or something.
+[00:08:29] SPEAKER_00: It usually puts me in a good mood, particularly if my team wins.
+[00:08:33] SPEAKER_00: You know, I like USC.
+[00:08:34] SPEAKER_00: I have a nephew that's a freshman football player at USC.
+[00:08:40] SPEAKER_00: And I've been a Trojan football fan for 40 years, so...
+[00:08:45] SPEAKER_00: Nice.
+[00:08:46] SPEAKER_00: Yeah.
+[00:08:49] SPEAKER_00: What would you say is the most important thing
+[00:08:51] SPEAKER_00: to you as a footballer?
+[00:08:52] SPEAKER_00: Well, you know, I think I listen well, and...
+[00:08:57] SPEAKER_00: You know, I'm pretty much honest and straightforward.
+[00:09:04] SPEAKER_00: How would your best friend describe you?
+[00:09:07] SPEAKER_00: That's a good question.
+[00:09:08] SPEAKER_00: I don't know.
+[00:09:09] SPEAKER_00: You would have to ask her.
+[00:09:12] SPEAKER_00: Okay.
+[00:09:14] SPEAKER_00: Who's some of the sort of positive influence in your life?
+[00:09:17] SPEAKER_00: Definitely my mother.
+[00:09:19] SPEAKER_00: But she's deceased now.
+[00:09:21] SPEAKER_00: She's been deceased 10 years, but she was definitely
+[00:09:24] SPEAKER_00: a positive influence my entire life.
+[00:09:29] SPEAKER_00: That's so good to hear.
+[00:09:35] SPEAKER_00: Is there anything you regret?
+[00:09:38] SPEAKER_00: No, I have many regrets.
+[00:09:40] SPEAKER_00: Too many to name a number.
+[00:09:44] SPEAKER_00: But, you know, it's...
+[00:09:45] SPEAKER_00: You know, you have the benefit of hindsight, and...
+[00:09:49] SPEAKER_00: Yeah, I have a lot of regrets.
+[00:09:52] SPEAKER_00: What advice would you give yourself 10 or 20 years ago?
+[00:10:00] SPEAKER_00: To listen to the older people in my life, the people who cared about me,
+[00:10:05] SPEAKER_00: the people whose only interest was to guide me in the right direction.
+[00:10:11] SPEAKER_00: Okay.
+[00:10:15] SPEAKER_00: What are you most proud of in your life?
+[00:10:17] SPEAKER_00: Hmm...
+[00:10:22] SPEAKER_00: Like I said, my kids.
+[00:10:24] SPEAKER_00: I'm very proud of them.
+[00:10:32] SPEAKER_00: Okay.
+[00:10:33] SPEAKER_00: I think I've asked everything I need to.
+[00:10:35] SPEAKER_00: Thanks for sharing your thoughts with me.
+[00:10:37] SPEAKER_00: Sure.
+[00:10:38] SPEAKER_00: My pleasure.
+[00:10:39] SPEAKER_00: Bye.
+[00:10:40] SPEAKER_00: Bye.
+[00:10:42] SPEAKER_00: Bye.
+[00:10:43] SPEAKER_00: Bye.
+[00:10:43] SPEAKER_00: Bye.
+[00:10:45] SPEAKER_00: Bye.
+[00:10:47] SPEAKER_00: Bye.
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:48] SPEAKER_00: 
+[00:10:56] SPEAKER_00: Bye.
+[00:11:03] SPEAKER_00: Bye.
+[00:11:04] SPEAKER_00: Bye.
+[00:11:06] SPEAKER_00: Bye.
+[00:11:08] SPEAKER_00: easier
+
+==================================================
+FULL TRANSCRIPTION:
+
+ There we go. Picking you up just fine. Now I'm going to do something that syncs our equipment. Syncs your equipment? What does that mean? Basically it means the audio and the video can get together. Oh, so they'll be in harmony. In harmony. Okay, alright, sounds good. So I'm going to pull up the virtual human, she's going to chat with you, and then when she's done, she'll let you know, and you can go ahead and ring that doorbell and let me know that you're there. Oh, okay. Alright, great. Hi, I'm Ellie. Thanks for coming in today. I was created to talk to people and stay in a secure environment. I'm not a therapist, but I'm here to learn about people and would love to learn about you. I'll ask a few questions to get started. And please feel free to tell me anything. Your answers are welcome. Are you okay with this? Sure. Okay. So, how are you doing today? Okay. That's great. Where are you from originally? Los Angeles. Really? What's the thing you really like about LA? Um... Well, that's a good question. Um... I like... I like the familiarity with everything. I know where everything is in the city. Mm-hmm. That's all I can say right now. Okay. What are some things you don't really like about LA? So spread out. It's so hard to get places. I see what you mean. Is there anything else? What's your dream job? Um... What's your dream job? My dream job? I don't think there is a dream job. For me, no. There isn't one. What do you do now? I'm, uh... Sort of unemployed right now. So am I. That's true. What did you study at school? I still didn't get my master's degree. I studied urban planning. Okay. Well, I think this school shooting thing and the NRA seeming to not want to budge on this gun control issue thing. That's it. What do you do when you're annoyed? I try to remove myself from that situation that's annoying me. How are you at controlling your emotions? I've gotten better over the years. Most of the time I just try to walk away or control my emotions in terms of just walking away. That's good. What do you do to relax? What's one of your most memorable experiences? Tell me more about that. Well, I have four children. Each birth was special. And... Yeah. You know, it was a unique experience each time. That's great. Do you find it easier to be a parent? Well, it's a lot easier now because they're all adults. But, you know, it was challenging. What's the best thing about being a parent? I would say seeing your children grow up to be successful and exceeding... your expectations. What's the hardest thing about being a parent? You worry all the time. You worry for them. You know, now I'm not around them as much and I certainly worry about them. That makes sense. When was the last time that happened to you? That I saw my children? Yes. When was the last time you saw your children? Oh, about a week ago. How did you feel about your children? I'm usually pretty happy when I see them. You know, I'm interested. Great. Yeah. When was the last time you argued with someone? And what were you about? Hmm... My girlfriend and... insignificant. Okay. Do you travel a lot? No. Around L.A. maybe, but that's... about it. Excuse me. Why? Why don't I travel? I don't have the funds to do that anymore. Or the health. Okay. Have you ever served in the military? No. Have you ever been diagnosed with PTSD? No. Have you been diagnosed with depression? Yes. How long did it take you to heal when you died now? Hmm... let's see, about a year. What got you to be so healthy? Um, recognizing that there were some things in me that... that were wrong. Did you think you had a problem before you found out? I knew that there was something wrong, because I wasn't myself. What were your symptoms? Well, you know, I was... always tired and... not excited about things anymore, and... kind of lethargic, you know, laying around, and... just not feeling myself. Hmm. How have you been feeling lately? About the same. I'm sorry to hear that. Do you still go to therapy now? Yes, I do, once a month. Do you still go to therapy now? Yeah, I do. I do. Can you tell me about that? Well, it's, you know, it's... you know, I see a psychologist, and, um... we talk about things, um... I don't really want to elaborate in detail, but... you know, it's... I seem to think that it's helpful. What sort of changes have you noticed in your life since then? Well, I think, um... that's a hard question. Let's move on, please. Okay. What are you like when you don't feel well? Irritable. Cranky. That sounds really hard. Yeah, it is. When was the last time you felt really happy? Ooh. That's a good question. It's been a while. I'd say... a year and a half, maybe. Can you say a little more about that? Mm-hmm. Well, there's been a lot going on in my life, you know. I just lost my parent, my dad, my last parent. Just a lot of stuff going on, so... I'll leave it at that. I see what you mean. What are some things that usually put you through good news? Hmm. Well, I still like sports, you know, and... watching a good game or something. It usually puts me in a good mood, particularly if my team wins. You know, I like USC. I have a nephew that's a freshman football player at USC. And I've been a Trojan football fan for 40 years, so... Nice. Yeah. What would you say is the most important thing to you as a footballer? Well, you know, I think I listen well, and... You know, I'm pretty much honest and straightforward. How would your best friend describe you? That's a good question. I don't know. You would have to ask her. Okay. Who's some of the sort of positive influence in your life? Definitely my mother. But she's deceased now. She's been deceased 10 years, but she was definitely a positive influence my entire life. That's so good to hear. Is there anything you regret? No, I have many regrets. Too many to name a number. But, you know, it's... You know, you have the benefit of hindsight, and... Yeah, I have a lot of regrets. What advice would you give yourself 10 or 20 years ago? To listen to the older people in my life, the people who cared about me, the people whose only interest was to guide me in the right direction. Okay. What are you most proud of in your life? Hmm... Like I said, my kids. I'm very proud of them. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Sure. My pleasure. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. Bye. easier

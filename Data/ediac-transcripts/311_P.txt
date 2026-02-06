@@ -1,0 +1,219 @@
+Audio Transcription
+Generated: 2026-02-03 16:53:21
+Language: en
+Speakers detected: 2
+
+==================================================
+
+[00:00:00] SPEAKER_01: syncs our equipment.
+[00:00:10] SPEAKER_01: Now I'm going to go ahead and start the virtual human.
+[00:00:13] SPEAKER_01: She's going to chat with you for a bit,
+[00:00:15] SPEAKER_01: and then when she's finished, she'll let you know.
+[00:00:17] SPEAKER_01: And then you can go ahead and press that doorbell again
+[00:00:19] SPEAKER_01: to let me know that it's finished, okay?
+[00:00:21] SPEAKER_01: Okay.
+[00:00:22] SPEAKER_01: Okay.
+[00:00:28] SPEAKER_01: Hi, I'm Ellie.
+[00:00:30] SPEAKER_01: Thanks for coming in today.
+[00:00:31] SPEAKER_01: I was created to talk to people in a safe and secure environment.
+[00:00:35] SPEAKER_01: I'm not a therapist, but I'm here to learn about people,
+[00:00:38] SPEAKER_01: and I'd love to learn about you.
+[00:00:40] SPEAKER_01: I'll ask you a few questions to get started.
+[00:00:42] SPEAKER_01: And please feel free to contact me.
+[00:00:45] SPEAKER_01: Your answers are totally confidential.
+[00:00:48] SPEAKER_01: Are you okay with this?
+[00:00:49] SPEAKER_00: Yes.
+[00:00:50] SPEAKER_00: Okay.
+[00:00:53] SPEAKER_00: So, how are you doing today?
+[00:00:56] SPEAKER_00: Okay.
+[00:00:58] SPEAKER_00: That's good.
+[00:01:00] SPEAKER_00: Why'd you move to LA?
+[00:01:04] SPEAKER_00: Why'd I move to LA?
+[00:01:09] SPEAKER_00: Moved here a long time ago to live, to go to work.
+[00:01:14] SPEAKER_00: Where are you from originally?
+[00:01:19] SPEAKER_00: Well, Arizona and Colorado.
+[00:01:21] SPEAKER_00: Really?
+[00:01:24] SPEAKER_00: How often do you go back to your hometown?
+[00:01:27] SPEAKER_00: Don't.
+[00:01:30] SPEAKER_00: I live in L.A.
+[00:01:30] SPEAKER_00: 
+[00:01:31] SPEAKER_00: Money.
+[00:01:32] SPEAKER_00: Don't have the money for it.
+[00:01:34] SPEAKER_00: I see what you mean.
+[00:01:37] SPEAKER_00: How does it compare to L.A.?
+[00:01:40] SPEAKER_00: L.A. is much nicer.
+[00:01:43] SPEAKER_00: Yes.
+[00:01:45] SPEAKER_00: What are some things you really like about L.A.?
+[00:01:50] SPEAKER_00: The people, the movies, the ocean.
+[00:01:57] SPEAKER_00: When you wake up in the morning, there's seagulls and stuff.
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: 
+[00:01:59] SPEAKER_00: of birds, just you know, regular birds.
+[00:02:05] SPEAKER_00: What are some things you don't really like about the lake?
+[00:02:12] SPEAKER_00: The roads. The roads really have a lot of potholes.
+[00:02:21] SPEAKER_00: How easy was it for you to get used to living in LA?
+[00:02:26] SPEAKER_00: It wasn't hard to get used to. I didn't like Arizona at all. It was really nice in LA.
+[00:02:33] SPEAKER_00: That's good. Do you travel a lot?
+[00:02:39] SPEAKER_00: No.
+[00:02:42] SPEAKER_00: What do you do now?
+[00:02:44] SPEAKER_00: What do I do now? I sleep, eat, walk my dogs. That's about it.
+[00:02:53] SPEAKER_00: What's your favorite thing about the lake?
+[00:02:54] SPEAKER_00: What would be your dream job?
+[00:02:55] SPEAKER_00: What would be my dream job?
+[00:03:01] SPEAKER_00: I don't know. A screenwriter, I guess.
+[00:03:07] SPEAKER_00: Really? How hard is that?
+[00:03:14] SPEAKER_00: Well, I understand it's pretty hard to write a good screenplay.
+[00:03:22] SPEAKER_00: You can do it yourself.
+[00:03:24] SPEAKER_00: Do you have a favorite movie introvert?
+[00:03:25] SPEAKER_00: Yes.
+[00:03:29] SPEAKER_00: How are you at controlling your number?
+[00:03:34] SPEAKER_00: Very well.
+[00:03:36] SPEAKER_00: That's good. When was the last time you argued with someone, and what was it about?
+[00:03:47] SPEAKER_00: Well, I didn't argue with a real person.
+[00:03:52] SPEAKER_00: Can you say a little more about that?
+[00:03:55] SPEAKER_00: Yes. I have a person that I hear once in a while, and I talked to them, and I had an argument about them listening on my phone.
+[00:04:06] SPEAKER_00: Okay. What do you do when you're annoyed?
+[00:04:11] SPEAKER_00: Avoidance. Whatever annoys me.
+[00:04:18] SPEAKER_00: Okay. What's one of your most memorable feelings?
+[00:04:27] SPEAKER_00: Being homeless.
+[00:04:31] SPEAKER_00: Wow. That sounds really hard.
+[00:04:36] SPEAKER_00: Yes, it was.
+[00:04:37] SPEAKER_00: What was your rule in that moment?
+[00:04:41] SPEAKER_00: Well, they don't particularly like homeless people in L.A.
+[00:04:47] SPEAKER_00: Okay.
+[00:04:49] SPEAKER_00: So it's really hard if you're homeless.
+[00:04:54] SPEAKER_00: Where do you live?
+[00:04:56] SPEAKER_00: Oh, right now I live in an apartment.
+[00:04:59] SPEAKER_00: How do you like your living situation?
+[00:05:02] SPEAKER_00: I don't. I don't like the neighbors.
+[00:05:05] SPEAKER_00: I'm sorry to hear that. What's it like for you living in an apartment?
+[00:05:14] SPEAKER_00: Well, they harass you all the time. So I don't come out of the apartment.
+[00:05:20] SPEAKER_00: That's tough.
+[00:05:22] SPEAKER_00: Yeah.
+[00:05:25] SPEAKER_00: Have you done anything to avoid it?
+[00:05:29] SPEAKER_00: Well, I didn't know when I moved there that they were horrible people.
+[00:05:33] SPEAKER_00: And I've complained to management, but they don't do anything about it. They just tell me to move.
+[00:05:40] SPEAKER_00: I'm kidding.
+[00:05:48] SPEAKER_00: Have you ever been diagnosed with PTSD?
+[00:05:52] SPEAKER_00: Yes. Back in the 90s.
+[00:05:57] SPEAKER_00: What got you into this health?
+[00:06:01] SPEAKER_00: Crying all the time.
+[00:06:05] SPEAKER_00: That sounds really hard.
+[00:06:09] SPEAKER_00: Yeah.
+[00:06:09] SPEAKER_00: Did you go to the therapist for helping you?
+[00:06:12] SPEAKER_00: Yes. Yes. I was in the hospital two months ago for 15 days.
+[00:06:26] SPEAKER_00: Tell me more about that.
+[00:06:29] SPEAKER_00: I was in there for depression, for arguing with a person. That's not real.
+[00:06:38] SPEAKER_00: Really?
+[00:06:38] SPEAKER_00: Mm-hmm.
+[00:06:41] SPEAKER_00: What sort of changes have you noticed since you've been going to therapy?
+[00:06:46] SPEAKER_00: I ignore the person when I hear them.
+[00:06:49] SPEAKER_00: How hard is that?
+[00:06:52] SPEAKER_00: It's not hard anymore. It was before I was going to therapy.
+[00:06:57] SPEAKER_00: That's so good to hear. How has being in therapy affected you?
+[00:07:06] SPEAKER_00: It's helped me be more cheerful and ignore things that bother me.
+[00:07:14] SPEAKER_00: What were your symptoms?
+[00:07:19] SPEAKER_00: Sleeping all the time, eating too much, arguing, screaming at this unreal person.
+[00:07:30] SPEAKER_00: Did you think you had a problem before you found out?
+[00:07:36] SPEAKER_00: No.
+[00:07:36] SPEAKER_00: Before I found out?
+[00:07:41] SPEAKER_00: No.
+[00:07:44] SPEAKER_00: How have you been feeling lately?
+[00:07:47] SPEAKER_00: Lately, I've still been pretty depressed.
+[00:07:51] SPEAKER_00: I'm sorry to hear that. Do you feel that way often?
+[00:07:58] SPEAKER_00: Yes.
+[00:08:01] SPEAKER_00: How easy is it for you to get a good night's sleep?
+[00:08:05] SPEAKER_00: Very hard.
+[00:08:12] SPEAKER_00: Are you triggered by something?
+[00:08:16] SPEAKER_00: Well, I wake up about every two hours to go to the bathroom, or some noise wakes me up.
+[00:08:26] SPEAKER_00: So I don't sleep well. I'm tired all the time.
+[00:08:32] SPEAKER_00: How do you feel about your sleep?
+[00:08:35] SPEAKER_00: I'm not sure.
+[00:08:35] SPEAKER_00: When was the last time you felt really happy?
+[00:08:39] SPEAKER_00: Don't remember.
+[00:08:43] SPEAKER_00: What are some things that usually put you in a good mood?
+[00:08:51] SPEAKER_00: Spending time with my dog. Or dogs. I have two dogs.
+[00:08:59] SPEAKER_00: How about something you did recently that you really enjoyed?
+[00:09:06] SPEAKER_00: I can't think of anything.
+[00:09:10] SPEAKER_00: What would you say are some of your best qualities?
+[00:09:16] SPEAKER_00: I try hard.
+[00:09:21] SPEAKER_00: That's great. How would your best friend describe you?
+[00:09:27] SPEAKER_00: I have no idea. I don't know.
+[00:09:31] SPEAKER_00: I don't know. I don't know.
+[00:09:32] SPEAKER_00: I don't know. I don't know.
+[00:09:33] SPEAKER_00: 
+[00:09:33] SPEAKER_00: 
+[00:09:33] SPEAKER_00: What are you most proud of in your life?
+[00:09:37] SPEAKER_00: My kids. I have two kids. A girl and a boy.
+[00:09:44] SPEAKER_00: What's the best thing about being a parent?
+[00:09:49] SPEAKER_00: The kids. They're great.
+[00:09:54] SPEAKER_00: What's the hardest thing about being a parent?
+[00:09:57] SPEAKER_00: Trying to get them to do the right thing.
+[00:10:01] SPEAKER_00: Can you give me an example of that?
+[00:10:05] SPEAKER_00: Trying to get them to stay in school.
+[00:10:09] SPEAKER_00: I see. Do you find it easy to be a parent?
+[00:10:14] SPEAKER_00: No.
+[00:10:19] SPEAKER_00: Tell me more about that.
+[00:10:22] SPEAKER_00: Well, you try to do the right thing and it doesn't always work out.
+[00:10:29] SPEAKER_00: What's the best thing about being a parent?
+[00:10:30] SPEAKER_00: They're always proud of me, aren't they?
+[00:10:32] SPEAKER_00: Yes.
+[00:10:34] SPEAKER_00: How close are you to your family?
+[00:10:40] SPEAKER_00: Oh, well, pretty close.
+[00:10:43] SPEAKER_00: When do you think it's the new kids?
+[00:10:48] SPEAKER_00: Um, when I think of today's kids.
+[00:10:53] SPEAKER_00: Oh, they're just like any other kids.
+[00:10:58] SPEAKER_00: Kids are fine.
+[00:11:02] SPEAKER_00: Okay. Is that making your address?
+[00:11:06] SPEAKER_00: Yes, moving to the apartment I'm living in.
+[00:11:10] SPEAKER_00: So, like I said, I don't...
+[00:11:12] SPEAKER_00: What advice would you give yourself 10 or 20 years ago?
+[00:11:16] SPEAKER_00: What advice would I give myself 10 or 20 years ago?
+[00:11:21] SPEAKER_00: Um, stay away from my ex-husband.
+[00:11:25] SPEAKER_00: I don't want to talk about my ex-husband.
+[00:11:29] SPEAKER_00: Who's done a bit of positive influence in your life?
+[00:11:33] SPEAKER_00: A positive influence?
+[00:11:35] SPEAKER_00: Well, my daughter. I think my daughter has.
+[00:11:41] SPEAKER_00: Why?
+[00:11:43] SPEAKER_00: Um, because she's going to graduate from college in May.
+[00:11:48] SPEAKER_00: So she's managed to stay in school.
+[00:11:50] SPEAKER_00: And she has a child, but she's trying to do the right thing.
+[00:11:55] SPEAKER_00: Wow, that's great.
+[00:12:05] SPEAKER_00: Hmm.
+[00:12:06] SPEAKER_00: Hmm.
+[00:12:07] SPEAKER_00: 
+[00:12:08] SPEAKER_00: Hmm.
+[00:12:09] SPEAKER_00: Do you want to talk about anything else?
+[00:12:14] SPEAKER_00: Uh...
+[00:12:15] SPEAKER_00: Thank you for having me talk with you.
+[00:12:17] SPEAKER_00: Oh, okay.
+[00:12:18] SPEAKER_00: Okay. I think I want to order my new suit.
+[00:12:21] SPEAKER_00: Oh, okay.
+[00:12:22] SPEAKER_00: Okay.
+[00:12:23] SPEAKER_00: Good-bye.
+[00:12:24] SPEAKER_00: Good-bye.
+[00:12:29] SPEAKER_00: Did I ring the bell now?
+[00:12:36] SPEAKER_00: Yes?
+[00:12:37] SPEAKER_00: Okay.
+[00:12:38] SPEAKER_00: Uh...
+[00:12:39] SPEAKER_00: Uh...
+[00:12:48] SPEAKER_00: Hi.
+[00:12:51] SPEAKER_00: Yeah.
+[00:12:51] SPEAKER_00: Thank you.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ syncs our equipment. Now I'm going to go ahead and start the virtual human. She's going to chat with you for a bit, and then when she's finished, she'll let you know. And then you can go ahead and press that doorbell again to let me know that it's finished, okay? Okay. Okay. Hi, I'm Ellie. Thanks for coming in today. I was created to talk to people in a safe and secure environment. I'm not a therapist, but I'm here to learn about people, and I'd love to learn about you. I'll ask you a few questions to get started. And please feel free to contact me. Your answers are totally confidential. Are you okay with this? Yes. Okay. So, how are you doing today? Okay. That's good. Why'd you move to LA? Why'd I move to LA? Moved here a long time ago to live, to go to work. Where are you from originally? Well, Arizona and Colorado. Really? How often do you go back to your hometown? Don't. I live in L.A. Money. Don't have the money for it. I see what you mean. How does it compare to L.A.? L.A. is much nicer. Yes. What are some things you really like about L.A.? The people, the movies, the ocean. When you wake up in the morning, there's seagulls and stuff. of birds, just you know, regular birds. What are some things you don't really like about the lake? The roads. The roads really have a lot of potholes. How easy was it for you to get used to living in LA? It wasn't hard to get used to. I didn't like Arizona at all. It was really nice in LA. That's good. Do you travel a lot? No. What do you do now? What do I do now? I sleep, eat, walk my dogs. That's about it. What's your favorite thing about the lake? What would be your dream job? What would be my dream job? I don't know. A screenwriter, I guess. Really? How hard is that? Well, I understand it's pretty hard to write a good screenplay. You can do it yourself. Do you have a favorite movie introvert? Yes. How are you at controlling your number? Very well. That's good. When was the last time you argued with someone, and what was it about? Well, I didn't argue with a real person. Can you say a little more about that? Yes. I have a person that I hear once in a while, and I talked to them, and I had an argument about them listening on my phone. Okay. What do you do when you're annoyed? Avoidance. Whatever annoys me. Okay. What's one of your most memorable feelings? Being homeless. Wow. That sounds really hard. Yes, it was. What was your rule in that moment? Well, they don't particularly like homeless people in L.A. Okay. So it's really hard if you're homeless. Where do you live? Oh, right now I live in an apartment. How do you like your living situation? I don't. I don't like the neighbors. I'm sorry to hear that. What's it like for you living in an apartment? Well, they harass you all the time. So I don't come out of the apartment. That's tough. Yeah. Have you done anything to avoid it? Well, I didn't know when I moved there that they were horrible people. And I've complained to management, but they don't do anything about it. They just tell me to move. I'm kidding. Have you ever been diagnosed with PTSD? Yes. Back in the 90s. What got you into this health? Crying all the time. That sounds really hard. Yeah. Did you go to the therapist for helping you? Yes. Yes. I was in the hospital two months ago for 15 days. Tell me more about that. I was in there for depression, for arguing with a person. That's not real. Really? Mm-hmm. What sort of changes have you noticed since you've been going to therapy? I ignore the person when I hear them. How hard is that? It's not hard anymore. It was before I was going to therapy. That's so good to hear. How has being in therapy affected you? It's helped me be more cheerful and ignore things that bother me. What were your symptoms? Sleeping all the time, eating too much, arguing, screaming at this unreal person. Did you think you had a problem before you found out? No. Before I found out? No. How have you been feeling lately? Lately, I've still been pretty depressed. I'm sorry to hear that. Do you feel that way often? Yes. How easy is it for you to get a good night's sleep? Very hard. Are you triggered by something? Well, I wake up about every two hours to go to the bathroom, or some noise wakes me up. So I don't sleep well. I'm tired all the time. How do you feel about your sleep? I'm not sure. When was the last time you felt really happy? Don't remember. What are some things that usually put you in a good mood? Spending time with my dog. Or dogs. I have two dogs. How about something you did recently that you really enjoyed? I can't think of anything. What would you say are some of your best qualities? I try hard. That's great. How would your best friend describe you? I have no idea. I don't know. I don't know. I don't know. I don't know. I don't know. What are you most proud of in your life? My kids. I have two kids. A girl and a boy. What's the best thing about being a parent? The kids. They're great. What's the hardest thing about being a parent? Trying to get them to do the right thing. Can you give me an example of that? Trying to get them to stay in school. I see. Do you find it easy to be a parent? No. Tell me more about that. Well, you try to do the right thing and it doesn't always work out. What's the best thing about being a parent? They're always proud of me, aren't they? Yes. How close are you to your family? Oh, well, pretty close. When do you think it's the new kids? Um, when I think of today's kids. Oh, they're just like any other kids. Kids are fine. Okay. Is that making your address? Yes, moving to the apartment I'm living in. So, like I said, I don't... What advice would you give yourself 10 or 20 years ago? What advice would I give myself 10 or 20 years ago? Um, stay away from my ex-husband. I don't want to talk about my ex-husband. Who's done a bit of positive influence in your life? A positive influence? Well, my daughter. I think my daughter has. Why? Um, because she's going to graduate from college in May. So she's managed to stay in school. And she has a child, but she's trying to do the right thing. Wow, that's great. Hmm. Hmm. Hmm. Do you want to talk about anything else? Uh... Thank you for having me talk with you. Oh, okay. Okay. I think I want to order my new suit. Oh, okay. Okay. Good-bye. Good-bye. Did I ring the bell now? Yes? Okay. Uh... Uh... Hi. Yeah. Thank you.

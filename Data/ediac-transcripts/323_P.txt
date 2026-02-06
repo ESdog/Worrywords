@@ -1,0 +1,178 @@
+Audio Transcription
+Generated: 2026-02-03 17:50:23
+Language: en
+Speakers detected: 3
+
+==================================================
+
+[00:00:00] SPEAKER_00: Okay, looks good.
+[00:00:04] SPEAKER_00: We'll do something for our purposes.
+[00:00:22] SPEAKER_00: Okay, we'll do this a little bit later. That's okay.
+[00:00:25] SPEAKER_00: Okay.
+[00:00:26] SPEAKER_00: Okay.
+[00:00:29] SPEAKER_00: Alright, so I'm going to pull up the virtual human.
+[00:00:32] SPEAKER_00: She's going to chat with you for a bit and then when she's done she'll let you know
+[00:00:35] SPEAKER_00: and I'm going to give you the doorbell and you can ring the bell to let me know.
+[00:00:37] SPEAKER_00: Okay.
+[00:00:38] SPEAKER_00: Okay.
+[00:00:42] SPEAKER_00: Okay.
+[00:00:49] SPEAKER_00: Hi, I'm Ellie. Thanks for coming in today.
+[00:00:52] SPEAKER_00: I was created to talk with you about your instincts
+[00:00:55] SPEAKER_00: and secure information.
+[00:00:56] SPEAKER_00: I'm not a therapist, but I'm here to learn about people and would love to learn about you.
+[00:01:01] SPEAKER_00: I'll ask a few questions to get us started.
+[00:01:04] SPEAKER_00: And please feel free to comment anything.
+[00:01:06] SPEAKER_00: Your answers are totally confidential.
+[00:01:09] SPEAKER_00: Are you okay with this?
+[00:01:10] SPEAKER_00: Sure.
+[00:01:12] SPEAKER_00: Okay, so how are you doing today?
+[00:01:15] SPEAKER_00: Good.
+[00:01:16] SPEAKER_00: That's good. Where are you from originally?
+[00:01:20] SPEAKER_01: Chicago.
+[00:01:21] SPEAKER_01: Really? Why'd you move to LA?
+[00:01:24] SPEAKER_01: It's cold in Chicago.
+[00:01:27] SPEAKER_01: I see what you mean. When did you move to LA?
+[00:01:31] SPEAKER_01: Oh, I think in 90, 1989 actually.
+[00:01:37] SPEAKER_01: That's a long time. How easy was it for you to get used to living in LA?
+[00:01:42] SPEAKER_01: Oh, very simple. Very easy.
+[00:01:44] SPEAKER_01: That's good. What are some things you really like about LA?
+[00:01:49] SPEAKER_01: Oh, weather of course.
+[00:01:50] SPEAKER_01: I'm so easily located to San Diego.
+[00:01:55] SPEAKER_01: San Diego, Palm Springs, Las Vegas, San Francisco, and things I like to do.
+[00:02:01] SPEAKER_01: What are some things you don't really like about LA?
+[00:02:04] SPEAKER_01: Smog of course is bad.
+[00:02:06] SPEAKER_01: Crime, retirements should be.
+[00:02:11] SPEAKER_01: And financial, economic problems here.
+[00:02:15] SPEAKER_01: How often do you go back to your hometown?
+[00:02:18] SPEAKER_01: Every year. Thanksgiving.
+[00:02:21] SPEAKER_01: That's great. How close are you to your family?
+[00:02:24] SPEAKER_01: Very, very much so. We're a very big family.
+[00:02:28] SPEAKER_01: That's so good to hear. Do you travel a lot?
+[00:02:32] SPEAKER_01: Yes, I do. Very much in fact.
+[00:02:34] SPEAKER_01: What do you enjoy about traveling?
+[00:02:36] SPEAKER_01: I love flying on airplanes. I love visiting new places. I even like visiting different airports. Everyone's different.
+[00:02:45] SPEAKER_01: Okay. What did you study at school?
+[00:02:48] SPEAKER_01: Oh, let's see. I started off in pre-med.
+[00:02:53] SPEAKER_01: Ha ha. I ended up in physics.
+[00:03:01] SPEAKER_01: Cool. Are you still doing that?
+[00:03:04] SPEAKER_01: Yes, I teach physics. And math. And higher level math.
+[00:03:09] SPEAKER_01: How did you decide to do that?
+[00:03:11] SPEAKER_01: Well, I enjoy working with kids. I enjoy teaching. My mother was a teacher. My dad was a truant officer. And I've enjoyed it.
+[00:03:23] SPEAKER_01: Nice.
+[00:03:24] SPEAKER_01: Keeps you young.
+[00:03:27] SPEAKER_01: Yes. What's your dream job?
+[00:03:30] SPEAKER_01: My dream job? My dream job would be to be a judge.
+[00:03:35] SPEAKER_01: Really?
+[00:03:36] SPEAKER_01: Yes. In the youth court. That would be fantastic. But I should have thought of that sooner than now. So I'm not going to be able to do that.
+[00:03:49] SPEAKER_01: Do you consider yourself an introvert?
+[00:03:55] SPEAKER_01: No. Not at all.
+[00:03:56] SPEAKER_01: Why?
+[00:03:58] SPEAKER_01: I enjoy people. Being around people. I'm very talkative at times. I like to do a lot of things. And I'm very social when I do them.
+[00:04:11] SPEAKER_01: Okay. What do you do to relax?
+[00:04:14] SPEAKER_01: Believe it or not, I play bridge. I play chess. And I watch a good old, old movie.
+[00:04:22] SPEAKER_01: Awesome. What are some things that make you really mad?
+[00:04:30] SPEAKER_01: Bad drivers. Bad laws. Politics often.
+[00:04:37] SPEAKER_01: What do you do when you're annoyed?
+[00:04:39] SPEAKER_01: When I'm annoyed? You know, I really don't get annoyed that much. I just let it go. It's not worth the pain and problems it could cause.
+[00:04:49] SPEAKER_01: But I can't straighten out a problem.
+[00:04:50] SPEAKER_01: 
+[00:04:50] SPEAKER_01: If it's not a problem, let it go. Go somewhere else.
+[00:04:54] SPEAKER_01: When was the last time you argued with someone? And what was it about?
+[00:05:00] SPEAKER_01: Ooh. Always my bridge partner. But that's different. As far as anything else, I don't really argue with people. I don't argue. I don't like confrontation.
+[00:05:14] SPEAKER_01: I see what you mean.
+[00:05:17] SPEAKER_01: Who's someone that's been a positive influence on your life?
+[00:05:20] SPEAKER_01: My parents, of course. Very, very much so. I had great parents.
+[00:05:27] SPEAKER_01: Can you tell me about that?
+[00:05:32] SPEAKER_01: My parents went to Tuskegee, which is a black college. They always wanted me to go to a black college, but of course I didn't want to do that. I went to Illinois.
+[00:05:41] SPEAKER_01: So they're a very positive role model for me.
+[00:05:45] SPEAKER_01: 
+[00:05:45] SPEAKER_01: There are certain things that I don't do today because of them. I don't drink. I don't curse. I don't look down on people who do, but I don't have as much respect for people who do a lot of either one of those things.
+[00:05:57] SPEAKER_01: I love to drive. I love to travel. And my dad used to always take us someplace. Every weekend he was off, we'd go somewhere.
+[00:06:05] SPEAKER_01: Because we were in Chicago, Indiana, Michigan, some place in the area. We'd go to Michigan to pick fruit. Or we got all our dogs from puppy farms in Indiana, that kind of thing.
+[00:06:15] SPEAKER_01: Yeah.
+[00:06:15] SPEAKER_01: I had an uncle who lived in Wisconsin who was a dairy farmer. So my dad used to love to drive. And I love to drive also.
+[00:06:23] SPEAKER_01: That's so good to hear. What's one of your most memorable experiences?
+[00:06:31] SPEAKER_01: That's a hard one. I've had a lot of great experiences. I think the best one was we went, for my anniversary we went to Europe. We went to Paris.
+[00:06:43] SPEAKER_01: And we went to the United States.
+[00:06:44] SPEAKER_01: 
+[00:06:45] SPEAKER_01: We rode the Orient Express. We went from, we didn't go all the way to Istanbul. We went from London to Venice and then flew back to Paris.
+[00:06:54] SPEAKER_01: That was probably the best experience I've ever had in my life. I've never really cared for Europe because there's so much here in the United States to do and so much in America.
+[00:07:02] SPEAKER_01: And I've been to Alaska and Hawaii. But we said we'd do something different and we'd always wanted to go on the Orient Express.
+[00:07:07] SPEAKER_01: And we did that. Expensive, but a phenomenal trip. You've got to do it once. It's a once trip. Not once in a lifetime, just once.
+[00:07:16] SPEAKER_01: Awesome. Is there anything you regret?
+[00:07:23] SPEAKER_01: Not traveling more sooner. We did a lot when the kids were younger. But there are a lot of things we should have probably done we didn't do.
+[00:07:33] SPEAKER_01: I wish I'd gone to Chicago. We always go to Chicago on Thanksgiving, but I think we should have gone more than just on Thanksgiving.
+[00:07:39] SPEAKER_01: My parents come here around Christmas time, but I think we should have done a lot more.
+[00:07:45] SPEAKER_01: 
+[00:07:45] SPEAKER_01: 
+[00:07:45] SPEAKER_01: more when it comes to that.
+[00:07:46] SPEAKER_01: Have you done anything to avoid it?
+[00:07:50] SPEAKER_01: Yes, that's why it's a regret because it could have been avoided. There are things
+[00:07:55] SPEAKER_01: we could have done and we would spend our time working and more concerned about getting
+[00:07:59] SPEAKER_01: ahead than actually family and what's closest to us. I think that people should...
+[00:08:04] SPEAKER_01: I always try to also mind my own career.
+[00:08:06] SPEAKER_01: Oh yes, very definitely.
+[00:08:10] SPEAKER_01: What advice would you give yourself 10 or 20 years ago?
+[00:08:15] SPEAKER_01: Oh, that's a good question. 10 or 20 years ago. I would have said don't take things too
+[00:08:23] SPEAKER_01: seriously but don't be too relaxed over them either. Sometimes you can take things for
+[00:08:30] SPEAKER_01: granted. Never take anything for granted. Nothing is promised.
+[00:08:36] SPEAKER_01: Have you ever served in the military?
+[00:08:38] SPEAKER_01: Oh, heaven forbid. No, I have not.
+[00:08:42] SPEAKER_01: .
+[00:08:43] SPEAKER_01: Have you ever been diagnosed with PTSD?
+[00:08:47] SPEAKER_01: No, no.
+[00:08:49] SPEAKER_01: Have you been diagnosed with depression?
+[00:08:51] SPEAKER_01: No.
+[00:08:52] SPEAKER_01: How easy is it for you to get a good night's sleep?
+[00:08:56] SPEAKER_01: Very, very easy. I really have no problem with that. Once in a while if I am anxious
+[00:09:01] SPEAKER_01: about something, I have things coming up due or projects due, then I get kind of anxious
+[00:09:06] SPEAKER_01: a little bit. I don't like to be late. I don't like to make mistakes. So therefore, I'm not
+[00:09:13] SPEAKER_01: very good at that. I do have some anxiety issues which will cause me to stay up all
+[00:09:16] SPEAKER_01: night to get things done just to make sure that I have everything right.
+[00:09:21] SPEAKER_01: What are you like when you don't sleep well?
+[00:09:25] SPEAKER_01: Tired. I don't get irritable or anything. I'm just lethargic maybe. Just a little bit.
+[00:09:34] SPEAKER_01: Okay. How have you been feeling lately?
+[00:09:38] SPEAKER_01: Very good. I was up late last night so I'm kind of tired now. But I'm not really tired.
+[00:09:43] SPEAKER_01: 
+[00:09:43] SPEAKER_01: 
+[00:09:43] SPEAKER_01: I usually have no problem sleeping. And I get a good night's sleep.
+[00:09:49] SPEAKER_01: That's good. Have you noticed any changes in your behavior or thoughts lately?
+[00:09:55] SPEAKER_01: No, I have not. No, not at all. I just came back off a Christmas break. I should be very
+[00:10:03] SPEAKER_01: relaxed now.
+[00:10:05] SPEAKER_01: That's so good to hear. What are you most proud of in your life?
+[00:10:13] SPEAKER_01: Oh, I have great kids. I have a son at USC. And I have a son at UCLA. And my daughter
+[00:10:23] SPEAKER_01: just got married. So I'm really proud of my kids. They're going to have a good life.
+[00:10:31] SPEAKER_01: Do you find it easy to be a parent?
+[00:10:32] SPEAKER_01: Oh, yes. I enjoyed it. I still enjoy it. Being a parent is forever.
+[00:10:41] SPEAKER_01: What's the best thing about being a parent?
+[00:10:47] SPEAKER_01: Oh, let's see. Taking care of someone else and getting them started off to have a good life.
+[00:10:56] SPEAKER_01: I think that that's rewarding.
+[00:10:58] SPEAKER_01: What's the best thing about being a parent?
+[00:11:01] SPEAKER_01: Making sure everything is covered. That needs to be covered with your kids. Whether it's
+[00:11:07] SPEAKER_01: their eating, their sleeping, their clothes. You have to make sure they're content. Make sure they have a good life.
+[00:11:13] SPEAKER_01: Make sure they don't have problems at school or at home. That they're safe. Physically, mentally, spiritually, everything.
+[00:11:22] SPEAKER_01: That makes sense. How would your best friend describe you?
+[00:11:29] SPEAKER_01: My best friend would say she has not changed since high school. Level-headed, but great sense of humor. Relaxed. I don't take things too seriously.
+[00:11:43] SPEAKER_01: That's great. When was the last time you felt really happy?
+[00:11:49] SPEAKER_01: Oh, I love the holidays. I love Christmas. I love everything about it. I love preparing the house for it. I love baking and cooking. Especially baking.
+[00:12:00] SPEAKER_01: I love experimenting with new recipes. And so the last couple of weeks, because the holiday season was just here, I felt fantastic. Everything is quiet. I'm not at work. I'm not stressed out in any way at all.
+[00:12:12] SPEAKER_01: I have no projects due. That I have to think about anyway. So Christmas time. Holiday time.
+[00:12:20] SPEAKER_01: That's great. Tell me about something you did recently that you really enjoyed.
+[00:12:28] SPEAKER_01: Really enjoyed recently. Well, Christmas of course. We went to Las Vegas the 27th of December. That was fantastic. We only stayed for two days. We had a really good time.
+[00:12:41] SPEAKER_01: We saw a great show. We had some great food. We drove there. We don't usually drive. I don't like to drive a lot. But we drove there and just took our time.
+[00:12:51] SPEAKER_01: Wow. That sounds like a great situation.
+[00:12:56] SPEAKER_01: It was good. It was nice.
+[00:12:59] SPEAKER_01: Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me.
+[00:13:04] SPEAKER_01: Okay.
+[00:13:06] SPEAKER_01: Goodbye.
+[00:13:07] SPEAKER_01: Goodbye. Thanks for listening. How's that one? Okay.
+[00:13:20] SPEAKER_01: I have to ring the bell. My mind is wandering. Here we go.
+[00:13:33] SPEAKER_01: Hi there.
+[00:13:35] SPEAKER_00: You can go ahead and take that headset off and I'll stop the recording.
+[00:13:38] SPEAKER_00: Okay.
+[00:13:41] SPEAKER_00: Actually, before I do that, let me see if I can do this for you.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ Okay, looks good. We'll do something for our purposes. Okay, we'll do this a little bit later. That's okay. Okay. Okay. Alright, so I'm going to pull up the virtual human. She's going to chat with you for a bit and then when she's done she'll let you know and I'm going to give you the doorbell and you can ring the bell to let me know. Okay. Okay. Okay. Hi, I'm Ellie. Thanks for coming in today. I was created to talk with you about your instincts and secure information. I'm not a therapist, but I'm here to learn about people and would love to learn about you. I'll ask a few questions to get us started. And please feel free to comment anything. Your answers are totally confidential. Are you okay with this? Sure. Okay, so how are you doing today? Good. That's good. Where are you from originally? Chicago. Really? Why'd you move to LA? It's cold in Chicago. I see what you mean. When did you move to LA? Oh, I think in 90, 1989 actually. That's a long time. How easy was it for you to get used to living in LA? Oh, very simple. Very easy. That's good. What are some things you really like about LA? Oh, weather of course. I'm so easily located to San Diego. San Diego, Palm Springs, Las Vegas, San Francisco, and things I like to do. What are some things you don't really like about LA? Smog of course is bad. Crime, retirements should be. And financial, economic problems here. How often do you go back to your hometown? Every year. Thanksgiving. That's great. How close are you to your family? Very, very much so. We're a very big family. That's so good to hear. Do you travel a lot? Yes, I do. Very much in fact. What do you enjoy about traveling? I love flying on airplanes. I love visiting new places. I even like visiting different airports. Everyone's different. Okay. What did you study at school? Oh, let's see. I started off in pre-med. Ha ha. I ended up in physics. Cool. Are you still doing that? Yes, I teach physics. And math. And higher level math. How did you decide to do that? Well, I enjoy working with kids. I enjoy teaching. My mother was a teacher. My dad was a truant officer. And I've enjoyed it. Nice. Keeps you young. Yes. What's your dream job? My dream job? My dream job would be to be a judge. Really? Yes. In the youth court. That would be fantastic. But I should have thought of that sooner than now. So I'm not going to be able to do that. Do you consider yourself an introvert? No. Not at all. Why? I enjoy people. Being around people. I'm very talkative at times. I like to do a lot of things. And I'm very social when I do them. Okay. What do you do to relax? Believe it or not, I play bridge. I play chess. And I watch a good old, old movie. Awesome. What are some things that make you really mad? Bad drivers. Bad laws. Politics often. What do you do when you're annoyed? When I'm annoyed? You know, I really don't get annoyed that much. I just let it go. It's not worth the pain and problems it could cause. But I can't straighten out a problem. If it's not a problem, let it go. Go somewhere else. When was the last time you argued with someone? And what was it about? Ooh. Always my bridge partner. But that's different. As far as anything else, I don't really argue with people. I don't argue. I don't like confrontation. I see what you mean. Who's someone that's been a positive influence on your life? My parents, of course. Very, very much so. I had great parents. Can you tell me about that? My parents went to Tuskegee, which is a black college. They always wanted me to go to a black college, but of course I didn't want to do that. I went to Illinois. So they're a very positive role model for me. There are certain things that I don't do today because of them. I don't drink. I don't curse. I don't look down on people who do, but I don't have as much respect for people who do a lot of either one of those things. I love to drive. I love to travel. And my dad used to always take us someplace. Every weekend he was off, we'd go somewhere. Because we were in Chicago, Indiana, Michigan, some place in the area. We'd go to Michigan to pick fruit. Or we got all our dogs from puppy farms in Indiana, that kind of thing. Yeah. I had an uncle who lived in Wisconsin who was a dairy farmer. So my dad used to love to drive. And I love to drive also. That's so good to hear. What's one of your most memorable experiences? That's a hard one. I've had a lot of great experiences. I think the best one was we went, for my anniversary we went to Europe. We went to Paris. And we went to the United States. We rode the Orient Express. We went from, we didn't go all the way to Istanbul. We went from London to Venice and then flew back to Paris. That was probably the best experience I've ever had in my life. I've never really cared for Europe because there's so much here in the United States to do and so much in America. And I've been to Alaska and Hawaii. But we said we'd do something different and we'd always wanted to go on the Orient Express. And we did that. Expensive, but a phenomenal trip. You've got to do it once. It's a once trip. Not once in a lifetime, just once. Awesome. Is there anything you regret? Not traveling more sooner. We did a lot when the kids were younger. But there are a lot of things we should have probably done we didn't do. I wish I'd gone to Chicago. We always go to Chicago on Thanksgiving, but I think we should have gone more than just on Thanksgiving. My parents come here around Christmas time, but I think we should have done a lot more. more when it comes to that. Have you done anything to avoid it? Yes, that's why it's a regret because it could have been avoided. There are things we could have done and we would spend our time working and more concerned about getting ahead than actually family and what's closest to us. I think that people should... I always try to also mind my own career. Oh yes, very definitely. What advice would you give yourself 10 or 20 years ago? Oh, that's a good question. 10 or 20 years ago. I would have said don't take things too seriously but don't be too relaxed over them either. Sometimes you can take things for granted. Never take anything for granted. Nothing is promised. Have you ever served in the military? Oh, heaven forbid. No, I have not. . Have you ever been diagnosed with PTSD? No, no. Have you been diagnosed with depression? No. How easy is it for you to get a good night's sleep? Very, very easy. I really have no problem with that. Once in a while if I am anxious about something, I have things coming up due or projects due, then I get kind of anxious a little bit. I don't like to be late. I don't like to make mistakes. So therefore, I'm not very good at that. I do have some anxiety issues which will cause me to stay up all night to get things done just to make sure that I have everything right. What are you like when you don't sleep well? Tired. I don't get irritable or anything. I'm just lethargic maybe. Just a little bit. Okay. How have you been feeling lately? Very good. I was up late last night so I'm kind of tired now. But I'm not really tired. I usually have no problem sleeping. And I get a good night's sleep. That's good. Have you noticed any changes in your behavior or thoughts lately? No, I have not. No, not at all. I just came back off a Christmas break. I should be very relaxed now. That's so good to hear. What are you most proud of in your life? Oh, I have great kids. I have a son at USC. And I have a son at UCLA. And my daughter just got married. So I'm really proud of my kids. They're going to have a good life. Do you find it easy to be a parent? Oh, yes. I enjoyed it. I still enjoy it. Being a parent is forever. What's the best thing about being a parent? Oh, let's see. Taking care of someone else and getting them started off to have a good life. I think that that's rewarding. What's the best thing about being a parent? Making sure everything is covered. That needs to be covered with your kids. Whether it's their eating, their sleeping, their clothes. You have to make sure they're content. Make sure they have a good life. Make sure they don't have problems at school or at home. That they're safe. Physically, mentally, spiritually, everything. That makes sense. How would your best friend describe you? My best friend would say she has not changed since high school. Level-headed, but great sense of humor. Relaxed. I don't take things too seriously. That's great. When was the last time you felt really happy? Oh, I love the holidays. I love Christmas. I love everything about it. I love preparing the house for it. I love baking and cooking. Especially baking. I love experimenting with new recipes. And so the last couple of weeks, because the holiday season was just here, I felt fantastic. Everything is quiet. I'm not at work. I'm not stressed out in any way at all. I have no projects due. That I have to think about anyway. So Christmas time. Holiday time. That's great. Tell me about something you did recently that you really enjoyed. Really enjoyed recently. Well, Christmas of course. We went to Las Vegas the 27th of December. That was fantastic. We only stayed for two days. We had a really good time. We saw a great show. We had some great food. We drove there. We don't usually drive. I don't like to drive a lot. But we drove there and just took our time. Wow. That sounds like a great situation. It was good. It was nice. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Okay. Goodbye. Goodbye. Thanks for listening. How's that one? Okay. I have to ring the bell. My mind is wandering. Here we go. Hi there. You can go ahead and take that headset off and I'll stop the recording. Okay. Actually, before I do that, let me see if I can do this for you.

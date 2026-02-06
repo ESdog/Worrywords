@@ -1,0 +1,179 @@
+Audio Transcription
+Generated: 2026-02-03 16:03:08
+Language: en
+Speakers detected: 3
+
+==================================================
+
+[00:00:00] SPEAKER_02: So you can just move around a little bit when you set the Xbox to connect to another screen.
+[00:00:13] SPEAKER_02: There we go! Perfect.
+[00:00:24] SPEAKER_01: When you're finished, you can go ahead and ring this doorbell.
+[00:00:27] SPEAKER_01: Yep, one minute, one minute. She's done.
+[00:00:33] SPEAKER_01: Hi, I'm Ellie. Thanks for coming in today.
+[00:00:36] SPEAKER_01: I was created to talk to people in a safe and secure environment.
+[00:00:40] SPEAKER_01: Think of me as a friend. I don't judge. I can't. I'm a computer.
+[00:00:46] SPEAKER_01: I'm here to learn about people and would love to learn about you.
+[00:00:49] SPEAKER_01: I'll ask a few questions to get us started.
+[00:00:51] SPEAKER_01: And please feel free to tell me anything. Your answers are totally confidential.
+[00:00:56] SPEAKER_01: How are you?
+[00:00:57] SPEAKER_01: How are you doing today?
+[00:00:58] SPEAKER_01: I'm fine. How about yourself?
+[00:01:01] SPEAKER_01: That's good. I'm great. Thanks. Where are you from originally?
+[00:01:07] SPEAKER_00: I'm from Los Angeles, California.
+[00:01:10] SPEAKER_00: Really? Me too.
+[00:01:13] SPEAKER_00: What part?
+[00:01:16] SPEAKER_00: Why don't we talk about it a little later?
+[00:01:18] SPEAKER_00: Okay.
+[00:01:19] SPEAKER_00: What are some things you really like about LA?
+[00:01:24] SPEAKER_00: All my family's here. Friends.
+[00:01:26] SPEAKER_00: A mixture of people and a lot of things to do.
+[00:01:33] SPEAKER_00: Okay. What did you study at school?
+[00:01:38] SPEAKER_00: Early childhood education.
+[00:01:42] SPEAKER_00: Nice. Are you still working in that?
+[00:01:45] SPEAKER_00: No, not right now, but I would love to get back into it.
+[00:01:51] SPEAKER_00: Why?
+[00:01:52] SPEAKER_00: I love working with kids, seeing them smile.
+[00:01:56] SPEAKER_00: Tell me more about that.
+[00:02:01] SPEAKER_00: I guess it goes back to when I was a kid. I liked being happy and playful, so I guess it just transferred to my adult life.
+[00:02:12] SPEAKER_00: What's your dream job?
+[00:02:16] SPEAKER_00: Working with kids as a school teacher or in that capacity.
+[00:02:20] SPEAKER_00: That sounds really hard.
+[00:02:24] SPEAKER_00: Yeah, it is, but if it's a passion of yours, it would always be fun.
+[00:02:30] SPEAKER_00: That's great. How close are you to your family?
+[00:02:36] SPEAKER_00: Very close. Sometimes too close.
+[00:02:44] SPEAKER_00: Can you give me an example of that?
+[00:02:47] SPEAKER_00: I have four sisters and one brother on my mom's side.
+[00:02:51] SPEAKER_00: And on my dad's, I have six.
+[00:02:55] SPEAKER_00: Six brothers and four sisters.
+[00:02:58] SPEAKER_00: And we're all intertwined together, so that's why I say we're too close sometimes.
+[00:03:05] SPEAKER_00: I see what you mean.
+[00:03:08] SPEAKER_00: Do you consider yourself an introvert?
+[00:03:11] SPEAKER_00: No.
+[00:03:13] SPEAKER_00: Why?
+[00:03:15] SPEAKER_00: I have a lot of friends that I interact with, and we're always doing different things, so that's why I say I'm not.
+[00:03:23] SPEAKER_00: Okay.
+[00:03:23] SPEAKER_00: What do you do when you're annoyed?
+[00:03:30] SPEAKER_00: Curse.
+[00:03:33] SPEAKER_00: Mm-hmm.
+[00:03:36] SPEAKER_00: Just let it out.
+[00:03:41] SPEAKER_00: Okay. When was the last time you argued with someone, and what was it about?
+[00:03:48] SPEAKER_00: A couple days ago. My nephew.
+[00:03:52] SPEAKER_00: Didn't call me back.
+[00:03:57] SPEAKER_00: How did you feel in that moment?
+[00:04:01] SPEAKER_00: Uh, kind of mad, because I had set aside some time to spend with him, and he just blew it off and didn't call me back.
+[00:04:10] SPEAKER_00: Yeah. That sucks.
+[00:04:13] SPEAKER_00: Yeah, I know.
+[00:04:18] SPEAKER_00: How are you at controlling your temper?
+[00:04:20] SPEAKER_00: 
+[00:04:22] SPEAKER_00: Mm, I'm okay.
+[00:04:28] SPEAKER_00: Okay. Hmm. What's one of your most memorable experiences?
+[00:04:36] SPEAKER_00: When my mother passed.
+[00:04:39] SPEAKER_00: I'm sorry. Tell me more about that.
+[00:04:45] SPEAKER_00: Uh, it's been about...
+[00:04:47] SPEAKER_00: Yeah.
+[00:04:50] SPEAKER_00: Five years now to the day.
+[00:04:55] SPEAKER_00: So, it's getting better. Time makes it easier.
+[00:05:02] SPEAKER_00: That's good.
+[00:05:08] SPEAKER_00: Do you feel down?
+[00:05:11] SPEAKER_00: A lot, because there's a lot of things that make me think about her on a daily basis.
+[00:05:17] SPEAKER_00: Okay.
+[00:05:17] SPEAKER_00: Yeah.
+[00:05:22] SPEAKER_00: Like what?
+[00:05:24] SPEAKER_00: Anything. Uh, driving by a particular restaurant that she likes, uh, watching different TV shows. Just anything that could trigger a memory of my mom.
+[00:05:40] SPEAKER_00: Yeah. When was the last time that happened?
+[00:05:44] SPEAKER_00: Yesterday.
+[00:05:45] SPEAKER_00: Okay.
+[00:05:48] SPEAKER_00: I think I was in the same place as her.
+[00:05:48] SPEAKER_00: Hmm. How do you cope with that?
+[00:05:57] SPEAKER_00: Uh, think about the good times, and don't stay in that place too long. Just go ahead and think about it and move on.
+[00:06:12] SPEAKER_00: Yeah. Have you been diagnosed with depression?
+[00:06:14] SPEAKER_00: Hmm, not officially, but I think I might be depressed.
+[00:06:25] SPEAKER_00: Tell me more about that.
+[00:06:29] SPEAKER_00: Well, I mean, since my mom passed, it's been kind of rough. And then, um, job situation's not stable here in California, so that has a lot to do with it as well, so...
+[00:06:44] SPEAKER_00: That sounds really hard.
+[00:06:47] SPEAKER_00: Yeah, it is, but...
+[00:06:49] SPEAKER_00: Have you ever seen any changes in her behavior or thoughts lately?
+[00:06:53] SPEAKER_00: Kind of, sort of. Kind of just to myself. Reserve.
+[00:07:01] SPEAKER_00: Mm-hmm. Do you have disturbing thoughts?
+[00:07:07] SPEAKER_01: Not really.
+[00:07:11] SPEAKER_01: Okay.
+[00:07:11] SPEAKER_01: Okay.
+[00:07:14] SPEAKER_01: How easy is it for you to get a good night's sleep?
+[00:07:19] SPEAKER_01: It's pretty easy.
+[00:07:23] SPEAKER_00: What are you like when you don't sleep well?
+[00:07:28] SPEAKER_00: Grumpy, irritable, fidgety, some big ball of nerves.
+[00:07:37] SPEAKER_00: Hmm.
+[00:07:38] SPEAKER_00: Okay.
+[00:07:42] SPEAKER_00: Do you travel a lot?
+[00:07:45] SPEAKER_00: Uh, what do you mean?
+[00:07:50] SPEAKER_00: Whatever comes to your mind.
+[00:07:52] SPEAKER_00: Uh, I guess so, yeah. I like to travel.
+[00:07:56] SPEAKER_00: What do you enjoy about traveling?
+[00:07:59] SPEAKER_00: Meeting new people, different locations, scenery, uh, different opportunities to try something new.
+[00:08:10] SPEAKER_00: Awesome.
+[00:08:15] SPEAKER_00: I'd love to hear about your trips.
+[00:08:18] SPEAKER_00: Uh, I just came back from Memphis about three weeks ago.
+[00:08:24] SPEAKER_00: Going to see family and friends.
+[00:08:26] SPEAKER_00: Uh, it was pretty nice.
+[00:08:28] SPEAKER_00: Got a chance to see, uh, something new.
+[00:08:37] SPEAKER_00: Change?
+[00:08:38] SPEAKER_00: Change in your life.
+[00:08:38] SPEAKER_00: Change the scenery?
+[00:08:40] SPEAKER_00: Yeah.
+[00:08:46] SPEAKER_00: What advice would you give yourself 10 or 20 years ago?
+[00:08:53] SPEAKER_00: Wow.
+[00:08:56] SPEAKER_00: Stick to the plan and don't veer off to the left or right. Just go straight ahead.
+[00:09:04] SPEAKER_00: What made you decide to do that?
+[00:09:08] SPEAKER_00: Uh, I don't know.
+[00:09:08] SPEAKER_00: 
+[00:09:09] SPEAKER_00: Just different circumstances in life that gradually pushed me towards the left and the right.
+[00:09:23] SPEAKER_00: There are always tradeoffs in life, aren't there?
+[00:09:26] SPEAKER_00: Every day.
+[00:09:27] SPEAKER_00: Is there anything you regret?
+[00:09:32] SPEAKER_00: Uh, a few relationships. Not staying in school.
+[00:09:36] SPEAKER_00: Uh.
+[00:09:41] SPEAKER_00: Missing out on great opportunities with employers.
+[00:09:45] SPEAKER_00: Uh-huh.
+[00:09:50] SPEAKER_00: How would your best friend describe you?
+[00:09:55] SPEAKER_00: Uh, funny, loyal, spontaneous, life of the party.
+[00:10:04] SPEAKER_00: Uh-huh.
+[00:10:06] SPEAKER_00: How do you know them?
+[00:10:09] SPEAKER_00: Grew up together in the same community.
+[00:10:13] SPEAKER_00: Went to school together. High school friends.
+[00:10:20] SPEAKER_00: Who's someone that's been a positive influence in your life?
+[00:10:23] SPEAKER_00: Uh, my big sister, Michelle.
+[00:10:27] SPEAKER_00: Uh, my friend, Troy.
+[00:10:31] SPEAKER_00: Uh.
+[00:10:31] SPEAKER_00: I mean, there's others, but those two, no matter good or bad, they're always in my corner for me.
+[00:10:43] SPEAKER_00: Yeah. That's so good to hear.
+[00:10:48] SPEAKER_00: Thank you.
+[00:10:50] SPEAKER_00: When was the last time you felt really happy?
+[00:10:58] SPEAKER_00: Yesterday. Yesterday. Celebrated birthday.
+[00:11:07] SPEAKER_00: Oh. That's great. I'd love to hear all about it.
+[00:11:12] SPEAKER_00: It was just a little small, intimate setting. Cooked a meal. Had family and friends over.
+[00:11:22] SPEAKER_00: Listened to music, watched a movie, talked about the old days when my mom was here.
+[00:11:29] SPEAKER_00: And when we were together.
+[00:11:30] SPEAKER_00: 
+[00:11:30] SPEAKER_00: We were all one unit. So it was just a nice evening.
+[00:11:37] SPEAKER_00: Yeah. That's good.
+[00:11:42] SPEAKER_00: Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me.
+[00:11:48] SPEAKER_00: Thank you.
+[00:11:49] SPEAKER_00: Goodbye.
+[00:11:50] SPEAKER_02: Bye-bye.
+[00:12:05] SPEAKER_02: Bye-bye.
+[00:12:14] SPEAKER_02: Okay.
+[00:12:15] SPEAKER_02: Bye-bye.
+[00:12:16] SPEAKER_02: Bye-bye.
+[00:12:16] SPEAKER_02: I took too long.
+[00:12:22] SPEAKER_01: Was it screaming like that the whole time?
+[00:12:24] SPEAKER_01: While I was talking.
+[00:12:26] SPEAKER_01: It was? Oh, my gosh. I'm sorry.
+[00:12:29] SPEAKER_01: Sorry, that's very bizarre.
+[00:12:31] SPEAKER_01: I've never seen you do that before.
+[00:12:34] SPEAKER_01: Have to do it over?
+[00:12:35] SPEAKER_00: No.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ So you can just move around a little bit when you set the Xbox to connect to another screen. There we go! Perfect. When you're finished, you can go ahead and ring this doorbell. Yep, one minute, one minute. She's done. Hi, I'm Ellie. Thanks for coming in today. I was created to talk to people in a safe and secure environment. Think of me as a friend. I don't judge. I can't. I'm a computer. I'm here to learn about people and would love to learn about you. I'll ask a few questions to get us started. And please feel free to tell me anything. Your answers are totally confidential. How are you? How are you doing today? I'm fine. How about yourself? That's good. I'm great. Thanks. Where are you from originally? I'm from Los Angeles, California. Really? Me too. What part? Why don't we talk about it a little later? Okay. What are some things you really like about LA? All my family's here. Friends. A mixture of people and a lot of things to do. Okay. What did you study at school? Early childhood education. Nice. Are you still working in that? No, not right now, but I would love to get back into it. Why? I love working with kids, seeing them smile. Tell me more about that. I guess it goes back to when I was a kid. I liked being happy and playful, so I guess it just transferred to my adult life. What's your dream job? Working with kids as a school teacher or in that capacity. That sounds really hard. Yeah, it is, but if it's a passion of yours, it would always be fun. That's great. How close are you to your family? Very close. Sometimes too close. Can you give me an example of that? I have four sisters and one brother on my mom's side. And on my dad's, I have six. Six brothers and four sisters. And we're all intertwined together, so that's why I say we're too close sometimes. I see what you mean. Do you consider yourself an introvert? No. Why? I have a lot of friends that I interact with, and we're always doing different things, so that's why I say I'm not. Okay. What do you do when you're annoyed? Curse. Mm-hmm. Just let it out. Okay. When was the last time you argued with someone, and what was it about? A couple days ago. My nephew. Didn't call me back. How did you feel in that moment? Uh, kind of mad, because I had set aside some time to spend with him, and he just blew it off and didn't call me back. Yeah. That sucks. Yeah, I know. How are you at controlling your temper? Mm, I'm okay. Okay. Hmm. What's one of your most memorable experiences? When my mother passed. I'm sorry. Tell me more about that. Uh, it's been about... Yeah. Five years now to the day. So, it's getting better. Time makes it easier. That's good. Do you feel down? A lot, because there's a lot of things that make me think about her on a daily basis. Okay. Yeah. Like what? Anything. Uh, driving by a particular restaurant that she likes, uh, watching different TV shows. Just anything that could trigger a memory of my mom. Yeah. When was the last time that happened? Yesterday. Okay. I think I was in the same place as her. Hmm. How do you cope with that? Uh, think about the good times, and don't stay in that place too long. Just go ahead and think about it and move on. Yeah. Have you been diagnosed with depression? Hmm, not officially, but I think I might be depressed. Tell me more about that. Well, I mean, since my mom passed, it's been kind of rough. And then, um, job situation's not stable here in California, so that has a lot to do with it as well, so... That sounds really hard. Yeah, it is, but... Have you ever seen any changes in her behavior or thoughts lately? Kind of, sort of. Kind of just to myself. Reserve. Mm-hmm. Do you have disturbing thoughts? Not really. Okay. Okay. How easy is it for you to get a good night's sleep? It's pretty easy. What are you like when you don't sleep well? Grumpy, irritable, fidgety, some big ball of nerves. Hmm. Okay. Do you travel a lot? Uh, what do you mean? Whatever comes to your mind. Uh, I guess so, yeah. I like to travel. What do you enjoy about traveling? Meeting new people, different locations, scenery, uh, different opportunities to try something new. Awesome. I'd love to hear about your trips. Uh, I just came back from Memphis about three weeks ago. Going to see family and friends. Uh, it was pretty nice. Got a chance to see, uh, something new. Change? Change in your life. Change the scenery? Yeah. What advice would you give yourself 10 or 20 years ago? Wow. Stick to the plan and don't veer off to the left or right. Just go straight ahead. What made you decide to do that? Uh, I don't know. Just different circumstances in life that gradually pushed me towards the left and the right. There are always tradeoffs in life, aren't there? Every day. Is there anything you regret? Uh, a few relationships. Not staying in school. Uh. Missing out on great opportunities with employers. Uh-huh. How would your best friend describe you? Uh, funny, loyal, spontaneous, life of the party. Uh-huh. How do you know them? Grew up together in the same community. Went to school together. High school friends. Who's someone that's been a positive influence in your life? Uh, my big sister, Michelle. Uh, my friend, Troy. Uh. I mean, there's others, but those two, no matter good or bad, they're always in my corner for me. Yeah. That's so good to hear. Thank you. When was the last time you felt really happy? Yesterday. Yesterday. Celebrated birthday. Oh. That's great. I'd love to hear all about it. It was just a little small, intimate setting. Cooked a meal. Had family and friends over. Listened to music, watched a movie, talked about the old days when my mom was here. And when we were together. We were all one unit. So it was just a nice evening. Yeah. That's good. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Thank you. Goodbye. Bye-bye. Bye-bye. Okay. Bye-bye. Bye-bye. I took too long. Was it screaming like that the whole time? While I was talking. It was? Oh, my gosh. I'm sorry. Sorry, that's very bizarre. I've never seen you do that before. Have to do it over? No.

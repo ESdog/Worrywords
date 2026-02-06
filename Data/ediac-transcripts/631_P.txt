@@ -1,0 +1,205 @@
+Audio Transcription
+Generated: 2026-02-06 11:48:43
+Language: en
+Speakers detected: 6
+
+==================================================
+
+[00:00:00] SPEAKER_03: And now I'm going to bring up our virtual human just for a second here so you can see what she looks like.
+[00:00:03] SPEAKER_03: And then I'm going to shrink her back down as I continue setting everything up.
+[00:00:07] SPEAKER_03: I'm going to go ahead and put this behind you.
+[00:00:12] SPEAKER_03: And I'm going to look over your ears just like that.
+[00:00:14] SPEAKER_03: Perfect.
+[00:00:15] SPEAKER_03: Yeah.
+[00:00:17] SPEAKER_03: It's the same one.
+[00:00:18] SPEAKER_03: Make sure this doesn't get in your way.
+[00:00:19] SPEAKER_03: There we go.
+[00:00:20] SPEAKER_01: Perfect.
+[00:00:21] SPEAKER_01: Just like that.
+[00:00:22] SPEAKER_01: Great.
+[00:00:23] SPEAKER_01: There she is.
+[00:00:23] SPEAKER_01: I'm going to shrink her back down and things are going to keep setting up here.
+[00:00:28] SPEAKER_01: So just a couple of caveats before we get started.
+[00:00:32] SPEAKER_01: This is relatively new technology.
+[00:00:34] SPEAKER_01: So unfortunately, Ellie doesn't, she's our virtual human.
+[00:00:36] SPEAKER_01: She doesn't quite yet have the capability to answer questions.
+[00:00:40] SPEAKER_01: So she'll be the one asking all the questions today.
+[00:00:43] SPEAKER_01: Also, you'll notice that she does pause sometimes here and there to listen to what you're saying.
+[00:00:47] SPEAKER_00: If you notice a pause that's greater than about 10 seconds, I'd go ahead and press this button.
+[00:00:53] SPEAKER_00: You know, we're working with technology here.
+[00:00:55] SPEAKER_00: Everyone can watch.
+[00:00:56] SPEAKER_00: I don't know if something can go wrong.
+[00:00:57] SPEAKER_00: It's Friday already.
+[00:00:59] SPEAKER_00: Yeah, maybe she'll get tired.
+[00:01:01] SPEAKER_00: Please.
+[00:01:02] SPEAKER_00: All right.
+[00:01:03] SPEAKER_00: So if that happens, go ahead and press this button.
+[00:01:05] SPEAKER_00: She wants to get out and take a vacation.
+[00:01:07] SPEAKER_00: Sure.
+[00:01:09] SPEAKER_00: Okay, I'm going to start up the recording.
+[00:01:10] SPEAKER_00: And what's going to happen is she's going to ask you questions.
+[00:01:12] SPEAKER_00: And then at the end, she'll say goodbye.
+[00:01:14] SPEAKER_00: And you'll press this button.
+[00:01:15] SPEAKER_00: Okay.
+[00:01:19] SPEAKER_00: Okay.
+[00:01:23] SPEAKER_01: Okay.
+[00:01:23] SPEAKER_01: 
+[00:01:24] SPEAKER_01: Okay.
+[00:01:25] SPEAKER_01: Okay.
+[00:01:26] SPEAKER_01: Okay.
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:26] SPEAKER_01: 
+[00:01:41] SPEAKER_04: Okay.
+[00:01:49] SPEAKER_00: Yeah.
+[00:01:54] SPEAKER_00: Yeah.
+[00:01:55] SPEAKER_00: Yeah.
+[00:01:56] SPEAKER_00: 
+[00:01:56] SPEAKER_00: 
+[00:01:56] SPEAKER_00: 
+[00:01:56] SPEAKER_00: 
+[00:01:59] SPEAKER_00: So, how are you doing today?
+[00:02:01] SPEAKER_00: Fine.
+[00:02:05] SPEAKER_00: That's great.
+[00:02:09] SPEAKER_00: Where are you from originally?
+[00:02:12] SPEAKER_00: Washington State.
+[00:02:27] SPEAKER_05: What are some things you really like about LA? Do you travel a lot?
+[00:02:35] SPEAKER_02: Yes.
+[00:02:39] SPEAKER_02: What's one of your most memorable experiences?
+[00:02:42] SPEAKER_02: The beach.
+[00:02:47] SPEAKER_02: What ever comes to mind?
+[00:02:50] SPEAKER_00: The beach in Venice.
+[00:02:55] SPEAKER_00: What's your favorite place to go?
+[00:02:57] SPEAKER_00: Communications.
+[00:03:02] SPEAKER_00: What do you do now?
+[00:03:04] SPEAKER_00: Security.
+[00:03:08] SPEAKER_00: Alright.
+[00:03:11] SPEAKER_00: What's your dream job?
+[00:03:14] SPEAKER_00: Working for Disney Red.
+[00:03:20] SPEAKER_00: Do you consider yourself more shy or outgoing?
+[00:03:25] SPEAKER_00: I'm more of a shy person.
+[00:03:27] SPEAKER_00: Moderate.
+[00:03:31] SPEAKER_00: Why?
+[00:03:34] SPEAKER_00: Because.
+[00:03:38] SPEAKER_00: Tell me about your relationship with your family.
+[00:03:45] SPEAKER_00: I have none.
+[00:03:51] SPEAKER_01: Sometimes when I'm feeling tense, I can almost just take a screen saver.
+[00:03:56] SPEAKER_01: What's your favorite movie?
+[00:03:56] SPEAKER_01: The
+[00:04:00] SPEAKER_01: What do you do to relax?
+[00:04:05] SPEAKER_00: Play video games.
+[00:04:10] SPEAKER_00: How long do you live in a temporary home?
+[00:04:14] SPEAKER_00: I don't have a temporary home.
+[00:04:18] SPEAKER_00: When was the last time you argued with someone? And what was it about?
+[00:04:27] SPEAKER_00: I hardly ever argue, so I don't remember.
+[00:04:37] SPEAKER_01: Tell me about a situation that you wish you had handled differently.
+[00:04:50] SPEAKER_00: I have no neck and ribs.
+[00:04:51] SPEAKER_00: 
+[00:04:51] SPEAKER_00: 
+[00:04:51] SPEAKER_00: 
+[00:04:51] SPEAKER_00: 
+[00:04:51] SPEAKER_00: 
+[00:04:51] SPEAKER_00: 
+[00:04:51] SPEAKER_00: 
+[00:04:51] SPEAKER_00: 
+[00:04:57] SPEAKER_00: I can't remember.
+[00:05:04] SPEAKER_00: What's something you feel guilty about?
+[00:05:11] SPEAKER_00: Losing my relationship with my sister.
+[00:05:19] SPEAKER_00: Tell me about the hardest part of your life.
+[00:05:21] SPEAKER_00: 
+[00:05:21] SPEAKER_00: 
+[00:05:21] SPEAKER_00: 
+[00:05:21] SPEAKER_00: 
+[00:05:21] SPEAKER_00: 
+[00:05:21] SPEAKER_00: 
+[00:05:21] SPEAKER_00: The hardest decision you've ever had to make.
+[00:05:27] SPEAKER_00: Leaving my sister to try to help her out.
+[00:05:38] SPEAKER_00: Tell me about a new life or something that you wish you could erase from your memory.
+[00:05:43] SPEAKER_00: My parents' death.
+[00:05:48] SPEAKER_00: Tell me about a new life.
+[00:05:51] SPEAKER_01: Tell me about a new life.
+[00:05:51] SPEAKER_01: 
+[00:05:51] SPEAKER_01: 
+[00:05:51] SPEAKER_01: Have you ever served in the military?
+[00:05:53] SPEAKER_01: Yes.
+[00:05:57] SPEAKER_01: How old were you when you got into the military?
+[00:06:00] SPEAKER_01: Twenty-two.
+[00:06:04] SPEAKER_00: How did you decide to join the military?
+[00:06:11] SPEAKER_00: I needed to stick my head together.
+[00:06:17] SPEAKER_00: Are you happy with yourself?
+[00:06:20] SPEAKER_01: Yes.
+[00:06:40] SPEAKER_00: How easy was it for you to go back to the military?
+[00:06:46] SPEAKER_00: Not too easy.
+[00:06:50] SPEAKER_00: How did you feel about your life?
+[00:06:50] SPEAKER_00: 
+[00:06:50] SPEAKER_00: 
+[00:06:53] SPEAKER_00: Very good.
+[00:06:54] SPEAKER_00: 
+[00:06:54] SPEAKER_00: 
+[00:06:54] SPEAKER_00: 
+[00:06:54] SPEAKER_00: 
+[00:06:54] SPEAKER_00: What did you do after the military?
+[00:07:02] SPEAKER_00: Went home.
+[00:07:09] SPEAKER_00: How does serving in the military change you?
+[00:07:16] SPEAKER_00: My opinion of people.
+[00:07:20] SPEAKER_00: Your family?
+[00:07:21] SPEAKER_00: 
+[00:07:21] SPEAKER_00: 
+[00:07:34] SPEAKER_00: I'm happy to be alive.
+[00:07:42] SPEAKER_00: Have you noticed any changes in your behavior or self-esteem?
+[00:07:45] SPEAKER_00: No.
+[00:07:55] SPEAKER_00: Very easy.
+[00:08:04] SPEAKER_00: I hardly ever not sleep or get sleep.
+[00:08:16] SPEAKER_00: Have you ever been diagnosed with sleep apnea?
+[00:08:18] SPEAKER_00: No.
+[00:08:25] SPEAKER_01: Have you been diagnosed with depression?
+[00:08:27] SPEAKER_01: No.
+[00:08:40] SPEAKER_00: When was the last time you felt really happy?
+[00:08:47] SPEAKER_00: Yesterday.
+[00:08:51] SPEAKER_00: Can you tell me about that?
+[00:08:52] SPEAKER_00: I was at Disneyland with friends.
+[00:08:59] SPEAKER_00: Who's done it with a positive influence in your life?
+[00:09:05] SPEAKER_00: No one.
+[00:09:09] SPEAKER_00: Tell me more about that.
+[00:09:14] SPEAKER_00: It's simple.
+[00:09:15] SPEAKER_00: No one has done it with a positive effect in my life.
+[00:09:21] SPEAKER_00: How are your best friends right now?
+[00:09:28] SPEAKER_00: Calm, easy, to get along with.
+[00:09:33] SPEAKER_00: Is there something that you really enjoy?
+[00:09:38] SPEAKER_00: Nothing really.
+[00:09:40] SPEAKER_00: I'm happy to be with you.
+[00:09:40] SPEAKER_00: 
+[00:09:40] SPEAKER_00: 
+[00:09:40] SPEAKER_00: 
+[00:09:40] SPEAKER_00: 
+[00:09:40] SPEAKER_00: 
+[00:09:40] SPEAKER_00: 
+[00:09:42] SPEAKER_00: What are you most proud of in your life?
+[00:09:47] SPEAKER_00: Staying alive.
+[00:09:52] SPEAKER_01: Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Goodbye.
+[00:10:00] SPEAKER_01: Goodbye.
+[00:10:08] SPEAKER_03: Are you okay?
+[00:10:10] SPEAKER_03: I'm okay.
+[00:10:10] SPEAKER_03: 
+[00:10:10] SPEAKER_03: Yeah.
+[00:10:11] SPEAKER_03: I'm going to go ahead and stop the recording.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ And now I'm going to bring up our virtual human just for a second here so you can see what she looks like. And then I'm going to shrink her back down as I continue setting everything up. I'm going to go ahead and put this behind you. And I'm going to look over your ears just like that. Perfect. Yeah. It's the same one. Make sure this doesn't get in your way. There we go. Perfect. Just like that. Great. There she is. I'm going to shrink her back down and things are going to keep setting up here. So just a couple of caveats before we get started. This is relatively new technology. So unfortunately, Ellie doesn't, she's our virtual human. She doesn't quite yet have the capability to answer questions. So she'll be the one asking all the questions today. Also, you'll notice that she does pause sometimes here and there to listen to what you're saying. If you notice a pause that's greater than about 10 seconds, I'd go ahead and press this button. You know, we're working with technology here. Everyone can watch. I don't know if something can go wrong. It's Friday already. Yeah, maybe she'll get tired. Please. All right. So if that happens, go ahead and press this button. She wants to get out and take a vacation. Sure. Okay, I'm going to start up the recording. And what's going to happen is she's going to ask you questions. And then at the end, she'll say goodbye. And you'll press this button. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Yeah. Yeah. Yeah. So, how are you doing today? Fine. That's great. Where are you from originally? Washington State. What are some things you really like about LA? Do you travel a lot? Yes. What's one of your most memorable experiences? The beach. What ever comes to mind? The beach in Venice. What's your favorite place to go? Communications. What do you do now? Security. Alright. What's your dream job? Working for Disney Red. Do you consider yourself more shy or outgoing? I'm more of a shy person. Moderate. Why? Because. Tell me about your relationship with your family. I have none. Sometimes when I'm feeling tense, I can almost just take a screen saver. What's your favorite movie? The What do you do to relax? Play video games. How long do you live in a temporary home? I don't have a temporary home. When was the last time you argued with someone? And what was it about? I hardly ever argue, so I don't remember. Tell me about a situation that you wish you had handled differently. I have no neck and ribs. I can't remember. What's something you feel guilty about? Losing my relationship with my sister. Tell me about the hardest part of your life. The hardest decision you've ever had to make. Leaving my sister to try to help her out. Tell me about a new life or something that you wish you could erase from your memory. My parents' death. Tell me about a new life. Tell me about a new life. Have you ever served in the military? Yes. How old were you when you got into the military? Twenty-two. How did you decide to join the military? I needed to stick my head together. Are you happy with yourself? Yes. How easy was it for you to go back to the military? Not too easy. How did you feel about your life? Very good. What did you do after the military? Went home. How does serving in the military change you? My opinion of people. Your family? I'm happy to be alive. Have you noticed any changes in your behavior or self-esteem? No. Very easy. I hardly ever not sleep or get sleep. Have you ever been diagnosed with sleep apnea? No. Have you been diagnosed with depression? No. When was the last time you felt really happy? Yesterday. Can you tell me about that? I was at Disneyland with friends. Who's done it with a positive influence in your life? No one. Tell me more about that. It's simple. No one has done it with a positive effect in my life. How are your best friends right now? Calm, easy, to get along with. Is there something that you really enjoy? Nothing really. I'm happy to be with you. What are you most proud of in your life? Staying alive. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Goodbye. Goodbye. Are you okay? I'm okay. Yeah. I'm going to go ahead and stop the recording.

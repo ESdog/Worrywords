@@ -1,0 +1,232 @@
+Audio Transcription
+Generated: 2026-02-03 20:12:40
+Language: en
+Speakers detected: 3
+
+==================================================
+
+[00:00:00] SPEAKER_02: Thank you.
+[00:00:00] SPEAKER_02: Thank you.
+[00:00:05] SPEAKER_02: Hi, I'm Ellie.
+[00:00:06] SPEAKER_02: Thanks for coming in today.
+[00:00:08] SPEAKER_02: I was created to talk to people
+[00:00:10] SPEAKER_02: in a safe and secure environment.
+[00:00:12] SPEAKER_02: I'm not a therapist, but I'm here to learn about people
+[00:00:15] SPEAKER_02: and would love to learn about you.
+[00:00:17] SPEAKER_02: I'll ask a few questions to get us started.
+[00:00:19] SPEAKER_00: And please feel free to tell me anything.
+[00:00:22] SPEAKER_00: Your answers are totally confidential.
+[00:00:25] SPEAKER_00: Are you okay with this?
+[00:00:26] SPEAKER_00: Yes, I'm all right with this.
+[00:00:28] SPEAKER_00: Okay, so how are you doing today?
+[00:00:31] SPEAKER_00: Doing pretty good, a little bit tired.
+[00:00:34] SPEAKER_00: That's good.
+[00:00:36] SPEAKER_00: Where are you from originally?
+[00:00:38] SPEAKER_00: From Los Angeles.
+[00:00:40] SPEAKER_00: Really?
+[00:00:42] SPEAKER_00: What are some things you really like about LA?
+[00:00:45] SPEAKER_00: The weather and the sports.
+[00:00:49] SPEAKER_00: What are some things you don't really like about LA?
+[00:00:54] SPEAKER_00: Can't find jobs right now.
+[00:00:58] SPEAKER_00: I'm sorry.
+[00:00:59] SPEAKER_00: It can be tough to find a good job these days.
+[00:01:03] SPEAKER_00: I know.
+[00:01:03] SPEAKER_00: Do you travel a lot?
+[00:01:05] SPEAKER_00: Not really.
+[00:01:08] SPEAKER_00: What did you study at school?
+[00:01:10] SPEAKER_00: I studied architecture and Chicano studies
+[00:01:13] SPEAKER_00: and a little bit of history.
+[00:01:15] SPEAKER_00: That sounds interesting.
+[00:01:17] SPEAKER_00: What made you decide to do that?
+[00:01:21] SPEAKER_00: Since I was little, I liked to draw
+[00:01:23] SPEAKER_00: and I liked to learn about history.
+[00:01:25] SPEAKER_00: Cool.
+[00:01:27] SPEAKER_00: Are you still working in that?
+[00:01:30] SPEAKER_00: I'm trying to.
+[00:01:31] SPEAKER_00: I'm working and going to school.
+[00:01:33] SPEAKER_00: I'm trying to finish getting my degree.
+[00:01:36] SPEAKER_00: What's your dream job?
+[00:01:38] SPEAKER_00: Playing in the NFL.
+[00:01:41] SPEAKER_00: Awesome.
+[00:01:44] SPEAKER_00: Do you consider yourself an introvert?
+[00:01:46] SPEAKER_00: What was that?
+[00:01:48] SPEAKER_00: Do you consider yourself an introvert?
+[00:01:51] SPEAKER_00: I don't know what that is.
+[00:01:54] SPEAKER_00: Let's come back.
+[00:01:55] SPEAKER_00: We'll come back to that later.
+[00:01:56] SPEAKER_00: What do you do to relax?
+[00:01:59] SPEAKER_00: Eat or sleep.
+[00:02:01] SPEAKER_00: What are some things that make you really mad?
+[00:02:06] SPEAKER_00: People not doing their jobs.
+[00:02:09] SPEAKER_00: What do you do when you're annoyed?
+[00:02:12] SPEAKER_00: Walk away.
+[00:02:15] SPEAKER_00: How are you at controlling your temper?
+[00:02:18] SPEAKER_00: Pretty good.
+[00:02:20] SPEAKER_00: That's good.
+[00:02:21] SPEAKER_00: When was the last time you argued with someone
+[00:02:23] SPEAKER_00: and what was it about?
+[00:02:25] SPEAKER_00: Like three days ago,
+[00:02:27] SPEAKER_00: a couple days ago over some family issues.
+[00:02:33] SPEAKER_00: Can you tell me about that?
+[00:02:36] SPEAKER_00: Sure.
+[00:02:39] SPEAKER_00: Okay.
+[00:02:44] SPEAKER_00: What are some things you like to do for fun?
+[00:02:46] SPEAKER_00: I like to work out, play football,
+[00:02:49] SPEAKER_00: and ride my bike.
+[00:02:52] SPEAKER_00: Cool.
+[00:02:53] SPEAKER_00: What do you do for fun?
+[00:02:54] SPEAKER_00: 
+[00:02:54] SPEAKER_00: 
+[00:02:55] SPEAKER_00: I like to play basketball.
+[00:02:55] SPEAKER_00: What's one of your most memorable experiences?
+[00:03:00] SPEAKER_00: Walking on that UCLA.
+[00:03:04] SPEAKER_00: How did you feel in that moment?
+[00:03:09] SPEAKER_00: I felt big, like actually I was doing something with myself.
+[00:03:16] SPEAKER_00: That's great.
+[00:03:18] SPEAKER_00: Who's someone that's been a positive influence in your life?
+[00:03:21] SPEAKER_00: My parents.
+[00:03:24] SPEAKER_00: Your parents?
+[00:03:25] SPEAKER_00: Yeah.
+[00:03:25] SPEAKER_00: Tell me more about that.
+[00:03:28] SPEAKER_00: Like they struggle, they, whenever they struggle,
+[00:03:31] SPEAKER_00: they still manage to pull through whatever they want.
+[00:03:35] SPEAKER_00: Mm-hmm.
+[00:03:37] SPEAKER_00: And...
+[00:03:37] SPEAKER_00: How close are you to your family?
+[00:03:39] SPEAKER_00: Pretty close.
+[00:03:41] SPEAKER_00: Real close.
+[00:03:44] SPEAKER_00: How would your best friend describe you?
+[00:03:49] SPEAKER_00: Uh, quiet.
+[00:03:54] SPEAKER_00: What was your favorite thing about your life?
+[00:03:55] SPEAKER_00: 
+[00:03:55] SPEAKER_00: 
+[00:03:55] SPEAKER_00: What would you say are some of your best qualities?
+[00:03:57] SPEAKER_00: Uh, my height and strength.
+[00:04:04] SPEAKER_00: Okay.
+[00:04:06] SPEAKER_00: Have you ever served in the military?
+[00:04:08] SPEAKER_00: No.
+[00:04:10] SPEAKER_00: Have you ever been diagnosed with PTSD?
+[00:04:13] SPEAKER_00: No.
+[00:04:14] SPEAKER_00: Have you been diagnosed with depression?
+[00:04:16] SPEAKER_00: No.
+[00:04:17] SPEAKER_00: How easy is it for you to get a good night's sleep?
+[00:04:21] SPEAKER_00: It's pretty hard.
+[00:04:23] SPEAKER_00: Why?
+[00:04:27] SPEAKER_00: I get home late and I'm usually up for like 15 to like 18 hours during the day.
+[00:04:33] SPEAKER_00: So by the time I get home I'm really not even that tired to go to sleep.
+[00:04:38] SPEAKER_00: That sucks.
+[00:04:39] SPEAKER_00: Yeah.
+[00:04:41] SPEAKER_00: What are you like when you don't sleep well?
+[00:04:46] SPEAKER_00: If I don't sleep well I wake up grumpy or like not in the mood to do things.
+[00:04:51] SPEAKER_00: How have you been feeling lately?
+[00:04:57] SPEAKER_00: Just like under pressure a little bit.
+[00:05:03] SPEAKER_00: How hard is that?
+[00:05:05] SPEAKER_00: Not that hard. I just stress pretty much.
+[00:05:11] SPEAKER_00: Do you feel down?
+[00:05:14] SPEAKER_00: Sometimes.
+[00:05:17] SPEAKER_00: Why?
+[00:05:20] SPEAKER_00: Just working.
+[00:05:21] SPEAKER_00: 
+[00:05:21] SPEAKER_00: I really don't like working but I have to.
+[00:05:27] SPEAKER_00: Yeah. I see what you mean.
+[00:05:30] SPEAKER_00: Have you noticed any changes in your behavior or thoughts lately?
+[00:05:36] SPEAKER_00: A little bit.
+[00:05:39] SPEAKER_00: Could you say a little more about that?
+[00:05:43] SPEAKER_00: Like a little bit more violent.
+[00:05:48] SPEAKER_00: Just a side effect from not playing football for a while.
+[00:05:51] SPEAKER_00: 
+[00:05:56] SPEAKER_00: I don't know.
+[00:05:57] SPEAKER_00: What are some things that usually put you in a good mood?
+[00:06:06] SPEAKER_00: Music, eating, and working out.
+[00:06:11] SPEAKER_00: Tell me about something you did recently that you really enjoyed.
+[00:06:17] SPEAKER_00: What did you do recently that you really enjoyed?
+[00:06:20] SPEAKER_00: Um...
+[00:06:22] SPEAKER_00: I don't know.
+[00:06:26] SPEAKER_00: Okay.
+[00:06:28] SPEAKER_00: What are you most proud of in your life?
+[00:06:33] SPEAKER_00: Raising my son while I was still in school. In high school.
+[00:06:38] SPEAKER_00: Wow.
+[00:06:41] SPEAKER_00: Do you find it easy to be a parent?
+[00:06:43] SPEAKER_00: No.
+[00:06:45] SPEAKER_00: What's the hardest thing about being a parent?
+[00:06:48] SPEAKER_00: Patience.
+[00:06:51] SPEAKER_00: What's the best thing about being a parent?
+[00:06:56] SPEAKER_00: Watching your son grow.
+[00:06:59] SPEAKER_00: Tell me about your kids.
+[00:07:01] SPEAKER_00: I have a five and a half year old boy.
+[00:07:06] SPEAKER_00: I only see him on the weekends.
+[00:07:10] SPEAKER_00: How close are you to them?
+[00:07:12] SPEAKER_00: Pretty close.
+[00:07:14] SPEAKER_00: That's good.
+[00:07:18] SPEAKER_00: What do you think of these kids?
+[00:07:22] SPEAKER_00: Spoiled.
+[00:07:25] SPEAKER_00: Can you tell me about that?
+[00:07:28] SPEAKER_00: They're so advanced with everything that it makes their grandparents feel like dinosaurs.
+[00:07:36] SPEAKER_00: They're just born and they already know how to use everything around their house.
+[00:07:42] SPEAKER_00: Can't treat them like kids anymore.
+[00:07:45] SPEAKER_00: Uh-huh.
+[00:07:46] SPEAKER_00: So you pretty much treat them like adults.
+[00:07:48] SPEAKER_00: Sometimes it works, sometimes it doesn't.
+[00:07:50] SPEAKER_00: It doesn't really work.
+[00:07:52] SPEAKER_00: Yeah, I understand.
+[00:07:55] SPEAKER_00: Is there anything you regret?
+[00:07:57] SPEAKER_00: No.
+[00:07:59] SPEAKER_00: What advice would you give yourself 10 or 20 years ago?
+[00:08:06] SPEAKER_00: I should have just stayed on one path.
+[00:08:10] SPEAKER_00: Follow my dreams, probably.
+[00:08:12] SPEAKER_00: Or just follow what I wanted to do.
+[00:08:15] SPEAKER_00: Uh-huh.
+[00:08:16] SPEAKER_00: That's about it.
+[00:08:19] SPEAKER_00: Okay.
+[00:08:20] SPEAKER_00: When was the last time you felt really happy?
+[00:08:26] SPEAKER_00: A couple months ago.
+[00:08:29] SPEAKER_00: Tell me more about that.
+[00:08:32] SPEAKER_00: I was playing football.
+[00:08:34] SPEAKER_00: I was playing for junior college and it made it to the championship.
+[00:08:39] SPEAKER_00: That was probably the happiest I've been in a while.
+[00:08:43] SPEAKER_00: Awesome.
+[00:08:44] SPEAKER_00: How did you feel in that moment?
+[00:08:46] SPEAKER_00: Good.
+[00:08:50] SPEAKER_00: That's good.
+[00:08:51] SPEAKER_00: Okay.
+[00:08:52] SPEAKER_00: I think I've asked everything I need to.
+[00:08:54] SPEAKER_00: Thanks for sharing your thoughts with me.
+[00:08:56] SPEAKER_00: Thank you.
+[00:08:57] SPEAKER_00: Goodbye.
+[00:08:58] SPEAKER_00: Bye.
+[00:09:09] SPEAKER_01: See you.
+[00:09:11] SPEAKER_01: Bye.
+[00:09:14] SPEAKER_01: See you.
+[00:09:15] SPEAKER_01: Bye.
+[00:09:15] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: 
+[00:09:16] SPEAKER_01: Goodbye.
+[00:09:17] SPEAKER_01: Happy birthday.
+[00:09:19] SPEAKER_01: Happy birthday.
+[00:09:19] SPEAKER_01: Happy birthday.
+[00:09:20] SPEAKER_01: Happy birthday.
+[00:09:20] SPEAKER_01: Happy birthday to you.
+[00:09:20] SPEAKER_01: Thank you so much.
+[00:09:20] SPEAKER_01: 
+[00:09:20] SPEAKER_01: 
+[00:09:20] SPEAKER_01: Bye.
+[00:09:21] SPEAKER_01: I'll stop for the .
+
+==================================================
+FULL TRANSCRIPTION:
+
+ Thank you. Thank you. Hi, I'm Ellie. Thanks for coming in today. I was created to talk to people in a safe and secure environment. I'm not a therapist, but I'm here to learn about people and would love to learn about you. I'll ask a few questions to get us started. And please feel free to tell me anything. Your answers are totally confidential. Are you okay with this? Yes, I'm all right with this. Okay, so how are you doing today? Doing pretty good, a little bit tired. That's good. Where are you from originally? From Los Angeles. Really? What are some things you really like about LA? The weather and the sports. What are some things you don't really like about LA? Can't find jobs right now. I'm sorry. It can be tough to find a good job these days. I know. Do you travel a lot? Not really. What did you study at school? I studied architecture and Chicano studies and a little bit of history. That sounds interesting. What made you decide to do that? Since I was little, I liked to draw and I liked to learn about history. Cool. Are you still working in that? I'm trying to. I'm working and going to school. I'm trying to finish getting my degree. What's your dream job? Playing in the NFL. Awesome. Do you consider yourself an introvert? What was that? Do you consider yourself an introvert? I don't know what that is. Let's come back. We'll come back to that later. What do you do to relax? Eat or sleep. What are some things that make you really mad? People not doing their jobs. What do you do when you're annoyed? Walk away. How are you at controlling your temper? Pretty good. That's good. When was the last time you argued with someone and what was it about? Like three days ago, a couple days ago over some family issues. Can you tell me about that? Sure. Okay. What are some things you like to do for fun? I like to work out, play football, and ride my bike. Cool. What do you do for fun? I like to play basketball. What's one of your most memorable experiences? Walking on that UCLA. How did you feel in that moment? I felt big, like actually I was doing something with myself. That's great. Who's someone that's been a positive influence in your life? My parents. Your parents? Yeah. Tell me more about that. Like they struggle, they, whenever they struggle, they still manage to pull through whatever they want. Mm-hmm. And... How close are you to your family? Pretty close. Real close. How would your best friend describe you? Uh, quiet. What was your favorite thing about your life? What would you say are some of your best qualities? Uh, my height and strength. Okay. Have you ever served in the military? No. Have you ever been diagnosed with PTSD? No. Have you been diagnosed with depression? No. How easy is it for you to get a good night's sleep? It's pretty hard. Why? I get home late and I'm usually up for like 15 to like 18 hours during the day. So by the time I get home I'm really not even that tired to go to sleep. That sucks. Yeah. What are you like when you don't sleep well? If I don't sleep well I wake up grumpy or like not in the mood to do things. How have you been feeling lately? Just like under pressure a little bit. How hard is that? Not that hard. I just stress pretty much. Do you feel down? Sometimes. Why? Just working. I really don't like working but I have to. Yeah. I see what you mean. Have you noticed any changes in your behavior or thoughts lately? A little bit. Could you say a little more about that? Like a little bit more violent. Just a side effect from not playing football for a while. I don't know. What are some things that usually put you in a good mood? Music, eating, and working out. Tell me about something you did recently that you really enjoyed. What did you do recently that you really enjoyed? Um... I don't know. Okay. What are you most proud of in your life? Raising my son while I was still in school. In high school. Wow. Do you find it easy to be a parent? No. What's the hardest thing about being a parent? Patience. What's the best thing about being a parent? Watching your son grow. Tell me about your kids. I have a five and a half year old boy. I only see him on the weekends. How close are you to them? Pretty close. That's good. What do you think of these kids? Spoiled. Can you tell me about that? They're so advanced with everything that it makes their grandparents feel like dinosaurs. They're just born and they already know how to use everything around their house. Can't treat them like kids anymore. Uh-huh. So you pretty much treat them like adults. Sometimes it works, sometimes it doesn't. It doesn't really work. Yeah, I understand. Is there anything you regret? No. What advice would you give yourself 10 or 20 years ago? I should have just stayed on one path. Follow my dreams, probably. Or just follow what I wanted to do. Uh-huh. That's about it. Okay. When was the last time you felt really happy? A couple months ago. Tell me more about that. I was playing football. I was playing for junior college and it made it to the championship. That was probably the happiest I've been in a while. Awesome. How did you feel in that moment? Good. That's good. Okay. I think I've asked everything I need to. Thanks for sharing your thoughts with me. Thank you. Goodbye. Bye. See you. Bye. See you. Bye. Goodbye. Happy birthday. Happy birthday. Happy birthday. Happy birthday. Happy birthday to you. Thank you so much. Bye. I'll stop for the .

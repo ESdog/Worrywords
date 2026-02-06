@@ -1,0 +1,348 @@
+Audio Transcription
+Generated: 2026-02-03 19:16:13
+Language: en
+Speakers detected: 2
+
+==================================================
+
+[00:00:00] SPEAKER_00: How long are you guys going to do this?
+[00:00:01] SPEAKER_00: The study?
+[00:00:02] SPEAKER_00: Yeah.
+[00:00:02] SPEAKER_00: Until, I think, next week, and then we're going to launch another one in a couple of weeks.
+[00:00:06] SPEAKER_00: Oh, really?
+[00:00:07] SPEAKER_00: So I should be looking now, huh?
+[00:00:08] SPEAKER_00: Well, actually, if you participate in this one, you can't participate in the next one.
+[00:00:11] SPEAKER_00: It's really similar, so we don't have any repeats.
+[00:00:14] SPEAKER_00: But there's other studies going on around here sometime.
+[00:00:17] SPEAKER_00: You can check Craigslist.
+[00:00:18] SPEAKER_00: Okay.
+[00:00:19] SPEAKER_00: Got it.
+[00:00:20] SPEAKER_00: Thank you.
+[00:00:22] SPEAKER_00: Thank you.
+[00:00:24] SPEAKER_00: Perfect.
+[00:00:26] SPEAKER_00: Let me set this camera up as well.
+[00:00:29] SPEAKER_00: Okay, so now I'm going to start with the virtual human.
+[00:00:31] SPEAKER_00: She's going to chat with you for a bit.
+[00:00:32] SPEAKER_00: She'll let you know when you guys are done, and then I will give you the doorbell, and you can let me know.
+[00:00:36] SPEAKER_00: Okay.
+[00:00:37] SPEAKER_00: Okay?
+[00:00:37] SPEAKER_00: Thank you.
+[00:00:41] SPEAKER_00: So I just hit the doorbell when I'm finished?
+[00:00:44] SPEAKER_00: Yeah, she'll say goodbye, and then you hit the doorbell.
+[00:00:46] SPEAKER_00: Okay, got it.
+[00:00:47] SPEAKER_00: Thank you.
+[00:00:50] SPEAKER_00: Hi, I'm Ellie.
+[00:00:51] SPEAKER_00: Thanks for coming in today.
+[00:00:53] SPEAKER_00: I was created to talk to people and think in a different environment.
+[00:00:57] SPEAKER_00: I'm not a person.
+[00:00:58] SPEAKER_00: 
+[00:00:58] SPEAKER_00: I'm a therapist, but I'm here to learn about people, and would love to learn about you.
+[00:01:02] SPEAKER_00: I'll ask a few questions, and then start it.
+[00:01:04] SPEAKER_01: And please feel free to call me anytime.
+[00:01:07] SPEAKER_01: Your answers are totally confidential.
+[00:01:10] SPEAKER_01: Are you okay with this?
+[00:01:12] SPEAKER_01: Sure.
+[00:01:13] SPEAKER_01: Okay.
+[00:01:13] SPEAKER_01: So, how are you doing today?
+[00:01:16] SPEAKER_01: I'm doing fine.
+[00:01:17] SPEAKER_01: Just a little tired.
+[00:01:21] SPEAKER_00: Where are you from originally?
+[00:01:24] SPEAKER_00: Really?
+[00:01:26] SPEAKER_00: Yes.
+[00:01:27] SPEAKER_00: Things you really like about us?
+[00:01:28] SPEAKER_00: What's your favorite thing about LA?
+[00:01:30] SPEAKER_00: The weather.
+[00:01:32] SPEAKER_00: Not last week, but yeah, the weather.
+[00:01:35] SPEAKER_00: What are some things you don't really like about LA?
+[00:01:39] SPEAKER_00: Fear of earthquakes.
+[00:01:42] SPEAKER_00: Mm-hmm.
+[00:01:43] SPEAKER_00: I see what you mean.
+[00:01:46] SPEAKER_00: What did you study at school?
+[00:01:50] SPEAKER_00: Psychology.
+[00:01:52] SPEAKER_00: Cool.
+[00:01:53] SPEAKER_00: Are you still working on that?
+[00:01:55] SPEAKER_00: I am.
+[00:01:56] SPEAKER_00: I go to Harbor College.
+[00:01:58] SPEAKER_00: Oh, I see.
+[00:01:58] SPEAKER_00: 
+[00:01:58] SPEAKER_00: 
+[00:01:58] SPEAKER_00: 
+[00:01:58] SPEAKER_00: 
+[00:01:58] SPEAKER_00: 
+[00:01:58] SPEAKER_00: 
+[00:01:58] SPEAKER_00: 
+[00:01:58] SPEAKER_00: 
+[00:02:00] SPEAKER_00: Are you happy with your class?
+[00:02:02] SPEAKER_00: I am.
+[00:02:04] SPEAKER_00: I wish I would have went sooner, but better late than never.
+[00:02:08] SPEAKER_00: Yeah.
+[00:02:10] SPEAKER_00: What's your dream job?
+[00:02:15] SPEAKER_00: Probably, I'm not sure.
+[00:02:16] SPEAKER_00: I never really thought about it.
+[00:02:17] SPEAKER_00: I want to work in the field of psychology, but I'm not sure if I want to work with children
+[00:02:22] SPEAKER_00: or adults.
+[00:02:23] SPEAKER_00: So, I haven't really decided.
+[00:02:26] SPEAKER_00: Okay.
+[00:02:27] SPEAKER_00: Do you travel?
+[00:02:28] SPEAKER_00: Yes.
+[00:02:28] SPEAKER_00: 
+[00:02:28] SPEAKER_00: 
+[00:02:28] SPEAKER_00: 
+[00:02:28] SPEAKER_00: 
+[00:02:28] SPEAKER_00: 
+[00:02:28] SPEAKER_00: Do you go to school a lot?
+[00:02:28] SPEAKER_00: No.
+[00:02:30] SPEAKER_00: Why?
+[00:02:32] SPEAKER_00: I don't know.
+[00:02:34] SPEAKER_00: I just don't.
+[00:02:36] SPEAKER_00: Maybe once a year.
+[00:02:39] SPEAKER_00: When was the last time you traveled?
+[00:02:42] SPEAKER_00: June, actually.
+[00:02:43] SPEAKER_00: I went to Orlando, Florida.
+[00:02:47] SPEAKER_00: Awesome.
+[00:02:49] SPEAKER_00: Do you consider yourself a neighbor?
+[00:02:52] SPEAKER_00: Sometimes.
+[00:02:55] SPEAKER_00: Yeah, but not as...
+[00:02:56] SPEAKER_00: I'm sorry?
+[00:02:58] SPEAKER_00: I'm sorry.
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: 
+[00:02:58] SPEAKER_00: What do you do for a living?
+[00:03:01] SPEAKER_00: Watch TV, read a book, talk on the phone.
+[00:03:07] SPEAKER_00: What are the things that make you really happy?
+[00:03:11] SPEAKER_00: Mad?
+[00:03:15] SPEAKER_00: My mom gets in my business.
+[00:03:21] SPEAKER_00: Other than that, I guess just frustrations with my son.
+[00:03:27] SPEAKER_00: Okay.
+[00:03:29] SPEAKER_00: Do you find it easy to be a parent?
+[00:03:32] SPEAKER_00: No.
+[00:03:33] SPEAKER_00: What's the hardest thing about being a parent?
+[00:03:38] SPEAKER_00: The hardest thing is raising a child with a disability, not knowing how you can help
+[00:03:45] SPEAKER_00: him.
+[00:03:48] SPEAKER_00: That sounds really hard.
+[00:03:49] SPEAKER_00: It is.
+[00:03:50] SPEAKER_00: It's very hard.
+[00:03:51] SPEAKER_00: I don't sugarcoat it at all.
+[00:03:54] SPEAKER_00: What's the best thing about being a parent?
+[00:03:57] SPEAKER_00: Being a parent is a lot of fun.
+[00:03:58] SPEAKER_00: 
+[00:03:58] SPEAKER_00: 
+[00:03:58] SPEAKER_00: 
+[00:03:58] SPEAKER_00: 
+[00:03:58] SPEAKER_00: 
+[00:03:58] SPEAKER_00: Just having my children.
+[00:04:00] SPEAKER_00: They're a blessing.
+[00:04:01] SPEAKER_00: I love them.
+[00:04:04] SPEAKER_00: With all the good and the bad, it's a part of me.
+[00:04:07] SPEAKER_00: I just love the fact that I'm helping mold them into good human beings.
+[00:04:15] SPEAKER_00: How close are you to your family?
+[00:04:18] SPEAKER_00: We're really close.
+[00:04:20] SPEAKER_00: I mean, my family's small.
+[00:04:22] SPEAKER_00: We live within blocks of each other, but yeah, we're close.
+[00:04:26] SPEAKER_00: Okay.
+[00:04:27] SPEAKER_00: Are you friends with your family?
+[00:04:27] SPEAKER_00: My parents are friends.
+[00:04:27] SPEAKER_00: 
+[00:04:27] SPEAKER_00: 
+[00:04:27] SPEAKER_00: 
+[00:04:27] SPEAKER_00: 
+[00:04:27] SPEAKER_00: 
+[00:04:27] SPEAKER_00: 
+[00:04:27] SPEAKER_00: 
+[00:04:27] SPEAKER_00: I love my family.
+[00:04:27] SPEAKER_00: 
+[00:04:27] SPEAKER_00: 
+[00:04:27] SPEAKER_00: 
+[00:04:28] SPEAKER_00: What's one of your most memorable experiences?
+[00:04:32] SPEAKER_00: Good or bad?
+[00:04:34] SPEAKER_00: Whatever comes to your mind.
+[00:04:36] SPEAKER_00: Most memorable? Just giving birth for the first time. It was just amazing. My son is nine now, so I still remember it like it was yesterday.
+[00:04:48] SPEAKER_00: How did you feel in that moment?
+[00:04:51] SPEAKER_00: Like I was being born again myself. I don't know how to explain it. It's just very emotional.
+[00:05:06] SPEAKER_00: Is there anything you regret?
+[00:05:13] SPEAKER_00: I don't know. I guess I have a lot of regrets.
+[00:05:17] SPEAKER_00: But...
+[00:05:19] SPEAKER_00: None that I really want to mention, I guess.
+[00:05:25] SPEAKER_00: What advice would you give yourself 10 or 20 years ago?
+[00:05:30] SPEAKER_00: Stay in school.
+[00:05:33] SPEAKER_00: Don't get emotionally involved.
+[00:05:37] SPEAKER_00: And let people deter you from your goals.
+[00:05:43] SPEAKER_00: Have you done anything to avoid it?
+[00:05:47] SPEAKER_00: Oh yeah.
+[00:05:49] SPEAKER_00: Definitely.
+[00:05:53] SPEAKER_00: What did you want to tell yourself?
+[00:05:56] SPEAKER_00: I'm okay. I mean, I'm pretty easy going.
+[00:06:00] SPEAKER_00: For the most part. I don't really have a temper per se.
+[00:06:04] SPEAKER_00: Things frustrate me more than they anger me.
+[00:06:09] SPEAKER_00: What was the last thing you argued with someone?
+[00:06:11] SPEAKER_00: Oh, that's easy. With my mother. She's like...
+[00:06:16] SPEAKER_00: I guess the argument stemmed from me wanting to socialize.
+[00:06:24] SPEAKER_00: She feels that I'm married with children so I should stay at home like 99% of the time.
+[00:06:32] SPEAKER_00: And I wanted to go out and socialize with some ex-co-workers.
+[00:06:37] SPEAKER_00: And she basically kind of put me down for it.
+[00:06:42] SPEAKER_00: As if I don't spend enough time with my children.
+[00:06:46] SPEAKER_00: It does.
+[00:06:48] SPEAKER_00: And I love my mom. I hate even having the thoughts of being frustrated with her.
+[00:06:53] SPEAKER_00: Because I always think, gosh, I don't want to get mad at her and then something happens to her the next day.
+[00:06:59] SPEAKER_00: But she gets kind of intrusive. I don't know.
+[00:07:06] SPEAKER_00: What was the last time you felt really happy?
+[00:07:11] SPEAKER_00: I don't know.
+[00:07:14] SPEAKER_00: Oh, I know.
+[00:07:16] SPEAKER_00: After the semester ended when I noted that I did well in school.
+[00:07:21] SPEAKER_00: Because it had been a long time since I went to school.
+[00:07:23] SPEAKER_00: So when I received my grades, you know, A and a B, I was like, wow, okay, I can do this.
+[00:07:30] SPEAKER_00: And it made me happy.
+[00:07:32] SPEAKER_00: And that was about a few weeks ago, I guess.
+[00:07:35] SPEAKER_00: That's great.
+[00:07:37] SPEAKER_00: Thank you.
+[00:07:39] SPEAKER_00: Has some of this been a positive influence in your life?
+[00:07:46] SPEAKER_00: My mom.
+[00:07:47] SPEAKER_00: I know.
+[00:07:47] SPEAKER_00: It's good and bad.
+[00:07:50] SPEAKER_00: I mean, for the most part, my mom has been a positive influence.
+[00:07:53] SPEAKER_00: You know, it's just sometimes, you know, she gets a little like she wants to re-raise me or something.
+[00:08:01] SPEAKER_00: Like she doesn't understand that I'm an adult and I'm going to make my own decisions now.
+[00:08:05] SPEAKER_00: And pretty much have to let me do what I need to do.
+[00:08:10] SPEAKER_00: How do you cope with that?
+[00:08:14] SPEAKER_00: A lot of heavy breathing.
+[00:08:19] SPEAKER_00: I mean, I walk sometimes when I get a little frustrated or whatever.
+[00:08:22] SPEAKER_00: I'll just go take a walk, you know, or just try not to think about it.
+[00:08:29] SPEAKER_00: That's good.
+[00:08:30] SPEAKER_00: Thank you.
+[00:08:34] SPEAKER_00: Have you ever served in the military?
+[00:08:36] SPEAKER_00: Yes.
+[00:08:38] SPEAKER_00: Really?
+[00:08:39] SPEAKER_00: Yes.
+[00:08:39] SPEAKER_00: The Navy.
+[00:08:40] SPEAKER_00: How old were you when you were in the military?
+[00:08:41] SPEAKER_00: I was 19.
+[00:08:44] SPEAKER_00: You were very young weren't you.
+[00:08:46] SPEAKER_00: Yeah.
+[00:08:47] SPEAKER_00: Yes.
+[00:08:48] SPEAKER_00: How did you decide to join the military?
+[00:08:50] SPEAKER_00: I didn't have any other options.
+[00:08:53] SPEAKER_00: Are you happy with yourself?
+[00:08:55] SPEAKER_00: I am.
+[00:08:56] SPEAKER_00: I probably should have stayed in a little longer.
+[00:08:58] SPEAKER_00: I was only in for four years, but, you know, I wanted to experience life outside the military,
+[00:09:04] SPEAKER_00: so I did my enlistment, and then I got out.
+[00:09:09] SPEAKER_00: How does serving in the military change you?
+[00:09:13] SPEAKER_00: It made me a little bit more responsible than some of my friends that, you know, did not
+[00:09:18] SPEAKER_00: join the military.
+[00:09:19] SPEAKER_00: I could notice a big difference as far as, you know, how I live my life and how they
+[00:09:24] SPEAKER_00: live theirs.
+[00:09:26] SPEAKER_00: Just made me a little bit more responsible.
+[00:09:30] SPEAKER_00: Thank you.
+[00:09:31] SPEAKER_00: What did you do after the military?
+[00:09:33] SPEAKER_00: I worked in the medical field for about five years.
+[00:09:38] SPEAKER_00: And, oh, thank you.
+[00:09:42] SPEAKER_00: But it wasn't for me.
+[00:09:43] SPEAKER_00: I wanted to do something a little bit different.
+[00:09:45] SPEAKER_00: I didn't want to do patient care.
+[00:09:47] SPEAKER_00: I wanted to work with people, but not necessarily as a patient care provider.
+[00:09:52] SPEAKER_00: So I started going to school and then I met my husband.
+[00:09:57] SPEAKER_00: I stopped going to school.
+[00:09:59] SPEAKER_00: Got married and I started working in the telecommunications field.
+[00:10:03] SPEAKER_00: And then we, you know, conceived our child.
+[00:10:06] SPEAKER_00: And then we got married.
+[00:10:07] SPEAKER_00: 
+[00:10:07] SPEAKER_00: And after that, you know, that's it.
+[00:10:15] SPEAKER_00: What would you say to someone who you're not telling?
+[00:10:19] SPEAKER_00: I think I'm caring.
+[00:10:20] SPEAKER_00: Well, I know I am.
+[00:10:21] SPEAKER_00: I'm very caring.
+[00:10:22] SPEAKER_00: You know, I'm very honest to a fault sometimes.
+[00:10:25] SPEAKER_00: You know, I try to be as honest as possible with people.
+[00:10:29] SPEAKER_00: Sometimes it can hurt their feelings, but, you know, you got to be honest.
+[00:10:33] SPEAKER_00: You can't let people think that you're not telling them.
+[00:10:37] SPEAKER_00: You know, you're not trusting.
+[00:10:40] SPEAKER_00: And it's...
+[00:10:40] SPEAKER_00: Do you think that's going to be a problem?
+[00:10:42] SPEAKER_00: Mmm, yeah, probably.
+[00:10:44] SPEAKER_00: I never really thought about it.
+[00:10:46] SPEAKER_00: I don't know.
+[00:10:49] SPEAKER_00: Maybe.
+[00:10:50] SPEAKER_00: I don't really think about it.
+[00:10:51] SPEAKER_00: I just try to be the best person that I can be.
+[00:10:54] SPEAKER_00: You know, so...
+[00:10:56] SPEAKER_00: That's all I can do.
+[00:10:56] SPEAKER_00: I can't live for what other people think.
+[00:10:58] SPEAKER_00: I can only do what I need to do.
+[00:11:03] SPEAKER_00: What are some things that you would put on a good list before you go to the hospital?
+[00:11:06] SPEAKER_00: What do you like to do?
+[00:11:06] SPEAKER_00: 
+[00:11:06] SPEAKER_00: 
+[00:11:06] SPEAKER_00: 
+[00:11:06] SPEAKER_00: 
+[00:11:06] SPEAKER_00: 
+[00:11:06] SPEAKER_00: 
+[00:11:06] SPEAKER_00: 
+[00:11:12] SPEAKER_00: I don't know.
+[00:11:15] SPEAKER_00: I never really thought about it.
+[00:11:18] SPEAKER_00: I guess just being around my kids.
+[00:11:21] SPEAKER_00: I just love being around my children.
+[00:11:24] SPEAKER_00: That always puts me in a good mood.
+[00:11:28] SPEAKER_00: That's good.
+[00:11:29] SPEAKER_00: Thank you.
+[00:11:32] SPEAKER_00: Okay.
+[00:11:32] SPEAKER_00: Like I said, a little tired.
+[00:11:33] SPEAKER_00: Tired, you know, but, you know, for the most part, okay.
+[00:11:37] SPEAKER_00: You know, I'm dealing with situations different.
+[00:11:41] SPEAKER_00: Well, I go to bed really early, so as long as I go to bed early, I get a good night's sleep.
+[00:11:46] SPEAKER_00: But I wake up early as well, so it's kind of like good and bad a little bit.
+[00:11:53] SPEAKER_00: I go to bed like 8, 830, and then I wake up at like 1, 130.
+[00:12:02] SPEAKER_00: Very moody.
+[00:12:04] SPEAKER_00: Very irritable.
+[00:12:06] SPEAKER_00: Short-tempered, I guess.
+[00:12:09] SPEAKER_00: Okay.
+[00:12:11] SPEAKER_00: Have you ever seen anything in your life that's easier or not easier?
+[00:12:17] SPEAKER_00: If anything, I think I'm thinking more positively.
+[00:12:20] SPEAKER_00: You know, like I said, especially with my son having a disability, you know, I look at it as if, you know, it's not all bad.
+[00:12:30] SPEAKER_00: I mean, he has challenges, but I'm dealing with them a lot better.
+[00:12:34] SPEAKER_00: You know, as opposed to feeling sorry for him or feeling sorry for myself.
+[00:12:38] SPEAKER_00: You know, I'm just finding more avenues to work with him, you know, different resources to help him as opposed to just feeling guilty or sad and depressed about it.
+[00:12:50] SPEAKER_00: Thank you.
+[00:12:56] SPEAKER_00: No.
+[00:12:56] SPEAKER_00: No.
+[00:13:01] SPEAKER_00: Occasionally.
+[00:13:03] SPEAKER_00: Who doesn't?
+[00:13:13] SPEAKER_00: Who doesn't?
+[00:13:18] SPEAKER_00: I don't know.
+[00:13:19] SPEAKER_00: Can we skip that question?
+[00:13:22] SPEAKER_00: Okay.
+[00:13:24] SPEAKER_00: How would your best friend describe you?
+[00:13:28] SPEAKER_00: Green.
+[00:13:30] SPEAKER_00: Seems to be the word.
+[00:13:32] SPEAKER_00: Kind of like...
+[00:13:36] SPEAKER_00: Yeah, probably green.
+[00:13:38] SPEAKER_00: Like, naive a little.
+[00:13:44] SPEAKER_00: But at the same time, smart.
+[00:13:46] SPEAKER_00: I think she'll describe me as smart.
+[00:13:50] SPEAKER_00: That's great.
+[00:13:52] SPEAKER_00: Thank you.
+[00:13:52] SPEAKER_00: I think I've asked everything I need to.
+[00:13:54] SPEAKER_00: Okay.
+[00:13:55] SPEAKER_00: Thanks for sharing your thoughts with me.
+[00:13:57] SPEAKER_00: No problem.
+[00:13:58] SPEAKER_00: Goodbye.
+[00:13:59] SPEAKER_00: Bye.
+[00:14:03] SPEAKER_00: Oh, that's right.
+[00:14:04] SPEAKER_00: I've got to push the button.
+[00:14:17] SPEAKER_00: It was fine.
+[00:14:18] SPEAKER_00: I kind of skipped one question, though.
+[00:14:20] SPEAKER_00: I don't think that's what you're saying at this point.
+[00:14:23] SPEAKER_00: You don't have to.
+[00:14:24] SPEAKER_00: All right.
+[00:14:24] SPEAKER_00: If you want...
+
+==================================================
+FULL TRANSCRIPTION:
+
+ How long are you guys going to do this? The study? Yeah. Until, I think, next week, and then we're going to launch another one in a couple of weeks. Oh, really? So I should be looking now, huh? Well, actually, if you participate in this one, you can't participate in the next one. It's really similar, so we don't have any repeats. But there's other studies going on around here sometime. You can check Craigslist. Okay. Got it. Thank you. Thank you. Perfect. Let me set this camera up as well. Okay, so now I'm going to start with the virtual human. She's going to chat with you for a bit. She'll let you know when you guys are done, and then I will give you the doorbell, and you can let me know. Okay. Okay? Thank you. So I just hit the doorbell when I'm finished? Yeah, she'll say goodbye, and then you hit the doorbell. Okay, got it. Thank you. Hi, I'm Ellie. Thanks for coming in today. I was created to talk to people and think in a different environment. I'm not a person. I'm a therapist, but I'm here to learn about people, and would love to learn about you. I'll ask a few questions, and then start it. And please feel free to call me anytime. Your answers are totally confidential. Are you okay with this? Sure. Okay. So, how are you doing today? I'm doing fine. Just a little tired. Where are you from originally? Really? Yes. Things you really like about us? What's your favorite thing about LA? The weather. Not last week, but yeah, the weather. What are some things you don't really like about LA? Fear of earthquakes. Mm-hmm. I see what you mean. What did you study at school? Psychology. Cool. Are you still working on that? I am. I go to Harbor College. Oh, I see. Are you happy with your class? I am. I wish I would have went sooner, but better late than never. Yeah. What's your dream job? Probably, I'm not sure. I never really thought about it. I want to work in the field of psychology, but I'm not sure if I want to work with children or adults. So, I haven't really decided. Okay. Do you travel? Yes. Do you go to school a lot? No. Why? I don't know. I just don't. Maybe once a year. When was the last time you traveled? June, actually. I went to Orlando, Florida. Awesome. Do you consider yourself a neighbor? Sometimes. Yeah, but not as... I'm sorry? I'm sorry. What do you do for a living? Watch TV, read a book, talk on the phone. What are the things that make you really happy? Mad? My mom gets in my business. Other than that, I guess just frustrations with my son. Okay. Do you find it easy to be a parent? No. What's the hardest thing about being a parent? The hardest thing is raising a child with a disability, not knowing how you can help him. That sounds really hard. It is. It's very hard. I don't sugarcoat it at all. What's the best thing about being a parent? Being a parent is a lot of fun. Just having my children. They're a blessing. I love them. With all the good and the bad, it's a part of me. I just love the fact that I'm helping mold them into good human beings. How close are you to your family? We're really close. I mean, my family's small. We live within blocks of each other, but yeah, we're close. Okay. Are you friends with your family? My parents are friends. I love my family. What's one of your most memorable experiences? Good or bad? Whatever comes to your mind. Most memorable? Just giving birth for the first time. It was just amazing. My son is nine now, so I still remember it like it was yesterday. How did you feel in that moment? Like I was being born again myself. I don't know how to explain it. It's just very emotional. Is there anything you regret? I don't know. I guess I have a lot of regrets. But... None that I really want to mention, I guess. What advice would you give yourself 10 or 20 years ago? Stay in school. Don't get emotionally involved. And let people deter you from your goals. Have you done anything to avoid it? Oh yeah. Definitely. What did you want to tell yourself? I'm okay. I mean, I'm pretty easy going. For the most part. I don't really have a temper per se. Things frustrate me more than they anger me. What was the last thing you argued with someone? Oh, that's easy. With my mother. She's like... I guess the argument stemmed from me wanting to socialize. She feels that I'm married with children so I should stay at home like 99% of the time. And I wanted to go out and socialize with some ex-co-workers. And she basically kind of put me down for it. As if I don't spend enough time with my children. It does. And I love my mom. I hate even having the thoughts of being frustrated with her. Because I always think, gosh, I don't want to get mad at her and then something happens to her the next day. But she gets kind of intrusive. I don't know. What was the last time you felt really happy? I don't know. Oh, I know. After the semester ended when I noted that I did well in school. Because it had been a long time since I went to school. So when I received my grades, you know, A and a B, I was like, wow, okay, I can do this. And it made me happy. And that was about a few weeks ago, I guess. That's great. Thank you. Has some of this been a positive influence in your life? My mom. I know. It's good and bad. I mean, for the most part, my mom has been a positive influence. You know, it's just sometimes, you know, she gets a little like she wants to re-raise me or something. Like she doesn't understand that I'm an adult and I'm going to make my own decisions now. And pretty much have to let me do what I need to do. How do you cope with that? A lot of heavy breathing. I mean, I walk sometimes when I get a little frustrated or whatever. I'll just go take a walk, you know, or just try not to think about it. That's good. Thank you. Have you ever served in the military? Yes. Really? Yes. The Navy. How old were you when you were in the military? I was 19. You were very young weren't you. Yeah. Yes. How did you decide to join the military? I didn't have any other options. Are you happy with yourself? I am. I probably should have stayed in a little longer. I was only in for four years, but, you know, I wanted to experience life outside the military, so I did my enlistment, and then I got out. How does serving in the military change you? It made me a little bit more responsible than some of my friends that, you know, did not join the military. I could notice a big difference as far as, you know, how I live my life and how they live theirs. Just made me a little bit more responsible. Thank you. What did you do after the military? I worked in the medical field for about five years. And, oh, thank you. But it wasn't for me. I wanted to do something a little bit different. I didn't want to do patient care. I wanted to work with people, but not necessarily as a patient care provider. So I started going to school and then I met my husband. I stopped going to school. Got married and I started working in the telecommunications field. And then we, you know, conceived our child. And then we got married. And after that, you know, that's it. What would you say to someone who you're not telling? I think I'm caring. Well, I know I am. I'm very caring. You know, I'm very honest to a fault sometimes. You know, I try to be as honest as possible with people. Sometimes it can hurt their feelings, but, you know, you got to be honest. You can't let people think that you're not telling them. You know, you're not trusting. And it's... Do you think that's going to be a problem? Mmm, yeah, probably. I never really thought about it. I don't know. Maybe. I don't really think about it. I just try to be the best person that I can be. You know, so... That's all I can do. I can't live for what other people think. I can only do what I need to do. What are some things that you would put on a good list before you go to the hospital? What do you like to do? I don't know. I never really thought about it. I guess just being around my kids. I just love being around my children. That always puts me in a good mood. That's good. Thank you. Okay. Like I said, a little tired. Tired, you know, but, you know, for the most part, okay. You know, I'm dealing with situations different. Well, I go to bed really early, so as long as I go to bed early, I get a good night's sleep. But I wake up early as well, so it's kind of like good and bad a little bit. I go to bed like 8, 830, and then I wake up at like 1, 130. Very moody. Very irritable. Short-tempered, I guess. Okay. Have you ever seen anything in your life that's easier or not easier? If anything, I think I'm thinking more positively. You know, like I said, especially with my son having a disability, you know, I look at it as if, you know, it's not all bad. I mean, he has challenges, but I'm dealing with them a lot better. You know, as opposed to feeling sorry for him or feeling sorry for myself. You know, I'm just finding more avenues to work with him, you know, different resources to help him as opposed to just feeling guilty or sad and depressed about it. Thank you. No. No. Occasionally. Who doesn't? Who doesn't? I don't know. Can we skip that question? Okay. How would your best friend describe you? Green. Seems to be the word. Kind of like... Yeah, probably green. Like, naive a little. But at the same time, smart. I think she'll describe me as smart. That's great. Thank you. I think I've asked everything I need to. Okay. Thanks for sharing your thoughts with me. No problem. Goodbye. Bye. Oh, that's right. I've got to push the button. It was fine. I kind of skipped one question, though. I don't think that's what you're saying at this point. You don't have to. All right. If you want...

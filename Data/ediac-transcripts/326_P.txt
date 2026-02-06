@@ -1,0 +1,240 @@
+Audio Transcription
+Generated: 2026-02-03 18:03:57
+Language: en
+Speakers detected: 3
+
+==================================================
+
+[00:00:00] SPEAKER_02: Good. You can just move around a little bit. I'll show you the Xbox Kinect will pick up your body.
+[00:00:04] SPEAKER_02: There you are.
+[00:00:04] SPEAKER_02: Okay.
+[00:00:05] SPEAKER_02: I'm going to do this to sync our camera system.
+[00:00:10] SPEAKER_02: Perfect.
+[00:00:10] SPEAKER_02: Mm-hmm. Wow.
+[00:00:11] SPEAKER_02: Okay. And now I'm going to go ahead and start up the virtual human.
+[00:00:15] SPEAKER_02: She's going to chat with you for a bit.
+[00:00:16] SPEAKER_02: Mm-hmm.
+[00:00:17] SPEAKER_02: And when she says you're done, I'm going to put the doorbell next to you so you can hit that again.
+[00:00:20] SPEAKER_02: Okay.
+[00:00:20] SPEAKER_02: All right?
+[00:00:21] SPEAKER_02: All right.
+[00:00:22] SPEAKER_02: Thank you.
+[00:00:23] SPEAKER_02: So we all look like we're staring down, huh? I noticed that in the video clip.
+[00:00:27] SPEAKER_02: That you what?
+[00:00:28] SPEAKER_02: Look like we're staring down.
+[00:00:30] SPEAKER_02: Oh, it'll...
+[00:00:31] SPEAKER_02: But yeah, yeah, I know. It's cool. It's cool. I was just... Yeah, okay.
+[00:00:34] SPEAKER_02: All right. I'm going to fix this just to make sure.
+[00:00:35] SPEAKER_02: Mm-hmm.
+[00:00:36] SPEAKER_02: Oh, it fell from your ear.
+[00:00:37] SPEAKER_02: Oh. Where's the ear part? Right here?
+[00:00:39] SPEAKER_02: Yeah, it did.
+[00:00:41] SPEAKER_02: And kind of...
+[00:00:42] SPEAKER_02: Yeah, oh.
+[00:00:43] SPEAKER_02: It's going to fall.
+[00:00:44] SPEAKER_02: Sure.
+[00:00:46] SPEAKER_02: Okay.
+[00:00:47] SPEAKER_02: Okay.
+[00:00:48] SPEAKER_02: All right.
+[00:00:48] SPEAKER_02: Let me check the mic.
+[00:00:50] SPEAKER_02: Okay.
+[00:00:51] SPEAKER_02: I think that looks all right.
+[00:00:52] SPEAKER_02: Okay.
+[00:00:53] SPEAKER_02: All right. You're good to go.
+[00:00:54] SPEAKER_02: All right.
+[00:00:58] SPEAKER_02: Hi. I'm Ellie. Thanks for coming in today.
+[00:01:02] SPEAKER_02: I've been created to talk to people in a safe and secure environment.
+[00:01:06] SPEAKER_03: I'm not a therapist, but I'm here to learn about you and a lot of things about you.
+[00:01:11] SPEAKER_03: I'll ask you a few questions before we start.
+[00:01:13] SPEAKER_03: And please feel free to comment on anything.
+[00:01:16] SPEAKER_03: Your answers are fully confidential.
+[00:01:19] SPEAKER_03: Are you okay with this?
+[00:01:20] SPEAKER_00: Yes.
+[00:01:21] SPEAKER_00: Okay. So, how are you doing today?
+[00:01:25] SPEAKER_00: I'm fine.
+[00:01:26] SPEAKER_00: That's good.
+[00:01:28] SPEAKER_00: Where are you from originally?
+[00:01:31] SPEAKER_00: Ohio.
+[00:01:32] SPEAKER_00: Really?
+[00:01:33] SPEAKER_00: Why did you move to L.A.?
+[00:01:36] SPEAKER_00: Hmm.
+[00:01:37] SPEAKER_00: Ha!
+[00:01:37] SPEAKER_00: Bigger city.
+[00:01:39] SPEAKER_00: More opportunity.
+[00:01:41] SPEAKER_00: Okay.
+[00:01:42] SPEAKER_00: When did you move to L.A.?
+[00:01:45] SPEAKER_00: Bigger city.
+[00:01:47] SPEAKER_00: Big city.
+[00:01:49] SPEAKER_00: How often do you go back to your hometown?
+[00:01:51] SPEAKER_00: Not often.
+[00:01:53] SPEAKER_00: Why?
+[00:01:57] SPEAKER_00: I don't know. There's phones. I can call.
+[00:02:02] SPEAKER_00: I understand.
+[00:02:06] SPEAKER_00: What do you think you really like about L.A.?
+[00:02:13] SPEAKER_00: Let's see. The water. The ocean. The big city. There's a lot to do. A lot of people.
+[00:02:23] SPEAKER_00: I'm not sure.
+[00:02:24] SPEAKER_00: 
+[00:02:24] SPEAKER_00: 
+[00:02:24] SPEAKER_00: Mountainous. Skiing. All kinds of stuff.
+[00:02:28] SPEAKER_00: What are some things you don't really like about L.A.?
+[00:02:32] SPEAKER_00: Traffic.
+[00:02:35] SPEAKER_00: Okay. How close are you to your family?
+[00:02:39] SPEAKER_00: Close.
+[00:02:43] SPEAKER_00: Do you consider yourself a neighbor?
+[00:02:46] SPEAKER_00: No.
+[00:02:48] SPEAKER_00: Why?
+[00:02:49] SPEAKER_00: Because I can talk.
+[00:02:53] SPEAKER_00: What's your dream job?
+[00:02:54] SPEAKER_00: 
+[00:02:54] SPEAKER_00: 
+[00:02:54] SPEAKER_00: 
+[00:02:58] SPEAKER_00: Ah, maybe running a company.
+[00:03:03] SPEAKER_00: What's your study of school?
+[00:03:06] SPEAKER_00: Politics.
+[00:03:09] SPEAKER_00: What made you decide to do that?
+[00:03:12] SPEAKER_00: Parents.
+[00:03:15] SPEAKER_00: That sucks.
+[00:03:16] SPEAKER_00: Ha!
+[00:03:17] SPEAKER_00: Yes.
+[00:03:18] SPEAKER_00: You need to know that.
+[00:03:20] SPEAKER_00: Play my guitar.
+[00:03:22] SPEAKER_00: Cool.
+[00:03:25] SPEAKER_00: How are you at controlling your temper?
+[00:03:29] SPEAKER_00: It depends.
+[00:03:33] SPEAKER_00: I'd love to hear all about it.
+[00:03:35] SPEAKER_00: No, you wouldn't, but sure. Okay.
+[00:03:41] SPEAKER_00: When was the last time you argued with someone? And what was it about?
+[00:03:50] SPEAKER_00: Um, ex-girlfriend.
+[00:03:52] SPEAKER_00: Ex-girlfriend.
+[00:03:52] SPEAKER_00: Ex-girlfriend.
+[00:03:53] SPEAKER_00: I don't remember.
+[00:03:56] SPEAKER_00: How close are you to them?
+[00:03:58] SPEAKER_00: I've been close for a lot of years.
+[00:04:04] SPEAKER_00: How do you know them?
+[00:04:08] SPEAKER_00: I've just known her for a long time.
+[00:04:14] SPEAKER_00: Okay. Is there anything you regret?
+[00:04:17] SPEAKER_00: No.
+[00:04:19] SPEAKER_00: What advice would you give yourself? I call you in now.
+[00:04:22] SPEAKER_00: Okay. Is there anything you regret?
+[00:04:24] SPEAKER_00: Be a little more patient with her.
+[00:04:31] SPEAKER_00: What do you think of Sydney's kids?
+[00:04:37] SPEAKER_00: They're okay.
+[00:04:40] SPEAKER_00: Okay. Have you ever served in the military?
+[00:04:45] SPEAKER_00: No, but I helped.
+[00:04:49] SPEAKER_00: Tell me more about that.
+[00:04:52] SPEAKER_00: I did stuff with the Marines, which was fun, and I lived out of the country.
+[00:04:58] SPEAKER_00: What made you decide to do that?
+[00:05:00] SPEAKER_00: Which one? Living out of the country or helping with the Marines?
+[00:05:05] SPEAKER_00: Yes? How about the first one, living out of the country?
+[00:05:07] SPEAKER_00: My parents lived out of the country, so I lived with them.
+[00:05:12] SPEAKER_00: Oh. Do you travel a lot?
+[00:05:19] SPEAKER_00: Used to.
+[00:05:20] SPEAKER_00: What do you enjoy about traveling?
+[00:05:26] SPEAKER_00: The different sceneries, different periods, different.
+[00:05:32] SPEAKER_00: I'd love to hear about one of your trips.
+[00:05:35] SPEAKER_00: Which one? Europe? France?
+[00:05:38] SPEAKER_00: Yeah, it was cool. It was great.
+[00:05:43] SPEAKER_00: Learning different languages and seeing different cultures and different people.
+[00:05:47] SPEAKER_00: It's enlightening.
+[00:05:50] SPEAKER_00: Mind-blowing.
+[00:05:50] SPEAKER_00: 
+[00:05:50] SPEAKER_00: It's a mind expansion. Definitely.
+[00:05:53] SPEAKER_00: That sounds like a great situation.
+[00:05:56] SPEAKER_00: Hmm. To say the least.
+[00:05:58] SPEAKER_00: What was your most memorable experience?
+[00:05:59] SPEAKER_00: Berlin Wall.
+[00:06:03] SPEAKER_00: How did you feel in that moment?
+[00:06:12] SPEAKER_00: Overwhelmed.
+[00:06:13] SPEAKER_00: Why?
+[00:06:15] SPEAKER_00: Because it was atrocities and stuff that went down during that war.
+[00:06:24] SPEAKER_00: How easy was it for you to get a good night's sleep?
+[00:06:29] SPEAKER_00: That's a good question. Depends.
+[00:06:37] SPEAKER_00: Can you tell me about that?
+[00:06:40] SPEAKER_00: Well, it depends on if I'm sleeping by myself or sleeping with somebody.
+[00:06:47] SPEAKER_00: I understand.
+[00:06:48] SPEAKER_00: What are you like when you don't sleep well?
+[00:06:57] SPEAKER_00: Agitated, I guess. I don't know.
+[00:07:01] SPEAKER_00: Okay. How have you been feeling lately?
+[00:07:06] SPEAKER_00: Okay.
+[00:07:07] SPEAKER_00: Have you noticed any changes in your behavior or self-esteem?
+[00:07:11] SPEAKER_00: No, not me. My girlfriend may say so. I don't know.
+[00:07:18] SPEAKER_00: Can you give me an example of that?
+[00:07:19] SPEAKER_00: I have no clue. She could tell you. I have no clue.
+[00:07:24] SPEAKER_00: Okay. Do you feel alone?
+[00:07:30] SPEAKER_00: No.
+[00:07:33] SPEAKER_00: Have you ever been diagnosed with PTSD?
+[00:07:36] SPEAKER_00: Nope.
+[00:07:37] SPEAKER_00: Have you been diagnosed with depression?
+[00:07:39] SPEAKER_00: Nope.
+[00:07:43] SPEAKER_00: Okay. How are your best friends driving you?
+[00:07:49] SPEAKER_00: World-win, I guess.
+[00:07:54] SPEAKER_00: A doer.
+[00:07:55] SPEAKER_00: What would you say are some of your best qualities?
+[00:07:59] SPEAKER_00: Persistence.
+[00:08:04] SPEAKER_00: What are you most proud of in your life?
+[00:08:13] SPEAKER_00: Achievements and goals. Accomplishments.
+[00:08:16] SPEAKER_00: Okay.
+[00:08:19] SPEAKER_00: Can you give me an example of that?
+[00:08:23] SPEAKER_00: I raced motocross and I was one of the first black professionals.
+[00:08:27] SPEAKER_00: Wow.
+[00:08:27] SPEAKER_00: Yeah. You ain't joking. Wow.
+[00:08:30] SPEAKER_00: That sounds interesting.
+[00:08:31] SPEAKER_00: Yeah. Pretty cool.
+[00:08:37] SPEAKER_00: What are some things that usually could be considered good in your life?
+[00:08:43] SPEAKER_00: Guitar. Playing my guitar.
+[00:08:46] SPEAKER_00: When was the last time that happened?
+[00:08:48] SPEAKER_00: Last night.
+[00:08:50] SPEAKER_00: Yeah.
+[00:08:53] SPEAKER_00: Cool.
+[00:08:54] SPEAKER_00: Tell me about that.
+[00:08:56] SPEAKER_00: Playing. Playing chords and playing the songs. Playing songs.
+[00:09:05] SPEAKER_00: Okay. How about something that you really enjoy?
+[00:09:10] SPEAKER_00: Playing with some other musicians at a rehearsal studio.
+[00:09:16] SPEAKER_00: Awesome.
+[00:09:17] SPEAKER_00: Yeah.
+[00:09:18] SPEAKER_00: How do you know them?
+[00:09:22] SPEAKER_00: Just acquaintances through other friends. And I like to fly too. I like flying planes.
+[00:09:28] SPEAKER_00: Nice.
+[00:09:30] SPEAKER_00: Mm.
+[00:09:32] SPEAKER_00: What are some things that make you really happy?
+[00:09:38] SPEAKER_00: My girlfriend talking. My girlfriend sometimes. That's about it.
+[00:09:46] SPEAKER_00: Why?
+[00:09:47] SPEAKER_00: I don't know. She's cool but she's a little arrogant.
+[00:09:54] SPEAKER_00: Is it uncomfortable for you to talk about her?
+[00:09:57] SPEAKER_00: No. Not really.
+[00:10:00] SPEAKER_00: That's good. Who's someone that's been a positive influence in your life?
+[00:10:09] SPEAKER_00: Hmm?
+[00:10:10] SPEAKER_00: Who's someone that's been a positive influence in your life?
+[00:10:13] SPEAKER_00: My mom. My dad.
+[00:10:14] SPEAKER_00: 
+[00:10:18] SPEAKER_00: Tell me about that.
+[00:10:21] SPEAKER_00: They're strong people.
+[00:10:30] SPEAKER_00: Okay. When was the last time you felt really happy?
+[00:10:37] SPEAKER_00: I don't know. Um. Um.
+[00:10:45] SPEAKER_00: Maybe when I was flying last. Flying in a private plane. I guess.
+[00:10:48] SPEAKER_00: Um. You know. There's no reason to get super, super, super happy.
+[00:10:52] SPEAKER_00: Unless you're. I guess if you're married. Hopefully that'll make you super happy.
+[00:10:55] SPEAKER_00: But no. I'm pretty even keel. You know what I'm saying? I stay pretty level.
+[00:11:01] SPEAKER_00: Okay. I understand.
+[00:11:03] SPEAKER_00: Mm.
+[00:11:04] SPEAKER_00: Okay. I think I've answered all your questions.
+[00:11:06] SPEAKER_00: Oh great. Well it was nice talking to you.
+[00:11:10] SPEAKER_00: Thank you.
+[00:11:11] SPEAKER_00: Yeah. You're welcome.
+[00:11:12] SPEAKER_00: Goodbye.
+[00:11:13] SPEAKER_00: Goodbye.
+[00:11:14] SPEAKER_00: Goodbye.
+[00:11:15] SPEAKER_00: 
+[00:11:17] SPEAKER_00: Goodbye.
+[00:11:28] SPEAKER_02: That was fun.
+[00:11:30] SPEAKER_02: I did it. Cool.
+[00:11:30] SPEAKER_02: Yeah.
+[00:11:31] SPEAKER_02: That was bizarre.
+[00:11:33] SPEAKER_02: I'm going to go ahead and shut off the recording.
+[00:11:35] SPEAKER_02: Yeah.
+[00:11:36] SPEAKER_02: Yeah.
+
+==================================================
+FULL TRANSCRIPTION:
+
+ Good. You can just move around a little bit. I'll show you the Xbox Kinect will pick up your body. There you are. Okay. I'm going to do this to sync our camera system. Perfect. Mm-hmm. Wow. Okay. And now I'm going to go ahead and start up the virtual human. She's going to chat with you for a bit. Mm-hmm. And when she says you're done, I'm going to put the doorbell next to you so you can hit that again. Okay. All right? All right. Thank you. So we all look like we're staring down, huh? I noticed that in the video clip. That you what? Look like we're staring down. Oh, it'll... But yeah, yeah, I know. It's cool. It's cool. I was just... Yeah, okay. All right. I'm going to fix this just to make sure. Mm-hmm. Oh, it fell from your ear. Oh. Where's the ear part? Right here? Yeah, it did. And kind of... Yeah, oh. It's going to fall. Sure. Okay. Okay. All right. Let me check the mic. Okay. I think that looks all right. Okay. All right. You're good to go. All right. Hi. I'm Ellie. Thanks for coming in today. I've been created to talk to people in a safe and secure environment. I'm not a therapist, but I'm here to learn about you and a lot of things about you. I'll ask you a few questions before we start. And please feel free to comment on anything. Your answers are fully confidential. Are you okay with this? Yes. Okay. So, how are you doing today? I'm fine. That's good. Where are you from originally? Ohio. Really? Why did you move to L.A.? Hmm. Ha! Bigger city. More opportunity. Okay. When did you move to L.A.? Bigger city. Big city. How often do you go back to your hometown? Not often. Why? I don't know. There's phones. I can call. I understand. What do you think you really like about L.A.? Let's see. The water. The ocean. The big city. There's a lot to do. A lot of people. I'm not sure. Mountainous. Skiing. All kinds of stuff. What are some things you don't really like about L.A.? Traffic. Okay. How close are you to your family? Close. Do you consider yourself a neighbor? No. Why? Because I can talk. What's your dream job? Ah, maybe running a company. What's your study of school? Politics. What made you decide to do that? Parents. That sucks. Ha! Yes. You need to know that. Play my guitar. Cool. How are you at controlling your temper? It depends. I'd love to hear all about it. No, you wouldn't, but sure. Okay. When was the last time you argued with someone? And what was it about? Um, ex-girlfriend. Ex-girlfriend. Ex-girlfriend. I don't remember. How close are you to them? I've been close for a lot of years. How do you know them? I've just known her for a long time. Okay. Is there anything you regret? No. What advice would you give yourself? I call you in now. Okay. Is there anything you regret? Be a little more patient with her. What do you think of Sydney's kids? They're okay. Okay. Have you ever served in the military? No, but I helped. Tell me more about that. I did stuff with the Marines, which was fun, and I lived out of the country. What made you decide to do that? Which one? Living out of the country or helping with the Marines? Yes? How about the first one, living out of the country? My parents lived out of the country, so I lived with them. Oh. Do you travel a lot? Used to. What do you enjoy about traveling? The different sceneries, different periods, different. I'd love to hear about one of your trips. Which one? Europe? France? Yeah, it was cool. It was great. Learning different languages and seeing different cultures and different people. It's enlightening. Mind-blowing. It's a mind expansion. Definitely. That sounds like a great situation. Hmm. To say the least. What was your most memorable experience? Berlin Wall. How did you feel in that moment? Overwhelmed. Why? Because it was atrocities and stuff that went down during that war. How easy was it for you to get a good night's sleep? That's a good question. Depends. Can you tell me about that? Well, it depends on if I'm sleeping by myself or sleeping with somebody. I understand. What are you like when you don't sleep well? Agitated, I guess. I don't know. Okay. How have you been feeling lately? Okay. Have you noticed any changes in your behavior or self-esteem? No, not me. My girlfriend may say so. I don't know. Can you give me an example of that? I have no clue. She could tell you. I have no clue. Okay. Do you feel alone? No. Have you ever been diagnosed with PTSD? Nope. Have you been diagnosed with depression? Nope. Okay. How are your best friends driving you? World-win, I guess. A doer. What would you say are some of your best qualities? Persistence. What are you most proud of in your life? Achievements and goals. Accomplishments. Okay. Can you give me an example of that? I raced motocross and I was one of the first black professionals. Wow. Yeah. You ain't joking. Wow. That sounds interesting. Yeah. Pretty cool. What are some things that usually could be considered good in your life? Guitar. Playing my guitar. When was the last time that happened? Last night. Yeah. Cool. Tell me about that. Playing. Playing chords and playing the songs. Playing songs. Okay. How about something that you really enjoy? Playing with some other musicians at a rehearsal studio. Awesome. Yeah. How do you know them? Just acquaintances through other friends. And I like to fly too. I like flying planes. Nice. Mm. What are some things that make you really happy? My girlfriend talking. My girlfriend sometimes. That's about it. Why? I don't know. She's cool but she's a little arrogant. Is it uncomfortable for you to talk about her? No. Not really. That's good. Who's someone that's been a positive influence in your life? Hmm? Who's someone that's been a positive influence in your life? My mom. My dad. Tell me about that. They're strong people. Okay. When was the last time you felt really happy? I don't know. Um. Um. Maybe when I was flying last. Flying in a private plane. I guess. Um. You know. There's no reason to get super, super, super happy. Unless you're. I guess if you're married. Hopefully that'll make you super happy. But no. I'm pretty even keel. You know what I'm saying? I stay pretty level. Okay. I understand. Mm. Okay. I think I've answered all your questions. Oh great. Well it was nice talking to you. Thank you. Yeah. You're welcome. Goodbye. Goodbye. Goodbye. Goodbye. That was fun. I did it. Cool. Yeah. That was bizarre. I'm going to go ahead and shut off the recording. Yeah. Yeah.

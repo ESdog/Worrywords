@@ -1,0 +1,271 @@
+Audio Transcription
+Generated: 2026-02-06 11:17:08
+Language: en
+Speakers detected: 3
+
+==================================================
+
+[00:00:00] SPEAKER_01: So this is the first time that I've done it on this computer.
+[00:00:23] SPEAKER_01: So I'm going to bring up the virtual human for just a second.
+[00:00:26] SPEAKER_01: OK.
+[00:00:26] SPEAKER_01: And then she's going to shrink back down
+[00:00:28] SPEAKER_01: so that I can finish the thing.
+[00:00:55] SPEAKER_01: Just a waiting game, basically.
+[00:00:58] SPEAKER_01: I understand.
+[00:00:59] SPEAKER_01: I know how it is.
+[00:01:00] SPEAKER_01: OK, thanks.
+[00:01:02] SPEAKER_01: OK.
+[00:01:10] SPEAKER_01: So she's going to ask you a series of questions.
+[00:01:13] SPEAKER_01: OK.
+[00:01:17] SPEAKER_01: And then when she's done, she should say goodbye.
+[00:01:19] SPEAKER_01: OK.
+[00:01:20] SPEAKER_01: But if she pauses for more than 10 to 15 seconds, or 20,
+[00:01:25] SPEAKER_01: you should bring the doorbell, because it may have stopped
+[00:01:27] SPEAKER_01: working.
+[00:01:28] SPEAKER_01: 
+[00:01:30] SPEAKER_01: We would want to either just like, wait in here,
+[00:01:32] SPEAKER_01: indefinitely.
+[00:01:35] SPEAKER_01: OK.
+[00:01:35] SPEAKER_01: So I'm going to start here.
+[00:01:39] SPEAKER_01: Hi.
+[00:01:40] SPEAKER_01: I'm Ellen .
+[00:01:43] SPEAKER_01: I was created to talk to people in a safe and secure environment.
+[00:01:47] SPEAKER_01: I'm not a therapist, but when I hear you learn about people,
+[00:01:50] SPEAKER_01: I would love to learn about you.
+[00:01:52] SPEAKER_01: I'll ask a few questions at the start.
+[00:01:54] SPEAKER_01: And please feel free to reply.
+[00:01:57] SPEAKER_01: Your answers are a treat.
+[00:01:58] SPEAKER_01: OK?
+[00:02:02] SPEAKER_01: Are you okay with this?
+[00:02:06] SPEAKER_01: Yes.
+[00:02:16] SPEAKER_01: So, how are you doing today?
+[00:02:19] SPEAKER_00: I'm okay.
+[00:02:23] SPEAKER_00: Okay.
+[00:02:23] SPEAKER_00: That's great.
+[00:02:27] SPEAKER_00: Where are you from originally?
+[00:02:30] SPEAKER_00: Arizona.
+[00:02:44] SPEAKER_00: What are some things you really like about LA?
+[00:02:49] SPEAKER_00: There's a lot of people.
+[00:02:50] SPEAKER_00: Is that a lot of people?
+[00:02:51] SPEAKER_00: No.
+[00:02:53] SPEAKER_00: That's a lot of people.
+[00:02:55] SPEAKER_00: You don't see the same people every day.
+[00:03:00] SPEAKER_00: Why?
+[00:03:02] SPEAKER_00: Why what?
+[00:03:06] SPEAKER_00: What's one of your most memorable experiences?
+[00:03:13] SPEAKER_00: My childhood.
+[00:03:17] SPEAKER_00: What are the most memorable experiences?
+[00:03:20] SPEAKER_00: My childhood.
+[00:03:24] SPEAKER_00: What did you study at school?
+[00:03:29] SPEAKER_00: General education.
+[00:03:30] SPEAKER_00: Basic stuff.
+[00:03:35] SPEAKER_00: What do you do now?
+[00:03:40] SPEAKER_00: I'm unemployed currently.
+[00:03:42] SPEAKER_00: I was working in the field of recovery,
+[00:03:48] SPEAKER_00: but I'm not doing that any longer.
+[00:03:56] SPEAKER_00: What's your dream job?
+[00:03:59] SPEAKER_00: Wow.
+[00:04:02] SPEAKER_00: My dream job would be to work for myself.
+[00:04:09] SPEAKER_00: Working with children.
+[00:04:13] SPEAKER_00: Trying to give them a better quality of life.
+[00:04:16] SPEAKER_00: I know that's important to start early.
+[00:04:22] SPEAKER_00: Do you consider yourself more shy or are you more shy?
+[00:04:24] SPEAKER_00: 
+[00:04:24] SPEAKER_00: 
+[00:04:24] SPEAKER_00: 
+[00:04:24] SPEAKER_00: 
+[00:04:24] SPEAKER_00: 
+[00:04:24] SPEAKER_00: Or outgoing?
+[00:04:26] SPEAKER_00: Shy.
+[00:04:30] SPEAKER_00: Why?
+[00:04:33] SPEAKER_00: I always have been. Something that was developing me early. Kind of reclusive.
+[00:04:41] SPEAKER_00: I'm not really good with opening up and showing my emotions and feelings.
+[00:04:50] SPEAKER_00: Tell me about your relationship with your family.
+[00:04:54] SPEAKER_00: Not good.
+[00:04:58] SPEAKER_00: And that's not good.
+[00:05:00] SPEAKER_00: I have three sons and a very turbulent relationship.
+[00:05:06] SPEAKER_00: I love them.
+[00:05:08] SPEAKER_00: I don't know.
+[00:05:11] SPEAKER_00: Sometimes when I'm feeling tense, I turn on the fish tank screensaver.
+[00:05:16] SPEAKER_00: Hey, I know it's not Hawaii, but it's the best I've got.
+[00:05:20] SPEAKER_00: What do you do to relax?
+[00:05:24] SPEAKER_00: Work out if I can.
+[00:05:27] SPEAKER_00: Swim.
+[00:05:28] SPEAKER_00: Lift some weights.
+[00:05:30] SPEAKER_00: Play basketball. Well, I used to play basketball. Can't anymore.
+[00:05:35] SPEAKER_00: Physical activity.
+[00:05:39] SPEAKER_00: How are you at controlling your temper?
+[00:05:43] SPEAKER_00: I'm better.
+[00:05:45] SPEAKER_00: When was the last time you argued with someone? What was it about?
+[00:05:49] SPEAKER_00: A couple weeks ago.
+[00:05:50] SPEAKER_00: I guess people trying to run my life.
+[00:06:00] SPEAKER_00: Tell me about a situation that you wish you would handle differently.
+[00:06:06] SPEAKER_00: Wow. So many.
+[00:06:08] SPEAKER_00: I wish I would have spent more time trying to be with my sons.
+[00:06:15] SPEAKER_00: Trying to reach out to them more.
+[00:06:19] SPEAKER_00: Trying to be there for them.
+[00:06:22] SPEAKER_00: It's hard.
+[00:06:26] SPEAKER_00: All right.
+[00:06:30] SPEAKER_00: What's something you feel guilty about?
+[00:06:37] SPEAKER_00: Many things.
+[00:06:43] SPEAKER_00: Intersexual assault.
+[00:06:44] SPEAKER_00: It wasn't my fault, though.
+[00:06:49] SPEAKER_00: Tell me about the hardest decision you've ever had to make.
+[00:06:55] SPEAKER_00: When I tried to commit suicide.
+[00:06:59] SPEAKER_00: I really wanted to do it, but I'm glad I didn't.
+[00:07:08] SPEAKER_00: Tell me about a mishap or something that you wish you would erase from your memory.
+[00:07:14] SPEAKER_00: My childhood.
+[00:07:17] SPEAKER_00: The beatings.
+[00:07:19] SPEAKER_00: The isolation.
+[00:07:21] SPEAKER_00: The abuse.
+[00:07:24] SPEAKER_00: I can't erase it.
+[00:07:32] SPEAKER_00: Have you ever served in the military?
+[00:07:34] SPEAKER_00: Yes.
+[00:07:38] SPEAKER_00: How old were you when you joined the military?
+[00:07:40] SPEAKER_00: 19.
+[00:07:47] SPEAKER_00: Why did you decide to join the military?
+[00:07:50] SPEAKER_00: I wanted to get out of that small town.
+[00:07:52] SPEAKER_00: I wanted to try to make something of myself.
+[00:07:55] SPEAKER_00: I thought the Army was the way to go.
+[00:08:00] SPEAKER_00: Are you happy with your life?
+[00:08:06] SPEAKER_00: I don't know.
+[00:08:10] SPEAKER_00: What do you think about the military?
+[00:08:14] SPEAKER_00: 
+[00:08:14] SPEAKER_00: 
+[00:08:14] SPEAKER_00: 
+[00:08:14] SPEAKER_00: Did you ever see combat?
+[00:08:15] SPEAKER_00: No.
+[00:08:22] SPEAKER_00: How easy was it for you to go back to civilian life?
+[00:08:28] SPEAKER_00: It wasn't hard.
+[00:08:31] SPEAKER_00: It was easy to hide out and blend in.
+[00:08:36] SPEAKER_00: All right.
+[00:08:39] SPEAKER_00: What did you do after the military?
+[00:08:42] SPEAKER_00: I ran for myself for years.
+[00:08:46] SPEAKER_00: Unpleased with my life.
+[00:08:48] SPEAKER_00: Traveled to many different places that I could never get away from me.
+[00:08:55] SPEAKER_00: Sorry.
+[00:08:58] SPEAKER_00: It happens.
+[00:08:59] SPEAKER_00: How did serving in the military change you?
+[00:09:02] SPEAKER_00: It made me grow up.
+[00:09:05] SPEAKER_00: I became a man.
+[00:09:07] SPEAKER_00: A man with many problems.
+[00:09:10] SPEAKER_00: I was a man.
+[00:09:12] SPEAKER_00: But I grew up.
+[00:09:17] SPEAKER_00: How have you been feeling lately?
+[00:09:20] SPEAKER_00: Depressed.
+[00:09:23] SPEAKER_00: Just out of it.
+[00:09:26] SPEAKER_00: Health wise, I haven't been feeling too hot either.
+[00:09:29] SPEAKER_00: But I'm coming back together.
+[00:09:33] SPEAKER_00: I'm sorry.
+[00:09:37] SPEAKER_00: Have you noticed any changes in your behavior, possibly?
+[00:09:40] SPEAKER_00: Absolutely.
+[00:09:41] SPEAKER_00: Yeah.
+[00:09:42] SPEAKER_00: I isolate more.
+[00:09:46] SPEAKER_00: Very cautious of people.
+[00:09:49] SPEAKER_00: Surroundings.
+[00:09:50] SPEAKER_00: I'm cautious.
+[00:09:52] SPEAKER_00: Paranoid maybe.
+[00:09:56] SPEAKER_00: All right.
+[00:09:59] SPEAKER_00: How easy was it for you to get a good night's sleep?
+[00:10:04] SPEAKER_00: Impossible.
+[00:10:05] SPEAKER_00: The sleep medication I'm taking doesn't work anymore.
+[00:10:10] SPEAKER_00: I'm not sure.
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: 
+[00:10:11] SPEAKER_00: I have to see my doctor.
+[00:10:12] SPEAKER_00: It's very difficult.
+[00:10:13] SPEAKER_00: I'm up most of the night.
+[00:10:15] SPEAKER_00: Up the next morning early.
+[00:10:20] SPEAKER_00: What are you like when you're desperate to go out?
+[00:10:29] SPEAKER_00: I don't know.
+[00:10:30] SPEAKER_00: I just feel funny.
+[00:10:32] SPEAKER_00: I just.
+[00:10:34] SPEAKER_00: I don't know.
+[00:10:37] SPEAKER_00: Can't explain it.
+[00:10:40] SPEAKER_00: I don't know.
+[00:10:41] SPEAKER_00: 
+[00:10:41] SPEAKER_00: 
+[00:10:41] SPEAKER_00: 
+[00:10:41] SPEAKER_00: I don't know the whole story.
+[00:10:47] SPEAKER_00: You didn't stay awake all night.
+[00:10:54] SPEAKER_02: How quickly do you say I was reality- pedal?
+[00:10:57] SPEAKER_02: Um.
+[00:11:02] SPEAKER_02: Oh.
+[00:11:03] SPEAKER_02: You know.
+[00:11:05] SPEAKER_00: 
+[00:11:05] SPEAKER_00: When was the last time you felt really happy?
+[00:11:17] SPEAKER_00: Months ago. Six, seven months ago when I felt really happy.
+[00:11:22] SPEAKER_00: That's when my medication was working.
+[00:11:25] SPEAKER_00: And I didn't have any cares.
+[00:11:31] SPEAKER_00: That's great.
+[00:11:35] SPEAKER_00: Who's someone that's been a positive influence on your life?
+[00:11:39] SPEAKER_00: My mother.
+[00:11:43] SPEAKER_00: Backbone. Pillar.
+[00:11:44] SPEAKER_00: Tell me about that.
+[00:11:46] SPEAKER_00: My mother always let me know when I did something wrong.
+[00:11:51] SPEAKER_00: She always affirmed me.
+[00:11:53] SPEAKER_00: She always wanted me to be better.
+[00:11:57] SPEAKER_00: And I know she loved me.
+[00:11:59] SPEAKER_00: And that was huge for me because she was about the only one that did.
+[00:12:07] SPEAKER_00: How would your best friend describe you?
+[00:12:15] SPEAKER_00: Reclusive.
+[00:12:19] SPEAKER_00: Careful.
+[00:12:23] SPEAKER_00: Tell me about something you did recently that you really enjoyed.
+[00:12:30] SPEAKER_00: Seeing my grandchildren.
+[00:12:33] SPEAKER_00: Highlight.
+[00:12:37] SPEAKER_00: Nice.
+[00:12:41] SPEAKER_00: What are you most proud of in your life?
+[00:12:46] SPEAKER_00: Wow.
+[00:12:52] SPEAKER_01: Grant.
+[00:12:56] SPEAKER_01: I think I've asked everything I've ever wanted to know.
+[00:12:58] SPEAKER_01: Thanks for sharing your thoughts with me.
+[00:13:02] SPEAKER_01: Bye.
+[00:13:03] SPEAKER_01: Bye.
+[00:13:04] SPEAKER_01: Bye.
+[00:13:04] SPEAKER_01: Bye.
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:05] SPEAKER_01: 
+[00:13:09] SPEAKER_01: Bye bye.
+[00:13:10] SPEAKER_01: Bye.
+[00:13:22] SPEAKER_01: Bye bye.
+[00:13:26] SPEAKER_01: Bye Stitch.
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: MMA.
+[00:13:30] SPEAKER_01: Gogo n vouchers are Ishala disfrakin'
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+[00:13:30] SPEAKER_01: 
+
+==================================================
+FULL TRANSCRIPTION:
+
+ So this is the first time that I've done it on this computer. So I'm going to bring up the virtual human for just a second. OK. And then she's going to shrink back down so that I can finish the thing. Just a waiting game, basically. I understand. I know how it is. OK, thanks. OK. So she's going to ask you a series of questions. OK. And then when she's done, she should say goodbye. OK. But if she pauses for more than 10 to 15 seconds, or 20, you should bring the doorbell, because it may have stopped working. We would want to either just like, wait in here, indefinitely. OK. So I'm going to start here. Hi. I'm Ellen . I was created to talk to people in a safe and secure environment. I'm not a therapist, but when I hear you learn about people, I would love to learn about you. I'll ask a few questions at the start. And please feel free to reply. Your answers are a treat. OK? Are you okay with this? Yes. So, how are you doing today? I'm okay. Okay. That's great. Where are you from originally? Arizona. What are some things you really like about LA? There's a lot of people. Is that a lot of people? No. That's a lot of people. You don't see the same people every day. Why? Why what? What's one of your most memorable experiences? My childhood. What are the most memorable experiences? My childhood. What did you study at school? General education. Basic stuff. What do you do now? I'm unemployed currently. I was working in the field of recovery, but I'm not doing that any longer. What's your dream job? Wow. My dream job would be to work for myself. Working with children. Trying to give them a better quality of life. I know that's important to start early. Do you consider yourself more shy or are you more shy? Or outgoing? Shy. Why? I always have been. Something that was developing me early. Kind of reclusive. I'm not really good with opening up and showing my emotions and feelings. Tell me about your relationship with your family. Not good. And that's not good. I have three sons and a very turbulent relationship. I love them. I don't know. Sometimes when I'm feeling tense, I turn on the fish tank screensaver. Hey, I know it's not Hawaii, but it's the best I've got. What do you do to relax? Work out if I can. Swim. Lift some weights. Play basketball. Well, I used to play basketball. Can't anymore. Physical activity. How are you at controlling your temper? I'm better. When was the last time you argued with someone? What was it about? A couple weeks ago. I guess people trying to run my life. Tell me about a situation that you wish you would handle differently. Wow. So many. I wish I would have spent more time trying to be with my sons. Trying to reach out to them more. Trying to be there for them. It's hard. All right. What's something you feel guilty about? Many things. Intersexual assault. It wasn't my fault, though. Tell me about the hardest decision you've ever had to make. When I tried to commit suicide. I really wanted to do it, but I'm glad I didn't. Tell me about a mishap or something that you wish you would erase from your memory. My childhood. The beatings. The isolation. The abuse. I can't erase it. Have you ever served in the military? Yes. How old were you when you joined the military? 19. Why did you decide to join the military? I wanted to get out of that small town. I wanted to try to make something of myself. I thought the Army was the way to go. Are you happy with your life? I don't know. What do you think about the military? Did you ever see combat? No. How easy was it for you to go back to civilian life? It wasn't hard. It was easy to hide out and blend in. All right. What did you do after the military? I ran for myself for years. Unpleased with my life. Traveled to many different places that I could never get away from me. Sorry. It happens. How did serving in the military change you? It made me grow up. I became a man. A man with many problems. I was a man. But I grew up. How have you been feeling lately? Depressed. Just out of it. Health wise, I haven't been feeling too hot either. But I'm coming back together. I'm sorry. Have you noticed any changes in your behavior, possibly? Absolutely. Yeah. I isolate more. Very cautious of people. Surroundings. I'm cautious. Paranoid maybe. All right. How easy was it for you to get a good night's sleep? Impossible. The sleep medication I'm taking doesn't work anymore. I'm not sure. I have to see my doctor. It's very difficult. I'm up most of the night. Up the next morning early. What are you like when you're desperate to go out? I don't know. I just feel funny. I just. I don't know. Can't explain it. I don't know. I don't know the whole story. You didn't stay awake all night. How quickly do you say I was reality- pedal? Um. Oh. You know. When was the last time you felt really happy? Months ago. Six, seven months ago when I felt really happy. That's when my medication was working. And I didn't have any cares. That's great. Who's someone that's been a positive influence on your life? My mother. Backbone. Pillar. Tell me about that. My mother always let me know when I did something wrong. She always affirmed me. She always wanted me to be better. And I know she loved me. And that was huge for me because she was about the only one that did. How would your best friend describe you? Reclusive. Careful. Tell me about something you did recently that you really enjoyed. Seeing my grandchildren. Highlight. Nice. What are you most proud of in your life? Wow. Grant. I think I've asked everything I've ever wanted to know. Thanks for sharing your thoughts with me. Bye. Bye. Bye. Bye. Bye bye. Bye. Bye bye. Bye Stitch. MMA. Gogo n vouchers are Ishala disfrakin'
