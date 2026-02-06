@@ -6,17 +6,20 @@ import AnxietyAnalysis as anx
 npr_output_dir = r'Data/NPR_anxiety.csv'
 qwen_output_dir = r'Data/qwen_anxiety.csv'
 llama_output_dir = r'Data/llama_anxiety.csv'
+psyc_output_dir = r'Data/psyc_anxiety.csv'
 
 # Setup paths
 npr_dir = r'Data/npr-transcripts'
 qwen_dir = r'Data/qwen30transcripts/'
 llama_dir = r'Data/llama-transcripts'
+psyc_dir = r'Data/psyc-transcripts'
 
 
 # Get list of all matching files (handles missing numbers automatically)
 npr_files = glob.glob(os.path.join(npr_dir, "episode-*.txt"))
 qwen_files = glob.glob(os.path.join(qwen_dir, "DM_*_Interview.txt"))
 llama_files = glob.glob(os.path.join(llama_dir, "DM_*_Interview.txt"))
+psyc_files = glob.glob(os.path.join(psyc_dir, "*_P.txt"))
 
 anxiety_word_scores = anx.build_anxiety_map()
 
@@ -56,7 +59,10 @@ def analyze_anxiety_parallel(transcript_files, output_file, word_scores):
                     # Prepare text blocks
                     user_text = " ".join(user_lines)
                     asst_text = " ".join(asst_lines)
-                    overall_text = user_text + " " + asst_text
+                    if not user_text and not asst_text:
+                        overall_text = line
+                    else:
+                        overall_text = user_text + " " + asst_text
 
                     # Run your AnxietyAnalysis functions
                     u_res = anx.get_anxiety_distribution(user_text, word_scores)
@@ -92,3 +98,4 @@ def analyze_anxiety_parallel(transcript_files, output_file, word_scores):
 analyze_anxiety_parallel(npr_files, npr_output_dir, anxiety_word_scores)
 analyze_anxiety_parallel(qwen_files, qwen_output_dir, anxiety_word_scores)
 analyze_anxiety_parallel(llama_files, llama_output_dir, anxiety_word_scores)
+analyze_anxiety_parallel(psyc_files, psyc_output_dir, anxiety_word_scores)

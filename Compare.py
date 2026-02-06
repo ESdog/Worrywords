@@ -2,7 +2,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-colors = [
+comp_colors = [
     "blue",
     "orange",
     "green",
@@ -13,7 +13,7 @@ colors = [
     "gray",
 ]
 
-labels = ['NPR Transcripts', 'Qwen Transcripts', 'Llama Transcripts']
+comp_labels = ['NPR Transcripts', 'Qwen Transcripts', 'Llama Transcripts', 'Psyc int. transcripts']
 
 def kde_plot(csv_paths, labels, colors, column, title, output_file):
     """
@@ -56,50 +56,53 @@ def kde_plot(csv_paths, labels, colors, column, title, output_file):
 csvs_anxiety = [
     'Data/NPR_anxiety.csv',
     'Data/qwen_anxiety.csv',
-    'Data/llama_anxiety.csv'
+    'Data/llama_anxiety.csv',
+    'Data/psyc_anxiety.csv'
 ]
 
 csvs_entropy = [
     'Data/NPR_entropy.csv',
     'Data/qwen_entropy.csv',
-    'Data/llama_entropy.csv'
+    'Data/llama_entropy.csv',
+    'Data/psyc_entropy.csv'
 ]
 
 csvs_distinct_n = ['Data/NPR_distinct_n.csv',
                    'Data/qwen_distinct_n.csv',
                    'Data/llama_distinct_n.csv',
+                   'Data/psyc_distinct_n.csv'
 ]
 
 
 # mean anxiety
 kde_plot(
     csv_paths=csvs_anxiety,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='Overall_Mean',
     title='Comparison of Overall Mean Levels',
     output_file='Anxiety_mean_kde.png'
 )
 kde_plot(
     csv_paths=csvs_anxiety,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='User_Mean',
     title='Comparison of User Mean Levels',
     output_file='Anxiety_mean_USER_kde.png'
 )
 kde_plot(
     csv_paths=csvs_anxiety,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='Asst_Mean',
     title='Comparison of Assistant Mean Levels',
     output_file='Anxiety_mean_ASST_kde.png'
 )
 kde_plot(
     csv_paths=csvs_anxiety,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='StandardDeviation',
     title='Comparison of Standard Deviation Levels',
     output_file='Anxiety_StandardDeviation_kde.png'
@@ -109,24 +112,24 @@ kde_plot(
 # entropy
 kde_plot(
     csv_paths=csvs_entropy,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='Entropy',
     title='Comparison of Entropy Levels',
     output_file='Entropy_kde.png'
 )
 kde_plot(
     csv_paths=csvs_entropy,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='User_Entropy',
     title='Comparison of User Entropy Levels',
     output_file='Entropy_User_kde.png'
 )
 kde_plot(
     csv_paths=csvs_entropy,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='Assistant_Entropy',
     title='Comparison of Assistant Entropy Levels',
     output_file='Entropy_Assistant_kde.png'
@@ -135,24 +138,24 @@ kde_plot(
 # distinct_1
 kde_plot(
     csv_paths=csvs_distinct_n,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='Distinct_1',
     title='Comparison of Distinct-1 Levels',
     output_file='Distinct_kde.png'
 )
 kde_plot(
     csv_paths=csvs_distinct_n,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='User_Distinct_1',
     title='Comparison of User Distinct-1 Levels',
     output_file='Distinct_1User_kde.png'
 )
 kde_plot(
     csv_paths=csvs_distinct_n,
-    labels=labels,
-    colors=colors,
+    labels=comp_labels,
+    colors=comp_colors,
     column='Assistant_Distinct_1',
     title='Comparison of Assistant Distinct-1 Levels',
     output_file='Distinct_1Assistant_kde.png'
