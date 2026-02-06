@@ -2,93 +2,161 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-def kde_plot(npr_csv, qwen_csv, llama_csv, column, output_file):
-    # 1. Load your summary CSVs
-    npr_df = pd.read_csv(npr_csv)
-    qwen_df = pd.read_csv(qwen_csv)
-    llama_df = pd.read_csv(llama_csv)
+colors = [
+    "blue",
+    "orange",
+    "green",
+    "red",
+    "purple",
+    "brown",
+    "pink",
+    "gray",
+]
 
+labels = ['NPR Transcripts', 'Qwen Transcripts', 'Llama Transcripts']
+
+def kde_plot(csv_paths, labels, colors, column, title, output_file):
+    """
+    csv_paths: list of CSV file paths
+    labels:    list of label strings (same length as csv_paths)
+    colors:    list of colors (same length as csv_paths)
+    column:    column name to plot
+    title:     plot title
+    output_file: filename (inside Plots/)
+    """
     plt.figure(figsize=(10, 6))
 
-    # 2. Plot both distributions
-    sns.kdeplot(data=npr_df[column], fill=True, label='NPR Transcripts (' + str(len(npr_df)) + ')', color='blue', alpha=0.4)
-    sns.kdeplot(data=qwen_df[column], fill=True, label='Qwen Transcripts (' + str(len(qwen_df)) + ')', color='orange', alpha=0.4)
-    sns.kdeplot(data=llama_df[column], fill=True, label='Llama Transcripts (' + str(len(llama_df)) + ')', color='red', alpha=0.4)
+    for path, label, color in zip(csv_paths, labels, colors):
+        df = pd.read_csv(path)
+        sns.kdeplot(
+            data=df[column],
+            fill=True,
+            label=f"{label} ({len(df)})",
+            color=color,
+            alpha=0.4
+        )
+        plt.axvline(
+            df[column].mean(),
+            color=color,
+            linestyle='--',
+            linewidth=1.5,
+            alpha=0.8
+        )
 
-    # 3. Add Vertical Mean Markers
-    plt.axvline(npr_df[column].mean(), color='blue', linestyle='--', linewidth=1.5, alpha=0.8)
-    plt.axvline(qwen_df[column].mean(), color='orange', linestyle='--', linewidth=1.5, alpha=0.8)
-    plt.axvline(llama_df[column].mean(), color='red', linestyle='--', linewidth=1.5, alpha=0.8)
-
-    # 3. Formatting
-    plt.title('Comparison of '+ column +' Levels: NPR vs Qwen vs Llama', fontsize=14)
+    plt.title(title, fontsize=14)
     plt.xlabel(column, fontsize=12)
     plt.ylabel('Density', fontsize=12)
     plt.legend()
     plt.grid(axis='y', linestyle='--', alpha=0.3)
 
-    plt.savefig('Plots/'+ output_file, dpi=300)
+    plt.savefig('Plots/' + output_file, dpi=300)
     plt.close()
     print(f"Comparison plot saved as {output_file}")
 
+csvs_anxiety = [
+    'Data/NPR_anxiety.csv',
+    'Data/qwen_anxiety.csv',
+    'Data/llama_anxiety.csv'
+]
+
+csvs_entropy = [
+    'Data/NPR_entropy.csv',
+    'Data/qwen_entropy.csv',
+    'Data/llama_entropy.csv'
+]
+
+csvs_distinct_n = ['Data/NPR_distinct_n.csv',
+                   'Data/qwen_distinct_n.csv',
+                   'Data/llama_distinct_n.csv',
+]
+
 
 # mean anxiety
-kde_plot('Data/NPR_anxiety.csv',
-         'Data/qwen_anxiety.csv',
-         'Data/llama_anxiety.csv',
-         'Overall_Mean',
-         'Anxiety_mean_kde.png',)
-kde_plot('Data/NPR_anxiety.csv',
-         'Data/qwen_anxiety.csv',
-         'Data/llama_anxiety.csv',
-         'User_Mean',
-         'Anxiety_mean_USER_kde.png',)
-kde_plot('Data/NPR_anxiety.csv',
-         'Data/qwen_anxiety.csv',
-         'Data/llama_anxiety.csv',
-         'Asst_Mean',
-         'Anxiety_mean_ASST_kde.png',)
-
-kde_plot('Data/NPR_anxiety.csv',
-         'Data/qwen_anxiety.csv',
-         'Data/llama_anxiety.csv',
-         'StandardDeviation',
-         'Anxiety_StandardDeviation_kde.png',)
+kde_plot(
+    csv_paths=csvs_anxiety,
+    labels=labels,
+    colors=colors,
+    column='Overall_Mean',
+    title='Comparison of Overall Mean Levels',
+    output_file='Anxiety_mean_kde.png'
+)
+kde_plot(
+    csv_paths=csvs_anxiety,
+    labels=labels,
+    colors=colors,
+    column='User_Mean',
+    title='Comparison of User Mean Levels',
+    output_file='Anxiety_mean_USER_kde.png'
+)
+kde_plot(
+    csv_paths=csvs_anxiety,
+    labels=labels,
+    colors=colors,
+    column='Asst_Mean',
+    title='Comparison of Assistant Mean Levels',
+    output_file='Anxiety_mean_ASST_kde.png'
+)
+kde_plot(
+    csv_paths=csvs_anxiety,
+    labels=labels,
+    colors=colors,
+    column='StandardDeviation',
+    title='Comparison of Standard Deviation Levels',
+    output_file='Anxiety_StandardDeviation_kde.png'
+)
 
 
 # entropy
-kde_plot('Data/NPR_entropy.csv',
-         'Data/qwen_entropy.csv',
-         'Data/llama_entropy.csv',
-         'Entropy',
-         'Entropy_kde.png',)
-kde_plot('Data/NPR_entropy.csv',
-         'Data/qwen_entropy.csv',
-         'Data/llama_entropy.csv',
-         'User_Entropy',
-         'Entropy_User_kde.png',)
-kde_plot('Data/NPR_entropy.csv',
-         'Data/qwen_entropy.csv',
-         'Data/llama_entropy.csv',
-         'Assistant_Entropy',
-         'Entropy_Assistant_kde.png',)
+kde_plot(
+    csv_paths=csvs_entropy,
+    labels=labels,
+    colors=colors,
+    column='Entropy',
+    title='Comparison of Entropy Levels',
+    output_file='Entropy_kde.png'
+)
+kde_plot(
+    csv_paths=csvs_entropy,
+    labels=labels,
+    colors=colors,
+    column='User_Entropy',
+    title='Comparison of User Entropy Levels',
+    output_file='Entropy_User_kde.png'
+)
+kde_plot(
+    csv_paths=csvs_entropy,
+    labels=labels,
+    colors=colors,
+    column='Assistant_Entropy',
+    title='Comparison of Assistant Entropy Levels',
+    output_file='Entropy_Assistant_kde.png'
+)
 
-#distinct_1
-kde_plot('Data/NPR_distinct_n.csv',
-         'Data/qwen_distinct_n.csv',
-         'Data/llama_distinct_n.csv',
-         'Distinct_1',
-         'Distinct_kde.png',)
-kde_plot('Data/NPR_distinct_n.csv',
-         'Data/qwen_distinct_n.csv',
-         'Data/llama_distinct_n.csv',
-         'User_Distinct_1',
-         'Distinct_1User_kde.png',)
-kde_plot('Data/NPR_distinct_n.csv',
-         'Data/qwen_distinct_n.csv',
-         'Data/llama_distinct_n.csv',
-         'Assistant_Distinct_1',
-         'Distinct_1Assistant_kde.png',)
+# distinct_1
+kde_plot(
+    csv_paths=csvs_distinct_n,
+    labels=labels,
+    colors=colors,
+    column='Distinct_1',
+    title='Comparison of Distinct-1 Levels',
+    output_file='Distinct_kde.png'
+)
+kde_plot(
+    csv_paths=csvs_distinct_n,
+    labels=labels,
+    colors=colors,
+    column='User_Distinct_1',
+    title='Comparison of User Distinct-1 Levels',
+    output_file='Distinct_1User_kde.png'
+)
+kde_plot(
+    csv_paths=csvs_distinct_n,
+    labels=labels,
+    colors=colors,
+    column='Assistant_Distinct_1',
+    title='Comparison of Assistant Distinct-1 Levels',
+    output_file='Distinct_1Assistant_kde.png'
+)
 
 
 
