@@ -13,7 +13,9 @@ comp_colors = [
     "gray",
 ]
 
-comp_labels = ['NPR Transcripts', 'Qwen Transcripts', 'Llama Transcripts', 'Psyc int. transcripts']
+comp_labels = ['NPR Transcripts', 'Llama Transcripts', 'Psyc int. transcripts',
+               'synthetic transcripts', 'spitv2 transcripts']
+
 
 def kde_plot(csv_paths, labels, colors, column, title, output_file):
     """
@@ -53,26 +55,28 @@ def kde_plot(csv_paths, labels, colors, column, title, output_file):
     plt.close()
     print(f"Comparison plot saved as {output_file}")
 
+
 csvs_anxiety = [
     'Data/NPR_anxiety.csv',
-    'Data/qwen_anxiety.csv',
     'Data/llama_anxiety.csv',
-    'Data/psyc_anxiety.csv'
+    'Data/psyc_anxiety.csv',
+    'Data/synth_anxiety.csv',
+    'Data/spitv2_anxiety.csv'
 ]
 
 csvs_entropy = [
     'Data/NPR_entropy.csv',
-    'Data/qwen_entropy.csv',
     'Data/llama_entropy.csv',
-    'Data/psyc_entropy.csv'
+    'Data/synth_entropy.csv',
+    'Data/spitv2_entropy.csv'
 ]
 
 csvs_distinct_n = ['Data/NPR_distinct_n.csv',
-                   'Data/qwen_distinct_n.csv',
                    'Data/llama_distinct_n.csv',
-                   'Data/psyc_distinct_n.csv'
+                   'Data/psyc_distinct_n.csv',
+                   'Data/synth_distinct_n.csv',
+                   'Data/spitv2_distinct_n.csv'
 ]
-
 
 # mean anxiety
 kde_plot(
@@ -107,7 +111,6 @@ kde_plot(
     title='Comparison of Standard Deviation Levels',
     output_file='Anxiety_StandardDeviation_kde.png'
 )
-
 
 # entropy
 kde_plot(
@@ -160,7 +163,3 @@ kde_plot(
     title='Comparison of Assistant Distinct-1 Levels',
     output_file='Distinct_1Assistant_kde.png'
 )
-
-
-
-

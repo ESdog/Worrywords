@@ -8,12 +8,14 @@ npr_output_dir = r'Data/NPR_distinct_n.csv'
 qwen_output_dir = r'Data/qwen_distinct_n.csv'
 llama_output_dir = r'Data/llama_distinct_n.csv'
 psyc_output_dir = r'Data/psyc_distinct_n.csv'
+synth_output_dir = r'Data/synth_distinct_n.csv'
 
 # Setup paths
 npr_dir = r'Data/npr-transcripts'
 qwen_dir = r'Data/qwen30transcripts/'
 llama_dir = r'Data/llama-transcripts'
 psyc_dir = r'Data/psyc-transcripts'
+synth_dir = r'Data/synthetic-transcripts'
 
 
 # Get list of all matching files (handles missing numbers automatically)
@@ -21,6 +23,7 @@ npr_files = glob.glob(os.path.join(npr_dir, "episode-*.txt"))
 qwen_files = glob.glob(os.path.join(qwen_dir, "DM_*_Interview.txt"))
 llama_files = glob.glob(os.path.join(llama_dir, "DM_*_Interview.txt"))
 psyc_files = glob.glob(os.path.join(psyc_dir, "*_P.txt"))
+synth_files = glob.glob(os.path.join(synth_dir, "*.txt"))
 
 
 def calculate_distinct_1(text):
@@ -84,9 +87,9 @@ def analyze_transcripts_to_csv(transcript_files, output_file):
                             if '<STOP>' in line:
                                 break
 
-                            if line.startswith('User:') | line.startswith('Guest:'):
+                            if line.startswith('User:') | line.startswith('Guest:') | line.startswith('patient:'):
                                 user_lines.append(line.replace('User:', '').strip())
-                            elif line.startswith('Assistant:') | line.startswith('Host:'):
+                            elif line.startswith('Assistant:') | line.startswith('Host:') | line.startswith('interviewer:'):
                                 assistant_lines.append(line.replace('Assistant:', '').strip())
 
                     # Combine lines into full strings
@@ -118,3 +121,4 @@ analyze_transcripts_to_csv(npr_files, npr_output_dir)
 analyze_transcripts_to_csv(qwen_files, qwen_output_dir)
 analyze_transcripts_to_csv(llama_files, llama_output_dir)
 analyze_transcripts_to_csv(psyc_files, psyc_output_dir)
+analyze_transcripts_to_csv(synth_files, synth_output_dir)

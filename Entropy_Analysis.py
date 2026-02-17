@@ -8,12 +8,14 @@ npr_output_dir = r'Data/NPR_entropy.csv'
 qwen_output_dir = r'Data/qwen_entropy.csv'
 llama_output_dir = r'Data/llama_entropy.csv'
 psyc_output_dir = r'Data/psyc_entropy.csv'
+synth_output_dir = r'Data/synth_entropy.csv'
 
 # Setup paths
 npr_dir = r'Data/npr-transcripts'
 qwen_dir = r'Data/qwen30transcripts/'
 llama_dir = r'Data/llama-transcripts'
 psyc_dir = r'Data/psyc-transcripts'
+synth_dir = r'Data/synthetic-transcripts'
 
 
 # Get list of all matching files (handles missing numbers automatically)
@@ -21,6 +23,7 @@ npr_files = glob.glob(os.path.join(npr_dir, "episode-*.txt"))
 qwen_files = glob.glob(os.path.join(qwen_dir, "DM_*_Interview.txt"))
 llama_files = glob.glob(os.path.join(llama_dir, "DM_*_Interview.txt"))
 psyc_files = glob.glob(os.path.join(psyc_dir, "*_P.txt"))
+synth_files = glob.glob(os.path.join(synth_dir, "*.txt"))
 
 def calculate_normalized_entropy(text):
     if not text: return 0
@@ -62,11 +65,11 @@ def analyze_transcripts_to_csv(transcript_files, output_file):
                                 break
 
                             # Check for User or Host
-                            if line.startswith('User:') | line.startswith('Guest:'):
+                            if line.startswith('User:') | line.startswith('Guest:') | line.startswith('patient:'):
                                 clean = line.split(':', 1)[1].strip()
                                 user_side.append(clean)
                             # Check for Assistant or Guest
-                            elif line.startswith('Assistant:') | line.startswith('Host:'):
+                            elif line.startswith('Assistant:') | line.startswith('Host:') | line.startswith('interviewer:'):
                                 clean = line.split(':', 1)[1].strip()
                                 assistant_side.append(clean)
 
@@ -97,3 +100,4 @@ analyze_transcripts_to_csv(npr_files, npr_output_dir)
 analyze_transcripts_to_csv(qwen_files, qwen_output_dir)
 analyze_transcripts_to_csv(llama_files, llama_output_dir)
 analyze_transcripts_to_csv(psyc_files, psyc_output_dir)
+analyze_transcripts_to_csv(synth_files, synth_output_dir)
