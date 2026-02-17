@@ -1,0 +1,146 @@
+system: --- Session 202601290137 Start ---
+
+ --Patient ID 3288--
+
+system: --- Session 202601290137 Start ---
+
+ --Patient ID 3288--
+
+interviewer: Thank you for coming in, Melissa. To start, may I use your name as Melissa, and do you have any pronoun preferences I should know about?
+
+patient: Yes, Melissa is fine. I don’t have any specific pronoun preferences. I’ve always been called Melissa, so that’s comfortable for me. I guess I’m just used to how people refer to me, but I’m happy with that.
+
+interviewer: Thank you for clarifying, Melissa. To ensure we’re aligned, our session today will focus on understanding your concerns and exploring ways to support you. Would that be okay with you?
+
+patient: Yes, that sounds okay. I’m a little nervous discussing this, but I want to work through these feelings. The mustache thing has been eating at me more than I expected—it’s hard to explain, but it feels like such a small thing causing so much anxiety.
+
+interviewer: It’s completely normal to feel nervous about discussing something that feels personal—it’s brave of you to share. Before we dive in, do you have any questions about how today’s session will work or what to expect?
+
+patient: No, I think I’m okay. I just… I want to figure out why this is happening and how to stop feeling so self-conscious. It’s been making me avoid going out sometimes, even with friends.
+
+interviewer: It takes courage to address something that feels so personal—I admire your willingness to explore this. Are you comfortable moving forward with discussing these concerns today?
+
+patient: Thank you, that means a lot. To be honest, it's a bit embarrassing to talk about, but I really want to work through this. The mirror thing—checking myself constantly—has been driving me crazy lately, so yeah, let's try to figure it out.
+
+interviewer: It’s brave to share these feelings, and there’s no judgment here—your comfort is my priority. Before we continue, do you have any questions or concerns about how we’ll approach this today?
+
+patient: Thank you, that helps a bit. I guess I’m just nervous about… being judged for something that feels so personal. But I do want to work through this fear of how others see me. Maybe we could focus on why this mustache feels so different from other times I’ve worried about my looks?
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like the mustache has become a source of significant anxiety for you recently. Can you tell me when you first started feeling self-conscious about it and how these feelings have changed since then?
+
+patient: It started maybe a few months ago, when I first noticed the mustache was becoming more visible. At first, I just felt a little self-conscious, like thinking maybe I should pluck it. But over time, especially when I started getting more compliments—though they meant well—it made me more anxious. Now, I almost can’t go out without checking mirrors constantly, and I’ll cancel plans if I’m worried someone might comment. It feels like it’s spiraled.
+
+interviewer: Thank you for sharing that, Melissa. It sounds like this has been a challenging spiral to manage. What is it that you hope counseling can help you with in this situation?
+
+patient: I hope counseling can help me stop overthinking how people see my mustache and rebuild my confidence in social settings. It’s been hard to enjoy time with friends without constantly checking mirrors or worrying they’ll laugh, even though I know logically they wouldn’t. I want to learn to quiet that fear so it doesn’t control my daily life.
+
+interviewer: It sounds like the anxiety around your mustache has really disrupted your social confidence and daily routines. Have you noticed any changes in how this affects your work or other responsibilities, or perhaps your self-care habits like sleep or eating?
+
+patient: I haven't noticed it affecting my work directly, but I've been more anxious at night, which makes it harder to fall asleep sometimes. I don't want to overthink it, but I catch myself checking my face in mirrors or my phone camera more often than usual, even before bed. It’s not like I’m neglecting my job, but the constant self-checking feels... tiring.
+
+interviewer: It sounds like you’ve been managing this with self-reassurance, which is a thoughtful approach. Have there been other strategies you’ve tried to cope with the anxiety or self-checking, whether helpful or not? And have you discussed these feelings with anyone else besides friends you already know well?
+
+patient: I’ve tried avoiding mirrors when possible and sometimes use a bit of makeup to soften the look, but those only calm me temporarily. I haven’t talked to family or coworkers yet—felt too embarrassed to bring it up even with my sister, who’s usually my go-to for stuff like this.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like the fear of judgment is really impacting your confidence in social settings. That must be challenging to navigate. Have there been any past experiences or challenges that might be connected to how you're feeling about your appearance now?
+
+patient: I don’t think I’ve had major past experiences with appearance-related anxiety before this. But I’ve always been a bit self-conscious, maybe more than others. Growing up, I was never the ‘trendy’ kid, so I learned to downplay anything that stood out about me. This feels different because it’s not something I planned—it just appeared, and now I can’t control how it makes me feel.
+
+interviewer: It's understandable how growing up being self-conscious might contribute to these feelings now. Have you experienced any other difficult situations or events in your life that might be connected to how you feel about your appearance or self-image?
+
+patient: I don't recall major events, but maybe… there was a time in middle school when a classmate joked about my eyebrows? It felt embarrassing, but I thought I’d gotten past that. Maybe it made me more sensitive to feeling judged over small appearance things later. Though honestly, that feels like a stretch—I’m not sure. I’ve never talked about it, so it’s hard to say if it’s connected.
+
+interviewer: Thank you for sharing that—middle school moments can leave subtle imprints we don't fully realize until later. Have you experienced other times in your life when concerns about your appearance led to similar feelings of self-consciousness or anxiety? If so, what helped you cope back then?
+
+patient: I haven’t had anything exactly like this before, but in my teens I did get really worked up about a skin breakout phase. My friends kept telling me I looked fine, which helped, but this mustache thing feels different because it’s so specific and… visible. I tried reminding myself they’d accept me back then, but it’s harder now because it’s something I chose to grow.
+
+interviewer: Thank you for sharing that—middle school moments can leave subtle imprints we don't fully realize until later. Have you experienced other times in your life when concerns about your appearance led to similar feelings of self-consciousness or anxiety? If so, what helped you cope back then?
+
+patient: Honestly, I don't think I've had experiences quite like this before. I was always self-conscious about things like fashion choices or my weight growing up, but those never spiraled into this level of anxiety. Middle school was tough with teasing, but I usually coped by focusing on hobbies to distract myself. This mustache situation feels different because it's so... visible and unavoidable. I tried talking to a friend about it once, and they reassured me, but it only made me more anxious to think about it. I guess I'm realizing how much this specific fear is affecting my daily life compared to past concerns that I could just... push aside.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Have you noticed any changes in your alcohol, cannabis, or other substance use recently?
+
+patient: I haven’t noticed any changes in my alcohol or cannabis use recently. I don’t use either regularly, and this issue hasn’t made me reach for anything like that.
+
+interviewer: Thank you for being open about this. Have you experienced any thoughts of self-harm or suicidal ideation recently?
+
+patient: I haven't experienced thoughts of self-harm or suicidal ideation. The distress is mainly around anxiety and self-consciousness, but it hasn't reached that point.
+
+interviewer: Thank you for sharing that. Have you noticed any changes in your sleep patterns or energy levels recently?
+
+patient: Yes, I’ve been having trouble sleeping lately. I often lie awake worrying about how I look, especially at night when I don’t have distractions. It’s left me feeling more tired than usual, even if I do manage to fall asleep eventually.
+
+interviewer: It sounds like the sleep difficulties are adding to your stress. Have you noticed any periods where you feel unusually energetic, restless, or like you don't need much sleep, even when you're stressed?
+
+patient: No, I haven't experienced unusual energy or restlessness like that. My sleep issues are more about lying awake at night, overthinking my appearance or upcoming plans, which makes me feel even more exhausted. I *do* feel restless sometimes, but it’s more like my mind won’t settle—not a hyper kind of restlessness. I’m pretty sure I’d remember if I’d had sudden energy bursts, but I haven’t.
+
+interviewer: Thank you for clarifying that. Have you been taking any medications, supplements, or vitamins regularly that you think might be affecting how you're feeling?
+
+patient: No, I haven’t been taking any medications or supplements for this. I’ve tried talking myself through it with friends’ reassurance, but nothing else has helped the anxiety about my mustache specifically.
+
+interviewer: Thank you for sharing that. It’s important we explore all aspects of your experience together. Have you noticed any changes in your thinking, such as hearing voices, seeing things others don’t, or having thoughts that feel unusual or paranoid?
+
+patient: No, I haven’t heard voices or seen things that others don’t. But sometimes I feel like people are noticing my mustache and talking about me, even when they’re not—like my anxiety makes me imagine they’re judging me more than they actually are.
+
+interviewer: It sounds like the anxiety around your mustache is really affecting your confidence and sleep. Have you used any stimulants, opioids, or other substances (like prescription medications, recreational drugs, or supplements) recently that might be influencing how you're feeling?
+
+patient: No, I haven’t used any stimulants, opioids, or recreational drugs recently. I’ve been trying to manage the anxiety through things like covering it with makeup or avoiding mirrors when possible, but I haven’t turned to substances. I do take a multivitamin sometimes, but nothing else that feels relevant.
+
+interviewer: Thank you for sharing so openly. Before we wrap up this part, have you experienced any other medical issues like thyroid problems, chronic pain, or sleep apnea that might be contributing to your symptoms?
+
+patient: No, I haven't experienced thyroid problems, chronic pain, or sleep apnea. My sleep issues are due to anxiety related to my mustache worries, not a medical condition.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Melissa, based on what we’ve discussed, it sounds like your recent anxiety about your mustache has roots in long-standing self-consciousness about appearance, possibly influenced by past experiences like middle school teasing. The new mustache became a trigger, and now avoidance, mirror-checking, and fear of judgment keep the anxiety going. Your ability to seek help and past coping strategies are strengths. Does this align with your experience, or is there something I’ve missed?
+
+patient: Yes, that aligns with my experience. The middle school incident with my eyebrows definitely made me hyper-aware of how others perceive me, but this mustache feels different because I *chose* it—so when people give well-meaning compliments, it backfires. I keep thinking, 'See? They notice!' even when they’re being kind. It’s like I can’t separate my intention to express myself from the fear they’ll see it as a flaw instead.
+
+interviewer: Thank you for sharing that. Let me outline a tentative model to explain what we’ve discussed so far: Your lifelong sensitivity to perceived judgment (predisposing) and the middle school incident (precipitating) may have set the stage for this mustache-related anxiety. The choice to grow it and subsequent social feedback (precipitating) likely intensified self-consciousness, while avoidance, mirror-checking, and overthinking (perpetuating) keep the anxiety cycling. Your past coping strategies and social support (protective) are strengths we can build on. What did I miss or get wrong here?
+
+patient: You captured the general idea well, but I think the middle school incident is more of a long-standing sensitivity (predisposing) rather than a direct trigger. Also, I want to clarify that my mustache is actually a deliberate choice—I originally grew it for a photoshoot, which might explain why it feels more intentional and, in a way, amplifies the self-consciousness compared to something I never chose.
+
+interviewer: Thank you for the clarification. Before we move forward, is there anything else you'd like to add or adjust in our understanding of how this is affecting your life? For example, any specific situations or thoughts we haven't covered yet?
+
+patient: One thing I haven’t mentioned is how I’ve started avoiding group photos or events where I might be in close quarters with friends, just in case someone notices the mustache. I also get a sharp wave of anxiety when I see other women with facial hair—like in ads or on social media—it makes me hyper-focused on my own, even if I hadn’t been thinking about it before.
+
+interviewer: It sounds like the mustache has become a focal point for a cycle of self-consciousness, where intentional choices feel magnified under perceived scrutiny, and even positive feedback can feel like confirmation of your fears. What steps would you like to explore together to address these patterns and rebuild confidence in how you show up in social settings?
+
+patient: I’d like to explore ways to challenge the automatic negative thoughts when someone comments on my mustache, like turning compliments into opportunities to practice self-acceptance instead of seeing them as proof of my fears. Maybe we could work on gradually reducing mirror-checking rituals—like setting a timer to remind myself that others don’t notice me as much as I think. And… maybe slowly reintroduce social plans, starting with people I trust, to build confidence that I don’t need to "hide" anymore.
+
+interviewer: Thank you for sharing those thoughtful steps—it’s clear you’re committed to challenging these patterns. Before we wrap up, is there anything else about your experience or goals that we haven’t covered which feels important to include in our plan?
+
+patient: I think it’s important to address how this impacts my daily routines—like avoiding mirrors or skipping events—because those habits feel automatic now. I’d also like to explore why this feels different from past insecurities, maybe digging into whether the 'chosen' nature of the mustache makes the anxiety feel more personal or deliberate.
+
+interviewer: Thank you for highlighting those daily routines and the intentional aspect of your choice—it’s clear how these factors intertwine with your self-perception. To ensure we’re aligned, let’s briefly recap: Our tentative plan includes challenging automatic negative thoughts around compliments, gradually reducing mirror-checking rituals, and reintroducing social situations to build confidence. Is there anything else you’d like to adjust or add to this plan before we finalize next steps?
+
+patient: Yes, the plan sounds good. I think exploring how past experiences, like that middle school incident with my eyebrows, might be fueling this fear could help me understand it better. Also, maybe we could work on strategies to handle the embarrassment I feel when discussing this—sometimes just talking about it makes me more anxious, and I want to get more comfortable opening up.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Patient reports anxiety related to mustache growth (chosen for photoshoot), leading to mirror-checking, social avoidance, and sleep disruption. Symptoms worsened over months, triggered by increased visibility and well-meaning compliments. Notes past self-consciousness (e.g., middle school eyebrow teasing) but no prior appearance-related anxiety spirals. Avoids group photos and feels anxious seeing other women with facial hair.
+
+Objective: No medical issues or substance use contributing to symptoms. No suicidal ideation or psychosis. Observes ritualistic mirror-checking, sleep disturbance, and social withdrawal. Patient acknowledges cognitive distortions (e.g., interpreting compliments as validation of fears).
+
+Assessment: Appearance-focused anxiety with avoidance and safety behaviors (mirror-checking, social withdrawal). Likely exacerbated by intentional nature of mustache growth and prior sensitivity to perceived judgment. Sleep impairment noted. No acute safety concerns.
+
+Plan: Challenge automatic negative thoughts around compliments; gradual reduction of mirror-checking via timed reminders; reintroduce trusted social interactions. Explore middle school incident’s role in self-consciousness. Address embarrassment around discussing concerns. Monitor sleep hygiene and social functioning progress.
+
+--- End Summary ---
+

@@ -1,0 +1,130 @@
+system: --- Session 202601282045 Start ---
+
+ --Patient ID 2826--
+
+system: --- Session 202601282045 Start ---
+
+ --Patient ID 2826--
+
+interviewer: Haley, to start, could you share your preferred name and pronouns if you're comfortable?
+
+patient: My name is Haley, and I go by she/her pronouns. I don’t mind sharing them.
+
+interviewer: Haley, I want to explain the purpose of today's session and how it will proceed. Would that be okay with you?
+
+patient: Sure, I appreciate you explaining. To be honest, just talking about this feels a little overwhelming, but I want to work through it. My job as an interpreter has always been my identity, so discussing these limitations... it’s hard not to feel frustrated.
+
+interviewer: It makes sense that this feels overwhelming—your dedication to your work is clear. Would you be comfortable continuing with this discussion today?
+
+patient: Yes, I’d like to. It’s... been weighing on me a lot lately, so talking through it might help.
+
+interviewer: It’s completely valid to feel frustrated when our identities or passions face challenges. Before we move forward, do you have any immediate questions about how today’s session will work or what to expect?
+
+patient: No, I don’t think so. I’ve never been to counseling before, but I’m here because I want to figure out how to stop letting this… pressure from my job ruin my confidence. How will this session help address my struggles with language learning and self-doubt?
+
+interviewer: Thank you for sharing that, Haley. It sounds like the pressure to excel in your role is deeply tied to your self-worth, and that’s exhausting. Let me confirm: we’ve covered your comfort with proceeding, the purpose of today’s session, and you’ve had a chance to ask questions. Is there anything else you’d like to clarify before we begin?
+
+patient: No, I think we’re good. Just… the pressure feels constant, even when I’m not at work. I’ve been avoiding assignments that require new languages, which my team noticed, I think.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing how this pressure has been affecting your work and relationships. Can you describe how you've felt emotionally in moments when you try to learn a new language now—like, do you notice specific feelings like anxiety, frustration, or sadness coming up more than others?
+
+patient: It’s mostly anxiety and frustration. I get this tightness in my chest when I start thinking about it, like I’m already scared I’ll fail before even trying. Sometimes I feel… defeated, like no matter how hard I push, I’ll never catch up. I’ll start a new language and my mind just freezes—like my brain’s saying, 'You’re not good enough.' It’s sad, honestly, because I used to love learning languages. Now it feels like work I can’t escape.
+
+interviewer: It sounds heartbreaking to feel so disconnected from something you once loved, paired with that physical tension and mental block when starting anew. Can you tell me how this problem has changed or progressed since it started a year ago—like, has it gotten steadily worse, or were there specific moments that made things feel different?
+
+patient: It’s definitely gotten worse over time. At first, it felt like a small voice of doubt, but now it’s like a wall I can’t climb over. The tension in my chest when a colleague suggests a new language assignment? It’s constant now. I remember last spring when I had to decline a Spanish-Portuguese project—it was the first time I actually panicked about not meeting expectations. Before that, I’d just... procrastinate.
+
+interviewer: It sounds like this shift from passion to pressure has been really isolating, especially avoiding assignments and hesitating to lean on colleagues. As we wrap up this part, can you share what you’re most hoping counseling could help with in this situation—like specific changes you’d notice if things started to improve?
+
+patient: I hope counseling can help me rebuild my confidence in my language learning abilities so I stop avoiding assignments. I’d notice it if I could approach new languages without feeling paralyzed by self-doubt, and maybe start enjoying the process again instead of dreading it. I’d also want to stop letting this pressure bleed into my personal life—it’s been exhausting carrying it all the time.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: Haley, I appreciate you sharing so openly. I want to ask if there have been any past experiences, whether positive or challenging, that might have influenced how you approach learning new things or handle pressure?
+
+patient: I think the pressure to excel in languages started early. My parents were educators, so they always emphasized perfection in school—especially in languages. I learned to tie my self-worth to being the best, which... it’s hard to break that pattern. Now, when I hit this wall with new languages, it feels like failing a standard I set for myself, even though I know logically I’ve already achieved a lot.
+
+interviewer: It sounds like the pressure you feel is deeply tied to your role as an interpreter. Can you share more about what specific aspects of your work environment or job expectations contribute most to this pressure when learning new languages?
+
+patient: The biggest pressure comes from feeling like I have to keep up with industry expectations. Clients and agencies often prioritize interpreters who can handle more languages, so when I hit my limit with the sixth language, it felt like I suddenly couldn’t compete anymore. Plus, my boss mentioned once that expanding our language skills is 'key to staying relevant,' which makes every new assignment feel like a test I’m failing before I even start. It’s not just about the job—it’s like my whole identity as an interpreter hinges on learning more, and I’m terrified of being seen as stagnant or less capable.
+
+interviewer: Thank you for sharing how deeply tied your self-worth feels to your professional role. Let’s explore supports—can you tell me about someone in your life (colleague, friend, or family) who you feel safest talking to about work-related stress, even if only briefly?
+
+patient: There's a colleague at work named Sarah—I've known her for a few years. Sometimes, if I'm overwhelmed, I'll text her a joke or vent about a busy day during lunch. But... honestly, I tend to keep the real stuff, like the language pressure, to myself. It feels too personal, even with her. We work together, so I don't want to make it awkward.
+
+interviewer: It makes sense to want to keep personal struggles private, especially in a work setting. I want to gently check if there have been any past experiences—like difficult situations or challenges—that you feel might be connected to how you handle pressure or expectations in your work. Would you be comfortable sharing any of that?
+
+patient: I don't remember specific past events that feel directly connected, but I do recall growing up with a lot of emphasis on languages in my family. My parents were teachers, and they always encouraged me to learn new languages as a kind of... 'mental exercise.' I guess that made me tie my self-worth to how many languages I could master. Now, after hitting six, it feels like there's this invisible ceiling I can’t break, and the pressure to keep proving myself never really stops.
+
+interviewer: Thank you for sharing that connection to your family's emphasis on languages. Given your history of high expectations tied to academic achievement, have you experienced similar feelings of limitation or pressure in other areas of your life before?
+
+patient: Honestly, I haven’t felt this specific kind of limitation before. My family always valued academic achievement, and I did well in school, but I never hit a wall like this. It’s different now because my work identity is so tied to languages—this feels like a personal failure, not just a challenge. I think I’ve always pushed myself hard, but the pressure to *keep growing* in this career is… sharper. It’s not that I haven’t had stress before, but the fear of being ‘stuck’ feels new.
+
+interviewer: It’s clear how uniquely tied your self-perception is to your professional growth. Can you share what you value most about your work as an interpreter, or what aspects of your role have brought you the most pride or fulfillment in the past?
+
+patient: What I loved most was when I could help someone communicate in a moment that really mattered—like a family emergency or a legal case where language barriers might cause misunderstanding. There was a time last year when I translated during a hospital crisis for a patient who spoke only my sixth language; seeing their relief made me feel like I was actually making a difference. Before the pressure got too overwhelming, I took pride in the challenge of learning itself, like solving a puzzle with every new dialect. Now it’s hard to see that joy without the self-doubt... but I know those parts of the job *used* to mean a lot to me.
+
+interviewer: It sounds like your passion for helping others through language has been a meaningful part of your identity. Have you experienced any traumatic or difficult events in your life that you think might be related to how you handle pressure or expectations?
+
+patient: I haven't experienced any major traumatic events in my life. However, the pressure to excel in my career has always been a constant stressor. I think my fear of not meeting expectations now might be tied to how I’ve always pushed myself to learn quickly, but I’ve never had a specific event that I connect to this struggle.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing that, Haley. It sounds like the pressure you're under is really taking a toll. Have you ever had thoughts of intentionally harming yourself or ending your life, even if just for a moment? I'm asking because understanding this helps me support you better.
+
+patient: No, I haven't had thoughts of intentionally harming myself or ending my life. My struggles have been more around anxiety, self-doubt, and feeling stuck professionally. I’ve focused on avoiding tasks rather than... darker thoughts. I’m here to work through the pressure, not that.
+
+interviewer: I appreciate your openness, Haley. To better understand your current state, do you ever experience periods where you feel overly energetic or need very little sleep, maybe taking on more tasks or speaking more rapidly than usual? This helps me assess for patterns of elevated mood or energy.
+
+patient: No, I don't think so. I've mostly felt the opposite—like I'm running on low energy all the time, even when I try to push through. The pressure to learn more languages just makes me more anxious, not more energized. I've had trouble sleeping sometimes, but it's because my mind won't stop worrying about work, not because I feel hyper or excited.
+
+interviewer: I appreciate your honesty about the anxiety and pressure you're experiencing. Have you ever had experiences like hearing voices, seeing things others don't, or holding beliefs that feel very real but might seem unusual to others?
+
+patient: No, I haven’t experienced hearing voices or seeing things that others don’t. My struggles are more around intense pressure and self-doubt—like feeling mentally blocked or physically tense when faced with new language tasks. It’s frustrating, but I don’t have symptoms like hallucinations or unusual beliefs.
+
+interviewer: I appreciate your honesty, Haley. To ensure we have a complete picture, are you currently taking any medications, supplements, or vitamins on a regular basis? This helps me understand any factors that might influence your symptoms.
+
+patient: I don’t take any medications, but I do take a daily multivitamin as a general health precaution. No supplements or prescriptions specifically for my current struggles.
+
+interviewer: I appreciate your thoroughness in sharing so far. To address another important aspect, could you tell me if you currently use any substances like alcohol, cannabis, or others? This helps me understand factors that might be influencing your stress or energy levels.
+
+patient: I don’t use alcohol or cannabis regularly. I’ve had a drink at work events occasionally, but nothing I’d consider habitual. I try to avoid substances because I need my focus for work—when stress builds up, I just push through it or distract myself with hobbies. It’s not something I’ve turned to for relief.
+
+interviewer: I appreciate your clarity about alcohol and cannabis use. To fully characterize this area, have you used any other substances, such as stimulants (e.g., Adderall, Ritalin), opioids, or others, either recreationally or for stress relief? This helps ensure we capture all factors that might influence your energy or anxiety levels.
+
+patient: No, I haven’t used any other substances like stimulants or opioids. I’ve tried focusing on structured routines and language apps to manage stress, but they haven’t helped break through the mental block I feel when approaching new languages.
+
+interviewer: I appreciate your clarity about avoiding substances. To better understand your support systems, can you share any friends, family, or colleagues who help you cope with stress, or activities that bring you comfort during challenging times? This helps identify protective factors that can strengthen your resilience.
+
+patient: I have a few colleagues and friends I can talk to, like my coworker Sarah, but I haven’t really discussed my language-learning struggles with anyone. They know I get stressed at work, but not the specifics. For comfort, I sometimes read books in languages I’m already fluent in—it feels familiar and calming. I also listen to music or podcasts in different languages, but more for enjoyment than practice now. Honestly, I’ve been relying on cooking as a distraction; it’s one thing where I don’t have to think about translations or deadlines.
+
+interviewer: I appreciate your detailed sharing about your coping strategies, Haley. To complete this phase, have you experienced any medical issues like thyroid problems, sleep apnea, chronic pain, or past head injuries that might be affecting your energy or sleep?
+
+patient: No, I haven't experienced thyroid issues, sleep apnea, chronic pain, or head injuries. My sleep troubles feel tied to stress and anxiety about work pressure, not a physical condition. I’ve had restless nights before big assignments, but nothing medically diagnosed.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Reports anxiety, frustration, and chest tightness when learning new languages; describes mental blocks and avoidance of assignments. Symptoms worsened over 1 year, progressing from procrastination to panic (e.g., declined Spanish-Portuguese project last spring). Feels self-worth tied to professional language mastery, with pressure from job expectations (e.g., boss emphasizing language expansion as 'key to staying relevant').
+
+Objective: Avoiding work assignments, strained colleague relationships due to secrecy about struggles, impaired job performance. Uses cooking and familiar language activities as distractions. No suicidal ideation, psychosis, or substance use. Multivitamin only.
+
+Assessment: Anxiety and self-doubt linked to perfectionism and identity as interpreter. Chronic stress from unrealistic self-imposed standards and workplace expectations. No acute safety concerns. No medical contributors to symptoms.
+
+Plan: Explore cognitive-behavioral strategies to reframe self-worth and pressure. Address identity ties to professional role and perfectionism. Monitor avoidance patterns and gradual exposure to language tasks. Connect with colleague Sarah for social support if appropriate.
+
+--- End Summary ---
+

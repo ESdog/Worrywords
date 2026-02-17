@@ -1,0 +1,102 @@
+system: --- Session 202601290846 Start ---
+
+ --Patient ID 3248--
+
+system: --- Session 202601290846 Start ---
+
+ --Patient ID 3248--
+
+interviewer: Hi Natasha, thank you for coming in today. Before we start, I just wanted to check—would you like me to use a different name or pronouns, or is 'Ms. Taylor' and she/her okay?
+
+patient: Yes, 'Ms. Taylor' and she/her are fine.
+
+interviewer: Thank you for confirming that, Ms. Taylor. Today, we'll start by discussing your concerns and how counseling can help. Would you be comfortable proceeding with that?
+
+patient: Yes, I’d like to move forward. It’s been really hard managing everything else while I’m so anxious about driving. My kids need me to get them places, and I don’t want to rely on my husband all the time.
+
+interviewer: Just to make sure we’re aligned, today’s session will focus on understanding your concerns and how counseling can help manage your anxiety around driving. Does that sound okay, or would you like to clarify anything before we start?
+
+patient: Yes, that sounds good. I’ve been avoiding driving even for basics like grocery shopping, and my kids’ schedules are getting messy because of it.
+
+interviewer: It sounds like this is causing a lot of strain on your routine and relationships—thank you for sharing that. Do you have any immediate questions or concerns you'd like to address before we begin?
+
+patient: I think my main concern is figuring out how to regain confidence in driving without putting my kids or myself through this stress anymore. My husband’s been a rock helping out, but I can tell it’s wearing on him too—I guess I’m wondering how we’d even start unpacking this fear in therapy, and if there are practical steps we could work on together?
+
+interviewer: It sounds like you're seeking practical strategies to address this fear. Does that sound like a clear plan for today, or would you like to adjust anything before we begin?
+
+patient: Yes, focusing on practical strategies sounds like a good plan. I’m just worried about how to apply them when I’m with the kids in the car, since my fear tends to get worse then. Also, my husband’s been so stressed taking over driving duties, so any help easing that would be great.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing so openly, Natasha. It sounds like the car accident has been a significant trigger for your anxiety. Have there been any other challenging or traumatic experiences in your life that you think might be connected to this current situation?
+
+patient: No, I don't think so... The accident was the first time I really felt this kind of fear. Maybe the stress of being a mom and handling everything alone adds to it, but nothing else stands out as traumatic.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Have you ever had thoughts of harming yourself or ending your life?
+
+patient: No, I haven’t had thoughts like that. My main focus is on managing the anxiety from driving and trying to regain confidence. I’m committed to working through this with therapy and practical strategies.
+
+interviewer: Have you been sleeping less than usual but still feeling energetic or restless lately?
+
+patient: Honestly, I've been having trouble sleeping a lot lately. My mind races about driving and all the 'what-ifs'—like another accident or my kids being scared. I lie awake for hours sometimes, feeling restless, but I don’t feel more energetic. If anything, I'm exhausted from the stress, but the anxiety keeps me wired at night.
+
+interviewer: I appreciate you sharing that. It sounds like the anxiety is really taking a toll on your rest. Let's talk a bit more about your energy levels—have you noticed any periods where you feel unusually energetic or restless, even with little sleep, or engage in activities that feel impulsive or risky?
+
+patient: No, I haven’t experienced anything like that. My energy’s been pretty low lately—mostly just exhaustion from the stress of avoiding driving and juggling everything else as a mom. I don’t think I’ve felt ‘restless’ or acted impulsively… if anything, I’m too cautious now, especially when my kids are in the car.
+
+interviewer: I appreciate your openness. It’s important we cover a few more areas to ensure we understand all aspects of your experience. Have you noticed any changes in your thinking, such as hearing voices, seeing things others don’t, or having strong beliefs that feel unusual or hard to let go of, even when others disagree?
+
+patient: No, I haven’t experienced any changes like hearing voices or seeing things that others don’t. My main struggles are with the anxiety and fear related to driving—my thoughts tend to spiral around worst-case scenarios when I’m behind the wheel, especially with my kids, but I don’t have any unusual beliefs or hallucinations.
+
+interviewer: I appreciate your clarity. Let’s briefly touch on substance use—have you used alcohol, cannabis, or any other substances in the past few months? If so, how often?
+
+patient: No, I haven’t used any substances recently. I’ve tried to avoid anything that might interfere with my ability to care for my kids or mix with any medications, even though I’m not on anything right now. I stick to the breathing exercises and music I mentioned to cope.
+
+interviewer: I appreciate your honesty. To complete our discussion, can you confirm if you’re currently taking any medications, supplements, or vitamins? If so, which ones and how are they affecting you?
+
+patient: I’m not currently taking any medications, supplements, or vitamins for this issue. I’ve thought about trying something like a calming supplement, but I haven’t started anything yet. I wanted to focus on therapy first since I know I need to address this fear actively.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Natasha, to recap: Your driving anxiety began after a car accident a few months ago, worsening in traffic or bad weather. It’s caused stress, family strain, and disrupted your routine. We’ve explored how this fear impacts your role as a parent and your relationship with your husband. What did I miss or get wrong about your experience?
+
+patient: You got the main points right, but you didn’t mention that my friends and family have been a big support—my sister even offered to help with errands sometimes. Also, I want to clarify that I haven’t had any mental health treatment before this, and I don’t have other health issues contributing to this. It’s just been the accident and the stress of relying on my husband so much.
+
+interviewer: Thank you for those clarifications, Natasha. To summarize: Your driving anxiety began after a recent accident, worsens in traffic or bad weather, and has caused stress, disrupted your routine, and strained your relationship with your husband. Your family and friends, especially your sister, are a key support, and you have no prior mental health treatment or medical issues. Is there anything I missed or misunderstood about your experience?
+
+patient: That’s pretty accurate. I’d just add that the fear is especially intense when my kids are in the car—it makes me freeze up more. Also, the breathing and music help a little, but they don’t really stop the panic. I’ve also been staying up late worrying about what if I’m in an accident again, which makes me more tired. Otherwise, you got it right.
+
+interviewer: Thank you for sharing those details, Natasha. Let me try to piece this together: Your anxiety began after a recent accident, worsens when driving with your children due to fear of repeating the trauma, and has led to sleepless nights and exhaustion from worrying. We’ve discussed how this affects your parenting, strains your marriage, and limits your independence. Would it be accurate to say that stress from single parenthood and fear of failure might have made you more vulnerable to this anxiety, while your husband’s support and your sister’s help are protective factors? What did I miss or get wrong here?
+
+patient: Yeah, that's pretty much right, but maybe you missed how much I blame myself for putting my kids in danger. The accident wasn’t *my* fault, but now I can’t shake the thought that I’m failing them by driving. My husband does help a lot, but it’s not like he’s 'single-handedly' supporting me—he’s just covering for me when I freeze up. And my sister? She’s more of a listening ear than a practical help. I guess what you said about vulnerability is half-true—the stress of parenting definitely makes the fear feel bigger, but the accident itself was the real trigger, not some vague 'fear of failure.'
+
+interviewer: Natasha, based on our discussion, here’s a tentative model: Predisposing factors include stress from single parenthood and a history of anxiety; the precipitating event was the recent accident, which triggered intense fear of endangering your children. Perpetuating factors are avoidance of driving, sleep disruption from worry, and self-blame, while protective factors include your husband’s support, your sister’s emotional availability, and your proactive approach to therapy. Does this align with your experience, or would you adjust anything?
+
+patient: I think that makes sense, but I want to clarify a few things. I don’t think I had anxiety before the accident—I’ve never had problems like this before. Also, I’m not really a ‘single parent’ since my husband is actively involved, but the stress of relying on him so much does add to the pressure. Maybe the strain on our relationship could be part of the perpetuating factors? Other than that, the rest feels accurate—the accident was the trigger, avoidance definitely keeps it going, and I’m grateful for my husband and sister’s support as protective factors.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Patient reports driving anxiety post-car accident (several months ago), worsening in traffic/weather. Symptoms include panic, avoidance of driving (even for essentials), self-blame for perceived parenting failure, and sleep disturbance (racing thoughts about accidents, exhaustion). No prior anxiety history or trauma. No suicidal ideation or substance use.
+
+Objective: Anxiety impacts daily functioning: disrupted childcare routines, marital strain from reliance on husband for driving. Patient uses breathing exercises/music with limited efficacy. Family support (husband, sister) noted but acknowledges husband’s stress as perpetuating factor.
+
+Assessment: Anxiety triggered by accident, perpetuated by avoidance, sleep disruption, and self-blame. Predisposing factors: parental stress. Protective factors: spouse’s practical support, sister’s emotional support. No psychotic symptoms, substance use, or prior mental health treatment.
+
+Plan: Focus on practical CBT strategies for driving exposure, sleep hygiene, and anxiety management. Address self-blame and marital strain. Leverage family support for gradual driving reintegration. Monitor safety and symptom progression.
+
+--- End Summary ---
+

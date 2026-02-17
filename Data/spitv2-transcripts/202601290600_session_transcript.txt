@@ -1,0 +1,122 @@
+system: --- Session 202601290600 Start ---
+
+ --Patient ID 2427--
+
+system: --- Session 202601290600 Start ---
+
+ --Patient ID 2427--
+
+interviewer: Hi Delaney, thank you for coming in today. To start, can you share your name and pronouns with me?
+
+patient: Hi, my name is Delaney Collins, and my pronouns are she/her.
+
+interviewer: Thank you, Delaney. Today, we'll be discussing your concerns and working together to understand what's going on. How does that sound?
+
+patient: That sounds good. I’ve been feeling really overwhelmed about the dog at the shelter not getting adopted, and it’s been affecting my life a lot lately. I’m not sure where to start, but I want to work through it.
+
+interviewer: Thank you for sharing that, Delaney. It sounds like this has been really heavy on your mind. Are you comfortable proceeding with this discussion today?
+
+patient: Yes, I think it's important to address this because it's really affecting my studies and I can't seem to shake the guilt. It's hard to explain to my friends how I feel about the whole situation.
+
+interviewer: It's understandable to feel overwhelmed by these feelings. Do you have any questions about how this process works or anything else before we start?
+
+patient: No, I think I understand. I’m here to talk through it and figure out how to manage these feelings. I guess I just want to understand why I’m taking this so personally, even though I know I’m not responsible for the dog’s adoption.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Thank you for sharing that. It sounds like this guilt has been really heavy to carry. Can you tell me a bit more about when you first started feeling this way and if there was anything specific that made it worse recently?
+
+patient: It started about a month ago when the dog, a black lab named Max, didn’t get adopted during the last adoption event. I’d bonded with him because he was shy, and I spent extra time socializing him. When he was still there after the event, I kept thinking maybe I hadn’t done enough to help him. Recently, during a staff meeting, I overheard someone say they weren’t sure if Max was ‘shelter-friendly’—it felt like a reflection on my work with him, even though I know that’s not fair. It just… piled on the guilt.
+
+interviewer: Thank you for sharing that. It sounds like this situation has been really weighing on you. Can you share an example of how this has affected your schoolwork or your interactions with friends recently?
+
+patient: Yeah, last week I had a major presentation for my anatomy class, but I kept zoning out during practice because I kept thinking about the dog still at the shelter. I got a B instead of an A, and my study group kept asking if I was okay, which made me snap at them. I feel bad afterward, but the guilt about the dog just... it’s always there, you know? It’s like I can’t focus on anything without that weight pulling me under.
+
+interviewer: Thank you for sharing that vulnerable moment—it sounds like a lot to carry alone. Looking ahead, what would you most hope to achieve through our work together? How would ‘getting better’ look to you?
+
+patient: Honestly, I guess I just want to stop feeling like this is my fault. I don’t want to keep thinking I’m a ‘bad volunteer’ or that my extra hours are even helping… I know logically that adoption depends on a lot of things, but I can’t shake the guilt. If this gets better, I’d hope to walk into the shelter without my chest tightening, and actually focus on my classes again. Maybe I need to learn when to let go of things I can’t control.
+
+interviewer: It’s clear how much this situation is affecting your life, and it’s brave to share these thoughts. You mentioned in your intake that your sleep has been affected—could you tell me a bit more about how that’s been showing up for you lately?
+
+patient: It’s been really tough. I’ll lie awake at night thinking I must’ve done something wrong to keep the dog from getting adopted, like maybe I didn’t socialize it enough or something. Sometimes I wake up in the middle of the night and feel this wave of guilt, then I can’t go back to sleep. I’ve been tired all the time, which makes it harder to focus on my classes.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I want to ask if there have been any other difficult or traumatic experiences in your life that might be related to how you're feeling now?
+
+patient: Not that I can think of—nothing like this has happened before. I’ve always been pretty driven, maybe a perfectionist, but this feels different. It’s like my usual stress just... intensified over something I can’t control. Even my friends are surprised by how much this is getting to me.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Have you experienced any thoughts of harming yourself or ending your life, Delaney? If so, could you share how often these thoughts occur and if they include a specific plan or method?
+
+patient: No, I haven’t had thoughts of harming myself or ending my life. The guilt and stress have been really tough, but I haven’t gone that far. I just want to stop feeling so overwhelmed and regain control over my emotions.
+
+interviewer: I appreciate your honesty, Delaney. It sounds like the guilt has been really heavy to carry. Let’s shift focus slightly—have you noticed any recent changes in your energy levels or sleep patterns that feel different from usual? For example, feeling unusually restless, wired, or needing less sleep than typical?
+
+patient: Yes, my sleep has been off. I lie awake at night replaying my "mistakes" with Max, then wake up exhausted but still wired. It’s like my brain can’t shut off the guilt, even when I’m physically tired.
+
+interviewer: I appreciate you sharing how your sleep has been affected—it sounds incredibly draining. Let’s explore a bit further: Have you noticed any recent changes in your energy levels, such as feeling more restless, needing less sleep, or taking risks you wouldn’t normally take?
+
+patient: I haven’t noticed any changes in needing less sleep or feeling unusually restless, but I’ve definitely been more fatigued lately. My brain feels foggy even after a full night’s sleep—though, honestly, I rarely get that anymore. I do miss the energy I used to have for studying, but I haven’t taken any risks or acted impulsively. It’s more like… my usual drive is there, but it’s drowned out by this guilt.
+
+interviewer: I appreciate you sharing how the guilt has affected your energy and focus. To continue, have you experienced any hallucinations (like hearing voices or seeing things others don’t), delusions (strong beliefs that feel real but aren’t), or paranoia (fear someone is targeting you) related to this stress?
+
+patient: No, I haven’t experienced hallucinations or delusions. I do sometimes feel overwhelmed, like the guilt is suffocating, but it’s not about hearing voices or seeing things. The paranoia part—I guess I worry people might think I’m failing as a volunteer, but it’s more about my own self-judgment than fearing someone is targeting me.
+
+interviewer: I appreciate you clarifying that, Delaney. It sounds like the guilt is really weighing on you emotionally. Let’s move forward: Have you used any substances like alcohol, cannabis, or others recently, or noticed any changes in use that might be connected to how you’re feeling?
+
+patient: No, I haven’t used any substances like alcohol or cannabis recently. I’ve actually been avoiding them because I want to stay focused on my studies and volunteering. My friends sometimes suggest going out to unwind, but I decline since I feel I need to keep my priorities straight right now.
+
+interviewer: I appreciate your commitment to staying focused on your priorities, Delaney. To ensure we cover all bases, could you share if you’re currently taking any medications, supplements, or vitamins? If so, how have they been working for you?
+
+patient: I’m not currently taking any medications or supplements. I do take a daily vitamin D pill because I’m indoors a lot for school and volunteering, but it’s just a basic one from the pharmacy.
+
+interviewer: I appreciate your openness about the emotional toll this is taking. To ensure we address all potential factors, have you been diagnosed with any medical conditions like thyroid issues, sleep apnea, chronic pain, or a head injury that might be affecting your mood or energy levels?
+
+patient: No, I haven't been diagnosed with any medical conditions like thyroid issues or sleep apnea. But I have mentioned my sleep problems—lying awake at night worrying about Max, waking up exhausted, and struggling to focus during the day. I know the sleep issues are tied to the stress and guilt, though, not an underlying condition.
+
+interviewer: I appreciate your clarity about the connection between stress and your sleep patterns. To ensure we’ve covered all aspects of your well-being, could you share any supports or resources (like friends, activities, or coping strategies) that have helped you manage stress or stay grounded in challenging moments?
+
+patient: My friends try to support me by checking in, but they don’t fully grasp how much this weighs on me. I’ve also been throwing myself into volunteer work—like staying extra hours at the shelter or cleaning cages—to feel like I’m ‘earning’ Max’s chance at adoption. It’s… not really working, but it’s all I can think to do. Sometimes I’ll force myself to study harder too, like if I get a good grade, maybe it’ll balance out the guilt somehow.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Based on our discussion, it sounds like your current stress and guilt stem from taking on responsibility for Max's adoption, which may be linked to your perfectionist tendencies (predisposing), the recent staff comment about Max (precipitating), and ongoing patterns of self-blame and overworking to 'earn' adoption chances (perpetuating). Your proactive approach to therapy and social support are protective factors. What did I miss or get wrong about how this is unfolding for you?
+
+patient: You captured the main points well, but maybe missed how the staff comment about Max being 'not shelter-friendly' felt like a personal failure, like they were judging my volunteer work. Also, I haven’t mentioned how my perfectionism makes me over-identify with animals—I think I take their 'unadoptable' labels as a reflection of my own worth, even if that’s irrational. The academic impact is worse than just one grade; I’ve been zoning out in lectures too, which is scary for my med school chances.
+
+interviewer: Thank you for sharing those important nuances about the staff comment and how your perfectionism intertwines with Max’s situation. What else might I have missed about how this is affecting you or what you need moving forward?
+
+patient: I think another thing is how this guilt is making me question if I'm cut out for medicine. If I can't even help Max, what if I fail patients someday? It's like the fear of being 'unreliable' or 'not enough' is creeping into my career identity now. I need to untangle my self-worth from outcomes I can't control. Also, maybe learning how to set healthier boundaries between my roles at the shelter and school before it all collapses.
+
+interviewer: Thank you for sharing those important insights about your career identity and boundaries. It seems like we’ve covered the key factors contributing to your distress—your perfectionism, the staff comment about Max, and the fear of failure in medicine. What else might I have missed about how this is affecting you or what you need to move forward?
+
+patient: I think what’s missing is how this guilt is making me second-guess my whole approach to helping others. I’ve always believed that if I work hard enough, I can fix things—but Max’s situation makes me wonder if I’m just… not cut out for roles where I need to make a difference. I’m scared that this fear of failing to ‘save’ someone might follow me into my medical career. I need to learn how to accept that not every outcome is in my control without it meaning I’m a bad person or volunteer. Also, I’m realizing I don’t know how to ask for help with this—my instinct is to power through, but that’s clearly not working.
+
+interviewer: It’s clear how deeply this experience has challenged your sense of purpose and self-worth, and your courage in naming these fears is a meaningful step. What would you like to prioritize first in addressing these concerns—exploring strategies to manage guilt, practicing self-compassion, or setting boundaries between your roles at the shelter and school?
+
+patient: I think the most urgent is learning strategies to manage the guilt because it’s the core of my struggle. I’ve been tying my self-worth to Max’s adoption, but I need tools to reframe that—like recognizing I can’t control outcomes. Once I have those strategies, I could build self-compassion, but right now, the guilt feels like a loop I can’t escape. I also wonder if setting clearer boundaries between the shelter and school would help prevent my stress from spilling into everything, but I’m not sure how to start that yet.
+
+interviewer: Thank you for clarifying the urgency around guilt management—it’s clear how deeply this is affecting your life right now. Before we finalize our next steps, is there anything else you’d like to add or adjust about the plan we’ve discussed (e.g., strategies for guilt, boundaries, career concerns)?
+
+patient: I think the plan is a good start, but maybe I need to clarify how to balance my responsibilities. I worry that focusing on my guilt will make me neglect my studies, but I also fear overworking at the shelter to ‘fix’ this. Could we add strategies to set boundaries between volunteering and school? Also, I’m nervous about how this might affect my future as a doctor—I don’t want perfectionism to define my career too. I’d like tools to reframe my self-judgment about control versus responsibility.
+
+interviewer: Thank you for articulating those priorities so clearly. To recap: We’ve identified guilt management as the urgent focus, with strategies to reframe self-judgment and boundaries between roles as key next steps. You also want to address career-related fears about perfectionism. What did I miss or get wrong about how this is unfolding for you?
+
+patient: You captured the main points well, but the comment about Max being 'unshelter-friendly' really hit me hard—it felt like validation that my efforts were pointless. Also, the academic slip-up during the presentation (zoning out and getting a lower grade) is a specific example of how this guilt is spilling into my studies. I think my overworking at the shelter to 'earn' Max’s chance is another part of this cycle I need help breaking.
+
+interviewer: Thank you for adding those important details about the staff comment and academic impact. To ensure we’re aligned: Our focus will be on guilt management strategies to break the cycle of self-blame, boundary-setting between your roles, and addressing career-related fears. Is there anything else I’ve missed about your experience or priorities that should shape our plan?
+
+patient: Thank you—I think that covers it. Maybe it’s also worth noting how my perfectionism ties into this? I’ve always felt I need to be ‘perfect’ to succeed in medicine, so Max’s lack of adoption feels like a personal failure in a role I care deeply about. I worry this pattern might repeat in my future career if I can’t learn to separate outcomes from my worth. Also, the overworking—volunteering extra hours or cramming study sessions—might be my way of trying to ‘fix’ things, but it’s just making the guilt worse. I’d like to address that cycle too.
+
+system: --- Phase 5 End ---
+

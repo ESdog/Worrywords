@@ -1,0 +1,170 @@
+system: --- Session 202601290536 Start ---
+
+ --Patient ID 1113--
+
+system: --- Session 202601290536 Start ---
+
+ --Patient ID 1113--
+
+interviewer: Nathan, would you prefer to be addressed by a different name or pronouns?
+
+patient: Please call me Nathan. I don’t have any preferences for different names or pronouns – I’ve always used Nathan and he/him. That’s what my family and friends know me by.
+
+interviewer: Thank you for sharing that, Nathan. Today, we’ll be discussing your thoughts and feelings to better understand what’s going on. Does that sound okay with you?
+
+patient: Yeah, that sounds good. I just... I hope we can figure out how to get past this. Ever since the audition, it's like I'm stuck in this loop of thinking I'm not talented enough, even when I try to cook at home. It's draining my passion, honestly.
+
+interviewer: I appreciate you sharing that vulnerability, Nathan. Before we dive in, do you have any questions about how this will work or anything else on your mind?
+
+patient: No, I think I understand how this works. I’m just hoping we can figure out how to get me back to enjoying cooking without the constant self-doubt. It’s been hard explaining this to my friends—they think I’m overreacting, but the pressure to prove myself feels… overwhelming sometimes.
+
+interviewer: I appreciate your openness, Nathan. Do you consent to proceeding with this discussion today?
+
+patient: Yes, I guess I do. It’s been tough not feeling good enough, but I really want to figure out how to move forward with my cooking.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: I appreciate your openness, Nathan. Can you share more about what you're hoping to achieve through therapy? What would success look like for you in this process?
+
+patient: I guess I want to learn how to stop tying my self-worth so tightly to every audition or recipe I create. Success would be cooking again without this knot of fear in my stomach, knowing I can mess up and still feel proud of trying. My mom always said passion should feel like joy, not a constant test—I miss that version of myself.
+
+interviewer: It sounds like the audition was a turning point for you. Can you help me understand the timeline of these feelings? When did they start, and have they changed over time?
+
+patient: The feelings started right after the audition results came out, maybe two weeks ago. At first, I just felt really discouraged, but it didn’t go away. Over time, it got worse—now I question if I even have the talent to keep going as a chef. It’s like the self-doubt stuck with me and started creeping into everything, even when I cook for fun at home. Friends say I’m 'making a mountain out of a molehill,' which makes it harder to talk about.
+
+interviewer: It sounds like this self-doubt has become a heavy weight to carry, especially when it starts to color even the joy of cooking at home. Have you noticed any changes in your sleep patterns or concentration since these feelings began?
+
+patient: Yeah, it's been tough. I've been having trouble focusing when I cook, even on simple tasks. It used to be second nature, but now I second-guess everything. My sleep’s been off too—some nights I lay awake thinking about what I could’ve done differently in the audition, others I just feel exhausted and oversleep. It’s like my brain won’t let me rest, but when I do, I feel sluggish the next day.
+
+interviewer: It sounds like your efforts to cook at home and explore new recipes are a testament to your resilience, even amidst self-doubt. Have you found these strategies helpful in managing your feelings, or is there anything else you’ve tried that either supported or challenged your ability to cope with these emotions?
+
+patient: Honestly, it helps some days but others I just end up tearing apart my own creations, thinking they’re not good enough. My friends say I’m overthinking, but when I try new recipes, I can’t shake the feeling I’m just... faking it. It’s like I’m proving to myself I can’t even nail the basics anymore.
+
+interviewer: It sounds like the pressure to prove yourself is really wearing on you, especially when it comes to something as personal as cooking. Have you noticed any changes in your mood, like feeling more down, anxious, or irritable lately, and if so, how often does that happen?
+
+patient: Yeah, it’s been pretty constant. I feel down most days, especially when I’m in the kitchen or thinking about cooking. Anxiety flares up when I even consider trying another audition or recipe. It’s like my brain won’t let me relax, and I’ve been short with my friends when they try to help, which just makes me feel worse.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like you've faced some challenges with others not fully understanding your struggles. Have you experienced other situations in the past where people close to you dismissed or minimized your feelings about your abilities or goals?
+
+patient: Honestly, my friends have kind of downplayed how much pressure I was under for the audition. They’d say things like, 'You’re overthinking it—everyone gets rejected sometimes.' It felt like they didn’t get how much this one meant to me. My family’s well-meaning, but they’re not in the culinary world, so they don’t fully grasp the competitiveness or how tied my identity is to it. It’s not that they’re dismissive, just… maybe out of their depth trying to help.
+
+interviewer: I appreciate you sharing how isolating this experience has been. Can you think of any past experiences or challenges in your life that might be influencing how you're feeling about yourself or your abilities right now?
+
+patient: Honestly, I think it might tie back to my first year at culinary school. I entered a student competition and got crushed by the feedback—felt like my whole identity as a cook was questioned. I pushed through, but... this audition feels different because it’s not just about skill. My mom always said cooking was my ‘happy place,’ but now even making dinner at home feels like I’m faking it. I guess I’m afraid this rejection means I’ll never be good enough, unlike that competition, where I told myself I’d just try harder next time.
+
+interviewer: It’s clear how much your mother’s perspective shaped your relationship with cooking. Can you share more about how your family generally views your career path as a chef, and whether they’ve ever expressed concerns or expectations about your success in this field?
+
+patient: My mom always encouraged me to cook because she saw it as something I genuinely loved, not just a career. She’d say, 'If you’re happy in the kitchen, that’s what matters.' But my dad… he’s more practical. He never outright said he didn’t support me, but he’d ask things like, 'How many people are really making a living from this?' It wasn’t a direct pressure, more like… quiet doubt. My sister doesn’t cook, so she just laughs when I get intense about recipes. No one’s ever told me I’m 'not good enough,' but I think I internalized my dad’s cautious tone. Now, when I second-guess myself, I wonder if I’m chasing something… unstable.
+
+interviewer: It sounds like you’ve carried a lot of weight from others’ expectations and your own standards. Have there been any other difficult experiences in your life that you think might be connected to how you’re feeling now?
+
+patient: No, not really—this is the first time I’ve felt like this. But I guess growing up, my parents always emphasized that talent alone isn’t enough; you have to work harder than everyone else to succeed. Maybe that’s why I’m so harsh on myself now. Even when I was a kid, if a recipe didn’t turn out perfect, I’d fixate on it. It’s like… I’ve always carried this fear that I’m just not enough, even when I’m doing things right.
+
+interviewer: I hear how deeply your upbringing and recent audition have shaped your self-perception. Have you experienced any traumatic or difficult events in your life that you think might be related to how you're feeling now?
+
+patient: I don’t think there’s anything major like trauma, but the audition hit hard because I’d always leaned on cooking to feel capable. My mom used to say I’d ‘shine through the pressure,’ but now I’m stuck wondering if she was just being kind. It’s like that one failure rewired how I see myself in the kitchen.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing so openly, Nathan. Let's talk about habits that might affect your mood. Have you noticed any changes in your use of alcohol, cannabis, or other substances since these feelings started?
+
+patient: No, I haven’t used alcohol or cannabis, and I haven’t noticed changes in my use of other substances. I’ve been relying more on cooking at home to cope, but it hasn’t felt the same lately—it’s like I’m going through the motions without the usual joy.
+
+interviewer: It sounds like cooking, which once brought you joy, now feels like a struggle, which can be really disheartening. Have you ever had thoughts of intentionally harming yourself or ending your life?
+
+patient: No, I haven’t had thoughts of harming myself. My struggles are more about feeling stuck in self-doubt and wondering if I’m ‘faking it’ in cooking, even at home. My friends say I’m overthinking, but I just… can’t shake the fear that I’m not cut out for this.
+
+interviewer: Thank you for sharing that—I can see how self-doubt can feel all-consuming when it’s tied to something as personal as cooking. Let’s explore a few more details to better understand your experience. Have you noticed any periods where you felt unusually energetic, needed less sleep, or had a lot of ideas coming at once that were hard to slow down?
+
+patient: No, I haven't experienced those kinds of energy spikes. When I try to push through, it's more like forcing myself to cook at home, but it feels forced. I get tired quickly, or I'll over-sleep and then feel worse. It's the opposite of what people might call 'manic'—I'm just stuck in this low-energy loop where I second-guess everything.
+
+interviewer: It's understandable how that cycle of low energy and self-doubt can be exhausting, especially when it's tied to something as central to your identity as cooking. Have you experienced any hallucinations, delusions, or paranoid thoughts recently that feel concerning or unfamiliar to you?
+
+patient: No, nothing like that. I haven’t experienced anything that feels concerning or unfamiliar like hallucinations or paranoid thoughts. My struggles are more about self-doubt and feeling stuck, not losing touch with reality.
+
+interviewer: It’s helpful to hear that your concerns remain grounded in self-doubt rather than reality distortion. To ensure we cover all bases, are you currently taking any medications, supplements, or vitamins on a regular basis?
+
+patient: No, I'm not currently taking any medications. I take a daily multivitamin, though, just to stay healthy.
+
+interviewer: It’s clear you’re putting a lot of pressure on yourself to prove your talent, which must feel incredibly isolating when others don’t fully grasp that pressure. Let’s close this part of the conversation: What supports or activities—besides cooking—have helped you cope or feel more stable when you’re struggling with these self-doubts?
+
+patient: Honestly, I’ve mostly been relying on going for long walks in the park to clear my head—it helps me feel less stuck in my thoughts. I also listen to music or podcasts while doing chores, which takes my mind off cooking for a bit. My friends try to check in, but I haven’t opened up fully about this… I guess I don’t want them to think I’m making a big deal out of it.
+
+interviewer: It’s reassuring to hear you’ve found some grounding in walks and music. To ensure we’re considering all factors, do you have any medical conditions like thyroid issues, sleep apnea, chronic pain, or a history of head injuries that might be relevant here?
+
+patient: No, I don’t have any of those medical conditions. I’ve never had a head injury or chronic health issues, but my sleep has been inconsistent lately—some nights I can’t rest, others I oversleep and feel off.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: It sounds like the audition rejection amplified long-standing perfectionism and fears of inadequacy, while social invalidation from friends added to your isolation. What did I miss about how these factors connect for you?
+
+patient: I think you missed how my dad’s old warnings about the ‘unstable’ chef life quietly shaped how I see failure now. That audition rejection didn’t just hurt—it felt like proof my dad was right, like I’m chasing a dream that’s always shaky. And yeah, the past competition’s harsh feedback… it’s been in my head this whole time. I’ve always tied cooking to ‘being enough,’ so now even making a meal at home feels like a test I’m failing. It’s not just about one audition—it’s like every doubt from my past is piling up, making me wonder if I’m just… not cut out for this, no matter how much I love it.
+
+interviewer: It sounds like you’ve carried a heavy weight of proving your worth through cooking, shaped by both familial expectations and past critiques, which now feels compounded by this recent rejection. What did I miss about how these patterns show up in your life today?
+
+patient: What you might’ve missed is how I’ve started measuring my self-worth in *micro-moments*—like when I burn a simple sauté or hesitate to tweak a family recipe. It’s not just auditions anymore; it’s this constant background noise of ‘Am I even good at this?’ Even when I’m not cooking, I second-guess small decisions, like whether I’m ‘creative enough’ in daily problem-solving. My dad’s old worries about stability now feel like a prophecy—I’m terrified that my passion is just a fluke, and someday I’ll ‘wake up’ to prove him right. It’s like carrying a magnifying glass for every flaw, even when I know logically I’m not ‘faking it.’ It’s… exhausting.
+
+interviewer: It sounds like the audition acted as a trigger for deeper fears rooted in your upbringing—your dad’s warnings about instability, your mom’s emphasis on hard work, and past critiques in culinary school—creating a cycle where self-worth hinges on proving your talent through perfection. Over time, this has led to exhausting self-criticism, strained relationships, and a loss of joy in cooking. What did I miss about how these patterns shape your experience today?
+
+patient: What you described is spot on, but maybe the part about my mom’s ‘happy place’ also became a pressure valve. I grew up associating cooking with being *good*—like if I loved it enough, I’d be ‘owed’ success. Now, when I can’t enjoy it, it feels like I’ve failed both her and myself. I think my dad’s doubts quietly made me fear I’m chasing something frivolous, even though I know that’s not true. It’s like I’m stuck trying to ‘prove’ cooking is valid, not just to them, but to myself.
+
+interviewer: It sounds like your journey reflects a complex interplay of familial expectations, past critiques, and recent setbacks, creating a cycle where self-worth is tied to culinary success, and failure feels like a personal failure. What did I miss in this summary, and is there anything else you’d like to add before we discuss next steps?
+
+patient: I think you got the main threads, but maybe the part where my dad’s doubts about the stability of being a chef have *always* lingered, even when I was passionate. Now, I keep wondering if he was right and I’m just chasing something unstable. Also, even simple cooking at home feels like ‘faking it’ now, which is new. And friends don’t get how much pressure I put on myself—it’s like I’m isolated in this fear of not being ‘enough.’
+
+interviewer: It sounds like your journey reflects a lifelong tension between your passion for cooking and internalized doubts about its stability and validity, compounded by recent setbacks and social invalidation. The audition rejection acted as a catalyst, amplifying fears rooted in family dynamics, perfectionism, and a deep tie between self-worth and culinary success. What did I miss or get wrong in this understanding?
+
+patient: You captured the main tensions, but maybe missed how my mom’s ‘happy place’ label always felt like a pressure to *earn* that joy through perfection. Also, the audition felt like a repeat of that culinary school competition—both times, the feedback felt personal, like they were judging *me*, not just my skills. And friends don’t get how the *process* of cooking now feels tainted; even baking cookies for my sister stresses me, because I’m second-guessing every step. I’m not just doubting the career—I’m doubting if I can ever cook without fearing I’m ‘faking it.’
+
+interviewer: Thank you for sharing those important nuances about your mom’s influence and the recurring pattern of feeling personally judged. Let me summarize: Your self-worth has long been tied to culinary success, shaped by your mom’s ‘happy place’ framing (which felt like a pressure to earn joy) and your dad’s pragmatic doubts about stability. The recent audition reactivated old fears from culinary school, turning cooking itself into a source of anxiety and self-doubt. Friends’ dismissiveness adds isolation. Is this accurate, or did I miss something critical? If not, let’s adjust before we decide next steps.
+
+patient: Yeah, that’s pretty accurate. The pressure from my mom’s 'happy place' framing and my dad’s doubts definitely shaped this—I felt like I had to earn joy through cooking. The audition reactivated the fear from culinary school where I got brutal feedback, and now even cooking at home feels like pretending. Friends not 'getting it' makes me feel like I’m alone in this spiral. I don’t think you missed anything big, but the 'faking it' part is a key detail you caught. It’s all there.
+
+interviewer: Thank you for sharing so openly, Nathan. It sounds like we’ve identified key patterns in how your self-worth, family dynamics, and recent setbacks intertwine. To move forward, I’d like to propose a few steps: 1) Explore cognitive-behavioral strategies to challenge self-critical thoughts about cooking and perfectionism, 2) Address family-of-origin influences on your career identity, and 3) Build a support network that understands your unique pressures. How do these align with your goals, or is there something else you’d prioritize?
+
+patient: The steps you mentioned feel like they could help, especially working on my self-critical thoughts around cooking—I’ve been so stuck in ‘I’m not enough’ cycles. The family part… my dad always questioned if chef work is stable, and I think I absorbed that fear, even though my mom saw cooking as my happy place. I guess unpacking that could help, but it might be tough. For the support network, I haven’t shared how bad this feels with my friends yet because I’m worried they’ll say I’m overreacting. Maybe starting with small steps, like cooking a recipe just for fun without judging it, could help rebuild confidence? The biggest goal is to get back to enjoying cooking without it feeling like I’m faking it.
+
+interviewer: Thank you for sharing your thoughts and preferences. To clarify, our next steps will include: 1) Starting with small, judgment-free cooking experiments to rebuild confidence, 2) Exploring cognitive-behavioral strategies to address self-critical patterns, and 3) Gradually discussing family-of-origin dynamics in future sessions. Is there anything else you’d like to add or adjust about these steps, or any other priorities you’d like to highlight for our work together?
+
+patient: Thanks for outlining those steps. I think the cooking experiments and CBT strategies sound helpful—especially the judgment-free part, since I’ve been so hard on myself lately. The family stuff… I’d prefer to focus on my current struggles first, maybe? My dad’s doubts about the career choice feel tied to this, but it’s hard to untangle that yet. I’m also struggling with just accepting that failure doesn’t erase my whole self-worth. My walks and podcasts help, but I still feel stuck in this loop of ‘not enough.’
+
+interviewer: I appreciate your openness and clarity about what feels ready to address now. Let me confirm our plan: We’ll start with small, judgment-free cooking experiments and CBT strategies to untangle self-worth from performance, while gently exploring family dynamics later. Is there anything else you’d like to add or adjust before we finalize this plan?
+
+patient: The plan sounds good. Maybe focusing on small cooking wins could help rebuild confidence—like trying one new recipe without overthinking it. I’m also curious to explore how my dad’s concerns might tie into my self-doubt, but I’m okay taking that slowly.
+
+interviewer: Thank you for your thoughtful input, Nathan. To ensure we’re aligned, let me briefly recap: We’ve identified how self-doubt, familial influences, and recent setbacks intertwine, and we’ve outlined steps to rebuild confidence through small cooking experiments, CBT strategies, and gradual exploration of family dynamics. Is there anything I’ve missed in this summary, or any additional priorities you’d like to highlight before we finalize these next steps?
+
+patient: The summary is accurate, but I’d add that my fear of not being ‘enough’ started much earlier—like when I’d obsess over imperfect recipes as a kid. Also, the harsh feedback from a culinary school competition years ago still lingers. It’s not just this audition; it feels like a lifetime of doubting myself. Maybe unpacking how my dad’s cautious doubts versus my mom’s encouragement shaped my view of cooking as both a passion and a ‘risk’ could help? And the isolation—friends don’t get how pressure from one audition feels so all-encompassing. It’s not just about cooking; it’s about proving I belong in this path at all.
+
+interviewer: I appreciate your openness and the depth you’ve shared about how early perfectionism, familial influences, and past critiques shape your current struggles. Let me confirm our plan: We’ll start with small, judgment-free cooking experiments to rebuild confidence, use CBT to untangle self-worth from performance, and gradually explore family dynamics. Is there anything I missed in this summary, or any additional priorities you’d like to highlight before we finalize these steps?
+
+patient: That covers the main areas I mentioned—rebuilding confidence through cooking, untangling self-worth from performance, and addressing family dynamics, especially my dad’s influence. One small addition: I’d love to work on reconnecting with the joy my mom always described in cooking, separate from pressure or validation. Otherwise, that plan feels like a good starting point for me.
+
+interviewer: Thank you for your thoughtful additions, Nathan. To ensure we’re fully aligned, is there anything else you’d like to add about your experiences or goals before we finalize these next steps?
+
+patient: I guess... I want to emphasize how much this audition felt like a reflection of my worth as a chef, even though I know it’s not. My mom always said cooking was my 'happy place,' but now it’s like that place feels locked to me. I don’t want to lose that part of myself, but I also need to figure out how to stop tying my identity to every rejection. I think... I think that’s what I need help with—finding a way to cook without the fear of failing, and to trust that my passion is enough, even if it’s not 'good enough' in someone else’s eyes.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Nathan reports self-doubt and anxiety tied to cooking since a recent audition rejection (2 weeks ago). Symptoms include persistent low mood, sleep disturbances (insomnia/oversleeping), and concentration difficulties. Self-critical thoughts about talent and fear of 'faking it' in cooking. Friends dismiss his concerns, exacerbating isolation. History of perfectionism since childhood, including fixation on imperfect recipes and harsh feedback in culinary school.
+
+Objective: Reports functional decline: cooking at home feels forced, social interactions strained by irritability. Sleep irregularities and low energy impact daily tasks. No acute risk; denies suicidal ideation, hallucinations, or substance use. Multivitamin only.
+
+Assessment: Self-worth inextricably linked to culinary success, influenced by familial dynamics (father’s pragmatic doubts vs. mother’s 'happy place' framing). Recent audition reactivated past trauma from culinary school competition. Anxiety and depression likely secondary to identity threat and social invalidation. Perfectionism and fear of failure perpetuate self-criticism cycle.
+
+Plan: 1. CBT strategies to challenge self-critical thoughts and decouple self-worth from performance. 2. Judgment-free cooking experiments to rebuild confidence. 3. Gradual exploration of family-of-origin influences on career identity. 4. Normalize social struggles and develop communication strategies for validating support networks.
+
+--- End Summary ---
+

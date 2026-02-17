@@ -1,0 +1,118 @@
+system: --- Session 202601290812 Start ---
+
+ --Patient ID 2899--
+
+system: --- Session 202601290812 Start ---
+
+ --Patient ID 2899--
+
+interviewer: Thank you for sharing your background, Rebecca. To clarify, today's session will involve discussing your current concerns and setting a plan for our work together. Would you be comfortable proceeding with that?
+
+patient: Yes, I’d like to proceed. It’s just… hard to talk about the rejections without getting overwhelmed, but I’m ready to work on this.
+
+interviewer: Thank you for your courage in sharing that. Before we move forward, do you have any questions about how these sessions will work or what to expect?
+
+patient: Honestly, I don’t have many questions right now—I just hope these sessions can help me figure out how to stop doubting myself and actually take action without getting paralyzed by rejection. I guess I’m curious how we’ll work on turning my negative thoughts into something productive without making me feel worse about my situation.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like the frustration and self-doubt you're experiencing have been really challenging, especially with the constant rejections. Can you share more about how these feelings typically show up for you—like, are there specific moments or situations where the emotional overwhelm feels most intense?
+
+patient: The worst is when I get a rejection email after waiting weeks for a response. It’s those moments where I start questioning if I’m just not good enough, you know? And then I’ll scroll through LinkedIn or Twitter and see someone I went to class with landing a job or getting a big project—I just… my chest feels tight, and I get teary-eyed even if I’m trying to convince myself it doesn’t matter. It makes me avoid applying for days, sometimes weeks, because I’m afraid of another letdown. I’ve tried updating my portfolio again and again, but it feels like no one’s even looking at it.
+
+interviewer: It sounds like these experiences have been building up over time, and I appreciate your courage in sharing them. What led you to decide to seek counseling at this particular time?
+
+patient: It’s because these negative thoughts have started to really drain me. I used to push through the rejections, but now I’m struggling to even work on my portfolio or reach out to clients. My friends have noticed I’ve been withdrawn, and I don’t want to lose my passion entirely. It’s hard to explain, but it feels like I’m stuck in this loop of self-doubt that I can’t break out of on my own.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I appreciate your courage in sharing so openly, Rebecca. It sounds like the job market's competitiveness and social media comparisons are significant stressors. Can you tell me about any other challenging experiences or difficult periods in your life that might be connected to these feelings of self-doubt?
+
+patient: Honestly, I think part of it goes back to when I was in the web dev course. There was this one time I spent weeks building a project for a class assignment, and my instructor gave pretty harsh feedback. I told myself I just needed to ‘toughen up,’ but it stayed with me. Now, every rejection feels like that moment all over again—like I’m not as ‘good’ as others even if I’m doing the work. It’s hard not to compare myself to people who seem to land jobs effortlessly, especially on social media. Those feelings of being ‘less capable’ have always lurked in the back of my mind, but this past year… it’s like they’re screaming now.
+
+interviewer: I appreciate your honesty in unpacking how past experiences shape your current feelings. It takes strength to confront these patterns. Can you share what aspects of your family’s support have been most helpful during challenging times, or any other resources that have helped you cope in the past?
+
+patient: My family listens when I’m upset and reminds me they believe in me, which helps... but they don’t understand the tech industry’s specifics. My cousin once shared a job board link, but that’s about the extent of their practical help. I’ve mostly tried self-improvement—tutorials, portfolio tweaks—but it’s isolating.
+
+interviewer: I appreciate you sharing how your family's support helps, even if it's not always practical. It takes strength to keep going despite feeling isolated. Have you experienced any traumatic events or significant challenges in your life that you think might be connected to these feelings of self-doubt?
+
+patient: No, I haven't experienced any traumatic events specifically. But looking back, I think the pressure I felt to 'make it' right after finishing the course—like it was the only chance to prove myself—might have set me up for this. My parents always emphasized working hard to succeed, so when rejections came, it felt personal, like I’d failed somehow. That probably made the self-doubt worse over time.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Rebecca, I want to check in about your safety. Have you ever had thoughts of harming yourself or ending your life?
+
+patient: No, I haven't had thoughts of harming myself specifically, but there are days when the frustration feels so overwhelming that I wonder if I’ll ever break through this cycle of rejection. It’s more like... a heavy exhaustion than active self-harm thoughts. I’m here because I want to stop letting this drain me emotionally, not because I’ve reached that point yet.
+
+interviewer: I appreciate your courage in sharing this openly. Let’s explore a bit more about your energy levels—have you noticed any periods where you feel overly energetic or need significantly less sleep, even if it’s just for a few days at a time?
+
+patient: No, I haven’t experienced periods of feeling overly energetic or needing less sleep. My sleep issues are more about irregular patterns—sometimes staying up late ruminating about rejections, other times oversleeping to avoid checking emails. It’s not energizing; it’s more like my body’s stuck in a tired, foggy state most days.
+
+interviewer: I appreciate your clarity about your energy patterns. Let’s move to another important area—have you experienced any hallucinations, delusions, or paranoid thoughts recently? For example, hearing voices, seeing things others don’t, or feeling someone is out to harm you?
+
+patient: No, I haven’t experienced hallucinations or paranoid thoughts. My main struggles are with self-doubt and feeling overwhelmed by rejections, not with strange perceptions or fears of others harming me.
+
+interviewer: I appreciate your clarity about your experiences so far. Let’s move to another area—could you share whether you currently use alcohol, cannabis, or any other substances, and if so, how often?
+
+patient: I don’t use alcohol or cannabis regularly. Occasionally, I might have a glass of wine to unwind after especially stressful weeks, but it’s not something I rely on. Most nights, I just try to distract myself by working on small coding projects to take my mind off the frustration—though it doesn’t always help.
+
+interviewer: I appreciate your honesty about your coping strategies. Could you let me know if you’re currently taking any medications, supplements, or vitamins? If so, how have they been working for you?
+
+patient: I’m not currently taking any medications, supplements, or vitamins. I’ve thought about trying something for my sleep sometimes, but I haven’t started anything yet because I didn’t want to add another layer of dependency while I’m already struggling with motivation.
+
+interviewer: Thank you for being so open about your experiences and choices. Let’s briefly cover any medical factors that might be relevant—have you been diagnosed with or treated for any medical conditions like thyroid issues, sleep apnea, or chronic pain that could be affecting your energy or mood?
+
+patient: I haven't been diagnosed with any medical conditions like thyroid issues or sleep apnea. My sleep problems are irregular patterns from stress, not a diagnosed disorder.
+
+interviewer: I appreciate your thoroughness in addressing these factors. Could you share whether you currently use or have used stimulants (like Adderall, Ritalin, or energy drinks) or any other substances (e.g., opioids, recreational drugs) for focus, stress relief, or other purposes?
+
+patient: No, I haven’t used stimulants or other substances for focus or stress relief. I’ve tried to cope by working on my portfolio more, even when it feels hopeless, and occasionally my friends suggest taking my mind off it, but I usually say no because I don’t want to feel like I’m avoiding the problem.
+
+interviewer: I appreciate your commitment to facing these challenges directly. Could you share what supports or resources have helped you feel more stable or hopeful during particularly difficult times? For example, relationships, activities, or beliefs that ground you when frustration feels overwhelming?
+
+patient: My family has been a consistent support—they listen without judgment, even when they don’t fully grasp the tech industry’s pressures. When I’m really overwhelmed, I sometimes work on small personal projects, like building a website for a hobby or a friend’s business. It helps me reconnect with why I love coding, even if it feels like no one sees my work. But honestly, those moments are rare lately… most days, the frustration just… lingers.
+
+interviewer: I appreciate your openness about the rare moments of creative reconnection—it’s a testament to your resilience. --FUNCTION-- end_phase --FUNCTION--
+
+patient: Thank you for acknowledging those moments—it does help to feel seen. But even when I manage to push through, the fear of rejection still lingers, and I often worry I’m not improving fast enough to catch a real opportunity. It’s like I’m stuck between wanting to believe in myself and the reality of being ignored.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: What I’ve gathered so far is that over the past year, feelings of frustration and self-doubt have grown as you’ve faced repeated rejections in your job search, which has affected your motivation and sleep. These challenges seem tied to comparisons with others and past feedback that made you question your abilities, though your family’s support and personal coding projects offer some resilience. We’ve explored how fear of rejection leads to avoidance, and we’ve started to identify patterns like self-criticism and social withdrawal. What did I miss?
+
+patient: You didn’t miss much, but maybe the part about how delayed rejection emails—like when a client ghosts or takes weeks to respond—feel worse than immediate no’s. It makes me obsess, like ‘Did I *almost* get it?’ and then crash harder when they finally say no. Also, my parents mean well, but they keep saying things like ‘Just work harder!’ which I hear as ‘You’re not trying enough,’ even though I *am* applying nonstop. It’s like they don’t see the mental toll of constant rejection. Oh, and… the guilt. Sometimes I feel guilty for being upset, like I ‘should’ just be grateful for any support instead of needing their understanding. Does that count?
+
+interviewer: What I’ve gathered is that delayed rejections amplify self-doubt by fueling obsessive 'what if' thinking, while well-meaning but misaligned family messages and guilt about needing support deepen your distress. We’ve also noted how isolation and sleep disruptions compound the struggle. What did I miss, and does this align with your experience?
+
+patient: Yes, that’s pretty accurate. I think you captured the main points, but one detail you might’ve missed is how the delayed rejections—especially the ones that take weeks to process—make me spiral into thinking I’m not just ‘unlucky,’ but fundamentally unskilled. It’s not just the rejections themselves, but the silence that feels like a personal erasure. Also, my parents’ focus on ‘success’ adds pressure; they mean well, but their lack of tech understanding makes me feel like I have to prove myself all alone. And yeah, those small personal projects *do* reignite passion briefly, but they also highlight the gap between passion and actual career progress. It’s like I’m stuck in a loop of trying harder but feeling like it’s never enough.
+
+interviewer: What I’ve gathered is that delayed rejections amplify self-doubt by fueling obsessive 'what if' thinking, while well-meaning but misaligned family messages and guilt about needing support deepen your distress. We’ve also noted how isolation and sleep disruptions compound the struggle. What did I miss, and does this align with your experience?
+
+patient: Yes, that’s pretty much it, but maybe add how seeing peers’ successes triggers physical reactions—like chest tightness and sudden tears—that make me avoid applying for weeks. Also, the guilt about ‘burdening’ my family with my struggles, even though they’re supportive, adds to the pressure. And the tech industry’s ‘hustle culture’ messages make me feel like my slow progress is a personal failure, not just a common challenge. Those pieces matter too.
+
+interviewer: What I’ve gathered is that physical reactions to rejection (like chest tightness and sudden tears) and guilt about needing support—despite family’s good intentions—create a cycle of avoidance and self-criticism, worsened by industry pressures framing slow progress as failure. We’ve also clarified how your personal projects offer brief respite but highlight career stagnation. What did I miss, and does this align with how you see it? If so, what might be one small step we could explore together to address this cycle?
+
+patient: Yes, that aligns with how I see it. What might be missing is how the lack of understanding from my family—while they mean well—makes me feel like I have to hide my struggles, which adds to the guilt when I do reach out. A small step could be setting a 15-minute daily 'application block' where I focus only on submitting one job or project, no matter how small, to rebuild confidence without overloading myself. If I fail to do it, I’d write down *one* thing I learned about myself that day instead of spiraling into self-criticism.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Reports persistent self-doubt and emotional overwhelm linked to job rejections, with symptoms including chest tightness, teary-eyed reactions, and sleep disturbances (irregular patterns, rumination). Avoidance of applications for days/weeks post-rejection. Guilt about needing support despite family’s good intentions. Delayed rejections amplify 'what if' spirals and feelings of personal erasure. Family messages (e.g., 'work harder') perceived as invalidating. Tech industry 'hustle culture' exacerbates self-criticism.
+
+Objective: No acute safety concerns; denies suicidal ideation or hallucinations. Occasional wine use for stress relief; no substances for focus. Sleep irregularities tied to stress, not diagnosed disorder. Avoidance behaviors (e.g., skipping applications) and isolation noted. Small personal coding projects provide brief respite but highlight career stagnation.
+
+Assessment: Chronic self-doubt and rejection sensitivity likely rooted in past instructor feedback and imposter syndrome. Family dynamics and social media comparisons compound distress. Avoidance and rumination perpetuate emotional exhaustion. No medical/psychotic contributors identified.
+
+Plan: Implement 15-minute daily 'application block' with nonjudgmental reflection if missed. Explore cognitive reframing for rejection narratives. Address family communication patterns. Monitor sleep hygiene. Consider gradual exposure to application processes paired with self-compassion exercises.
+
+--- End Summary ---
+

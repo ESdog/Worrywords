@@ -1,0 +1,126 @@
+system: --- Session 202601291050 Start ---
+
+ --Patient ID 2730--
+
+system: --- Session 202601291050 Start ---
+
+ --Patient ID 2730--
+
+interviewer: Thank you for coming in today, Julie. How would you like to be addressed? Are there any pronouns you'd prefer me to use?
+
+patient: Please call me Julie. I go by she/her pronouns.
+
+interviewer: Thank you for sharing that, Julie. I'd like to explain how our sessions will work. Would that be okay with you?
+
+patient: Yes, that would be okay. I’m a bit nervous, but I want to understand how this works. I’ve never done counseling before, so any explanation would help. I just hope it can help me manage these constant worries so I can focus on my studies and not feel so overwhelmed all the time.
+
+interviewer: It's completely normal to feel nervous at first—thank you for taking this step. To confirm, are you comfortable proceeding with our session today?
+
+patient: Yes, thank you. I'm a little nervous, but I think this is important for helping with the thoughts that keep getting in the way of my studies. I'm ready to talk through it.
+
+interviewer: It's great to hear you're ready to work through this, Julie. Do you have any immediate questions about the process or anything we haven't covered before we begin?
+
+patient: No immediate questions, but I guess I’m just hoping we can figure out how to manage these constant worries before they take over completely. It’s hard to even enjoy sketching or shopping for fabrics anymore when my mind’s always racing about money and grades.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like these worries have been quite isolating, and I appreciate your courage in sharing them. Can you tell me more about what you’re hoping to achieve through counseling?
+
+patient: I want to learn how to quiet these constant worries about money and failing school so I can actually focus on my design projects without them taking over. I guess I hope to find tools to manage the stress better—like, maybe not being so paralyzed before exams. And I’d like to stop doubting myself so much... it’s hard to enjoy sketching or shopping for fabrics when I’m always thinking I’ll go broke or mess up. I also want to feel like I can talk about this without sounding like a burden to my friends, but I’m not sure how to do that yet.
+
+interviewer: Thank you for sharing your goals so clearly—it’s helpful to understand what you hope to gain from counseling. Can you tell me a bit about when these worries first started and how they’ve changed over time?
+
+patient: The worries started almost immediately after I moved to New York for school. At first, it was just nervousness about living in a new city and keeping up with the workload, but it quickly turned into this constant fear that I’d fail my classes or somehow end up in debt I couldn’t escape. Now, those thoughts feel like they’re always there, especially when deadlines loom or I see classmates doing really well. I try to push through, but it’s like they’ve gotten louder over time—harder to ignore. Before, I could distract myself with class projects, but now even that feels stressful.
+
+interviewer: I’m hearing how these worries have grown louder over time, even making tasks that used to bring you joy feel stressful. Can you share an example of how they’ve impacted your daily routine or hobbies—like sketching or shopping for fabrics—in the past week?
+
+patient: Sure. Last week, I had a major design project due, and I couldn’t focus on sketching for days. Every time I sat down, my mind kept jumping to ‘What if I fail? What if I can’t afford next semester?’ I ended up staying up until 3 a.m. to finish it, but the work felt rushed and not my best. I even skipped a fabric shopping trip with friends because I was too anxious about spending money—something I’d normally look forward to.
+
+interviewer: I’m hearing how these worries disrupt your focus and enjoyment of creative activities. You mentioned trying to reassure yourself and reach out to friends—have there been other strategies you’ve used to manage these worries? If so, what has felt helpful or unhelpful?
+
+patient: I’ve tried breaking tasks into smaller steps using planners, which helps some days but not others. Sometimes sketching designs or listening to music helps calm my mind temporarily. But honestly, the worry often creeps back in, especially if I overwork or skip meals to save money. The planners feel helpful for staying on top of deadlines, but they don’t really fix the root of the anxiety.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like moving to New York and the pressures of your program have created a lot of strain. Have you experienced any particularly difficult or challenging situations in the past that might be related to these stressors?
+
+patient: Honestly, I’ve never dealt with anything like this before. But since moving to NYC, one of the hardest things was my first major design project at school. I was so worried about the cost of materials that I delayed buying fabric, and when I finally did, I messed up the measurements because I couldn’t focus. My professor criticized it, and I started doubting myself completely. That was the first time I felt like all my decisions might lead to failure. I haven’t stopped second-guessing myself since.
+
+interviewer: I want to make sure I understand all factors that might be influencing your current stress. Have you experienced any traumatic or particularly challenging events in your life that you think might be related to these worries?
+
+patient: The biggest challenge was moving to NYC for school. It’s so competitive here—everyone’s talented, and the pressure to stand out feels impossible. I used to love design, but now even sketching makes me panic about ‘wasting time’ when I should be studying. No specific trauma, just... the constant stress of starting over in a new city with no safety net.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate your openness, Julie. To better understand your current state, have you noticed any periods where you feel unusually energetic or have less need for sleep, or engage in risky behaviors that feel different from your usual patterns?
+
+patient: No, I haven’t noticed anything like that. My sleep issues are more about lying awake worrying or feeling too anxious to relax, not about being overly energetic or needing less sleep. I’ve always been pretty cautious with money and avoid risks, which probably adds to my stress about finances.
+
+interviewer: I appreciate your honesty about avoiding risks, which helps clarify that manic episodes aren't part of your current experience. Let's shift to understanding any substances you might use—do you consume alcohol, cannabis, or other substances, and if so, how often?
+
+patient: I don't use cannabis or other substances. I occasionally have a glass of wine with friends at social events—maybe once a month or less. I try to avoid things that might interfere with my focus on school or add to my stress, especially since I'm already struggling with anxiety about finances and grades.
+
+interviewer: I appreciate your openness about avoiding substances to protect your focus. Have you ever had thoughts of harming yourself or ending your life as a way to cope with this stress?
+
+patient: No, I haven't had thoughts like that. I’m scared of failing, but I want to survive this and make it through school. The hardest part is just feeling trapped in the anxiety, not wanting to give up completely.
+
+interviewer: I'm glad to hear you're determined to work through these challenges, Julie. Have you experienced any hallucinations, delusions, or strong paranoid thoughts that feel out of character for you?
+
+patient: No, I haven’t experienced hallucinations or paranoid thoughts. My worries feel overwhelming but they’re about real things—like money or grades. I know they’re not ‘crazy’ ideas, just anxiety making them feel bigger than they are. I guess they’re like… hyper-real worries, but I haven’t lost touch with reality.
+
+interviewer: I appreciate your clarity about avoiding risky behaviors and staying grounded in reality. To ensure we’ve covered all factors, are you currently taking any medications, supplements, or vitamins, and if so, how are they affecting you?
+
+patient: I'm not currently taking any medications, supplements, or vitamins. I haven't been prescribed anything for anxiety or stress, and I haven't tried over-the-counter options either. I’ve thought about it briefly when my sleep gets really bad, but I always stop myself—maybe I’ll research natural remedies later? I just don’t want to get more anxious about taking something wrong.
+
+interviewer: I appreciate your proactive approach to managing stress through natural remedies and task breakdown. What supports or strategies have helped you cope with these challenges so far, even in small ways?
+
+patient: Using a planner to break tasks into smaller steps helps me feel less overwhelmed, even if it’s just for a little while. Also, listening to calming music when I work on designs keeps my mind from spiraling too much. But honestly, those only help temporarily—when I overwork or skip meals to save money, the anxiety comes back stronger. I’ve tried talking to a few friends about it, but I always hesitate to share everything because I don’t want to seem like a burden.
+
+interviewer: I appreciate your detailed description of your coping strategies and the challenges you face. To ensure we’ve covered all relevant factors, have you ever been diagnosed with any medical conditions, such as thyroid issues, sleep apnea, or chronic pain, that might be affecting your energy levels or sleep patterns?
+
+patient: No, I haven’t been diagnosed with any medical conditions like that. I did mention to my primary care doctor about my sleep issues last semester, and they ran some basic tests—everything came back normal. I guess it’s all just stress-related, but it’s still so exhausting.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Based on our conversation, it sounds like your anxiety began around six months ago after moving to NYC for school, and it’s been affecting your studies, sleep, and enjoyment of creative activities. The stress of financial strain, academic pressure, and fear of failure seem to be key drivers, while your proactive approach to planning and seeking support are protective factors. What did I miss?
+
+patient: I think you captured the main points, but maybe missed how specific moments—like the time I messed up a project’s measurements due to stressing over costs and fear of criticism—show how anxiety directly derails my work. Also, skipping meals to save money makes the anxiety worse, and I worry friends would think I’m ‘overdramatic’ if I shared that. Lastly, even creative tasks I once loved, like sketching, now feel stressful because I fear they’re ‘a waste of time’ compared to my ‘real problems.’
+
+interviewer: Thank you for those details—they add important nuance to how anxiety manifests in your daily life. Let me try to piece this together: It sounds like your anxiety is driven by a mix of external pressures (academic/financial stressors in NYC) and internal factors (self-criticism, fear of judgment). These stressors seem to create a cycle where anxiety worsens your focus, which impacts your work and hobbies, and then physical habits like skipping meals further amplify the anxiety. Your proactive planning is a strength, but the fear of being misunderstood might be keeping you from leaning on your support network. What did I miss, or what might feel off about this model?
+
+patient: You’re right about the cycle—it does feel like a loop I can’t escape. What you might not have mentioned is how my anxiety also affects my creative process. For example, I used to love experimenting with fabric textures, but now I second-guess every choice, worried it’s ‘too risky’ or not ‘good enough’ financially. Last week, I skipped a fabric shopping trip because I feared overspending, but then my project suffered because I didn’t have the right materials. It’s like the anxiety steals my confidence in the things that once brought me joy. Also, I think the overworking part feeds into it—when I’m stuck in a project, I skip meals to ‘save time,’ but that just makes my head feel foggy, and I worry more about messing up.
+
+interviewer: Thank you for sharing that. Before we wrap up, is there anything else about your experience or concerns that we haven’t covered today? And then, based on what we’ve discussed, would you be open to exploring specific strategies to address these areas?
+
+patient: I think that covers the main things, but I guess I’ve been feeling more isolated since my family’s back home and I don’t want to lean on my friends too much. It’s like I’m stuck in this cycle of worry where even small decisions—like spending money on supplies or sharing my doubts—feel huge. I’d definitely be open to strategies, especially ones that help me stay grounded without adding more stress to my routine. Maybe tools to quiet the ‘what-ifs’ so I can actually work on my designs without second-guessing everything.
+
+interviewer: Thank you for sharing so openly, Julie. To recap: We’ve explored how anxiety around finances, academic pressure, and social isolation creates a cycle that disrupts your creativity, focus, and self-care. You’ve highlighted the need for tools to quiet ‘what-ifs’ and rebuild confidence in your work without added stress. What did I miss, or is there anything else you’d like to add before we discuss next steps?
+
+patient: I think you captured the main things, but maybe I should mention how the anxiety makes me hyper-focus on tiny details, like double-checking fabric costs or measurements until I’m physically exhausted. It’s not just about fear—it’s like my brain can’t let go, even when I know I’m overdoing it. Also, I’ve been avoiding group projects at school because I’m afraid my peers will think I’m ‘weak’ for needing help. I want to be open, but... it’s hard to shake the feeling that asking for support means I’m failing. I guess I’m hoping we can work on setting boundaries without guilt, and maybe find ways to reconnect with the joy of creating without the weight of ‘proving’ myself.
+
+interviewer: Thank you for sharing those important details, Julie. To synthesize our discussion: Your anxiety manifests as hyperfocus on minor details (e.g., fabric costs, measurements), avoidance of collaborative work due to fear of appearing 'weak,' and a pervasive sense that seeking help equates to failure. These patterns feed into cycles of exhaustion, creative burnout, and isolation. What did I miss, or is there anything else you’d like to add before we discuss next steps like specific coping tools or strategies to rebuild creative confidence without self-criticism?
+
+patient: What you captured feels accurate, but maybe I should mention how my anxiety makes me overanalyze every design choice—even the color of a thread feels like a major decision. I also get stuck comparing my work to others in class, which makes me doubt my talent. And when I can’t sleep, I get irritable, which makes me withdraw even more. I guess I’m worried that if I can’t ‘fix’ this on my own, it means I’m not cut out for this program… or for fashion at all.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Patient reports anxiety symptoms since moving to NYC for design school 6 months ago. Key stressors: financial strain, academic pressure, fear of failure, and social isolation. Symptoms include constant worries about money/grades, hyperfocus on minor details (e.g., fabric costs, measurements), disrupted sleep (lying awake worrying), and avoidance of creative activities (sketching, shopping) due to fear of 'wasting time.' Recent example: 3 a.m. all-nighter for a rushed design project, skipped fabric shopping due to anxiety about spending. Anxiety worsens with overwork, skipped meals, and social comparisons. No suicidal ideation or psychotic symptoms.
+
+Objective: No physical exam data provided. Patient denies substance use beyond occasional wine (1x/month). No current medications/supplements. Baseline medical workup (thyroid, sleep apnea) previously normal. Observations: Proactive task-planning partially mitigates overwhelm, but anxiety cycles persist. Avoids group projects due to fear of appearing 'weak.' Self-identifies as 'cautious with money,' which exacerbates stress.
+
+Assessment: Generalized anxiety disorder likely, with academic/creative impairment and maladaptive perfectionism. Financial stress and competitive environment (NYC design program) as key external triggers. Internal drivers: self-criticism, fear of judgment, and belief that seeking help = failure. No acute safety risks. No substance use disorder or psychotic disorder features.
+
+Plan: 1. CBT strategies for anxiety: challenge 'what-if' thinking, exposure to creative tasks without perfectionism. 2. Address financial stressors: explore campus resources for material costs. 3. Normalize seeking support: gradual disclosure of stressors to trusted peers. 4. Sleep hygiene education. 5. Monitor for medication if symptoms persist despite behavioral interventions. 6. Collaborate on project management techniques to reduce hyperfocus/avoidance cycles.
+
+--- End Summary ---
+

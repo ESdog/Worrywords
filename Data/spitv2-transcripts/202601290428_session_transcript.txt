@@ -1,0 +1,114 @@
+system: --- Session 202601290428 Start ---
+
+ --Patient ID 4779--
+
+system: --- Session 202601290428 Start ---
+
+ --Patient ID 4779--
+
+interviewer: Franklin, would you prefer I use a different name or pronouns when referring to you today?
+
+patient: No, Franklin is fine. My coworkers usually call me Frank, but either's okay.
+
+interviewer: Thank you for sharing that, Franklin. It sounds like this situation has been challenging for you. Would you be comfortable proceeding with our discussion today?
+
+patient: Yes, I want to get through this. It’s just... hard to talk about the loss without feeling embarrassed. I didn’t think losing that match would stick with me like this.
+
+interviewer: Thank you for your honesty, Franklin. It’s completely valid to feel this way after such a personal setback. Before we move forward, can you tell me what you hope to achieve through our time together today?
+
+patient: I hope to figure out how to stop letting this loss define me and get my motivation back. I used to love playing tennis, and it’s weird how one game messed that up. I guess I also want to understand why failing at something feels like I’m failing as a person—my friend says I’m overreacting, but I can’t shake it.
+
+interviewer: Franklin, our sessions will focus on understanding your experience with the tennis loss and developing strategies to help you regain your motivation. Each session will typically last about 50 minutes, and we can adjust the approach as needed. Do you have any initial questions about this process?
+
+patient: No, I think that’s clear. I’m just hoping we can figure out how to get my motivation back. I didn’t really know where to start with this, so… thanks for being patient.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like this loss has had a significant impact on how you see yourself and your motivation. Can you tell me a bit more about when these feelings started after the loss and how they’ve changed over time?
+
+patient: The feelings started right after the match. I was devastated, you know? I mean, I’ve always prided myself on being a strong competitor, but losing that game hit me harder than I expected. At first, I just felt embarrassed, like I’d let everyone down—including myself. Over the past week or so, it’s gotten worse. Now, even thinking about playing again makes me anxious. I keep replaying the match in my head, wondering if I’m just not good enough anymore. It’s weird because I’ve had losses before, but this feels different. Like... maybe I’m not cut out for competitive stuff at all now.
+
+interviewer: It sounds like this loss has shaken your confidence in ways that go beyond the game itself. What would you most like to achieve or see change through our work together?
+
+patient: Yeah, I guess I want to stop letting this loss feel like it defines me. I used to play tennis because it made me happy, but now even thinking about it makes me feel like a failure. I’d like to get that motivation back—not just for the sport, but for life in general. My friend says I’m overreacting, but I want to understand why this hit me so hard and learn to handle setbacks without falling apart.
+
+interviewer: It’s clear how deeply this loss has affected your sense of identity and joy. Can you share if there have been any changes in your sleep, appetite, or concentration since this started, even small ones?
+
+patient: I’ve been having trouble falling asleep sometimes, especially if I think about the match before bed. My mind just replays it over and over. I haven’t really noticed much change in my appetite, but there’ve been days when I feel like skipping lunch because I’m too distracted.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like this tennis loss has shaken your sense of identity as a competitor. Have you experienced similar patterns of distress or self-criticism in other areas of your life, such as work or personal relationships?
+
+patient: Honestly, no—I’ve always been competitive but never let setbacks affect me like this before. This feels... different. It’s like the self-criticism is spilling into my head even when I’m at work kneading dough or trying to focus on recipes. I catch myself thinking, 'If I messed up tennis, what else am I failing at?' But with friends who don’t play tennis, I’m okay… most of the time.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate your openness so far, Franklin. To better understand your current situation, have you used alcohol, cannabis, or other substances recently, and have there been any changes in your use compared to before the tennis loss?
+
+patient: No, I haven't used alcohol or other substances recently. I've always tried to stay sober, even when stressed. My friend jokes about grabbing a drink to 'forget about losses,' but I usually just go for an extra run or focus on baking to clear my head. Honestly, I feel like avoiding anything that might numb this because I want to understand why I'm stuck here.
+
+interviewer: I appreciate your commitment to maintaining sobriety as a coping strategy. Have you been taking any prescription medications, over-the-counter drugs, or supplements regularly in the past few weeks, including things like sleep aids, anti-anxiety medications, or vitamin supplements?
+
+patient: No, I haven't been prescribed any medications or taken supplements recently. I’ve been avoiding pills because I want to handle this without relying on anything—except maybe the occasional ibuprofen for tension headaches, but that’s just occasional.
+
+interviewer: It’s commendable you’ve leaned on healthy coping strategies like running and baking to manage stress. Have you experienced any thoughts of harming yourself or ending your life since the tennis loss, even if just in passing?
+
+patient: No, I haven’t had thoughts of harming myself, but the loss has been emotionally heavy. I’ve been struggling with self-criticism and anxiety about my competence, which feels overwhelming at times. It’s more like a persistent sense of failure than suicidal thoughts, though I’ve been more irritable and disconnected lately.
+
+interviewer: I appreciate your resilience in navigating these challenges without turning to substances or self-harm. Let’s briefly explore another area: Have you noticed any recent changes in your energy levels or sleep patterns, such as feeling unusually energetic, needing less sleep, or having racing thoughts that feel hard to control?
+
+patient: Yeah, my sleep’s been off since the loss. I lie awake replaying the match, so I’m tired most of the time. Not really energized, but I haven’t felt like doing much anyway.
+
+interviewer: I appreciate you sharing how the loss has disrupted your rest, Franklin. It’s understandable how replaying the match could keep you awake. Have you noticed any periods where you feel unusually energetic, need significantly less sleep, or have racing thoughts that feel hard to control—like the opposite of how you’re describing feeling now?
+
+patient: No, I haven’t experienced the opposite—actually, it’s the lack of energy and constant self-criticism that’s been worse. The sleep issues are more about lying awake replaying the match, not feeling overly alert or restless. My friend joked I’m ‘cycling through guilt 24/7’ now, which… yeah, feels about right.
+
+interviewer: I appreciate your clarity about the absence of manic symptoms, Franklin. Moving forward, have you experienced any hallucinations, delusions, or paranoid thoughts recently—such as hearing voices, believing others are plotting against you, or seeing things others don’t?
+
+patient: No, I haven't experienced hallucinations or paranoid thoughts. My main struggle is the persistent self-criticism and anxiety tied to the tennis loss—not seeing or hearing things others don’t.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Franklin, to recap: Your recent tennis loss triggered intense self-criticism and anxiety, disrupting your motivation and sense of identity as a competitor. We’ve explored how your competitive nature and fear of failure amplified the event into a perceived personal flaw, leading to rumination, sleep disturbances, and strained relationships. Protective factors include your resilience, healthy coping strategies, and proactive engagement in therapy. What did I miss or misrepresent about your experience?
+
+patient: You covered the main points well, but maybe you didn’t mention how much my avoidance of tennis has strained relationships with my tennis-playing friends. We used to hang out all the time, but I’ve been canceling plans lately, which makes me feel worse. Also, the sleep loss and skipped meals—those are smaller details but they’ve added to this ‘off’ feeling in my daily life. And yeah, I haven’t told my close friend about this yet, even though they’re supportive. I guess I’m embarrassed to admit it’s affecting me like this.
+
+interviewer: Thank you for adding those details about the relationship strain and self-disclosure—I appreciate your honesty. Let me briefly frame what we’ve discussed so far: Your competitive nature (predisposing factor) likely intensified the emotional impact of the recent loss (precipitating event), leading to avoidance and rumination (perpetuating factors). Protective elements include your resilience, healthy coping strategies, and supportive friend. How does that align with your experience? What did I miss?
+
+patient: That aligns well—your breakdown of the factors makes sense. What you missed is that the self-criticism isn’t just about tennis; it’s starting to creep into how I see myself at work, like doubting my baking skills now. Also, I haven’t even told my supportive friend how bad it’s gotten because I’m ashamed to admit I let one loss unravel me like this. It feels... personal, even if it’s not.
+
+interviewer: Thank you for sharing how this is affecting your work and your reluctance to discuss it with your friend. Is there anything else I haven’t captured about your experience?
+
+patient: I guess... the part that's hardest is how it feels like this failure is a sign that I'm not *built* for anything competitive anymore. Even things like kneading dough or managing the bakery schedule now feel like tasks where I might 'mess up' somehow. My friend says I’m overreacting, but I can’t shake the feeling that this loss is a red flag I’m ignoring. I don’t want to quit tennis, but the thought of stepping back on the court makes my chest hurt.
+
+interviewer: I appreciate you sharing how this loss feels like a personal limitation rather than a temporary setback. Let me briefly outline our next steps: We’ll start by exploring cognitive strategies to separate your self-worth from performance outcomes, and gradually reintroduce small competitive challenges (like a casual match or work task) to rebuild confidence. Would that align with what you need, or is there something else you’d prioritize?
+
+patient: That sounds like a good approach. I think separating my self-worth from the loss is exactly what I need, but the thought of facing competition again still makes me anxious. Maybe starting with small steps, like a casual game with friends, could help. My friend Sarah has been encouraging me to try, so having support there might make it easier. I’m willing to give it a shot as long as we take it slow.
+
+interviewer: I'm glad to hear you're open to this plan, especially with Sarah's support—it's a thoughtful way to rebuild confidence. Before we finalize our next steps, is there anything else you'd like to add or adjust about how we've framed your experience or the proposed approach?
+
+patient: Thank you—I think the plan makes sense, but maybe we could include ways to address the fear of failure beyond just tennis? It’s starting to creep into my work too, like second-guessing my baking decisions. Also, maybe a gradual way to reintroduce competitive activities, not just abruptly stopping avoidance?
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Reports intense self-criticism and anxiety following recent tennis loss, impacting motivation and self-identity as a competitor. Symptoms began immediately post-match, worsening over one week with persistent rumination, sleep disturbances (difficulty falling asleep due to replaying the match), and avoidance of tennis. Patient notes sleep latency, skipped meals, and strained relationships with tennis-playing friends due to cancellations. Self-criticism now extends to work (baking), with fear of failure in non-tennis domains. Patient avoids self-disclosure to supportive friend due to shame.
+
+Objective: No current alcohol, cannabis, or substance use; no prescribed medications or supplements. No suicidal ideation or self-harm. Uses running and baking as healthy coping strategies. No manic symptoms, hallucinations, or delusions. Patient acknowledges resilience and proactive engagement in therapy.
+
+Assessment: Adjustment disorder with mixed anxiety and depressed mood likely due to recent tennis loss. Maladaptive coping via avoidance and rumination. Impacts self-identity, social functioning (strained relationships with tennis friends), and occupational functioning (work-related self-doubt in baking). Protective factors include resilience, healthy coping strategies, and supportive friend network. Patient’s quote: 'Feeling like this failure is a sign I’m not built for anything competitive anymore' highlights core identity threat.
+
+Plan: Implement cognitive strategies to decouple self-worth from performance outcomes. Gradually reintroduce competitive activities (e.g., casual tennis matches with support) to rebuild confidence. Monitor sleep and anxiety symptoms. Address work-related anxiety through cognitive restructuring. Schedule follow-up to assess progress and adjust strategies as needed. Safety monitoring for any emerging risk factors.
+
+--- End Summary ---
+

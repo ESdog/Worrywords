@@ -1,0 +1,130 @@
+system: --- Session 202601281828 Start ---
+
+ --Patient ID 3526--
+
+system: --- Session 202601281828 Start ---
+
+ --Patient ID 3526--
+
+interviewer: Hi Carter, thank you for coming in today. To start, is there a preferred name or pronouns I should use when referring to you?
+
+patient: My name is Carter Greene, and I use he/him pronouns. I'm comfortable with either, but Carter is what I've used on the form here.
+
+interviewer: Today, we'll be discussing your concerns and how we can work together. Do you have any questions about how this will work before we start?
+
+patient: No, I think I understand. I just hope we can work on managing the constant anxiety and these thoughts about homelessness. It’s hard to even focus on job searches when I’m so overwhelmed.
+
+interviewer: It sounds like the anxiety and fear of homelessness are making it hard to focus on job searches and daily routines. Would you be comfortable continuing with this discussion today?
+
+patient: Yeah, I guess so... It’s hard not to let these thoughts take over, especially when I’m trying to update my resume or apply somewhere. I just... I can’t shake the feeling that every rejection is a step closer to having nowhere to live. My sleep’s been messed up too—some nights I lie awake for hours, thinking about bills I don’t know how to pay.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Thank you for sharing that, Carter. It sounds like the fear of judgment has added another layer of isolation. What are your hopes for what we can work on together in counseling to help you through this?
+
+patient: I guess I hope to learn how to break this cycle of anxiety so I can actually focus on job searching without feeling paralyzed. I’d like to build tools to manage the fear of homelessness when it hits, especially at night when it’s worst. Maybe we could work on practical steps for the job search, but also... figuring out why the judgment fear feels so big. I’m my own worst critic, but I don’t want to shut down my friend the only person I’ve kept talking to because I’m scared they’ll see me as a failure.
+
+interviewer: Thank you for sharing those hopes, Carter. To better understand the timeline, can you walk me through how your anxiety has changed or developed since the day you found out about the layoff?
+
+patient: Right after the layoff, it was this sudden panic, like my world collapsed overnight. At first, I kept thinking maybe I’d get a job quickly—‘Surely I’ll bounce back in a month or two.’ But as weeks passed and rejections came in, the anxiety didn’t ease; it got tighter, like a knot in my chest. Now it’s nonstop—my mind jumps to worst-case scenarios even when I’m trying to focus. I remember one night after getting a rejection email, I just sat there until 3 a.m., calculating every bill I owe, feeling sure I’d be on the street by November. The fear isn’t just about money anymore; it’s like I can’t trust my own ability to fix things.
+
+interviewer: It sounds like you’ve been actively trying to address job search challenges despite the anxiety, which shows resilience. What other strategies have you used to manage the anxiety or fear of homelessness—whether things that have helped, hurt, or had no effect at all?
+
+patient: I’ve tried setting small daily goals, like applying to one job or calling a single contact, to keep myself moving, but some days even that feels impossible. I also tried meditation apps, but my mind just replays the same fears instead of calming down. The only thing that slightly helps is talking to my friend Jamie about minor worries, but I can’t bring myself to mention the homeless fears—I worry it’ll make them see me as a burden.
+
+interviewer: It’s clear how much effort you’re putting into managing this anxiety, even when it feels overwhelming. Have you noticed any changes in your eating habits since these worries started—like skipping meals, losing or gaining weight, or changes in appetite?
+
+patient: Yes, I’ve been skipping meals a lot lately. I don’t feel hungry most of the time, and I’ve been too anxious to prepare food. I think I’ve lost a bit of weight, but I haven’t really been paying attention to the scale.
+
+interviewer: It sounds like the anxiety has significantly impacted both your self-care and relationships. Let’s recap to ensure I’ve captured everything accurately. Your top concerns are the fear of homelessness and persistent anxiety, which started after your layoff and have worsened over time. You’ve described physical symptoms like weight loss from skipped meals, functional impairments in job searching and social connections, and coping strategies like small daily goals that only partially help. Your goals for counseling include managing anxiety and rebuilding confidence in your job search. Is there anything else I’ve missed or anything you’d like to clarify before we move forward?
+
+patient: Yes, that captures the main points, but I’d add that I’ve been avoiding my old social circles entirely—like, I cancel plans last-minute because I’m afraid they’ll ask about my job or notice I’m losing weight. Also, the part about small daily goals: I set them for myself, like applying to one job a day, but I often feel ashamed if I fail, which just makes the anxiety worse. Is there anything else you need?
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing so openly, Carter. It sounds like this job loss has brought up a lot of fears about stability and judgment. Can you think of any past experiences or challenges in your life that might be contributing to how you're feeling now?
+
+patient: I guess... I’ve always been really hard on myself about providing stability. My mom worked double shifts as a nurse growing up, and I saw how stressed she got over bills. Maybe that made me link job security to self-worth. Now, every rejection feels like I’m failing the same way she did, even though I know it’s different.
+
+interviewer: It's understandable how witnessing your mother's stress could shape such strong associations between job security and self-worth. Have you experienced any other significant challenges or traumatic events in your life that might be influencing how you're feeling now?
+
+patient: I don't recall any other major traumatic events, but I remember growing up in a household where my mom's job was her entire identity. When she once got passed over for a promotion, she became withdrawn for weeks. That kind of taught me early on how tied up self-worth can be with work stability. And... there was this one time in high school when I crashed a prototype drone I was building into a lake. It was a big project, and I felt like total failure for weeks—it might be why I now fixate on technical "perfect" outcomes.
+
+interviewer: It's meaningful how your mother's work identity and your high school experience shaped your relationship with failure and perfectionism. Have you ever experienced a situation like this before, where job loss or a major setback triggered similar feelings of anxiety or fear about stability?
+
+patient: No, this is the first time I’ve faced job loss. I’ve always been a perfectionist, especially in high school where even small setbacks felt huge, but nothing like this—this feels like everything I built is crumbling at once. The fear of failing again in such a visible way… it’s different.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Have you noticed any periods where you feel unusually energetic, need less sleep, or take more risks than usual?
+
+patient: No, I haven't noticed anything like that. I've been feeling more exhausted and stuck in this constant state of worry, where even small tasks feel draining. The stress has made my sleep even worse, but it's more about being wired with anxiety than feeling energized.
+
+interviewer: It sounds like the exhaustion and anxiety are really taking a toll. Have you experienced any hallucinations, delusions, or strong paranoid thoughts lately—like hearing voices, believing others are plotting against you, or seeing things others don’t?
+
+patient: No, I haven’t experienced hallucinations or delusions. The anxiety feels really intense and overwhelming, but it’s more like my mind is stuck on a loop of worst-case scenarios rather than believing things that aren’t real. I know the fears are there because of stress, not because I’m losing touch with reality.
+
+interviewer: I appreciate your clarity about this. Have you had any thoughts about ending your life or harming yourself as a way to cope with the stress or fear of homelessness?
+
+patient: No, I haven’t had thoughts about ending my life, but the fear feels so all-consuming sometimes that it’s hard to imagine how things could get better. I just keep thinking about bills piling up and not being able to afford groceries, which makes me feel trapped.
+
+interviewer: It’s understandable how financial stress and anxiety can feel so heavy. Let’s shift to something practical—have you used alcohol, cannabis, or any other substances to cope with the stress or anxiety lately? It’s important we understand any patterns here.
+
+patient: No, I haven’t used any substances to cope. I’ve tried to avoid it because I don’t want to add more problems, but the anxiety feels like a constant pressure that’s hard to ignore.
+
+interviewer: It’s helpful that you have a supportive friend in Jamie. Now, are you currently taking any medications, supplements, or vitamins on a regular basis? This includes things like antidepressants, anti-anxiety medications, or over-the-counter remedies.
+
+patient: No, I’m not currently taking any medications, supplements, or vitamins. I haven’t tried anything prescription or over-the-counter for this—this is my first time dealing with something like this, and I didn’t think to ask about it until now.
+
+interviewer: It’s helpful to hear about your proactive approach to managing stress. To ensure we’re considering all factors, do you have any other medical conditions or physical health concerns—like thyroid issues, sleep apnea, chronic pain, or a history of head injuries—that might be contributing to your current symptoms?
+
+patient: No, I don’t have any other medical issues. The stress from the job loss and financial worries have just been really intense, but I don’t think there’s anything physically wrong with me.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Based on our discussion today, it sounds like the job loss triggered intense anxiety about financial stability and self-worth, which has been worsened by perfectionism and fears of judgment. The stress has disrupted your sleep, motivation, and social connections, but you’re taking steps to address this by seeking help. What did I miss or get wrong about how this has been unfolding for you?
+
+patient: I think you captured the core issues well, but maybe missed how deeply my mom’s past struggles with job stress and self-worth influence my fears. When I worry about being judged, it’s not just about my current situation—it feels like I’m failing to avoid repeating her patterns of linking self-worth to job stability. Also, the perfectionism you mentioned ties into a specific moment in high school when I crashed a drone project; that still haunts me as proof I’m ‘not good enough.’ Lastly, while I set small daily goals (like applying to one job), failing them—like yesterday when I couldn’t even update my LinkedIn—only makes me feel like I’m ‘losing it,’ which loops back into the shame and dread.
+
+interviewer: It sounds like your mom’s experiences and that high school moment have become lenses through which you view your current struggles, making failures feel like proof of a deeper flaw. Let me try to pull this together: Your lifelong perfectionism (rooted in observing your mom’s work-stress and your own drone project trauma) now fuels a cycle where job search setbacks trigger shame, which tightens the anxiety loop. The fear of repeating her patterns and being judged amplifies the pressure, making even small tasks feel overwhelming. Does this capture your experience, or is there something I’m missing? What would you like to adjust before we decide on next steps?
+
+patient: That’s pretty close to how it feels—like my brain keeps looping between ‘I’m failing like my mom’ and ‘I’ll never recover from this.’ What I’d want to adjust is adding how the physical exhaustion makes it harder to even *try* reaching out for help, even to my friend. I know I need support, but my body feels too fried to take that step. Also, maybe the high school drone crash taught me to hide setbacks, which now makes job search rejections feel like proof I’m ‘unemployable’—not just a temporary hiccup. I want to untangle that automatic ‘proof of flaw’ thinking before it traps me again.
+
+interviewer: It sounds like we’ve woven in the physical exhaustion and the high school drone experience into our understanding of how setbacks feel like proof of unemployability. What would be most helpful for us to focus on first—exploring cognitive patterns around self-worth, developing energy-conservation strategies for reaching out, or another approach? What else would you like to add before we finalize next steps?
+
+patient: I think exploring the cognitive patterns around self-worth would be most critical first, because I can feel those thoughts are what paralyze me before I even try to job hunt. The 'I’m unemployable' narrative ties to my mom’s history and that high school drone crash—like setbacks become proof I’m a failure, not just a bump in the road. If we could untangle that, maybe the energy-conservation strategies for applying would feel less like fighting an uphill battle. I’d also like to address the avoidance around friends, since the isolation makes everything feel heavier. That shame about being judged... it’s the worst part, honestly, worse than the homelessness fear itself.
+
+interviewer: To recap: Your anxiety and fear of homelessness stem from a combination of perfectionism, family history of work-related self-worth struggles, and a high school trauma that reinforced 'failure' narratives. These patterns now fuel cycles of shame, social avoidance, and physical exhaustion that paralyze your job search. We’ve prioritized untangling self-worth beliefs and addressing isolation through shame. What did I miss or get wrong about this understanding, and what additional concerns would you like to add before we finalize next steps?
+
+patient: Your summary is accurate, but there’s one thing you didn’t mention: the shame I feel when I fail even small daily goals, like sending three job applications. That shame makes me skip meals or isolate longer, which worsens the cycle. Also, I haven’t told my close friend about the homelessness fears because I’m terrified they’ll think I’m exaggerating or see me as a failure. I know it’s irrational, but I can’t stop the fear that my job loss reflects some personal flaw I can’t fix. Maybe we should address how to rebuild self-compassion without relying on external validation?
+
+interviewer: Thank you for sharing those additional layers about shame and social isolation—they’re critical to understanding how self-criticism tightens the cycle. To finalize our focus: We’ll prioritize untangling the 'I’m unemployable' narrative, building self-compassion strategies to break the shame-isolation loop, and gradually addressing social avoidance with your friend. What did I miss or get wrong about this plan, and is there anything else you’d like to add before we move forward?
+
+patient: The plan sounds like it covers the main issues, but maybe adding how financial stress directly fuels my anxiety would help. Also, my fear of being judged by others isn’t just about my friend—like, even strangers noticing my weight loss or me looking ‘down’ makes me want to hide. I guess it’s that same shame about failure I’ve always carried, but it’s worse now because I feel like I’m actually failing in real life, not just fearing it.
+
+interviewer: Thank you for adding those details about financial stress and fear of judgment from strangers—they deepen our understanding of how shame and hypervigilance are entangled in your experience. To finalize our plan: We’ll untangle the 'I’m unemployable' narrative, build self-compassion strategies to break the shame-isolation loop, and gradually address social avoidance while incorporating practical tools to manage financial stress. What did I miss or get wrong about this plan, and is there anything else you’d like to add before we move forward?
+
+patient: The plan sounds on track, but maybe I should add that the sleeplessness and skipped meals are making it harder to focus on job searches or even get out of bed some days. Also, the perfectionism around applications—like obsessing over every word of my resume until I can’t submit it—might need addressing. I’m worried I’ll ‘mess up’ another job opportunity if I don’t fix these patterns, but it’s a cycle I can’t break alone. Maybe tools to untangle that ‘all-or-nothing’ thinking would help?
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Reports persistent anxiety and fear of homelessness post-layoff, worsening over weeks. Describes physical symptoms: weight loss from skipped meals, insomnia (e.g., lying awake calculating bills). Functional impairments: job search paralysis, social withdrawal (cancelling plans, avoiding old social circles). Notes shame-driven avoidance of discussing fears with friend Jamie. Links anxiety to perfectionism, family history of maternal work-stress, and high school trauma (crashing drone project).
+
+Objective: Impaired daily functioning (job search, social engagement). Weight loss observed. No acute safety concerns; denies suicidal ideation or substance use. No medical conditions reported.
+
+Assessment: Anxiety disorder secondary to financial instability and perfectionism. Cognitive patterns: self-worth tied to job security, catastrophic thinking (e.g., "every rejection is a step closer to homelessness"). Family history of maternal work-stress reinforces fear of repeating cycles. High school trauma exacerbates fear of failure. Shame and isolation perpetuate functional decline.
+
+Plan: Prioritize CBT for cognitive restructuring (untangle "unemployable" narrative, address perfectionism). Develop self-compassion strategies to break shame-isolation loop. Gradual exposure to social re-engagement (e.g., discussing fears with Jamie). Address sleep hygiene and energy conservation for job search tasks. Monitor financial stress triggers and practical job search tools.
+
+--- End Summary ---
+

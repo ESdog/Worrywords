@@ -1,0 +1,110 @@
+system: --- Session 202601290722 Start ---
+
+ --Patient ID 3506--
+
+system: --- Session 202601290722 Start ---
+
+ --Patient ID 3506--
+
+interviewer: Paige, could you let me know if you have any preferred pronouns we should use today?
+
+patient: I use she/her pronouns. My therapist last year suggested using them as they felt it was the standard assumption here.
+
+interviewer: Thank you for sharing that, Paige. Today’s session will focus on understanding your concerns and how we can work together. Would you be comfortable proceeding with that?
+
+patient: Yes, I'd like that. Thank you for being willing to help. I just... it’s been really hard lately, like my sleep keeps getting worse the more I think about it. I want to enjoy reading again without this panic.
+
+interviewer: You're welcome. This session will involve discussing your concerns and how we can address them. Do you have any questions about how this will work before we begin?
+
+patient: No, I think I understand. I’m more interested in discussing how we can address my anxiety about running out of books to read. It’s been affecting my sleep lately, so I’d like to work on that.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Thank you for sharing that. It sounds like this fear has been increasingly disrupting your sleep and enjoyment of reading. Can you tell me more about when this fear first began and if there was anything specific that triggered it?
+
+patient: It started maybe three months ago, after I finished this really immersive book. I remember looking at my TBR shelf and thinking, 'What if I run out of books I want to read?' At first it was just a flicker of worry, but now it feels like a loop. Even when I buy new books, I can't shake the fear that they'll eventually disappear. It's like... my brain keeps imagining this future where I’m left with nothing to read, and that makes me anxious even when I’m enjoying a book right now. I’ve been staying up late trying to read more, but it’s just making my sleep worse.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I want to make sure I understand your history fully. Have you experienced any traumatic or difficult events in your life that might be connected to your current concerns about reading?
+
+patient: I don’t recall any specific traumatic events that feel directly connected to this fear. Reading has always been a comfort for me, even as a child, so this anxiety feels out of place compared to my history of using books as a safe escape. My family was supportive of my reading habit, though I was an introverted kid who preferred stories over socializing. Nothing in my past feels obviously linked to this new kind of panic around running out of books.
+
+interviewer: Thank you for sharing that. It sounds like reading has been a consistent source of comfort for you, which makes this new anxiety feel especially concerning. Have you ever experienced similar episodes of anxiety or panic related to other aspects of your life before, and if so, what helped during those times?
+
+patient: No, this is the first time I’ve experienced anxiety like this. I haven’t had similar issues before, so I’m not sure what helps yet. I’ve tried buying more books and exploring new genres, but the fear still lingers.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Have you noticed any changes in your alcohol or cannabis use recently, or any other substances?
+
+patient: No, I haven’t noticed any changes in my alcohol or cannabis use recently. I don’t use those substances, really—I’ve always relied on reading to manage stress, even if it’s now causing this anxiety.
+
+interviewer: Thank you for sharing that. Have you used any other substances, such as stimulants, opioids, or recreational drugs, either recently or in the past?
+
+patient: No, I haven’t used any substances like that. I don’t really use anything beyond occasional caffeine, like coffee or tea. That’s it, honestly.
+
+interviewer: Thank you for sharing that. Have you had any thoughts about harming yourself or ending your life recently?
+
+patient: No, I haven't had thoughts about harming myself. My anxiety is distressing, but it hasn't reached that level. The panic feels more like a loop of worry than anything darker.
+
+interviewer: Thank you for clarifying that. Have you noticed any recent changes in your energy levels, such as feeling more restless, impulsive, or needing less sleep while still feeling energetic?
+
+patient: I haven't noticed feeling more energetic or impulsive, but the anxiety does make me restless—like my mind is racing when I should be relaxing. The sleep issue is more about struggling to *fall asleep* because I panic about my reading list, not feeling unusually energized. It’s frustrating because I’d prefer to enjoy my books without this loop of worry.
+
+interviewer: I appreciate you sharing how this worry loop feels—it’s understandable to feel frustrated when something you love becomes tangled with anxiety. Have you experienced any periods where you felt unusually energetic, had racing thoughts that you couldn’t control, or talked more than usual, even if others tried to interrupt?
+
+patient: No, I haven’t experienced those specific symptoms. My anxiety tends to make my thoughts race sometimes, but it’s more about worry than feeling energized or talking more. I’ve mostly noticed the panic and sleep issues, not the kind of energy or restlessness you’re describing.
+
+interviewer: I appreciate your openness in describing how anxiety has shifted your reading experience. Have you noticed any unusual experiences, such as hearing voices, seeing things others don’t, or having thoughts that feel strange or disconnected from reality?
+
+patient: No, I haven’t experienced anything like that. My anxiety feels rooted in real concerns about my reading habits, not strange thoughts or perceptions. The fear is about running out of books, not about hearing voices or seeing things—I think that’s important to clarify.
+
+interviewer: I appreciate your clarity in distinguishing these concerns—it’s reassuring to understand the nature of your anxiety. Are you currently taking any medications, supplements, or over-the-counter remedies for this anxiety or any other conditions?
+
+patient: No, I’m not currently taking any medications or supplements for this anxiety or other conditions. I’ve tried buying more books in advance and exploring new genres, but it hasn’t lessened the worry. I’ve never needed medication for mental health before, and this is my first time seeking counseling.
+
+interviewer: I appreciate your thoroughness in describing your experiences. Have you noticed any other medical concerns that might be relevant, such as thyroid issues, sleep apnea, chronic pain, or a history of head injury?
+
+patient: No, I haven’t been diagnosed with thyroid issues, sleep apnea, chronic pain, or head injuries. The sleep disturbances I’m experiencing are specifically linked to my anxiety about running out of books, not an underlying medical condition. I’ve never had any physical health issues that required treatment.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: To recap, your anxiety began three months ago after finishing a meaningful book, triggering fears of depleting your reading material. This has created a cycle of worry that disrupts your sleep and enjoyment of reading, even though you’ve tried coping strategies like buying more books. Your lifelong reliance on reading as comfort makes this fear especially distressing, but you’ve shown strength by seeking help. What did I miss or get wrong here?
+
+patient: Your summary is mostly accurate. You captured the timeline and the sleep impact well. One small detail you missed is that my brain fixates on imagining a future with no books even when I'm in the middle of a good one, which makes it hard to relax. Also, the part about trying new genres specifically—expanding genres was a strategy I tried, not just buying more of the same. But overall, that’s a solid recap of the key points.
+
+interviewer: Thank you for clarifying those details—imagining a future without books even mid-read and intentionally expanding genres are important nuances. Let me briefly outline a tentative model: Your lifelong reliance on reading as comfort (predisposing) may have made the recent fear of depletion (precipitating event) more distressing. The worry cycle perpetuates itself by making reading feel stressful, while your proactive help-seeking is a strong protective factor. Does this align with your experience, or is there more to add? What steps might we prioritize next to address this?
+
+patient: Yes, that model sounds familiar—I’ve always used reading as a comfort, but now the fear feels like it’s twisting that comfort into a source of stress. The part about the cycle makes sense: when I panic about running out of books, I end up reading faster or buying more, which just fuels the worry. Maybe we could start by exploring how to separate reading from the pressure to ‘stockpile’ books? Also, the sleep issues are a big hurdle—I’d like to work on calming the nighttime panic so I can enjoy reading again without it feeling like a countdown.
+
+interviewer: Thank you for sharing those priorities—addressing the pressure to stockpile and calming nighttime panic are excellent starting points. To ensure we’re aligned, my plan would be to first explore cognitive strategies to reframe the ‘running out’ anxiety, then gradually introduce sleep hygiene techniques tailored to your reading habits. Is there anything else you’d like to add or adjust before we move forward?
+
+patient: No, that plan makes sense to me. I think focusing on the anxiety first is the right move since it’s what’s keeping me up at night. Maybe the panic feels so urgent because reading used to be my safe space, and now it’s both the problem and the trigger. If we can untangle that, I think the rest will follow. I’m just hoping we can keep the solution rooted in enjoying stories again, not losing them completely.
+
+interviewer: Thank you for your thoughtful insights about reading’s role in your life. Before we conclude, is there anything else you’d like to add or adjust about our plan to ensure it fully addresses your concerns?
+
+patient: I think focusing on breaking the cycle between my anxiety and sleep would be most helpful. I want to explore why reading, which used to feel safe, now triggers this panic loop. Maybe we can work on accepting that books are finite without letting it spiral into fear? Also, building ways to unwind without relying solely on reading would help—like if I’m worried about running out, what other tools can fill that ‘comfort’ role? I’m hopeful we can untangle this without losing the joy reading used to bring me.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Paige (she/her) reports anxiety about running out of books to read, onset 3 months post-finishing an immersive book. Describes sleep disruption (difficulty falling asleep due to panic about reading list), restlessness, and frustration. Notes anxiety loops even during enjoyable reading, with fear of a future 'without books.' Tried buying more books, exploring genres, but worry persists. No suicidal ideation or substance use changes.
+
+Objective: Reports no medical issues; functioning impacted by sleep disturbances and strained reading enjoyment. Proactive help-seeking noted. No psychotic symptoms, substance use limited to caffeine. Lifelong reading as primary coping mechanism, now paradoxically triggering anxiety.
+
+Assessment: Anxiety likely linked to perceived depletion of reading material, exacerbated by cognitive loops around finitude. Predisposing factor: reading as lifelong comfort. Precipitating event: finishing immersive book. Protective factor: help-seeking. Sleep issues secondary to anxiety, not medical conditions.
+
+Plan: Prioritize cognitive reframing of 'running out' anxiety, then sleep hygiene tailored to reading habits. Explore separating reading from stockpiling pressure. Address nighttime panic through calming strategies. Develop non-reading comfort tools. Monitor sleep/functioning improvements.
+
+--- End Summary ---
+

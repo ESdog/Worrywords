@@ -1,0 +1,130 @@
+system: --- Session 202601281847 Start ---
+
+ --Patient ID 3878--
+
+system: --- Session 202601281847 Start ---
+
+ --Patient ID 3878--
+
+interviewer: Hi Grace, it's nice to meet you. To start, can you share your preferred name and pronouns with me?
+
+patient: Hi, my name is Grace Anderson. I go by Grace, and my pronouns are she/her. I’m a comic artist, so I spend a lot of time drawing. Most of my friends know me through anime and role-playing stuff.
+
+interviewer: It sounds like your creative passions are a big part of your life. Just to clarify, today's session will involve discussing your thoughts and feelings to better understand what's been going on for you. Would you be comfortable proceeding with that?
+
+patient: Yes, I guess so. It’s just… hard to talk about, but I want to feel better. My head feels stuck in this loop where I think nobody who likes anime could ever… you know, want to be close to me like that.
+
+interviewer: It sounds like you're carrying a lot of weight with these thoughts. Would you like to ask any questions about how our sessions will work or what to expect before we move forward?
+
+patient: I guess I just want to know... how exactly will these sessions help me with my confidence and social anxiety? And will we mostly be talking about my feelings, or are there other methods you might use?
+
+interviewer: It’s completely normal to wonder how therapy works—I appreciate you asking. In our sessions, we’ll use methods like identifying unhelpful thought patterns and building skills to challenge them, while also exploring feelings. Would you like to ask anything else before we begin?
+
+patient: I think I understand what you said, but... I’m just not sure if I’ll be able to talk about my feelings without getting embarrassed. My friends don’t really get why I feel this way about anime and relationships, so I guess I’m worried you won’t either.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing so much already, Grace. To clarify your goals, what specific changes would you like to see in your thoughts or feelings about relationships and social situations over the next few months?
+
+patient: I guess I want to stop believing that liking anime makes me unattractive or weird. I want to feel okay about hanging out with people without worrying they’ll think I’m ‘too into anime’... even if they do, I don’t want to cancel plans because of it. Also, maybe learning to talk about my art without getting nervous? Sometimes I think if I could explain how it helps me feel creative, people would see me as more than just ‘the anime kid.’
+
+interviewer: I appreciate you sharing that creative expression is important to you. When you’re in situations where you worry others might judge your interests, do you notice any physical sensations—like a racing heart, sweating, or stomachaches—that come up alongside those anxious thoughts?
+
+patient: Yeah, sometimes my heart feels like it’s racing, and I get this tightness in my chest. I think my stomach might feel queasy too, but I’m not sure if it’s just me imagining it because I’m already nervous.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing so openly, Grace. It takes courage to talk about these feelings. Can you tell me about any current stressors or challenges you're facing in your daily life or relationships that might be contributing to these feelings?
+
+patient: I guess the biggest stressor is avoiding school events or role-playing meetups where I might meet people. I worry they’ll think I’m ‘weird’ for liking anime, even if they say they get it. My chest gets tight and my heart races if I have to talk to someone new, you know? My friends are cool about anime, but they don’t really understand why I feel so… lonely. It’s like I’m stuck being ‘the anime kid’ and no one sees me as more than that.
+
+interviewer: Have there been any difficult or traumatic experiences in your life that you think might be related to these feelings?
+
+patient: No, I don’t think there’s been anything traumatic. But I remember once at a school project, when I mentioned anime, some kids laughed and said it was ‘weird,’ and I felt super embarrassed. That probably made me start hiding my interests more. I guess those small moments added up over time, making me worry people would judge me if they knew how much I liked this stuff.
+
+interviewer: It sounds like your friends who share your interests are a big support for you. Are there any other parts of your life or activities—like your family, school, or creative work—that you find help you feel more confident or grounded when things feel overwhelming?
+
+patient: My comic art definitely helps me feel more like myself. When I'm drawing or creating stories, I can lose track of time and my worries about what others think. It helps me feel like I'm not just the 'anime kid' everyone thinks I am. But... it's weird, even when I make characters with cool powers or outfits, I still get nervous sharing them with people in real life. Like, what if they think I'm trying too hard to be 'cool'?
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate your openness so far, Grace. To ensure I understand your current well-being, have you ever had thoughts of intentionally harming yourself or ending your life, even if just in your mind? If so, could you share how often these thoughts occur and if they feel connected to any specific situations?
+
+patient: No, I haven’t had thoughts like that. I’ve felt really sad and alone sometimes, especially when I’m stressed about meeting people, but I don’t think about hurting myself. I focus more on my art to feel better, even if it doesn’t fix everything.
+
+interviewer: I’m glad to hear your art helps you cope. Let’s talk a bit more about your energy and mood—have you ever felt unusually energetic or needed very little sleep for several days, where you felt more productive or impulsive than usual?
+
+patient: No, I don’t think so. When I’m working on my comic art, I sometimes lose track of time, but that’s more about being focused than feeling hyper or anything like that. I don’t really remember ever going days without sleeping or acting on sudden impulses.
+
+interviewer: It sounds like your focus on art helps you stay grounded. Let’s check a few more things to better understand your well-being—have you ever experienced any hallucinations (like hearing voices or seeing things others don’t) or had thoughts that others are plotting against you or monitoring you in some way?
+
+patient: No, I haven’t experienced hallucinations or thoughts that people are plotting against me. But sometimes when I’m really anxious, I feel like people are watching me from afar or judging me, even if they’re just being friendly. It’s more like… my nerves make me imagine they’re not really listening to me, even when they say they like my art.
+
+interviewer: I appreciate you sharing how anxiety can make social interactions feel challenging. Let’s briefly discuss other factors that might influence your well-being—have you ever used alcohol, marijuana, or other substances like energy drinks or prescription medications not related to your health? Even if it was just once, could you share how that felt or what led to it?
+
+patient: No, I haven’t used any alcohol, marijuana, or other substances. I try to cope with stress through my comic art instead, even though sometimes it doesn’t feel enough.
+
+interviewer: I appreciate you sharing how your art serves as a meaningful outlet. Let’s briefly check on medications or supplements—are you currently taking any prescription medications, over-the-counter drugs, or supplements (like vitamins or herbal remedies)? If so, could you share how they make you feel and if you’ve noticed any side effects?
+
+patient: I'm not taking any medications or supplements right now. I haven't been prescribed anything for this before, and I don't take vitamins or anything like that regularly. Sometimes I wish there was a pill for the nervous feelings, but... there's not, I guess.
+
+interviewer: I appreciate your honesty about not using substances or medications. Let’s briefly check if there are any medical issues that might be affecting how you feel—have you ever been diagnosed with a condition like thyroid problems, sleep apnea, chronic pain, or had a head injury that still causes symptoms? Even if it seems unrelated, it could help us understand things better.
+
+patient: No, I haven’t been diagnosed with anything like that. I’m pretty healthy overall—just the usual kid stuff, like getting sick once in a while. I don’t think my health issues are causing these feelings, though. My head’s fine, too; I’ve never had a serious injury or anything.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Based on what we've discussed, it sounds like your feelings of loneliness and self-doubt began around two years ago, intensified by a past experience of being mocked for your anime interests, and are now maintained by avoiding social situations where you might feel judged. Your creative art helps you cope, but it hasn't fully eased the anxiety about being misunderstood or unlovable. What parts of this picture feel accurate, and what might I be missing?
+
+patient: Yeah, that’s pretty close. The timeline and the mocking part feel right—my chest still gets tight thinking about it. But you’re missing how role-playing games, not just anime, make me worry I’ll act ‘too geeky.’ Also, sometimes my stomach *does* feel sick when I’m around people, like a knot. And even my supportive friends don’t get why I feel alone when I’m with them. They’re cool, but… they don’t *see* the loneliness, you know?
+
+interviewer: It sounds like role-playing games and physical symptoms like stomach knots add layers to how anxiety shows up for you, and that even supportive friendships can feel isolating when your deeper loneliness isn’t recognized. What did I miss about how these experiences shape your daily life or goals?
+
+patient: I think another part is how my role-playing games feel like a safe way to pretend I’m ‘normal’—like, in those games, I get to be a hero or a cool character for a bit. But when I put down the dice, I still feel like the ‘weird anime kid.’ My chest gets tight trying to switch between those two versions of myself. And my art… sometimes I want to draw stories where girls love anime and still feel lovable, but I freeze up thinking no one would ‘get’ it. It’s like I’m stuck making art that hides my real self, which just makes the loneliness worse.
+
+interviewer: Thank you for sharing that—switching between those identities must feel exhausting, and it’s brave to create art that reflects parts of yourself even when it’s scary. If we were to build on your strengths, like your creativity and your openness, what would you most want to focus on next? For example, exploring how to express your true self in art, or developing tools to ease the chest tightness when transitioning between roles?
+
+patient: I think I’d want to focus on using my art to show who I really am, like making comics that mix my anime love with real feelings about being seen. The chest tightness is tough, but maybe if I can draw my way through those moments, it’ll feel less scary? Like, turning that anxiety into something I can hold onto instead of just fighting it...
+
+interviewer: It sounds like your journey involves navigating a complex mix of self-expression through art, anxiety about social judgment, and a deep desire to feel seen authentically. Your creative process becomes both a refuge and a challenge when confronting fears of being misunderstood. What did I miss about how these elements shape your experience of loneliness or confidence in social settings?
+
+patient: Yeah, you hit most of it, but maybe you missed how my art sometimes feels like a shield. Like, when I’m drawing, I’m in control—I can make characters who feel like me but ‘cooler.’ But when I try to talk about them in person, it’s like... I’m afraid they’ll see me as just the ‘anime kid’ and not the person behind it. Also, even though I avoid events, part of me wishes I could bring my art to those spaces to show I’m more than my hobbies. But then I worry it’ll make me look ‘desperate’ to fit in. It’s like a loop.
+
+interviewer: It sounds like your art is both a shield and a bridge—protecting you while also holding the potential to connect you to others if you feel ready to share it. Let me recap: Your anxiety stems from fearing judgment for your interests, leading to avoidance and a cycle of loneliness. Your creative process helps you manage these feelings but also risks hiding your true self. What did I miss about how these patterns show up in your life or goals? If we were to focus on using your art to build confidence and challenge self-doubt, how might that look for you moving forward?
+
+patient: I guess you didn’t miss much, but maybe the part where I worry my art feels ‘too much’ to share—even with friends. Like, when I draw characters with anime-style hair or poses, I fear people think it’s just a phase or that I’m trying too hard to fit in. My chest gets tight when I imagine someone rolling their eyes at my sketchbook. If we used my art to challenge the ‘weird’ part, maybe I’d try drawing a story where the main character’s anime love helps them connect with others. Then talk about how that story feels… Does that make sense? I’m not sure yet, but it’s harder than it sounds.
+
+interviewer: It takes courage to explore these layers of self-expression and vulnerability through your art—thank you for sharing that. To ensure we’re aligned, let’s briefly recap: Your anxiety around social judgment and fear of being reduced to ‘the anime kid’ contributes to avoidance and loneliness, while your art serves as both a protective shield and a potential bridge to connection. What would you like to add, correct, or emphasize about this picture? And if we were to start by creating a comic that gently challenges the ‘weird’ narrative—perhaps showing a character navigating similar feelings—would that feel like a manageable next step, or is there something else you’d prefer to try?
+
+patient: Yeah, that’s pretty much it. My art’s like... my safe space, but I wish people saw it as just one part of me, not the whole label. The comic idea sounds okay—maybe drawing a character who’s nervous about sharing their hobby? But I’d probably overthink it and worry everyone’ll still think it’s ‘weird.’ Maybe start with just sketching the feelings, not the whole story? My chest already feels tight thinking about it, but... I guess trying to put it into pictures might help me see it differently. Just don’t wanna mess it up and make myself feel worse.
+
+interviewer: It sounds like creating a comic to explore these themes feels both meaningful and challenging for you—thank you for considering it. To ensure we’re aligned, let me summarize: Your primary goals involve using art to express your full identity, reduce anxiety around social judgment, and build confidence in sharing your true self. The comic project could be a starting point, paired with exploring tools to manage physical anxiety (like chest tightness) when transitioning between roles. What did I miss, and is there anything else you’d like to prioritize moving forward?
+
+patient: Yeah, that’s pretty much it. The comic idea feels right, but I’m also wondering if we could talk about those moments when I feel stuck, like after the time my class laughed at my anime stuff. It’s those memories that make me hide my hobbies sometimes. Also, maybe we could work on not just managing the anxiety but helping me feel like people *could* get me, even if they don’t like anime? I want to be seen as more than just... ‘the anime kid’ but still be okay with being me.
+
+interviewer: It sounds like we’ve covered the key parts of your experience—the anxiety around judgment, the protective role of art, and the wish to be seen as more than just ‘the anime kid.’ Before we finalize our next steps, is there anything else you’d like to add or adjust about how we’ve framed your story or goals? If not, we could start by creating that comic together and exploring tools for the chest tightness when you’re ready.
+
+patient: I think we’ve got the main stuff, but maybe add that my art is my safe space, but I still want to feel confident in real life. The comic idea sounds good because I can show what words can’t. Also, the chest tightness and weird stomach feeling happen a lot when I’m nervous—it’s not just my imagination, it’s real. Otherwise, yeah, the goals make sense. I’m ready to try tools for that tightness and maybe... draw my way through it?
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Reports social anxiety centered on fear of being judged for anime/role-playing interests, leading to avoidance of school events and meetups. Experiences chest tightness, racing heart, and stomach knots during social interactions. Feels 'stuck' as 'the anime kid,' with loneliness persisting despite supportive friendships. Art is a primary coping mechanism but also a 'shield' that obscures authentic self-expression. Notable quote: 'My art is my safe space, but I still want to feel confident in real life.'
+
+Objective: Observable avoidance of social situations involving anime/role-playing. Physical symptoms (chest tightness, stomach knots) correlate with anxiety. Creative output (comics) serves as both emotional refuge and barrier to vulnerability. No acute risk; denies suicidal ideation or substance use.
+
+Assessment: Social anxiety disorder with avoidance behaviors and physical somatic symptoms. Core belief: 'Liking anime makes me unattractive/weird.' Trauma-informed context: Mocking incident (2 years ago) triggered self-stigma and identity concealment. Art functions as adaptive coping but risks reinforcing self-segregation. Low self-esteem tied to fear of misrepresentation.
+
+Plan: Collaborative creation of a comic to challenge 'weird' narrative and practice self-expression. Cognitive tools to reframe judgment fears (e.g., exposure through art sharing). Somatic anxiety management (breathing techniques for chest tightness). Gradual integration of authentic identity in social contexts, leveraging role-playing as a bridge. Monitor physical symptoms as biomarkers for anxiety progression/regression.
+
+--- End Summary ---
+

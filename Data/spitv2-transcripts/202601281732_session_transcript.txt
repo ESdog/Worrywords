@@ -1,0 +1,122 @@
+system: --- Session 202601281732 Start ---
+
+ --Patient ID 2991--
+
+system: --- Session 202601281732 Start ---
+
+ --Patient ID 2991--
+
+interviewer: Judith, do you have any pronoun preferences I should know about?
+
+patient: No, I don't have any specific pronoun preferences. I've always used 'she' and it's been fine my whole life.
+
+interviewer: Thank you for sharing that with me, Judith. Our sessions will focus on understanding and managing your anxiety related to work. We'll discuss your thoughts and develop strategies to help you feel more in control. Would you be comfortable moving forward with this?
+
+patient: Yes, I think that sounds good. I just... I really want to be able to handle those busy nights without it getting to me anymore. My coworkers have noticed I’m distracted sometimes, and I don’t want to mess up a game because my mind’s racing about losing money.
+
+interviewer: Great, Judith. Before we begin, do you have any questions about how these sessions will work or what to expect?
+
+patient: No, I don’t. I’m just hoping to talk through these thoughts and find ways to manage them better without letting them ruin my shifts.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Can you describe a recent time when these intrusive thoughts were especially intense? What was happening at work, and how did you feel during that moment?
+
+patient: A few weeks ago during a busy Friday night, I was at the main table when a player started betting large amounts. I kept thinking I’d miscount the chips and let him get away with a mistake, which would lose the casino money. My hands shook so bad I almost spilled the chip tray. I could feel my heart pounding in my throat. I tried to focus on my training, but my mind kept racing ahead to worst-case scenarios. I had to step into the break room for a minute just to catch my breath. When I got home, I couldn’t stop replaying it in my head—even my husband’s calm voice on the phone couldn’t snap me out of it.
+
+interviewer: It sounds like this experience really disrupted your focus and left you feeling overwhelmed. Can you tell me more about when these thoughts first started? Were there any specific events or changes at work that might have triggered them?
+
+patient: The thoughts really took hold about six months after I started here. There was this one night, super busy, tables packed, and a player got real aggressive after losing a hand. I froze for a second, and suddenly I was terrified I’d let him cheat or mess up the payout. That night, I couldn’t stop replaying it. After that, every big bet felt like a test—I’d second-guess myself nonstop, even when I knew I was doing my job right.
+
+interviewer: Thank you for sharing that, Judith. It sounds like that moment six months ago really shifted how you experience your work. As we move forward, can you tell me what you hope therapy will help you achieve in terms of managing these thoughts and your job performance?
+
+patient: I hope therapy can help me stop the anxiety from taking over during my shifts. I want to learn how to manage those racing thoughts so I can focus on the game without second-guessing every decision. It’s hard to explain, but it feels like my mind’s stuck on ‘what if I make a mistake and lose someone’s money’—even when I’m doing everything right. I guess I want to feel like myself again at work, not this tense version of me who’s always waiting for the worst to happen.
+
+interviewer: You mentioned trying to distract yourself and practice relaxation techniques. Can you tell me more about what those strategies looked like in practice, and whether they’ve helped reduce the anxiety or racing thoughts at all?
+
+patient: I’ve tried deep breathing when I feel the anxiety building, like inhaling for four counts and exhaling for six. It helps a little, maybe calms me for a minute or two, but the thoughts just come rushing back. I also listen to soft music during breaks, which sometimes makes me feel more centered, but it doesn’t really stop the racing thoughts when I’m at the tables. I even tried counting cards mentally as a distraction, but that backfired—it made me hyper-focused on numbers, which just amplified the fear of losing money. The techniques give me *some* relief, but not enough to keep up with the stress of busy nights. It’s like the anxiety is always one step ahead.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like the stress from your job has really started to affect your personal life and confidence at work. Have there been any other stressful or traumatic experiences in your life that might be connected to this anxiety, or anything from your past that feels similar?
+
+patient: Not that I can recall, no. The closest thing might be my dad’s gambling addiction growing up—he’d lose money and get real angry, but I didn’t let it stick with me. This anxiety feels new, though. It’s the job itself—after that night with the aggressive player, I guess I started second-guessing everything. It’s not like my childhood, it’s just... the pressure of the job turned into this constant worry. I never thought I’d be so rattled over something I used to handle fine.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I want to ask about your safety. Have you ever had thoughts of harming yourself or ending your life?
+
+patient: No, I haven't had thoughts of harming myself. My anxiety feels bad, but I focus on staying positive and taking deep breaths when I get overwhelmed.
+
+interviewer: Thank you for sharing that Judith. It's important we address these concerns together. Have you noticed any recent changes in your energy levels, sleep patterns, or risk-taking behaviors?
+
+patient: Yes, my energy’s been lower lately, especially during shifts. I used to stay sharp all night, but now I’m exhausted by 2 a.m. even if I slept okay. My sleep’s been broken—lie awake worrying about the next day’s games, then wake up around 3 a.m. second-guessing chip counts in my head. As for risk-taking… I’ve been avoiding high-stakes tables, which is odd for me. I used to handle big bets confidently, but now I freeze, fearing a mistake will cost the casino money. My husband says I’m more cautious at home too, like hesitating to play our weekly poker games. It’s not like my dad’s gambling addiction, though—he’d chase losses, but I’m scared of even small risks now.
+
+interviewer: I appreciate you sharing those details, Judith. Have you noticed any changes in your alcohol, cannabis, or other substance use recently?
+
+patient: No, I haven’t changed my alcohol or cannabis use recently. I don’t drink during work, and I’ve never used cannabis. My husband sometimes offers me coffee when I seem stressed, but I usually just take a deep breath instead.
+
+interviewer: I appreciate your openness, Judith. Have you noticed any experiences like hearing voices, seeing things others don’t, or having thoughts that feel strange or untrue, even when you know they aren’t?
+
+patient: No, I haven’t experienced hearing voices or seeing things others don’t. My intrusive thoughts are focused on losing money or making mistakes at work, and while they feel intense, I know they’re not real. They just… take over sometimes, especially during busy shifts.
+
+interviewer: I appreciate your honesty, Judith. To ensure we have a complete picture, are you currently taking any medications, supplements, or vitamins on a regular basis?
+
+patient: I’m not taking any medications or supplements right now. I’ve tried OTC sleep aids occasionally, but they don’t really help with the racing thoughts I get at work.
+
+interviewer: I appreciate your thoroughness, Judith. To ensure we have a complete understanding, have you ever been diagnosed with any medical conditions such as thyroid issues, sleep apnea, chronic pain, or a head injury that might be contributing to these symptoms?
+
+patient: No, I haven't been diagnosed with any of those medical conditions. I’ve always been pretty healthy physically, but the stress and anxiety from work have definitely taken a toll on me mentally. I’m focusing on figuring out how to manage this without it being tied to something like thyroid issues or injuries.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Judith, to recap: We’ve explored your persistent anxiety around financial mistakes at work, which began six months ago after an incident with an aggressive player. This has led to hypervigilance, physical symptoms like shaking and rapid heartbeat, and disrupted your sleep and confidence. We’ve identified potential contributors like job stress, childhood exposure to gambling, and a pattern of catastrophizing thoughts. What did I miss or what feels different about this picture?
+
+patient: I think you’ve captured the main pieces, but maybe the part about my dad’s gambling isn’t just background—it feels like it’s tangled with this. I’ve been avoiding high-stakes games even when my shifts aren’t busy, even at home with friends, which is out of character for me. Also, the shaking and racing heart don’t just happen at work—they pop up when I’m handling money at the grocery store, which I didn’t mention earlier. It’s like the anxiety isn’t staying in the casino anymore.
+
+interviewer: It sounds like the anxiety has expanded beyond work, affecting your interactions with money in daily life and altering long-standing social habits—this makes sense given both the job stress and your father’s gambling history as contributing factors. What did I miss or what feels different about how these pieces connect?
+
+patient: I think what’s different is that my dad’s gambling was about losing control and anger, but my anxiety feels more like...a fear of *failing* at something I care about. I’ve always been good at my job, but now I’m terrified I’ll make a mistake that costs someone money. It’s not about addiction—it’s about perfection. But maybe the fear of financial chaos from his past makes me hypersensitive to any risk now. I hadn’t thought of that before.
+
+interviewer: It sounds like we’re seeing a mix of factors here: your father’s gambling history may have made you more sensitive to financial risks (predisposing), the recent incident with the aggressive player acted as a trigger (precipitating), and now the anxiety about perfection and catastrophic mistakes keeps it going (perpetuating). Your resilience, supportive spouse, and past ability to manage stress are strengths we can build on. What did I miss or what feels off about this picture?
+
+patient: I think that's mostly right, but maybe the part about my dad's gambling affecting me more than I let on. I told myself I’d never let his habits touch me, but maybe his anxiety around money seeped into me somehow. Also, the interviewer didn’t mention how I’ve started avoiding even *casual* card games at family gatherings now—like it’s not just work anymore. That feels important.
+
+interviewer: It sounds like we’re beginning to see how your father’s gambling history may have sensitized you to financial risks, even as your current anxiety stems from a fear of professional failure rather than addiction. What else feels important to add or adjust about how these pieces connect before we move forward?
+
+patient: I think the connection between my dad’s gambling and my current anxiety is more about how his behavior made me hyper-aware of financial risks from a young age. He’d lose money and get angry, so I learned early to associate gambling with chaos. Now, even though my anxiety isn’t about addiction, I can’t shake the fear that losing money—whether through my mistakes or a player’s aggression—means I’ve failed. It’s not just about the casino’s money; it feels personal, like I’m proving I’m *different* from him. But I’m not sure if that’s fair… maybe it’s just my brain linking work stress to old patterns. I do think the recent incident with the aggressive player triggered something deeper, though—I’ve been avoiding high-stakes games at home too, which is out of character. I guess I’m worried that if I let myself get too comfortable with money again, I’ll spiral into the same helplessness he felt.
+
+interviewer: It sounds like we’ve woven together how your father’s gambling history shaped your relationship with money, how the aggressive player incident acted as a trigger, and how your current anxiety revolves around perfectionism and fear of failure rather than addiction. This model accounts for the expanded avoidance beyond work and the personal weight you’re giving to financial risks. What else feels important to adjust or add before we decide on next steps?
+
+patient: Yes, I think it’s important to mention how my anxiety makes me overly self-critical. I replay every shift in my head, even small mistakes, which feeds the fear of bigger errors. Also, I’ve started avoiding table games at home with friends because I get too nervous, which is isolating me socially. I want to address both the perfectionism and the avoidance so I can regain confidence in my job and enjoy life without these constant worries.
+
+interviewer: Thank you for sharing those important details. It seems we’ve woven together how your father’s gambling history, the recent incident with the aggressive player, and your perfectionism are all shaping your current anxiety and avoidance patterns. Before we move forward, is there anything else you’d like to adjust or add to this understanding? If not, we can begin discussing strategies to address these patterns, such as cognitive-behavioral techniques to challenge self-criticism and gradual exposure to reduce avoidance in social and work settings.
+
+patient: I think that captures it well. The incident with the aggressive player definitely made me hypervigilant—I now second-guess even routine interactions, fearing another outburst. It’s like my brain’s stuck on replay, especially at night when I’m trying to sleep. I’m ready to try strategies to untangle this tension, as long as they help me regain control without losing my focus at work.
+
+interviewer: Thank you for sharing so openly, Judith. To recap: We’ve identified how your father’s gambling history (predisposing), the aggressive player incident (precipitating), and perfectionism/avoidance (perpetuating) contribute to your anxiety. Your strengths—resilience, supportive spouse, and proactive coping—will be key. Before we plan next steps, is there anything else you’d like to add or adjust about this understanding? If not, we can discuss strategies like CBT techniques to challenge self-critical thoughts and gradual exposure to reduce avoidance in social and work settings.
+
+patient: Thank you for putting that together. It does feel accurate—my dad’s issues with gambling always made me wary, but this recent incident pushed those fears into overdrive. I guess I’d add that avoiding high-stakes games at home too (even small poker with friends) has made me feel isolated, like I’m missing out. I’m ready to tackle this with the techniques you mentioned, but I worry about facing those situations again. Maybe starting with small exposures, like handling chips during practice, could help rebuild my confidence without overwhelming me?
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Patient reports anxiety around work-related financial mistakes, with symptoms (shaking hands, rapid heartbeat, disrupted sleep) starting 6 months ago after an aggressive player incident. Intrusive thoughts about losing money or making errors began then, worsening during busy shifts. Father’s gambling history noted as potential contributor; patient avoids high-stakes games at work and home, causing social isolation. Denies suicidal ideation but notes lower energy, sleep disturbances, and risk-avoidant behaviors.
+
+Objective: No physical exam data provided. Patient’s self-reported symptoms align with generalized anxiety disorder (GAD) and avoidance patterns. No acute safety concerns; denies substance use or medical conditions contributing to symptoms.
+
+Assessment: Anxiety likely linked to job stress, father’s gambling history, and perfectionism. Predisposing (family history), precipitating (aggressive player incident), and perpetuating (self-criticism/avoidance) factors identified. Avoidance extends beyond work (e.g., casual card games), impacting social functioning. No psychotic features or substance use.
+
+Plan: Implement CBT techniques to challenge catastrophic thoughts and reduce avoidance. Gradual exposure to high-stakes scenarios (e.g., chip-handling practice). Address sleep hygiene and perfectionism. Monitor work performance and social reintegration. Leverage supportive spouse and prior resilience as therapeutic resources.
+
+--- End Summary ---
+

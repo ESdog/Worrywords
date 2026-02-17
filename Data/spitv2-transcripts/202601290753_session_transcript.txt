@@ -1,0 +1,142 @@
+system: --- Session 202601290753 Start ---
+
+ --Patient ID 4198--
+
+system: --- Session 202601290753 Start ---
+
+ --Patient ID 4198--
+
+interviewer: Thank you for coming in today, Megan. To start, would you prefer I use a specific pronoun when referring to you?
+
+patient: Yes, please use 'she' and 'her' – I haven't really thought about it much before, but that works for me.
+
+interviewer: Thank you for clarifying, Megan. Can you confirm that you're comfortable proceeding with this session today?
+
+patient: Yes, I’m okay with continuing. I really need to figure out why I can’t shake this feeling of being useless at work anymore.
+
+interviewer: Thank you for sharing that, Megan. Before we begin, do you have any questions about how this session will work or what we'll be discussing today?
+
+patient: Not right now... but I guess I’m a bit nervous. Will we focus on how to handle the stress at work, or more on the self-doubt? I just want to feel like I can do my job without panicking over little things.
+
+interviewer: It makes sense to want clarity on our focus areas. Does that align with what you're hoping to work on today – managing stress and building confidence in your role?
+
+patient: Yes, that sounds right. I need help managing the stress and feeling more confident in my job. The fear of making mistakes is really getting to me, and it’s hard to shake the feeling I’ll mess up again.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like these feelings started after the incident with the patient's vitals. Can you tell me how long ago that happened and if there was anything else going on at the time that might have contributed to these feelings?
+
+patient: It was about three weeks ago. The shift was really busy—two of my coworkers called in sick, so I had to cover extra patients. I was rushing between rooms and completely missed logging his vitals. By the time I realized, the nurse had already noted the delay. I felt awful, and it’s been stuck in my head ever since.
+
+interviewer: I can see how that mistake and the busy environment would be really distressing. Can you tell me more about what happens during these panic episodes you mentioned—how often do they occur, and what do they feel like physically or emotionally?
+
+patient: They happen maybe three or four times a week, mostly during shifts when I’m overwhelmed. My heart races, my hands get shaky, and I feel like I can’t catch my breath. Emotionally, it’s like a wave of dread—like I’m about to mess up again and everyone will think I’m useless. It usually passes after a few minutes, but it leaves me exhausted. I guess it’s worst when I’m alone in a patient room or handling something critical, like medications.
+
+interviewer: Thank you for sharing that—I appreciate your honesty. It sounds like these episodes are taking a toll on your energy and confidence. Have you found any strategies that help manage these feelings, even temporarily, or anything that makes them worse?
+
+patient: Not really—most days I just try to work harder to prove I’m not useless, but it backfires and I end up more exhausted. Honestly, the biggest trigger is when coworkers give me side-eye or correct me in front of others. That makes me feel like they think I’m a joke as an orderly.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like the pressure at work has been really overwhelming, and it's understandable to feel shaken after an incident like that. Let's explore a bit more about your background. Have you experienced any traumatic or difficult events in your life that might relate to how you're feeling at work now?
+
+patient: I don’t think I’ve had any major traumas, but… growing up, my mom was really strict about doing things perfectly. If I messed up even small tasks, she’d get frustrated and say I wasn’t trying hard enough. I guess it made me super afraid of failing, even now. It’s like… that voice in my head says, ‘You’ll never be good enough,’ and it’s getting louder lately at work.
+
+interviewer: Thank you for sharing that—understanding how past experiences shape our fears is really important. Have you experienced other times in the past where you felt similarly overwhelmed or doubted your abilities in your job?
+
+patient: No, this is the first time I’ve felt like I *truly* can’t handle my job. I’ve had busy shifts before—like when three patients spiked fevers at once—but I always told myself I could manage. This feels different. Even small mistakes now… it’s like a voice in my head keeps saying, ‘See? You’re not cut out for this.’ I guess I hadn’t realized how much that one incident would stick with me.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: It's important we address your safety first. Have you had any thoughts of harming yourself or ending your life recently?
+
+patient: No, I haven’t had thoughts of harming myself, but the stress has made it hard to sleep sometimes—my mind just races at night with worries about work. I’m trying to focus on staying positive, though.
+
+interviewer: I appreciate your openness about the stress and sleep challenges. To better understand your current state, have you noticed any recent changes in your energy levels, sleep patterns, or tendency to take risks that feel different from your usual experience?
+
+patient: Yes, my sleep’s been all over the place—like, I’ll lie awake for hours replaying mistakes in my head, then crash hard if I finally do sleep. The panic episodes leave me wiped, like I’ve run a marathon even though I just sat there shaking. And... I’ve started avoiding taking on extra tasks at work, even small ones, because I’m terrified I’ll mess up again. It’s like my brain’s on high alert all the time.
+
+interviewer: I appreciate you sharing how this has been affecting your work and confidence. To ensure we cover all areas, have you experienced any hallucinations, delusions, or intense paranoia recently that feel different from your usual experience?
+
+patient: No, I haven’t experienced anything like that. The panic attacks are bad enough—I get this intense fear I’ll mess up again, but it’s all tied to my anxiety about work. The voice in my head telling me I’m ‘not good enough’ feels real, but it’s just… my old fears, not something new or strange.
+
+interviewer: Thank you for clarifying that. It seems the anxiety is deeply tied to your work performance. Have you noticed any periods lately where you feel unusually energetic, need less sleep, or take more risks than usual?
+
+patient: No, I haven’t noticed anything like that. I’ve actually been feeling the opposite—exhausted a lot, especially after those panic episodes. I worry so much about messing up that I’m constantly mentally drained, not energized.
+
+interviewer: I appreciate you sharing how exhaustion and self-criticism are affecting your energy. To continue, have you noticed any changes in your use of alcohol, cannabis, or other substances recently, including frequency or amounts?
+
+patient: No, I haven’t changed my use of alcohol or cannabis recently. I’ve tried to stay focused on work and haven’t felt the need to use anything to cope, but I’m definitely exhausted most nights.
+
+interviewer: I appreciate your honesty about avoiding substances to cope. To ensure we have a complete picture, are you currently taking any medications, supplements, or vitamins regularly, including over-the-counter ones?
+
+patient: No, I’m not currently taking any medications, supplements, or vitamins regularly. I’ve tried over-the-counter sleep aids偶尔, like melatonin, but only a few times when I was really struggling to rest. They didn’t help much, and I didn’t want to get dependent on anything.
+
+interviewer: I appreciate your detailed responses so far. To ensure we address all potential factors, have you noticed any other physical symptoms or health concerns that might be related to your stress or sleep issues, such as changes in appetite, headaches, or difficulty concentrating?
+
+patient: I haven’t noticed headaches or appetite changes, but I’ve been more exhausted than usual and sometimes struggle to focus during shifts, especially when I’m stressed. It’s hard to shake the panic, so my mind feels foggy afterward.
+
+interviewer: I appreciate your detailed sharing about the exhaustion and focus challenges. To ensure we capture all protective factors, are there any friends, family, or activities that help you cope with stress or support your well-being?
+
+patient: I have a few close friends I usually lean on, but honestly, I haven’t told them about these feelings yet. I’ve kept it pretty private, even from them. Sometimes going out for coffee or walks helps me unwind, but lately, those little things don’t really take my mind off the stress. My mom’s been asking how work is, but I just say ‘okay’ and change the subject. It’s embarrassing to admit how bad it’s been.
+
+interviewer: I appreciate your honesty about the challenges you're facing. To ensure we have a complete understanding, have you been diagnosed with any medical conditions like thyroid issues, sleep apnea, or chronic pain that might be contributing to your symptoms?
+
+patient: No, I haven’t been diagnosed with any medical conditions like that. I don’t have any chronic physical health issues—this is all about the stress and anxiety I’ve been dealing with since the incident at work.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: I want to make sure I’ve captured this accurately: It sounds like your current struggles with work-related anxiety and self-doubt stem from a mix of childhood perfectionism (predisposing), the recent vitals incident (precipitating), and ongoing stress about mistakes (perpetuating). Your proactive approach to seeking help is a strong protective factor. What did I miss or get wrong here?
+
+patient: That’s mostly right, but I’d add the sleep part—I’m crashing after panic episodes, and it’s making me even more exhausted. Also, the melatonin I’ve been trying hasn’t helped much. And maybe the strained relationships with coworkers? Their side-eyes or corrections feel like they’re reinforcing that ‘useless’ voice. But yeah, the core of it is those three factors you mentioned. It’s just... heavier than I thought.
+
+interviewer: I appreciate your honesty about the added layers of sleep disruption and workplace dynamics—those are important pieces. To ensure we’re aligned: Your main concerns include work-related anxiety, panic episodes with sleep disturbance, strained coworker relationships, and a critical inner voice tied to a recent incident. We’ve identified predisposing factors (perfectionism), precipitating events (vitals incident), perpetuating stressors (workplace interactions, hypervigilance), and a protective factor (seeking help). What did I miss or need to adjust here?
+
+patient: That’s mostly accurate. I’d add the panic attacks happen 3-4 times weekly, especially when overwhelmed or in patient rooms alone. Also, trying to work harder to ‘prove’ myself just makes me more stressed—I feel like I’m trapped in a cycle of fear and overcompensating. And yeah, my mom’s criticism years ago definitely made this recent incident feel like a ‘prophetic’ failure. The coworker side-eyes and corrections feel like triggers for that old shame. Otherwise, that covers it.
+
+interviewer: I appreciate you sharing how the cycle of fear and overcompensating feels exhausting. Is there anything else we haven’t discussed that’s important to you or your experience?
+
+patient: I guess... I haven’t really talked about how I feel like I’m failing at *everything* now. Even when I’m not at work—like trying to grocery shop or talk to my sister—I catch myself second-guessing every choice, like, ‘Did I pick the right cereal? Did I say something stupid?’ It’s like that one mistake opened a floodgate, and now I can’t trust myself in any part of my life. It’s… it’s scary how far it’s spread.
+
+interviewer: It’s clear how this self-doubt has spilled into your personal life, adding to the weight of what you’re carrying. Let me briefly recap: We’ve identified perfectionism as a long-standing pattern, the vitals incident as a recent trigger, and ongoing workplace stress and self-criticism as factors keeping this cycle going. Your proactive approach to addressing this is a strength. What did I miss or need to adjust here?
+
+patient: You’re right about the cycle, but maybe you’re underestimating how much my workaholic tendencies are part of the problem. I mentioned pushing myself to work harder after the mistake to ‘prove’ I’m competent, but that actually makes the panic worse because I can’t keep up. Also, the specific part about coworkers’ side-eyes or public corrections—those micro-moments of shame feel like they hit me harder now than they used to. It’s not just stress; it’s humiliation that fuels the fear.
+
+interviewer: It’s clear how your workaholism and workplace dynamics amplify the cycle of fear and exhaustion. Let me finalize this summary: Your struggles stem from perfectionism (predisposing), the vitals incident (precipitating), and ongoing workplace stress/shame (perpetuating). Your proactive approach to care is a key strength. What did I miss or need to adjust here?
+
+patient: That’s pretty accurate. I’d add the constant fear of being labeled ‘useless’ by others—like coworkers’ side-eyes—feels like it’s written on my forehead. And the shame keeps me from talking to friends, even though I know I shouldn’t isolate. Maybe the melatonin use is a small gap? It didn’t help much, but I worried about becoming dependent. Otherwise, your summary hits the main points.
+
+interviewer: I appreciate your openness about how these fears and isolation deepen the cycle. Let’s shape next steps: Would you prefer to focus on building confidence at work first, addressing the panic attacks, or exploring strategies to share your experiences with trusted friends? What feels most urgent to you?
+
+patient: The panic attacks feel most urgent right now—they’re leaving me drained and make it hard to focus at work. When my heart races and I can’t catch my breath, it’s like that ‘useless’ voice gets louder, and I freeze. I want to stop feeling like I’m crumbling under pressure before I can even tackle rebuilding confidence.
+
+interviewer: Thank you for clarifying the urgency around panic attacks. Let me finalize our plan: We’ll prioritize strategies to manage panic episodes—such as grounding techniques, breathing exercises, and gradually confronting triggers—while also exploring how to rebuild confidence at work. Does this align with what you need, and is there anything else I should include before we move forward?
+
+patient: Yes, that sounds like what I need. The panic attacks are so draining, especially when they hit at work—it’s like I’m trapped in my own head. I guess I’d also like to work on… not feeling so ashamed when coworkers notice me struggling. It’s hard to ask for help when I’m already scared they’ll think I’m weak.
+
+interviewer: I appreciate your openness about the shame and fear of being judged—it’s clear how these feelings compound the stress you’re carrying. To finalize our plan: We’ll prioritize panic management strategies and explore ways to address workplace shame while building confidence. Is there anything else we need to adjust or add before we move forward?
+
+patient: I think focusing on panic management makes sense, but could we also address how to handle the constant fear of being judged by coworkers? I get so flustered when I think they notice my mistakes, even if they don’t. Also, the sleeplessness is really wearing me down – I’d love tools to unwind without counting sheep or relying on melatonin. And maybe explore why this incident feels so much bigger than it probably was? Like, how to reframe those 'useless' thoughts when they come.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Megan reports work-related anxiety and panic attacks (3-4x/week) since a vitals documentation error 3 weeks ago. Symptoms include tachycardia, tremors, dyspnea, and intrusive 'useless' self-criticism. Sleep disrupted by rumination; crash-sleeps post-episodes. Avoids extra work tasks due to fear of mistakes. Perfectionism rooted in childhood maternal criticism ('You’ll never be good enough'). Shame about coworker interactions ('side-eyes') exacerbates symptoms. No suicidal ideation, but reports exhaustion and cognitive fog impacting work performance.
+
+Objective: Panic episodes triggered by work stressors (e.g., patient rooms, public corrections). Sleep disturbance noted (delayed sleep onset, fragmented rest). Occupational functioning impaired (avoidance, hypervigilance). No medical diagnoses or substance use changes. Melatonin used sporadically without efficacy.
+
+Assessment: Anxiety disorder secondary to precipitating incident (vitals error) + predisposing perfectionism. Perpetuating factors: workplace shame, self-criticism cycle, sleep disruption. Protective factor: proactive help-seeking. Panic attacks linked to performance anxiety; cognitive distortions ('prophetic failure') generalize to non-work domains.
+
+Plan: Prioritize panic management (grounding, breathing exercises). Address workplace shame through cognitive reframing. Develop sleep hygiene strategies. Gradual exposure to work tasks. Explore childhood perfectionism's role in self-evaluation. Monitor melatonin use. Collaborate on workplace communication strategies for perceived judgment.
+
+--- End Summary ---
+

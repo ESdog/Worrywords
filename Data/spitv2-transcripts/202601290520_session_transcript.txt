@@ -1,0 +1,102 @@
+system: --- Session 202601290520 Start ---
+
+ --Patient ID 1826--
+
+system: --- Session 202601290520 Start ---
+
+ --Patient ID 1826--
+
+interviewer: Hi Stephanie, welcome. To start, could you share your preferred name and pronouns with me?
+
+patient: I go by Stephanie, and I use she/her pronouns. That’s how I’ve always been known.
+
+interviewer: Great, Stephanie. Today, we’ll briefly go over the purpose of our sessions and how they’ll work. Does that sound okay to you?
+
+patient: Yeah, that sounds okay. I, um, just hope we can figure out why I feel so bad about this Charlie Daniels thing. My husband says I need to talk it through, but it’s hard to explain how something like this affects me so much.
+
+interviewer: It’s understandable to feel frustrated when important connections don’t go as hoped. Do you have any questions about how our sessions will work before we begin?
+
+patient: No, I think I’m okay for now... I guess I’m just a little nervous about opening up, but I’m willing to try. I hope we can figure out why I’m stuck on this Charlie Daniels thing—it’s been eating at me more than I expected. My husband says I need to stop obsessing over it, but it’s harder than he thinks.
+
+interviewer: It makes sense to feel uneasy when something important to us doesn’t go as hoped. Would you be comfortable continuing with our session today so we can explore this together?
+
+patient: Yes, I’d like to continue. It’s been hard not talking about it even with my spouse, and it’s really affecting my job and sleep.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I appreciate your openness, Stephanie. It sounds like this situation with Charlie Daniels has touched on some deeper feelings of rejection. To better understand patterns, have there been other times in your life when you felt similarly unvalued or dismissed, either in personal or professional relationships?
+
+patient: I don't think so... not in the same way. I mean, I’ve had moments where I felt overlooked, like in high school when I tried joining clubs and sometimes felt like my ideas weren’t taken seriously. But this Charlie Daniels thing? It feels different—it’s like it hit a nerve I didn’t know was there. My husband says I overthink, but it’s just... I need to matter, you know?
+
+interviewer: It sounds like this need to matter is really important to you, and I appreciate you sharing that. I want to gently check in—are there any other difficult experiences from your past, even small ones, that might be connected to these feelings of needing validation or fearing rejection?
+
+patient: I don't think so. This situation feels pretty unique, though I’ve always been sensitive to people not acknowledging my efforts. At work, if my ideas aren’t noticed, I get frustrated, but nothing that’s ever stuck with me like this. It’s harder to shake this Daniels thing.
+
+interviewer: It sounds like your sensitivity to not being acknowledged is something that's been present in different areas of your life. Have there been any other difficult or traumatic experiences in your life that might be connected to these feelings of needing validation or fearing rejection?
+
+patient: I don't think I've experienced anything else like this... maybe when I was younger, I worked really hard on a school project but felt it was ignored by my classmates. I guess that made me feel unseen, but I'm not sure if that's relevant here. It's just... this Charlie Daniels thing feels like it's digging up something older.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I want to ask about your substance use. Have you used alcohol, cannabis, or any other substances in the past month, including for self-medication or to cope with stress?
+
+patient: No, I haven’t used alcohol or any substances recently. I’ve tried to focus on getting enough sleep, but it’s hard when my mind keeps replaying the situation. My husband suggested maybe I should take a break from Charlie Daniels’ music, but that feels like it would just make me avoid the problem more.
+
+interviewer: It sounds like this situation is really affecting your sleep and emotional well-being. Have you had any thoughts about harming yourself or ending your life?
+
+patient: No, I haven't had thoughts about harming myself specifically, but I do feel stuck and overwhelmed a lot lately. I’ve just been so consumed by these feelings of not being good enough or being noticed, even though my husband is supportive and tries to remind me to focus on myself.
+
+interviewer: I appreciate you sharing that feeling of being stuck and overwhelmed—it sounds really draining. Have you noticed any periods where you feel unusually energetic, require less sleep, or act more impulsively than usual, even if just for a short time?
+
+patient: No, I haven't noticed anything like that. Lately, I've actually been feeling really drained—like my energy is low most of the time. The sleep issues I mentioned are more about not being able to rest properly rather than feeling overly energetic.
+
+interviewer: I appreciate your openness so far. Have you experienced any hallucinations, delusions, or paranoid thoughts recently that feel concerning or out of the ordinary for you?
+
+patient: No, I haven’t experienced hallucinations or delusions. The most concerning part is the persistent negative thoughts about myself tied to Charlie Daniels not replying, but it’s more like an intense emotional reaction than anything that feels ‘out of the ordinary’ in that way. Sometimes I feel like people are judging me online when I scroll, but that’s probably just anxiety, not paranoia.
+
+interviewer: I appreciate your clarity in describing these thoughts—it’s important to understand how they feel distinct from more severe symptoms. Are you currently taking any medications, supplements, or vitamins, including over-the-counter remedies or herbal products?
+
+patient: No, I’m not taking any medications, supplements, or vitamins right now. I haven’t been prescribed anything for this, and I don’t take anything for physical health issues either—I just focus on trying to manage it myself, which hasn’t really worked so far.
+
+interviewer: Thank you for being so open about your experiences. I want to ask about any other medical concerns that might be relevant—have you been diagnosed with or experienced issues like thyroid problems, sleep apnea, chronic pain, or a head injury that could be contributing to your current symptoms?
+
+patient: No, I haven’t been diagnosed with any of those things. I don’t remember any head injuries, and my sleep issues feel new—like they started after the Charlie Daniels situation. My husband jokes I might have apnea since I snore, but I’ve never gotten checked for it.
+
+interviewer: I appreciate your clarity. Given your supportive husband and motivation to engage in therapy, what other supports or resources do you find helpful in managing these feelings of rejection and inadequacy? --FUNCTION-- end_phase --FUNCTION--
+
+patient: Honestly, I haven’t really leaned on anything besides my husband, but it’s hard for him to fully understand how much this weighs on me. I’ve tried replaying his music to feel connected, but it just hurts more now. Sometimes I catch myself writing emails to him to explain why I think I’m not ‘enough,’ but I never send them… they just end up in my drafts folder. It’s like a loop I can’t break.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Stephanie, to recap, we’ve explored how the Charlie Daniels situation has intensified long-standing sensitivities around feeling unseen or unvalued, impacting your sleep, work, and relationships. We discussed how past experiences of being overlooked may have shaped this pattern, and how rumination and avoidance are keeping these feelings stuck. What did I miss?
+
+patient: I think you might’ve missed how the school project experience feels especially vivid to me now—like a shadow over this Charlie Daniels thing. Also, those unsent emails in my draft folder… they’re not just about Charlie. They feel like proof I’m ‘bad at reaching out’ or ‘not worth a reply.’ I keep editing them to sound better, but it’s like… if he doesn’t respond, it’ll confirm I’m just not worthy of connection, you know?
+
+interviewer: Thank you for sharing that—I appreciate your openness. To recap: We’ve discussed how unmet needs for validation, starting with past experiences like the school project and extending to the Charlie Daniels situation, have intensified feelings of rejection and self-doubt. Rumination (editing unsent emails, avoiding music) and perfectionism are keeping these patterns stuck, while your supportive spouse offers a key protective factor. What did I miss or get wrong here?
+
+patient: You captured the main points accurately—I appreciate that. One small correction: it’s not so much perfectionism as it is a deep need to be seen/acknowledged, which feels amplified here. Also, the school project example was more about my art being ignored by a teacher, which I now see as tied to this pattern. The avoidance of his music is newer, though—it’s like my brain can’t process it without spiraling. I think that’s it.
+
+interviewer: Thank you for that clarity, Stephanie. To build on our discussion, here’s a tentative model: Your lifelong sensitivity to feeling unseen (predisposing), triggered by the Charlie Daniels fan mail incident (precipitating), has been kept going by rumination over unsent emails and music avoidance (perpetuating). Your supportive spouse is a key protective factor. What did I miss or get wrong here?
+
+patient: You captured the core pretty well. The sensitivity feels... older, like those high school club moments where I second-guessed if I was 'good enough' to belong. The Charlie Daniels thing just amplified that. And yeah, the email drafts piling up? They’re like a loop of trying to prove my worth through words that will never be sent. I appreciate the spouse part being highlighted—his frustration does make me shut down more, even if he’s trying to help.
+
+interviewer: Thank you for the thoughtful corrections, Stephanie. To ensure we’re aligned, I’ll briefly recap: Our model highlights lifelong sensitivities to feeling unseen (predisposing), the Charlie Daniels incident as a trigger (precipitating), and ongoing rumination/avoidance keeping these feelings active (perpetuating). Your supportive spouse is a key strength. What did I miss, and how would you like to proceed from here?
+
+patient: I appreciate the recap—it feels accurate. Maybe you could add that my sleep issues and strained relationship with my spouse are part of the perpetuating cycle, too. I think we should explore how my need for validation connects to past experiences (like that ignored school project I mentioned) and how to shift my self-worth from external acknowledgment to something more internal. Also, maybe we could brainstorm ways to talk to my husband without feeling 'too much' or like I’m overcomplicating things.
+
+interviewer: Thank you for those important additions, Stephanie. To finalize our plan for now: We’ll explore how past experiences of being overlooked (like the school project) shape your current need for validation, develop strategies to build internal self-worth, and brainstorm gentle ways to communicate with your husband without feeling overwhelmed. Is there anything else you’d like to prioritize, or shall we start with these steps?
+
+patient: I think those steps make sense. Maybe also addressing how I keep writing and deleting unsent emails to Charlie—it feels like trying to fix the past, but it’s just stuck in a loop. I don’t want to keep explaining myself to him… but I also can’t stop.
+
+system: --- Phase 5 End ---
+

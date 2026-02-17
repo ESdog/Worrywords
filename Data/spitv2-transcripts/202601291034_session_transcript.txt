@@ -1,0 +1,86 @@
+system: --- Session 202601291034 Start ---
+
+ --Patient ID 1014--
+
+system: --- Session 202601291034 Start ---
+
+ --Patient ID 1014--
+
+interviewer: Hi Ashley, to start, can you confirm your preferred name and pronouns?
+
+patient: Yes, I'm Ashley. My preferred pronouns are she/her.
+
+interviewer: Thank you for sharing that, Ashley. It takes courage to seek help during such a challenging time. Can you confirm you’re comfortable proceeding with our session today?
+
+patient: Thank you for saying that. I appreciate it. I’ve never done anything like this before, so I’m a little nervous, but I really want to work through this. Let’s get started.
+
+interviewer: It's completely normal to feel nervous starting something new; many people feel that way. Today, we'll focus on understanding your current concerns and developing strategies to manage them. The session will last approximately 50 minutes. Does that sound okay with you?
+
+patient: Yeah, that sounds okay. I just... I've been really overwhelmed since my wife lost her job. It's hard to focus on work or anything else with all the stress about money and her not finding a new job yet.
+
+interviewer: It sounds like the stress of being the sole breadwinner is taking a real toll on you. Is there anything else you'd like to discuss before we begin?
+
+patient: No, I think that’s the main stuff. Though… I’ve been having these intrusive thoughts at night, like what if my startup fails too? It’s hard to tell where the anxiety about her job ends and my own fears begin. I guess I just feel trapped, you know?
+
+system: --- Phase 1 End ---
+
+system: ---
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I want to thank you for sharing so openly—it takes courage to navigate these challenges. To better understand patterns, have you faced any other challenging situations in your life that felt similarly overwhelming or impacted your ability to cope?
+
+patient: Not really, no. The closest thing I can think of was when I moved across the country for my first game design job five years ago—it was stressful, but I felt in control of my own path. This feels different because it’s about *not* knowing how things will turn out for us financially. Back then, I could focus on work to distract myself, but now... I can’t stop thinking about bills and my wife’s unemployment. My sleep’s been worse too, which makes everything worse.
+
+interviewer: Thank you for sharing that—I appreciate your honesty. It sounds like the uncertainty is compounding the stress in ways that feel harder to manage than past challenges. Let’s explore supports—can you share what has helped you feel most grounded during tough times, whether it’s relationships, hobbies, or routines?
+
+patient: My friends have been the biggest support—just talking things through with them helps me feel less alone. But honestly, it’s been hard to focus on anything else, even hobbies. I used to play video games to unwind, but lately, my head is too consumed with worries to enjoy it.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I want to make sure we address any immediate concerns. Have you had any thoughts about harming yourself or ending your life recently?
+
+patient: No, I haven't had thoughts about harming myself, but the stress feels unbearable at times. I worry it might escalate if the situation doesn’t improve, which is why I’m here for help.
+
+interviewer: I appreciate your honesty. Let’s talk about energy levels—have you noticed any periods where you felt unusually energetic, had racing thoughts, or taken risks you wouldn’t normally take, even for short periods?
+
+patient: No, I haven’t experienced any unusual energy or risk-taking lately. Actually, I’ve felt more drained than anything—like my brain is stuck on high alert about money and my wife’s job. The stress has made it hard to concentrate even on basic tasks, let alone take risks. My mind just keeps spiraling about worst-case scenarios, which feels the opposite of energizing.
+
+interviewer: I appreciate your openness. Let’s briefly touch on substance use—have you used alcohol, cannabis, or other substances recently, or noticed any changes in your use patterns since the stress began?
+
+patient: No, I haven't used alcohol, cannabis, or other substances recently. My stress has mainly affected my sleep and focus, but I haven't turned to substances as a coping mechanism. I rely on talking to friends and trying to stay positive, though it's been challenging lately.
+
+interviewer: I appreciate your openness. Let’s briefly check in on any unusual experiences—have you noticed any hallucinations (seeing/hearing things others don’t), strong beliefs that feel unusual or fixed, or persistent paranoid thoughts recently?
+
+patient: No, I haven’t experienced hallucinations or strong beliefs that feel unusual. However, I do have persistent worries about my wife’s unemployment and financial stability that feel overwhelming—like believing she’ll never find work again. These thoughts are anxiety-driven, not fixed or irrational, but they’ve been hard to shake.
+
+interviewer: Thank you for sharing that. Let’s briefly review medications—are you currently taking any prescription medications, over-the-counter drugs, or supplements? If so, could you share the name, purpose, and how you’ve been feeling since starting them?
+
+patient: No, I’m not taking any medications right now. My doctor mentioned it once, but I haven’t started anything yet—I wasn’t sure if it was necessary. I’ve mostly been trying to cope on my own, but it’s gotten harder lately.
+
+interviewer: I appreciate your openness. Finally, have you experienced any significant medical issues, such as thyroid problems, sleep apnea, chronic pain, or a head injury, that might affect your mental health?
+
+patient: No, I don't have any significant medical issues like thyroid problems, sleep apnea, or chronic pain. The system mentioned my sleep patterns are disrupted, which is part of my stress response, but I haven't been diagnosed with a physical condition that would impact my mental health like those examples.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Ashley, based on our conversation, it sounds like the stress from your wife’s job loss has intensified over the past few weeks, leading to persistent anxiety, sleep disruption, and difficulty focusing on your work and startup. We’ve explored how these worries feel connected to financial uncertainty and fears of your wife not finding stable employment, which has strained your relationship and daily functioning. You’ve also shared that while your friends provide some support, you’re seeking structured strategies to manage these thoughts and regain clarity. What did I miss or get wrong here?
+
+patient: You captured the main points well, but maybe missed how the anxiety feels all-consuming—like my mind is stuck on a loop of worst-case scenarios, even when trying to sleep. Also, the pressure of being the sole income isn’t just financial; it’s like I’m failing my family if things go wrong. The startup fear is tied to that—it’s not just a job, but my identity. Other than that, you got it right.
+
+interviewer: Thank you for clarifying how the anxiety intertwines with your identity as a startup founder and provider—this adds important depth to our understanding. Based on what you've shared, I'm thinking about this as a combination of factors: a predisposition to stress due to your role as a caretaker and entrepreneur, precipitated by your wife's job loss, perpetuated by catastrophic thinking and sleep disruption, but with strengths like your proactive approach to seeking help. Does this framework align with your experience, or would you adjust any part of it?
+
+patient: That sounds accurate, but I’d add the 'lack of control' element is a big part of why this feels so crushing. I’m used to managing projects and timelines at work, but unemployment is out of my hands. Also, the marital tension isn’t just stress—it’s making me feel isolated too, like we’re both stressed but not connecting well. Still, talking to friends *does* help ground me, even if briefly.
+
+interviewer: Thank you for sharing those important nuances about feeling isolated and the weight of uncontrollable circumstances. Based on what we’ve discussed, my tentative next steps would be to first explore specific coping strategies for managing intrusive thoughts and sleep disruption, then gradually address the marital tension and identity pressures around your startup. Would that align with your goals, or is there another priority you’d like to add before we move forward?
+
+patient: Yes, that aligns with what I need. I think working on the sleep and intrusive thoughts would help me function better at work and with the startup. But maybe we could also look at how to communicate better with my wife about the stress—we’ve been snapping at each other lately, and I hate that it’s affecting our relationship. I don’t want to lose that support too.
+
+system: --- Phase 5 End ---
+

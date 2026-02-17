@@ -1,0 +1,150 @@
+system: --- Session 202601281749 Start ---
+
+ --Patient ID 4956--
+
+system: --- Session 202601281749 Start ---
+
+ --Patient ID 4956--
+
+interviewer: Thank you for sharing your concerns about the anxiety related to selling your car. To start, may I use Samantha, and do you have any pronoun preferences?
+
+patient: Yes, Samantha is fine. I don’t have any pronoun preferences. It’s... it’s a bit strange talking about this out loud, but I’m willing to work through it.
+
+interviewer: Thank you for sharing that it feels a bit strange to discuss this initially—this is a common experience. Just to clarify, our time today will focus on understanding your concerns and developing a plan to address them. Does that sound comfortable for you to proceed?
+
+patient: Yes, that sounds okay. It does feel a little odd talking about this, but I want to work through it—if we can figure out why this is consuming so much of my mind, that would help.
+
+interviewer: It's completely normal to feel a bit uneasy at first—thank you for your openness. Do you have any questions about how this process will work before we move forward?
+
+patient: No, not really—I just wanted to make sure this is the right place to get help. I guess I’m just hoping we can figure out how to manage these thoughts before they take over more of my life.
+
+interviewer: Thank you for your willingness to engage—your comfort is important. Before we begin, may I confirm your consent to proceed with this session today?
+
+patient: Yes, I want to proceed. I'm a bit nervous, but I really want to work through this anxiety about my car.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Thank you for sharing that, Samantha. It sounds like this anxiety has been growing steadily and is now impacting multiple areas of your life. What are your hopes for how therapy might help you with this situation?
+
+patient: I hope therapy can help me understand why this thought feels so overwhelming and give me ways to stop it from controlling my life. I want to be able to make decisions about the car without panic, and I’d like to focus on work and my friendships again instead of being stuck on this one worry.
+
+interviewer: It's commendable that you're seeking ways to regain control over these thoughts. Can you walk me through when you first noticed this anxiety about selling your car and how it has changed over the past six months?
+
+patient: The anxiety first kicked in about six months ago when I started thinking about selling my car. At first, it was just a little stress, but now it’s like this constant knot in my stomach. Every time I see the car or even hear someone mention selling a vehicle, my mind spirals into thinking I’ll end up with nothing. It’s gotten worse over time—like, what if I make a bad decision? What if I’m tricked? It’s starting to take up way too much of my headspace, even at work.
+
+interviewer: Thank you for sharing that level of detail, Samantha. It’s clear how this anxiety has become entangled with your sense of security and decision-making. Can you describe what a typical day looks like for you now—specifically, how this worry about the car affects your routine or interactions at work or with friends?
+
+patient: Most days, I check the car’s value online first thing, which already feels like a chore. At work, I’ll get mid-meeting and suddenly fixate on whether I’m making the right decision about selling it—like, what if I wait too long and it’s worthless? It’s hard to focus on client calls now. With friends, I’ll ghost plans if I’m already stressed about the car, even if I said yes earlier. Lately, I’ve been eating lunch at my desk just to avoid small talk, but I forget to eat altogether sometimes.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like the stress around selling your car is really taking a toll. I wonder if there are any other challenges or past experiences that might be contributing to these feelings?
+
+patient: I’m not entirely sure if there’s a direct link, but I do remember my father once losing a business deal because he trusted the wrong person. It left our family in a tough spot financially for a while. Maybe... that’s part of why I’m so scared of making a bad decision with my car? It feels like that old fear of being taken advantage of, even though I know this is just a car. But now, every time I think about selling it, I get this overwhelming sense that I’ll mess up and end up with nothing, just like he did.
+
+interviewer: It makes sense that your father’s experience feels connected to this fear. Can you tell me more about how you and your family coped during that difficult time? Did you have other supports or strategies to manage the stress then?
+
+patient: My dad... he lost his job when I was in high school. We had to sell the family car quickly for way less than it was worth. I remember the stress of watching our savings shrink while other kids had things I couldn’t afford. We coped by just... not talking about it much. My mom kept us busy with chores and schoolwork. Looking back, it feels like we just ‘gritted our teeth’ through it. But now, whenever I think about selling my car, that same helplessness resurfaces. I guess I’m terrified of feeling powerless again.
+
+interviewer: Thank you for sharing that vulnerable memory—it’s clear how deeply that experience shaped your sense of security. You mentioned having close friends you can talk to, but you haven’t shared this specific issue with them. How do you usually rely on your friends for support during stressful times?
+
+patient: I usually lean on them for general stuff—like when work gets overwhelming or I’m dealing with other kinds of stress. They’re good at listening or giving advice, which helps me feel grounded. But with the car situation, I haven’t talked to them about it because I don’t want to sound silly or make them worry. Lately, though, I’ve been canceling plans more, so I guess I’m not even using my usual support system as much… which probably makes everything worse.
+
+interviewer: It’s understandable to want to protect your loved ones from worry, and it sounds like you’ve been carrying this alone longer than you’d like. Have there been other difficult experiences in your life that might have shaped how you view security or decision-making?
+
+patient: I don't recall any major traumatic events, but I've always been hyper-focused on control, especially with money. When I bought this car six years ago, I negotiated the price down by $2,000—felt like a victory. Now, every day I worry I'm missing a better offer, like if I wait another week it'll be worth less. It's not just the car... at work, I second-guess every hiring decision, wondering if I'll regret it later.
+
+interviewer: It’s clear how deeply your need for control is tied to feelings of security, especially around financial decisions. Have you experienced similar episodes of anxiety or decision-related stress in the past, and if so, what strategies helped you manage them?
+
+patient: No, this is the first time I’ve experienced anxiety like this. Usually, I handle decisions without too much stress, but this car situation feels different—it’s more consuming. I’ve tried focusing on work to distract myself, but the thoughts keep coming back, even when I’m trying to concentrate on tasks.
+
+interviewer: Thank you for sharing how deeply this fear is connected to your past. I’d like to explore family patterns briefly—have you noticed any history of anxiety or decision-related stress in your family, or ways your family generally handles financial decisions?
+
+patient: My family tends to be pretty pragmatic about money, but I’ve noticed they often overanalyze decisions, especially financial ones. My parents were always cautious with spending, but it felt like they worried endlessly about whether they were making the ‘right’ choices. I don’t know if that’s anxiety exactly, but there’s definitely a pattern of hesitation around big decisions. I guess I learned early to tie my self-worth to making ‘perfect’ choices—so now, with the car, it feels like a failure if I don’t get the best possible deal.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I want to ask about your current use of alcohol, cannabis, or other substances. Have you noticed any changes in your use of these recently, or do you currently use any for stress relief or other purposes?
+
+patient: I don’t use cannabis or any other substances, but I have been drinking wine a little more than usual in the evenings to help me unwind. It’s not something I track closely, but when I get home from work, a glass of wine feels like the only way to quiet my mind for a bit. It doesn’t really take the stress away, though—it’s still there the next morning.
+
+interviewer: It sounds like the stress from these thoughts is really weighing on you. Have you ever had thoughts of harming yourself or ending your life, even if just in passing?
+
+patient: No, I haven’t had thoughts of harming myself or ending my life. My struggles are with the overwhelming anxiety about selling my car and the fear of making a bad decision, but it hasn’t escalated to that. It’s new for me, though, and sometimes the stress feels paralyzing—like I’m stuck in a loop of worry I can’t escape.
+
+interviewer: It's understandable that the stress around this decision feels so intense and persistent. Have you noticed any recent changes in your energy levels or sleep patterns—like feeling unusually restless or needing less sleep than usual?
+
+patient: Yes, I’ve been having trouble sleeping. I lie awake at night thinking about the car, worrying I’ll sell it for too little or get scammed. My mind races even after I turn off the lights. It’s left me feeling exhausted during the day, but I still can’t shake the restlessness—like I’m vibrating with energy I can’t control, even when I’m physically drained.
+
+interviewer: It sounds like the wine helps you unwind, even if it doesn’t fully ease the stress. Have you noticed any recent use of stimulants like energy drinks, Adderall, or other medications to help with focus or energy, or any use of opioids or other substances?
+
+patient: No, I haven’t used any stimulants or opioids. I’ve only relied on a glass of wine in the evenings to unwind, though it doesn’t really help the car-worry thoughts go away. Sometimes I feel like I should take something, but I’m not sure what would work—my brain just feels stuck on this one thing.
+
+interviewer: It sounds like you’re managing well without additional substances, but I want to check if you’re taking any medications or supplements currently—prescribed or over-the-counter—that might be affecting your mood or anxiety?
+
+patient: I don’t currently take any medications or supplements for anxiety or mood. I haven’t tried anything prescribed or over-the-counter for this specific issue, though I’ve considered it. I do take a basic multivitamin sometimes, but I don’t think it affects this.
+
+interviewer: It sounds like your restlessness is tied closely to the anxiety itself. To clarify, have you noticed any periods where you feel unusually energetic or restless in ways that don’t align with your usual stress patterns—like needing less sleep, talking more rapidly, or taking on more tasks than usual, even when you’re exhausted?
+
+patient: No, I haven't noticed anything like that. My restlessness feels more like the usual stress—my mind racing about the car, but I’m still exhausted most days. I do check my phone constantly for car-related updates, but it’s more out of anxiety than feeling overly energetic.
+
+interviewer: It’s clear how deeply this anxiety is affecting your daily life and well-being. Have you noticed any experiences that feel unusual, like hearing voices, seeing things others don’t, or having thoughts that feel disconnected from reality—such as believing something odd is happening to you that others might not understand?
+
+patient: No, I haven’t heard voices or seen things that others don’t. My thoughts feel real, just… overwhelming. Like when I check my car’s value online obsessively, or when I’m at work and suddenly panic that someone might trick me into selling it for too little. It’s not like the thoughts are *weird*, but they’re so intense they feel like they’re taking over.
+
+interviewer: It sounds like your restlessness and sleep difficulties are closely tied to your anxiety. Have you ever been diagnosed with any medical conditions—like thyroid issues, sleep apnea, or chronic pain—that might contribute to these symptoms or affect your mood?
+
+patient: No, I haven’t been diagnosed with any medical conditions like thyroid issues or sleep apnea. My primary care doctor checked my blood work last year, and everything came back normal. The sleep problems I’m having—like lying awake at night or waking up feeling anxious—seem to tie back to the car stress. Even when I try to distract myself, my mind keeps circling back to fearing I’ll make the wrong decision. It’s hard to unwind when that worry is constant.
+
+interviewer: It’s good to hear you have supportive friends. In moments of intense stress or anxiety, who are the people or resources you feel you could turn to for support, if needed?
+
+patient: I have a few close friends I usually talk to when I’m stressed, but to be honest, I haven’t shared this specific anxiety with anyone. It feels... embarrassing, like it’s silly to worry so much about a car. I guess I’m afraid they’d think I’m overreacting or that I’m stuck in some irrational loop I can’t explain. Instead, I just keep canceling plans last-minute or eat lunch at my desk to avoid having to talk about it. It’s not sustainable, but I don’t know how to start that conversation yet.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: It sounds like we’ve covered the key themes of your anxiety around the car sale, its connection to past family experiences, and how it’s affecting your work, relationships, and self-care. Let me know if I’ve missed anything important or if there’s something you’d like to clarify before we plan next steps.
+
+patient: I think you’ve captured the main issues, but maybe the part about how it’s tied to feeling like I have to make the *perfect* decision without any mistakes—like if I mess up, it’s a reflection of me as a person. Also, the wine helps me *feel* like I’m relaxing, but it just keeps the worry cycling in my head at night. Other than that, I’m not sure what else to add. I just want to stop being stuck in this loop.
+
+interviewer: Thank you for sharing that—the perfectionism and the way substances interact with your anxiety are important pieces we’ll address. Let me briefly recap: Your anxiety around selling the car is tied to fears of irreversible mistakes reflecting on your self-worth, worsened by perfectionism and nighttime rumination. It’s affecting work, relationships, and self-care. We’ve explored potential roots in family history and decision-making patterns. What did I miss?
+
+patient: I think you covered the main points, but maybe you didn’t mention how much I avoid thinking about the car altogether now. Like, I barely drive it anymore because seeing it makes me panic. And I’ve started drinking wine almost every night just to feel calm enough to sleep, even though it doesn’t really help the worry—it just numbs it for a bit. Those things might tie back to the perfectionism, but I’m not sure how else to explain it.
+
+interviewer: It sounds like we’ve woven together how your anxiety around the car sale is amplified by perfectionism, avoidance of triggers (like driving), and the use of wine as a temporary escape—though it keeps the worry cycle going. Does that align with your experience, or is there something I’ve overlooked?
+
+patient: Yes, that’s mostly right. The perfectionism part feels true—my family’s always tied self-worth to making ‘perfect’ financial choices, so the car became this... pressure point. I haven’t mentioned avoiding driving itself, but I do hesitate to drive it now, like if I see a potential buyer or a car listing, my hands get shaky. And the wine… it just makes me feel numb, but the next morning, the anxiety’s worse. Maybe there’s something about *letting go* of control that scares me more than the money? I don’t know. Also, I’ve been avoiding driving routes where I might see car dealerships, which… feels ridiculous, but it helps me not think about it. I guess?
+
+interviewer: It sounds like we’ve woven together how your anxiety around the car sale is amplified by perfectionism, avoidance of triggers (like driving), and the use of wine as a temporary escape—though it keeps the worry cycle going. Does that align with your experience, or is there something I’ve overlooked?
+
+patient: Yes, that’s mostly accurate. The perfectionism and avoidance definitely play a role, and the wine just leaves me wired at night. What you might’ve missed is how my father’s business failure (which left us financially strained) made me hyper-focused on "perfect" financial decisions. Even though this is just a car, it feels like a microcosm of that past helplessness. The stress leaks into work—like freezing during meetings when I realize my mind is spiraling—and I’ve started canceling plans with friends because I can’t focus on anything else. It’s like my brain can’t separate this one decision from everything else.
+
+interviewer: Thank you for sharing how your father’s experience has shaped your fear of financial mistakes—it’s clear this isn’t just about the car, but about reclaiming control over decision-making. To confirm we’re aligned: Your anxiety stems from perfectionism tied to family history, avoidance behaviors (driving, social withdrawal), and alcohol use that worsens nighttime rumination. This impacts work, relationships, and self-care. What did I miss, or is there anything else you’d like to adjust before we plan next steps?
+
+patient: You captured the main points accurately. I’d add that the car being black feels symbolic—my father’s failed business was a 'dark chapter,' and I worry this choice will echo that. Also, the physical symptoms (stomach knots, racing heart) are worse when I look at the car’s odometer or see 'for sale' postings online. I think that’s it.
+
+interviewer: Thank you for sharing those important symbolic and physical connections—it’s clear how deeply this car has become tied to your sense of control and past experiences. To ensure we’re aligned, let’s briefly outline next steps: We could explore cognitive-behavioral strategies to reframe perfectionism and decision-making fears, gradually address avoidance behaviors (like driving or social engagement), and examine how family patterns influence your self-worth. Would this align with your goals, or is there another direction you’d prefer? What did I miss?
+
+patient: Yes, that sounds like it could work. The family patterns part definitely feels important—I grew up watching my dad agonize over every financial decision, and it’s stuck with me. I don’t want to bring that same anxiety into my life, but it’s hard to break. I think addressing the avoidance would help too… I’ve been skipping weekends with friends, which just makes me feel worse. Maybe working on the perfectionism piece could also help with the physical symptoms, like my stomach being tied up? I haven’t mentioned it, but I’ve been drinking wine most evenings to ‘unwind’ after work. It doesn’t help, but it’s all I can think to do.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Patient reports 6-month history of anxiety related to selling her car, characterized by persistent stomach knots, panic about financial mistakes, and intrusive thoughts about scams. Symptoms worsen when viewing the car or car listings, leading to avoidance of driving and social withdrawal. Sleep disrupted by nighttime rumination; wine use (1-2 glasses nightly) provides minimal relief. Anxiety impacts work focus (e.g., zoning out during meetings) and self-care (skipping meals, canceling plans).
+
+Objective: Observed avoidance behaviors (e.g., avoiding driving routes with dealerships, eating lunch at desk). Patient reports functional decline: work performance affected by decision-related anxiety, strained social relationships due to cancellations, and physical symptoms (stomach knots, racing heart) triggered by car-related stimuli.
+
+Assessment: Anxiety disorder (likely generalized anxiety with decision-specific phobia) with perfectionism and avoidance maintained by fear of financial mistakes linked to childhood trauma (father’s business failure). Substance use (wine) exacerbates rumination. No acute safety concerns; risk mitigation includes addressing isolation and sleep disturbance.
+
+Plan: 1. CBT for perfectionism and decision-making fears. 2. Gradual exposure to car-related triggers (e.g., driving, price-checking). 3. Explore family patterns of decision-making and their impact on self-worth. 4. Sleep hygiene strategies and alternative stress-management techniques to reduce wine reliance. 5. Monitor physical symptoms and functional impairment.
+
+--- End Summary ---
+

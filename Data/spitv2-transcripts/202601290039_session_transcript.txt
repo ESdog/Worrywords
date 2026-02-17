@@ -1,0 +1,110 @@
+system: --- Session 202601290039 Start ---
+
+ --Patient ID 3644--
+
+system: --- Session 202601290039 Start ---
+
+ --Patient ID 3644--
+
+interviewer: Thank you for sharing that, Jason. It's brave to take this step. Let me clarify: Would you like me to use any specific pronouns, or is 'he' okay?
+
+patient: Yes, 'he' is fine. Thank you for asking.
+
+interviewer: Thank you for confirming. Does that sound okay with you to proceed?
+
+patient: Yes, that's okay. I'm a bit nervous, but I want to work through this.
+
+interviewer: It's completely normal to feel nervous at the start—thank you for your courage. Just to make sure we’re aligned, this session will focus on understanding your concerns and exploring ways to support you. Does that sound clear and comfortable for you?
+
+patient: Yeah, that sounds okay. I mean, I’m a bit nervous, but... it’s probably for the best. I just hope we can figure out why I feel this way about something like bird watching. It’s not like it’s a bad hobby or anything, but ever since my friend joked about it... I guess I just can’t shake the guilt?
+
+interviewer: It's understandable to feel uneasy about exploring these feelings—thank you for your openness. Before we begin, do you have any immediate questions or concerns about how this session will proceed?
+
+patient: Honestly, I’m a bit nervous but grateful you’re willing to listen. I hope we can work on these feelings without judgment—I just want to understand why bird watching feels... embarrassing sometimes, even though it’s something I love.
+
+interviewer: Thank you for your openness, Jason. Before we begin, do you have any questions about how this session will work or what to expect?
+
+patient: I don't think so... I mean, I know we're here to talk about stuff, but maybe you could let me know if there's anything I should avoid bringing up? I don't want to waste time on stuff that isn't... relevant.
+
+interviewer: Thank you for your thoughtful question, Jason. To clarify, there’s no need to avoid anything that feels relevant to your experience—every detail matters. Just to confirm, are you comfortable proceeding with this session as we’ve discussed?
+
+patient: Yes, I’ll go ahead. It’s a bit awkward talking about this, but I need to figure out why bird watching feels like a weakness when it’s something I actually enjoy.
+
+interviewer: Thank you for your honesty, Jason. It’s clear this is meaningful for you. Before we start, is there anything else you’d like to clarify about how we’ll work together or what this space offers?
+
+patient: No, I think you have a good sense of what's going on. I just... hope we can keep this conversation private. I haven't told many people about this, and the few times I've mentioned bird watching to friends, they just... laughed it off like it was a joke.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like this situation has been affecting your self-esteem and social interactions for several months. Can you share what you hope to achieve through counseling, or what kind of support you’re looking for right now?
+
+patient: I guess I want to stop feeling ashamed of something that actually makes me happy. Bird watching isn’t ‘weird’ or lonely—it’s just... peaceful. But I keep expecting people to mock me like my friend did, so I’d like to learn how to quiet those thoughts. Also, maybe figure out how to socialize without pretending I’m interested in things that don’t matter to me. I’m tired of hiding parts of myself to fit in.
+
+interviewer: It sounds like the guilt and anxiety around bird watching have been particularly heavy on your weekends. Have you noticed any changes in your mood or energy levels during or after these experiences, even on days when you don’t engage in the hobby?
+
+patient: Yeah, honestly, even on weekdays I feel kind of... sluggish. I guess I start stressing about the weekend before it even comes, you know? Like, I can’t shake this guilt about bird watching, even when I’m not doing it. My friend’s comment really stuck in my head—now I feel like I’m missing out on what everyone else thinks is ‘fun.’ It’s like this low-level anxiety that makes me tired, even if I’m just reading or working.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like the friend's comment really impacted how you see yourself. Can you tell me about the people you feel closest to or rely on for support in your life?
+
+patient: I have a few close friends I usually confide in, but to be honest, I haven’t really talked to them about this specific issue. They know I like bird watching—it’s a quirky thing I never thought twice about before—but I’ve been too self-conscious to mention how it’s affecting me. I worry they’ll see it as... I don’t know, a joke or a weakness. My family’s pretty supportive, but we don’t talk much about personal stuff. They’d probably just tell me to ignore the comment and enjoy my hobby, which I know makes sense... but it’s harder to convince myself that when the guilt creeps in.
+
+interviewer: Thank you for sharing that, Jason. It takes courage to talk about these feelings. Can you tell me about any other current stressors or challenges in your life that might be contributing to these thoughts or emotions?
+
+patient: Not really anything else major, but I do stress about social gatherings even when I go. I end up feeling like a fraud trying to pretend I care about the same things as others—it’s exhausting. Also, the guilt from enjoying bird watching when I know it makes me seem ‘weird’ still lingers, even though I logically know it’s okay.
+
+interviewer: It sounds like you’re carrying a lot of weight from others’ perceptions. Let’s take a moment to focus on what helps you feel grounded. Can you share a time when you felt proud of yourself recently, even if it was small?
+
+patient: I remember feeling proud last month when I identified a rare warbler species in the park. I spent hours researching its call, and when I finally heard it, it felt validating. But I didn’t tell anyone—I just smiled to myself, then worried they’d think I was showing off. That pride never lasts long.
+
+interviewer: It’s meaningful that moments of pride are tempered by self-doubt—it shows how deeply you’re attuned to your own expectations. Looking back, were there any earlier experiences (family, school, or social) that might have shaped how you view hobbies like bird watching or societal approval? For example, were there times growing up when your interests were met with similar reactions?
+
+patient: I think back to high school when I really got into insect collecting. My classmates called it 'weird' and made jokes about it during science class. I remember feeling embarrassed when my project on beetles got a mixed reaction at a school fair. My parents were proud, but I started downplaying it to avoid teasing. That pattern of hiding what I love to fit in... it feels like it’s replaying with bird watching now. The friend’s comment six months ago just reopened that old wound.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate your openness so far, Jason. To better understand your current state, have you noticed any changes in your alcohol or cannabis use recently, or any other substances besides Pepsi that might be affecting how you feel?
+
+patient: No, my alcohol or cannabis use hasn’t changed recently. I still drink Pepsi regularly—it’s kind of my little 'cool kid’ ritual, I guess—but it doesn’t seem to affect these feelings of guilt or self-criticism. Those are more tied to the bird-watching thing.
+
+interviewer: Are you currently taking any medications, supplements, or over-the-counter drugs, including things like vitamins or herbal remedies?
+
+patient: No, I’m not on any medications or supplements right now. I used to take a multivitamin occasionally, but I gave that up a few months ago when I started feeling... you know, like I wasn’t doing anything ‘worthwhile’ anyway.
+
+interviewer: Have you experienced any thoughts of harming yourself or ending your life, Jason? If so, could you share how often these thoughts occur and if you’ve had any plans or means to act on them?
+
+patient: No, I haven't had thoughts of harming myself or ending my life. My struggles feel more like... a heavy weight of guilt and low self-worth, especially around weekends. I get really down on myself, but it hasn't reached that point. I guess I just feel stuck in this cycle of hiding what I love to fit in, but I’m still here, trying to work through it.
+
+interviewer: Thank you for sharing that, Jason. Have you noticed any recent changes in your energy levels or sleep patterns? For example, feeling unusually restless or needing significantly less sleep than usual?
+
+patient: No significant changes in my sleep, but I do feel more restless, especially before weekends. The anxiety about how I’ll feel during bird watching or social events keeps me up sometimes, even if I can’t pinpoint why. I don’t think I’m sleeping less, just… not as well as usual.
+
+interviewer: I appreciate you sharing those details about your restlessness and sleep. Have you experienced any periods of increased energy, racing thoughts, or impulsive actions recently—like spending sprees, taking risks, or feeling you don’t need as much sleep as usual? This helps me assess for symptoms like hypomania.
+
+patient: No, I haven't experienced any energy spikes or impulsive behaviors like that. My main struggle is feeling sluggish and anxious, especially around weekends. I used to get excited about bird watching, but now even that feels like a chore sometimes.
+
+interviewer: I appreciate your honesty about the restlessness and anxiety you're experiencing. Have you noticed any unusual thoughts or experiences, such as hearing voices, seeing things others don't, or feeling overly suspicious or paranoid about people's intentions toward you?
+
+patient: No, I haven't experienced hearing voices or seeing things. I do sometimes feel... self-conscious in social settings, like people are judging my hobbies or how I spend my time, but it's more anxiety than suspicion. I don't think there's anything 'wrong' with how I perceive others' intentions—it's just the fear of being mocked again, like with the bird-watching comment.
+
+interviewer: Thank you for sharing that, Jason. Before we wrap up this part of our conversation, are there any other medical concerns or recent health issues—like thyroid problems, chronic pain, or sleep apnea—that might be contributing to how you're feeling? This helps ensure we're considering all factors that could influence your well-being.
+
+patient: No, I don't have any other medical concerns or recent health issues. My main struggles are with self-esteem and social anxiety related to my hobbies, not physical health problems.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Jason, to recap: We’ve explored how your love for bird-watching, once a peaceful escape, has become tied to feelings of shame and self-criticism since your friend’s comment six months ago. This has led to social withdrawal, anticipatory anxiety about weekends, and a pattern of hiding your interests to fit in—despite your job and relationships remaining stable. The formulation we’re considering includes predisposing factors like past teasing about hobbies, precipitating stress from the friend’s joke, and perpetuating cycles of self-judgment and fear of mockery. Protective factors include your self-awareness and the support of close friends. What did I miss or get wrong here?
+
+patient: That’s pretty much on point. I’d add the high school insect-collecting teasing resurfaced with my friend’s comment—that’s why the recent judgment hit harder. Also, the restlessness and sleep issues before weekends are worse than I mentioned; it’s like my body knows to brace for the guilt even if I try to push through.
+
+system: --- Phase 5 End ---
+

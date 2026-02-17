@@ -1,0 +1,154 @@
+system: --- Session 202601282304 Start ---
+
+ --Patient ID 3518--
+
+system: --- Session 202601282304 Start ---
+
+ --Patient ID 3518--
+
+interviewer: Thank you for sharing that, Travis. I appreciate you taking the time to talk with me today. To start, may I have your preferred name and pronouns?
+
+patient: Um, yeah, my name is Travis Vaughn. I go by he/him pronouns. It’s just what I’ve always used. I guess... I don’t really think about it much, but yeah, that’s me.
+
+interviewer: Travis, I’d like to explain a bit about how these sessions work. We’ll take things at your pace, and today I’d like to understand more about what’s been going on for you and explore how we might work together. Does that sound okay with you?
+
+patient: Yeah, that sounds okay. I’ve just been carrying this around for months, you know? It’s hard to talk about, but... I guess I’m ready to try figuring this out. The whole thing with the school award still feels like it’s my fault.
+
+interviewer: It takes courage to share these feelings, Travis. Do you have any initial questions about how these sessions work or anything you'd like to know before we continue?
+
+patient: Thanks... I guess I just want to know if this is going to help me figure out why I feel like I'm holding everyone back at school. I’ve never done counseling before, but I really want to fix this because my grades are slipping even more now. I just... I need to know if I can actually get through this.
+
+interviewer: It’s clear how much this means to you, Travis. Would you be comfortable moving forward with counseling and exploring these feelings together?
+
+patient: Yes, I want to work on this. I’ve just been stuck feeling like it’s all my fault, even when the teachers say I’m not the only one struggling.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Thank you for sharing that, Travis. I can imagine carrying this weight has been really challenging. What are your main hopes or goals for coming to counseling?
+
+patient: My main hope is to understand why I keep blaming myself so much... even when others are struggling too. I want to stop feeling like I’m holding everyone back and actually believe I can improve. Maybe learn how to... not let this guilt control my schoolwork or how I see myself.
+
+interviewer: Thank you for sharing your hopes, Travis. It’s brave to want to understand and change these patterns. Can you tell me about what you’ve tried so far to manage these feelings of guilt or low motivation, and how effective have those strategies been?
+
+patient: I’ve tried pushing myself harder in school—staying up late to study, asking teachers for extra work—and joined the debate club to stay busy. But it doesn’t really help. The more I focus on fixing my grades, the more I feel like I’m failing anyway. It’s like I’m stuck in this loop where I blame myself, then get too anxious to focus, which makes everything worse. My friend suggested I take a break, but I can’t shake the idea that if I just tried harder, things would be different.
+
+interviewer: Thank you for sharing that cycle of self-blame and anxiety—it sounds like a heavy burden to carry. Let’s look at how this has unfolded over time: Can you tell me a bit more about how these feelings have changed or progressed since they first started six months ago? For example, were there any moments when it felt notably worse or shifted in some way?
+
+patient: At first, it was just a nagging guilt after the award results, but around midterms, it got worse. My grades dipped, and I started second-guessing every assignment—like I was ‘proving’ my academic failure. Last winter, after a teacher mentioned the school’s overall scores, I spiraled for days, thinking, ‘If I just studied harder, maybe we’d have won.’ Now it’s more of a constant weight, even on days I do well. The self-criticism doesn’t let up, even when logic says otherwise.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like having a close friend is important to you. How do you usually talk about school or personal challenges with them, if at all?
+
+patient: I usually just mention stress or specific problems, like tough assignments, but I don’t go into the deeper feelings of guilt or self-blame. I guess I worry they’d think I’m overreacting or that I’m a burden. I try to keep it light, like complaining about workloads, but the real stuff… I haven’t been able to bring that up yet.
+
+interviewer: It takes courage to share these feelings, Travis. Can you think of any other challenges or events around the time these feelings started that might have contributed?
+
+patient: I think the midterms around that time were really tough. I was pushing myself harder to get better grades, but even when I studied a lot, I didn’t see the results I wanted. Then, when my teacher mentioned how the school’s overall scores were lower than usual, I just... I started thinking maybe I wasn’t trying hard enough, or worse, that I was dragging everyone else down. It felt like everything stacked up—academics, the award, my own expectations—and I couldn’t separate them.
+
+interviewer: It sounds like the pressure to perform and the school's award situation have been really heavy on your shoulders. Have you experienced any other significant challenges or events around this time that might be affecting your feelings?
+
+patient: No, there haven't been other major challenges, but the stress from the award situation and my academic performance has made it really hard to focus. I've been so caught up in feeling like I'm failing that I've pulled away from friends and activities, which makes everything feel worse.
+
+interviewer: It sounds like withdrawing from friends and activities adds to the weight you're carrying. Have you experienced any other difficult or challenging experiences in your life that might be contributing to how you're feeling now?
+
+patient: I haven't had any other big setbacks like this before. I guess... I’ve always been the type to take things personally, but this school situation feels different because it’s so public and affects everyone. I just keep thinking if I’d done *more* somehow, maybe things would’ve been better. It’s hard not to spiral when the whole school feels tied to my self-worth now.
+
+interviewer: It’s understandable to feel overwhelmed when public expectations and personal standards collide. Let’s explore further—have you experienced any other difficult or challenging experiences in your life that might be connected to feeling responsible for things outside your control?
+
+patient: I don’t remember other specific experiences like this before. This school award situation feels unique, but I guess I’ve always been hard on myself, even in smaller things. Like, if a project didn’t go perfectly, I’d stress over it a lot. But nothing else stands out where I felt responsible for something big like this.
+
+interviewer: It sounds like you've carried a lot of self-criticism over time. Have you experienced any difficult or challenging experiences in your life—like family dynamics, childhood pressures, or other stressors—that might relate to how you view your role in group outcomes or expectations?
+
+patient: I haven't really thought about family dynamics or childhood pressures before. My parents were supportive, but I don't remember any specific issues. Maybe I just always felt I had to be perfect?
+
+interviewer: It’s thoughtful of you to consider how past experiences shape present feelings. Can you think of any specific messages or expectations from your family growing up that might have contributed to feeling the need to be perfect?
+
+patient: Honestly, my dad always stressed that you’re only as good as your achievements. He’d say things like, 'If you’re not the best, you’re holding others back,' even when I was just trying my best. I guess that stuck with me—now when things don’t go perfectly, I hear his voice in my head. My mom’s more supportive, but she’d get quiet if I struggled, like she didn’t know how to help. It’s left me thinking maybe I *should* be able to fix everything on my own.
+
+interviewer: Thank you for sharing that, Travis. It sounds like family expectations have shaped your sense of responsibility in meaningful ways. Have you experienced any other challenging or traumatic events in your life that might also be influencing these feelings?
+
+patient: Not really, no. I mean, my dad always pushed for good grades, but nothing like... like this. Just the school award thing is eating at me, you know? Feels like it all hinges on me somehow.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate your openness so far, Travis. To better understand your current state, have you noticed any recent changes in your energy levels, sleep patterns, or tendency to take risks? For example, feeling unusually restless, needing less sleep, or making impulsive decisions?
+
+patient: I’ve been feeling more exhausted than usual, like my energy’s been sapped by all the stress. I used to stay up late replaying school stuff in my head, but now I can’t even motivate myself to do that. I just feel stuck. I haven’t taken any risks lately—if anything, I avoid situations where I might fail or let people down.
+
+interviewer: I’m sorry to hear you’ve been feeling so stuck and drained, Travis. It takes courage to share that. To check in on your safety, have you had any thoughts of harming yourself or ending your life recently?
+
+patient: No, I haven’t had thoughts of harming myself. But I do feel like I’m stuck in a really heavy emotional cycle that’s hard to shake. It’s been tough not letting go of the guilt, even when I know it’s not entirely my fault.
+
+interviewer: I appreciate you sharing that emotional weight, Travis. It sounds like carrying that guilt is exhausting in its own way. To continue checking in on your well-being, have you ever experienced things like hearing voices, seeing things others don’t, or having thoughts that feel completely out of alignment with reality—maybe persistent worries that something is being hidden from you?
+
+patient: No, I haven’t heard voices or seen things that others don’t. My worries are more like… this constant guilt that I can’t shake, even when I know it’s not rational. It feels real, but it’s more like my mind looping over 'what ifs' and blaming myself for the school’s results. I don’t think there’s something hidden, just… I keep convincing myself I’m the problem.
+
+interviewer: I’m sorry to hear that cycle of guilt feels so persistent, Travis. It sounds like it’s taking a real toll. To continue assessing your well-being, have you used any substances like alcohol, cannabis, or stimulants recently, or noticed any changes in your use?
+
+patient: No, I haven't used any substances recently. I’ve never really used them much – I’ve always focused on schoolwork and staying busy, but that’s backfired lately. It’s more like I’m stuck in my own head, you know? The pressure feels internal, not like something I could… I don’t know, escape with anything external.
+
+interviewer: I’m glad you’ve been avoiding substances during this stress, Travis. To continue, are you currently taking any medications, supplements, or vitamins? Also, have you noticed any physical health issues like changes in weight, persistent fatigue, or sleep difficulties that might be contributing to how you feel?
+
+patient: No medications or supplements, just vitamin D sometimes. I’ve been sleeping badly—maybe 4-5 hours a night—and feel exhausted even after that. I’m not sure if it’s stress or something else, but I’ve lost a little weight lately too.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: What I’m hearing is that your belief about being responsible for the school’s award and your father’s emphasis on achievement likely set the stage for how you see your self-worth (predisposing). The award outcome and midterms acted as stressors that intensified your self-criticism (precipitating). Now, this cycle of guilt and anxiety is keeping your performance from improving (perpetuating). Your mom’s support and your courage to seek help are strengths we can build on (protective). What did I miss?
+
+patient: You hit the main points. Maybe you missed how I’ve been cutting myself off from friends entirely, even though I know they’d help. I’m scared they’d see me as a burden. Also, the exhaustion is physical—my body feels like it’s shutting down, but I can’t stop the guilt spiral. My dad’s ‘achievements define you’ voice is always there, even when I try to quiet it. And… I don’t know… maybe the fact that every success feels tainted because I still think I’m failing everyone? That part’s hard to explain.
+
+interviewer: I appreciate your honesty about the weight of these feelings and the courage it takes to share them. Is there anything else I’ve missed that’s important to include before we discuss next steps?
+
+patient: I think that’s the core of it, but I guess another thing is… my dad’s always pushing me to be perfect. Even when I try my best, I can’t shake the feeling he’d be disappointed if I didn’t ‘fix’ this. It’s like I’m trapped between his expectations and my own guilt. Also, I’ve been avoiding checking my grades online because I’m scared of what I’ll see, even though it probably doesn’t make sense.
+
+interviewer: I appreciate your courage in sharing these layers of pressure and fear. What I’m hearing now is that your father’s perfectionism and your own guilt create a double burden, while avoidance of grades and social isolation keep you stuck. Is there anything else I’ve missed before we move to next steps?
+
+patient: I think you’ve captured the core of it—the guilt, my dad’s expectations, and the way I isolate. One thing maybe not obvious is how I sometimes wish I could ‘reset’ my mindset, like if I just proved myself once, everything would feel okay. But it never does, and that makes me feel even more stuck. And… I guess the fact that even when I’m not failing, I still feel like I’m falling short. Like the bar’s always moving.
+
+interviewer: I appreciate your openness in sharing these complex feelings. To move forward, what would you most like to focus on next—whether it’s exploring specific therapy approaches, lifestyle adjustments, or other support systems—that could help break the cycle of guilt and self-criticism?
+
+patient: I think... I need to figure out why I can’t stop tying my worth to school stuff. My dad always says we’re only as good as what we achieve, and now his voice feels stuck in my head even when I’m trying to do better. I’d like to learn how to challenge these thoughts without feeling like I’m failing, maybe through therapy techniques? Also, maybe working on setting boundaries with the pressure—like, how to accept that I can’t control everything about the school’s outcomes. But I’m not sure where to start. Do CBT strategies help with this kind of guilt?
+
+interviewer: I appreciate your openness about the deep connection between your self-worth, academic performance, and your father’s expectations. What I’m hearing is that your guilt stems from internalizing achievement as self-worth (predisposing), intensified by the award incident and school pressures (precipitating), and now perpetuated by cycles of self-criticism and avoidance (perpetuating). Your proactive approach to therapy and your mom’s support are key strengths (protective). What did I miss or need to adjust before we finalize next steps?
+
+patient: That summary feels accurate, but maybe missed how my sleeplessness and physical exhaustion feed into the self-criticism—when I’m drained, it’s harder to challenge the ‘I’m failing everyone’ thoughts. Also, I haven’t mentioned how my fear of burdening my friend (the one I can talk to) keeps me isolated, which probably worsens the guilt. Maybe that’s part of the perpetuating cycle too.
+
+interviewer: I appreciate you sharing how sleeplessness and fear of burdening your friend contribute to the cycle. What I’m hearing now is that your self-criticism is fueled by physical exhaustion and isolation, which in turn makes it harder to break free. Before we finalize next steps, is there anything else I’ve overlooked that’s important to include?
+
+patient: I think that covers most of it. The key thing might be how my dad’s comments about achievements feel like they’re still echoing in my head, even when I try to push through. It’s not just about the school award—it’s like I’m afraid any failure will prove his view of me as ‘not enough’ is true. I’m not sure how to untangle that from everything else.
+
+interviewer: I appreciate your courage in sharing these deeply ingrained beliefs and how they continue to shape your self-perception. What did I miss or need to adjust before we finalize our next steps together?
+
+patient: I think you’ve really captured the core of it, but maybe there’s a piece about how I compare myself to others even when teachers say everyone’s struggling. I get stuck seeing myself as the one holding things back, even when the problem is bigger. Also, my dad’s voice in my head—when he says success defines worth—it’s like a loop I can’t shut off. Maybe we need to unpack how that’s shaping my guilt. Other than that, I think you’ve got the right focus on the self-blame cycle and how it’s isolating me. I trust you’re on track.
+
+interviewer: I appreciate your depth in clarifying how comparisons and your father’s messaging shape your guilt. What I’m hearing now is that we’ve captured the full cycle of how your self-worth is tied to achievement, how the award incident intensified this, and how guilt-isolation-exhaustion keep you stuck. Your courage to seek help and your mom’s support are strengths we’ll build on. Before we finalize next steps, is there anything else you’d like to add or adjust?
+
+patient: I think you’ve gotten the core of it. Maybe just to clarify—my dad’s comments aren’t constant, but when he brings up achievements, it feels like a punch to the gut. I know he’s trying to push me, but it makes me scared to even try, like if I fail, I’m proving him right. And… my mom’s been trying to check in, but I haven’t told her about the whole award thing. I don’t want to make her worry or feel like I’m not living up to her expectations too. That’s probably it, though. You’ve hit the main stuff.
+
+interviewer: Thank you for your trust in sharing these deeply personal insights. To move forward, let’s shape a plan that addresses your goals: exploring CBT strategies to challenge self-critical thoughts, unpacking the influence of your father’s messaging, and gently rebuilding connections with your mom and friend. Would you agree this is a solid starting point, or is there another priority you’d like to add first?
+
+patient: Yeah, that sounds like a good place to start. The self-blame and my dad’s comments are definitely at the heart of it—I’ve carried that pressure for so long it feels automatic. I think unpacking that would help me stop spiraling. Maybe we could also look at why I’m avoiding friends? I know pulling away makes things worse, but it’s hard to explain without sounding like I’m whining… but maybe that ties into the perfectionism?
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Reports persistent guilt over school award outcome, self-blame for academic performance, and belief he 'holds others back'; symptoms began 6 months ago, worsened during midterms. Describes sleep disturbance (4-5 hours/night), fatigue, weight loss, and social withdrawal. Father's perfectionist messaging ('achievements define worth') internalized; avoids discussing struggles with friend/family due to fear of being a 'burden'.
+
+Objective: Grades declining despite increased study efforts; joined debate club to stay busy but ineffective. Isolating from peers despite acknowledging social support could help. No acute risk identified; denies suicidal ideation or psychotic symptoms. No recent substance use; takes vitamin D occasionally.
+
+Assessment: Chronic self-criticism and guilt cycle perpetuated by internalized perfectionism and academic stress. Family dynamics (father's achievement-focused messaging) likely predisposing factor. Sleep deprivation and social isolation exacerbating symptoms. CBT indicated for cognitive distortions and behavioral activation.
+
+Plan: Implement CBT strategies to challenge self-blame and perfectionism; explore father's influence on self-worth framework. Address social withdrawal through gradual boundary-setting with friend. Monitor sleep hygiene and physical symptoms. Reassess academic coping strategies; consider family session if father's messaging remains a barrier.
+
+--- End Summary ---
+

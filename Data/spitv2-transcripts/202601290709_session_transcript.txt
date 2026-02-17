@@ -1,0 +1,78 @@
+system: --- Session 202601290709 Start ---
+
+ --Patient ID 4067--
+
+system: --- Session 202601290709 Start ---
+
+ --Patient ID 4067--
+
+interviewer: Welcome, Samuel. Can I start by confirming your preferred name and pronouns? (Optional, but helps me address you correctly.)
+
+patient: Yes, my name is Samuel, and I use he/him pronouns. I’m a housewife, but I’m happy to go by my given name.
+
+interviewer: Thank you for confirming, Samuel. This session is about understanding your concerns and how we can work together. It'll take about 45 minutes. Does that sound okay to you?
+
+patient: Yes, that sounds okay. I’m ready to talk about everything and see how we can work on this—this has been on my mind a lot lately, and I’m hopeful it can get better.
+
+interviewer: Thank you for your readiness to engage, Samuel. Before we move forward, do you have any questions about how this session will work or anything else that’s on your mind right now?
+
+patient: No immediate questions, but I guess I’m a bit nervous about how we’ll approach discussing my dieting struggles. I really want to focus on managing the guilt and negative thoughts without feeling judged. My spouse says they’re here for me, but I’ve been hesitant to talk about this much at home.
+
+interviewer: It's completely natural to feel nervous about opening up, and I truly admire your courage in seeking support. Is there anything else you'd like to ask or clarify before we begin discussing your goals for this session?
+
+patient: I don't think I have any other questions at the moment. I'm a bit nervous, but I'm ready to talk about my goals and see how we can work on this. To be honest, the guilt after eating off-plan still catches me, even when I try to be careful.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It sounds like your spouse’s support is important to you. Have you ever experienced any difficult situations or events in the past that might be connected to how you feel about food or your body now?
+
+patient: I don't remember any specific past events that stand out, but I think growing up, my parents were pretty health-conscious. They never made it feel negative, just encouraged balanced eating. I've always been self-aware about my weight, though—I guess it's something I've carried into adulthood. The current stress feels more tied to recent lifestyle changes and societal pressures as a parent to 'be strong and healthy' for my family.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Thank you for sharing your experiences with me, Samuel. It takes courage to address these challenges. Have you ever had thoughts of harming yourself or ending your life?
+
+patient: No, I haven't had thoughts of harming myself, but I’ve felt so overwhelmed by the guilt and hopelessness at times that it’s hard to describe. The constant negative self-talk after slipping up on my diet... it’s emotionally draining, but I keep focusing on wanting to improve for myself and my family.
+
+interviewer: Thank you for sharing that, Samuel. It's important we understand all aspects of your experience. Have you noticed any periods where you feel unusually energetic or need significantly less sleep, even when stressed or busy with responsibilities?
+
+patient: No, I haven’t experienced periods of unusual energy or needing less sleep. Actually, the stress of dieting has made it harder to sleep—sometimes I lie awake feeling guilty about food choices or worrying about my progress.
+
+interviewer: Thank you for explaining how dieting affects your sleep, Samuel. I want to ask about substances—do you use alcohol, cannabis, or any other substances, including supplements or medications, and how often?
+
+patient: I don't use alcohol, cannabis, or recreational substances. I take a daily multivitamin and sometimes a sleep aid if I'm struggling with insomnia related to stress. My diet focus has made me cautious about what I put into my body, so I keep supplements to basics only.
+
+interviewer: Thank you for being open about your experiences, Samuel. It’s important we ensure all aspects are covered. Have you experienced any unusual experiences, such as hearing voices, seeing things others don’t, or having thoughts that others are trying to harm you or control your thoughts?
+
+patient: No, I haven’t experienced anything like that. I mean, sometimes I get really anxious or overwhelmed, especially after slipping up on my diet, but it’s never been... I don’t know, hallucinations or anything. Just a lot of self-criticism, honestly.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Samuel, to recap: We’ve explored how long-standing self-awareness about weight, recent lifestyle stressors, and societal pressures as a parent have contributed to your diet-related guilt and negative self-talk. These thoughts seem to worsen your sleep and emotional well-being, though your supportive spouse and motivation to improve are key strengths. What did I miss or get wrong here?
+
+patient: I think you captured the main points, but one thing you might’ve slightly misphrased is how long this has been going on. The self-awareness about weight has been there my whole life, but the intense guilt and hopelessness around dieting started just a few months ago when I began this strict weight-loss plan. Also, the impact on my self-care routines—like skipping things because I’m too anxious or overwhelmed about food—might not have come through clearly. Otherwise, the rest feels accurate. I’m glad you highlighted the spouse’s support and the societal pressures; that’s a big part of it for me.
+
+interviewer: Thank you for clarifying. Based on our discussion, it sounds like lifelong self-awareness about weight, combined with recent lifestyle stressors and societal pressures, has led to intense guilt and hopelessness around dieting. This seems to be perpetuated by negative self-talk and disrupted self-care, while your spouse's support is a key protective factor. What did I miss or get wrong here?
+
+patient: You captured the core of it well. The part about societal pressure as a parent definitely hits home—I feel like I have to set a 'perfect' example for my kids, which adds pressure when I slip up. The guilt feels amplified when I think about them watching. I also appreciate mentioning the spouse's support, though I sometimes worry I'm a burden by talking about it so much. I think adding strategies to manage the self-talk when stress spikes would help me most. I try to journal, but it's hit-or-miss.
+
+interviewer: Thank you for sharing that. It sounds like we’ve identified key themes: parental societal pressure, self-critical thoughts around dieting, and the desire for tools to manage stress-driven guilt. To move forward, would it help to focus first on developing strategies to reframe self-talk during stress spikes, while also exploring how to balance your spouse’s support without feeling like a burden? Is there anything else we should prioritize before we set that as our next step?
+
+patient: Yes, focusing on reframing self-talk during stress spikes sounds important—I often get stuck in cycles of guilt that feel impossible to break. And balancing my spouse’s support without feeling like a burden is tricky; I want to lean on them but don’t want to overwhelm them with my struggles. For now, those seem like solid priorities. Maybe also exploring how to build a healthier relationship with food itself, not just the guilt around it?
+
+interviewer: Thank you for sharing those priorities, Samuel. To clarify, the formulation we’re considering includes lifelong self-awareness about weight (predisposing), recent strict dieting and parental pressures (precipitating), ongoing self-critical cycles and disrupted self-care (perpetuating), and your spouse’s support as a protective factor. Is there anything about this model you’d adjust or expand on before we finalize next steps? --FUNCTION-- end_phase --FUNCTION--
+
+patient: I think the model captures the core issues well. Maybe adding that the parental pressure isn't just about health, but also feeling I need to 'look a certain way' in front of my kids as a role model—it’s a subtle but constant stressor. Other than that, I feel the structure reflects my experience accurately.
+
+system: --- Phase 5 End ---
+

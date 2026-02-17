@@ -1,0 +1,122 @@
+system: --- Session 202601281946 Start ---
+
+ --Patient ID 4148--
+
+system: --- Session 202601281946 Start ---
+
+ --Patient ID 4148--
+
+interviewer: Matthew, would you like to share your preferred name or pronouns?
+
+patient: Matthew. My pronouns are he/him. I’ve always used Matthew, so that’s what I’m used to.
+
+interviewer: Matthew, our time together will involve discussing your concerns and exploring ways to support you. We'll start by talking about what's been on your mind and then work on strategies to help. Does that sound okay to you?
+
+patient: Yeah, that sounds okay. I guess... I just need to get this out. The test is like... it’s all I can think about, and I’m scared I’ll mess everything up.
+
+interviewer: It sounds like the test is really weighing on you right now. Is there anything you'd like to ask me before we dive deeper into this?
+
+patient: No, I think I’ve shared the main things I’m struggling with. Maybe we can talk about how to manage the anxiety without isolating myself? I worry I’m pushing people away.
+
+interviewer: I appreciate your honesty, Matthew. May I proceed with exploring ways to support you while ensuring you feel comfortable throughout our conversation?
+
+patient: Yeah, please proceed. I just... I really need to figure this out before the test. It’s hard explaining how much this weighs on me sometimes. The what-ifs keep looping in my head.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like the pressure to perform on your final test is really weighing on you, and I appreciate you sharing how it’s affecting your relationships and daily life. Can you tell me more about what you’re hoping to achieve by coming in for counseling? What would help you feel more supported right now?
+
+patient: I guess I’m hoping to learn how to manage the anxiety without letting it take over. I’ve tried studying nonstop, but it’s not helping, and I’m scared I’m making things worse by pushing people away. If I could get tools to focus without the panic and maybe... talk through the fear of failure, that would help. Just feeling like there’s a way to handle this without everything falling apart.
+
+interviewer: I appreciate you sharing those hopes—it’s important to have clear goals. Can you help me understand when these feelings of pressure and anxiety first started for you and how they’ve changed over time?
+
+patient: It started maybe two months ago, around when the final test schedule was announced. At first, it was just... tightness in my chest when I thought about it. But now, it’s nonstop. The more I study, the more I feel like I’m not retaining anything. I’ll lie awake at night replaying problems I got wrong, and if I see a friend, I’ll cut the conversation short because I’m panicking about what if I’m not ready. It’s like the pressure is this weight that got heavier each week.
+
+interviewer: It sounds like the pressure has grown steadily, affecting both your studies and connections with others. Can you share what strategies you’ve tried to cope with this anxiety, and whether any have felt helpful or made things better?
+
+patient: I’ve tried studying nonstop and asking teachers for reassurance, but it doesn’t really help. I also avoid talking to friends about it, thinking it’ll keep me focused, but I just feel more alone. My sleep’s been worse too, even when I try to wind down.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing that. Have you had any thoughts about ending your life, even if you haven't made a plan or intended to act on them?
+
+patient: No, I haven’t had thoughts about ending my life. My anxiety feels overwhelming at times, but I’m focused on getting through this test and figuring out how to manage the pressure. It’s scary, but I haven’t felt that desperate yet.
+
+interviewer: Thank you for sharing that. Have you used any substances, such as alcohol, cannabis, or others, recently or in the past?
+
+patient: No, I haven’t used any substances like alcohol or cannabis before. I’ve been trying to stay focused through study alone, even if it means losing sleep—caffeine is the only thing I’ve relied on, but I know it’s not helping long-term.
+
+interviewer: I appreciate your honesty about avoiding substances to stay focused. Let’s briefly check for other symptoms that might be impacting you: Have you noticed any changes in your energy levels or sleep patterns recently—like feeling unusually energetic or needing much less sleep than usual?
+
+patient: Yes, my sleep has been really disrupted. I’ve been lying awake for hours, my mind racing about the test, and when I do sleep, it’s fitful. I wake up exhausted, which makes studying even harder.
+
+interviewer: I appreciate your openness about the sleep difficulties. Let's briefly check for other symptoms: Have you been feeling unusually energetic or restless lately, or have you noticed yourself taking risks you wouldn't normally take, even if it's related to your test preparation?
+
+patient: No, I haven’t felt unusually energetic or taken risks I wouldn’t normally consider. My anxiety has made me more cautious, almost paralyzed, in some ways—like avoiding social interactions to 'protect' my focus. The restlessness I feel is more from my mind racing with what-ifs, not from impulsivity.
+
+interviewer: It sounds like your anxiety has been deeply affecting your daily life, especially your sleep and social interactions. Have you noticed any changes in your thinking or perception, such as hearing voices, seeing things others don’t, or having thoughts that feel strange or unfamiliar?
+
+patient: No, I haven’t heard voices or seen things that others don’t. But sometimes my mind feels like it’s stuck on repeat—like, I can’t stop thinking about worst-case scenarios, even when I try to focus on something else. It’s more like my thoughts are always spinning, you know?
+
+interviewer: It sounds like your mind’s constant loop of worries is really exhausting. Let’s check on medications: Are you currently taking any prescription medications, over-the-counter drugs, or supplements—like vitamins, herbal remedies, or stimulants? If so, could you share what they are and how you’re using them?
+
+patient: No, I’m not taking any medications or supplements right now. I’ve tried to handle everything on my own—staying up late studying, asking teachers for help—but it’s hard to focus on anything else besides the test. I guess I’ve avoided pills because I don’t want to rely on them, but it’s getting harder to keep going like this.
+
+interviewer: I appreciate your openness about the mental strain you're under. To ensure we have a full picture, have you experienced any other physical health concerns recently—like chronic pain, thyroid issues, or sleep apnea—that might be affecting your well-being?
+
+patient: No, I don’t think so. I’ve never been diagnosed with anything like thyroid issues or sleep apnea. The biggest physical thing is my sleep—like, I’ll lie awake for hours worrying about the test, or wake up in the middle of the night with my heart racing. Sometimes my chest feels tight when I’m panicking, but that’s probably just anxiety. I haven’t had any other ongoing health problems.
+
+interviewer: It sounds like you have a supportive family and friends, even though you've been isolating yourself. Can you tell me a bit more about how you've been connecting with them, or what supports you feel you have in place to help manage this stress?
+
+patient: I mean, they’ve always been there, but honestly... I haven’t really let them in. I’ll text my mom quick updates like ‘studying’ or ‘okay,’ but if they ask how I’m really doing, I just say I’m fine. My friends have tried checking in, but I’ve been brushing them off—like, canceling plans or saying I’m too busy. Part of me feels guilty, but I’m scared they’ll think I’m overreacting or that I’m being weak. My dad used to say ‘just breathe’ when I got nervous about tests before, but now it’s not funny, and I don’t want to make them worry.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: It sounds like the pressure around your final test has created a cycle of anxiety that's affecting your sleep, focus, and relationships. What did I miss about your experience or how this has unfolded?
+
+patient: I guess what I haven’t mentioned much is how my hands sometimes shake when I try to study, and I get this nausea when I think about the test. Also, I feel guilty for pushing people away because I know they’re worried about me, but I don’t want them to see how messed up I feel inside.
+
+interviewer: I hear the physical symptoms like shaking and nausea adding to your distress, and your guilt about isolating loved ones. Let me offer a brief model: It sounds like the pressure to perform (precipitating factor) is interacting with underlying anxiety tendencies (predisposing), creating physical symptoms and avoidance behaviors (perpetuating), while your support system and proactive help-seeking remain key strengths. Does this align with your experience, or is there something I’ve missed?
+
+patient: Yeah, that fits. The pressure’s definitely the trigger, and I’ve always had a tendency to overthink things. The shaking and nausea started when I realized how bad I was letting it consume me. I guess I’m isolating because I’m scared my family or friends will think I’m being dramatic or that I’m not handling it ‘right’—like it’s somehow my fault I can’t just calm down. The more I try to push through it alone, the worse it gets, but I keep thinking if I just study harder or ignore the anxiety, maybe it’ll go away. It hasn’t, though. The cycle’s exhausting.
+
+interviewer: Thank you for sharing that—I appreciate your honesty about how isolating this has become, even while it feels counterproductive. Let’s build on our understanding: Given the cycle we’ve outlined, what would be most helpful for us to focus on first as we work toward breaking this cycle and supporting your test preparation?
+
+patient: I think figuring out how to stop isolating myself would help first. I’m terrified they’ll think I’m weak for feeling this way, but I miss their support. Maybe learning how to ask for help without feeling like a burden?
+
+interviewer: I appreciate your clarity about wanting to build communication strategies that feel safe and reduce guilt. Let’s shape that into action: Would role-playing conversations with family/friends or setting small, specific goals for reaching out (e.g., sharing one worry with a trusted person) feel manageable as a starting point? Is there anything else we should prioritize to support this work?
+
+patient: Role-playing conversations sounds... manageable, I guess. Just thinking about talking to someone about this makes my chest feel tight, but I want to try. Maybe starting with a small goal, like telling my mom one thing I’m worried about, could help. But what if they think I’m overreacting? I keep worrying it’ll make things worse. I need to know how to frame it without feeling like I’m a burden. The guilt of pulling people in when I should be studying—it’s overwhelming.
+
+interviewer: I appreciate your openness about the mix of hope and fear around reaching out—it’s brave to want connection while feeling so vulnerable. Let me check if we’re aligned: The key points are your anxiety cycle (pressure → physical symptoms → isolation → guilt), your desire to build safe communication strategies, and the specific role-playing/small goals approach we discussed. What did I miss or need to adjust before we shape next steps?
+
+patient: Yeah, that pretty much nails it. The guilt part feels especially heavy—I isolate because I’m scared people will think I’m overreacting, but then I feel awful for pushing them away. Also, the chest tightness and sleepless nights make it hard to even try studying effectively. Maybe we should also address how the fear of failure feels... bigger than just the test? Like, I keep thinking it’ll define my whole future somehow.
+
+interviewer: I appreciate your clarity about the weight of guilt and how the fear of failure feels tied to your identity beyond the test itself. Before we finalize next steps, is there anything else you’d like to add or adjust about your experience that might help shape our plan?
+
+patient: I think it’s also important to mention how my fear of failing feels tied to proving myself—not just to others, but to myself. Like, if I don’t ace this test, I’m not just letting people down… I’m letting down the version of me I *want* to be. And the panic attacks? They’re worse when I’m alone, which is ironic because I push people away to avoid burdening them. It’s this cycle I can’t break.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Matthew (he/him) reports severe anxiety related to an upcoming high-stakes test, with symptoms including chest tightness, nausea, shaking hands, and sleep disturbances (insomnia, fitful sleep) for ~2 months. Anxiety intensified after test schedule announcement, worsening weekly. Avoids social interactions to 'protect focus,' leading to isolation and guilt. Fear of failure tied to self-identity: 'If I don’t ace this test, I’m letting down the version of me I want to be.'
+
+Objective: Impaired academic performance (ineffective studying), strained relationships (self-reported withdrawal from family/friends). No suicidal ideation or substance use. No psychotic symptoms. Physical symptoms: autonomic arousal (tachycardia, nausea), fatigue from disrupted sleep. Notable avoidance behaviors (cancelling plans, minimal communication).
+
+Assessment: Anxiety disorder (exam-related, with somatic and cognitive symptoms). Perpetuating factors: isolation, catastrophic thinking ('what-ifs'), guilt-driven avoidance. Predisposing factors: self-identity linked to academic performance, fear of perceived weakness. No acute safety risks. Strengths: proactive help-seeking, intact insight.
+
+Plan: 1) Role-play communication strategies to reduce isolation (e.g., sharing one concern with family). 2) Address guilt and fear of burdening others through cognitive restructuring. 3) Develop test-specific anxiety management (grounding techniques, sleep hygiene). 4) Monitor physical symptoms and self-compassion practices. Follow-up to assess progress in breaking isolation cycle.
+
+--- End Summary ---
+

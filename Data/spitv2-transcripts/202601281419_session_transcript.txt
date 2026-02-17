@@ -1,0 +1,90 @@
+system: --- Session 202601281419 Start ---
+
+ --Patient ID 1996--
+
+system: --- Session 202601281419 Start ---
+
+ --Patient ID 1996--
+
+interviewer: Thank you for sharing your concerns, Brittany. Do you consent to proceeding with this counseling session today?
+
+patient: Yes, I’m willing to proceed. I think working through the guilt I feel about not maintaining the home to my standards—and how it’s straining my marriage—would really help.
+
+interviewer: Great, thank you for that clarity. Do you have any questions about how today’s session will work or what we’ll focus on before we begin?
+
+patient: No, I don’t have any questions. I’m ready to discuss my feelings of guilt and how it’s affecting my home life. I think focusing on why I feel this pressure to be a 'perfect homeowner' would help.
+
+interviewer: It sounds important that we address these feelings together. Do you understand the purpose of today's session and how it will proceed?
+
+patient: Yes, I understand. I'm here to talk about my feelings of guilt and how they're impacting my life. I think we'll discuss what's been going on, and you'll help me explore ways to manage these feelings. I'm not entirely sure how the process works, but I'm open to talking through things and figuring out next steps.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: I appreciate your openness so far, Brittany. To better understand your goals, what are your hopes or expectations for what therapy could help you achieve right now?
+
+patient: I hope therapy can help me understand why I feel such intense pressure to be a 'perfect homeowner' and reduce the guilt I feel about falling short. I’d also like to learn healthier ways to manage household expectations without letting them strain my marriage. Maybe we could explore how to communicate my struggles to my husband without feeling embarrassed?
+
+interviewer: Can you describe how your mood has been affected by these feelings of guilt? For example, have you noticed any changes in your energy levels, irritability, or difficulty concentrating?
+
+patient: The guilt has made me feel constantly overwhelmed and low-energy, like I’m carrying a heavy weight all the time. I’ve also noticed I’m quicker to snap at my husband or myself over small things, and I often struggle to focus on tasks because my mind keeps circling back to what I’ve ‘failed’ to do.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I want to ask if there have been any traumatic or difficult experiences in your life that might be connected to these feelings of guilt or pressure? This could include anything from childhood to recent events, and there's no right or wrong answer—just let me know what feels relevant.
+
+patient: I don’t recall any specific traumatic experiences from my past that feel directly connected to this. The pressure to maintain a 'perfect home' feels like it started recently, especially after missing that Christmas deadline, but I’m open to exploring if something earlier might be influencing it. I’m trying to be honest with myself—I just don’t remember anything obvious right now.
+
+interviewer: It sounds like you’re putting a lot of effort into managing these expectations. Can you share any strategies or personal strengths you’ve relied on to cope with these feelings of guilt or pressure, even if they haven’t fully resolved the issue?
+
+patient: I’ve tried setting reminders and creating detailed lists to stay on top of tasks, which helps a little. I also lean on my husband for support, though I often downplay how overwhelmed I feel because I’m embarrassed. Starting therapy feels like a strength too—admitting I need help with this pressure is hard but important for me.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Have you used alcohol, cannabis, or any other substances in the past month, and if so, how often?
+
+patient: No, I haven’t used alcohol, cannabis, or other substances in the past month. I’ve been focusing on therapy and organizing my tasks to manage my stress instead.
+
+interviewer: Have you had any thoughts of harming yourself or ending your life recently, even if just in passing? If so, could you describe the frequency, any specific plans or means considered, and what helps keep you safe?
+
+patient: No, I haven't had thoughts of harming myself or ending my life recently. My struggles have focused on managing guilt and pressure related to household expectations. I’ve relied on organizational strategies and talking to my husband, even if I don’t fully open up about how overwhelmed I feel.
+
+interviewer: Are you currently taking any medications, supplements, or vitamins, and if so, could you describe them? This will help me understand if any of these might be influencing how you're feeling.
+
+patient: I’m not currently taking any medications, supplements, or vitamins. My focus has been on managing stress through organization and talking to my husband, but there’s nothing else I’m using to address these feelings.
+
+interviewer: Have you noticed any changes in your energy levels, sleep patterns, or engagement in risky behaviors lately? For example, feeling unusually restless, needing less sleep, or making impulsive decisions?
+
+patient: I’ve been feeling unusually fatigued, like I don’t have the energy to tackle even simple tasks. My sleep is irregular—I sometimes stay up late worrying about household responsibilities, but I still feel unrested in the mornings. I haven’t noticed any impulsive behaviors, though; most days I’m just emotionally overwhelmed and stuck in negative thoughts about my perceived failures as a homeowner.
+
+interviewer: Have you noticed any periods where you feel unusually energetic, need very little sleep, or engage in impulsive behaviors, such as spending sprees or risky decisions? This will help assess for hypomanic or manic symptoms.
+
+patient: No, I haven’t experienced those kinds of symptoms. My main struggles have been with persistent guilt and low energy related to household responsibilities, not periods of unusual energy or impulsivity.
+
+interviewer: Have you experienced any hallucinations, delusions, or paranoid thoughts recently? For example, hearing voices, believing others are plotting against you, or seeing things others don’t? --FUNCTION-- end_phase --FUNCTION--
+
+patient: No, I haven't experienced hallucinations, delusions, or paranoid thoughts recently. My struggles have centered around overwhelming guilt and pressure related to household expectations rather than any distortions in thinking or perception.
+
+interviewer: I note you've mentioned fatigue and irregular sleep. Have you been evaluated for medical issues like thyroid dysfunction, sleep apnea, or chronic pain that might contribute to these symptoms?
+
+patient: I haven't specifically been evaluated for thyroid issues or sleep apnea. My focus has been on managing the guilt and pressure related to household responsibilities, and I haven't mentioned these physical symptoms to my husband or a doctor yet.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: It sounds like we’ve covered the key themes of your experience, but I want to make sure I haven’t missed anything important. What would you like to focus on next in our sessions to address these challenges?
+
+patient: I think exploring the root of my perfectionism around home maintenance would help. My husband has offered to help more, but I push him away because I feel like it’s ‘my job’—I’d like to work on letting go of that control. I’m also hoping to build tools for managing the constant guilt without it draining my energy. Maybe we could role-play having those hard conversations with him? I fear he’ll think I’m weak if I admit how overwhelmed I really am.
+
+interviewer: To ensure we’re aligned, here’s my understanding: You’re seeking to explore the roots of your perfectionism around home maintenance, develop strategies to let go of control, and build tools to manage guilt without energy drain. Role-playing conversations with your husband is of interest, as is addressing fears of being perceived as weak. What did I miss or get wrong here?
+
+patient: Your summary is mostly accurate. The guilt over perceived inadequacy as a homemaker definitely affects my self-worth, not just task completion. Letting go of control feels impossible because I equate chaos with being a 'bad partner/spouse.' Role-playing conversations would help me practice sharing my struggles without minimizing them out of shame. I’d also like to explore whether the pressure to 'perform' perfection is tied to deeper fears of not being valued for who I am versus what I produce.
+
+system: --- Phase 5 End ---
+

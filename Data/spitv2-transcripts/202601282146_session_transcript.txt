@@ -1,0 +1,138 @@
+system: --- Session 202601282146 Start ---
+
+ --Patient ID 4224--
+
+system: --- Session 202601282146 Start ---
+
+ --Patient ID 4224--
+
+interviewer: Thank you for sharing your background, Georgia. Let me start by confirming: do you prefer that I use your full name, Georgia Olson, or a different name or pronoun if you'd like to share that?
+
+patient: Please use Georgia Olson. That's what I've always gone by. I don't mind, it's just what I'm used to.
+
+interviewer: Would you be comfortable with me asking you some questions about your experiences and concerns, so we can better understand what you're going through and how we can work together?
+
+patient: Yes, I suppose so. It's just hard to talk about, but I'm ready to try. I've been carrying this weight for too long, and it's starting to eat away at me.
+
+interviewer: Thank you for your courage in sharing that, Georgia. Before we move forward, do you have any questions about how this session will work or what to expect?
+
+patient: I guess not, but maybe you could explain if there’s a typical structure to these sessions? I just want to make sure I’m doing this right and making the most of the time we have.
+
+interviewer: Thank you for your thoughtful question, Georgia. Does that help clarify the structure for you, or would you like me to summarize it briefly?
+
+patient: Yes, that helps. I just... I’m a bit nervous but ready to talk.
+
+interviewer: It's understandable to feel nervous, Georgia. Would you like to proceed with today's session?
+
+patient: Yes, I’d like to proceed. I’ve been feeling overwhelmed, but I’m ready to talk about it.
+
+interviewer: Thank you for your readiness, Georgia. Before we dive deeper, do you have any immediate questions or concerns you'd like to address first?
+
+patient: No, not really. I guess I just wanted to mention that I've been feeling really stuck in my job for a while now. It's hard to explain, but I just don't see a way out or a future for myself beyond this kitchen.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Thank you for sharing that, Georgia. It takes courage to seek help, and I appreciate your openness. Can you tell me more about what's been most challenging for you lately?
+
+patient: The hardest part is the constant weight of feeling... trapped. Every day at work, I see younger staff getting promoted while I’m stuck flipping pancakes. It’s not just the job—it’s the way I second-guess everything I do. Even when I try to update my resume, I end up deleting half the skills section because I’m sure I’m ‘not qualified’ anymore. And my coworkers... I’ve pulled away from them, but they’re starting to notice. I don’t want to be that grumpy cook, but it’s so hard to hide when I feel this hopeless.
+
+interviewer: It sounds like the missed promotion a year ago was a significant turning point for you. Can you share more about how things have changed since then—both in terms of your feelings and any events that might have led you to seek help now?
+
+patient: Yeah, missing that promotion kinda cracked something open. At first I told myself it was just bad luck, but then... it just kept gnawing at me. Every time a customer praised me or a coworker got a shift upgrade, I’d think, ‘What’s the point? I’ll never move past this.’ I started applying online, but deleting the profiles—felt like my resume was a joke compared to others. Last month, I snapped at a coworker when she mentioned her sister got a manager’s role. I felt awful afterward, realized I was taking out my dread on people who didn’t deserve it. That’s when I knew I couldn’t ignore it anymore. I’m tired of feeling like I’m gasping for air in a job that’s swallowing me whole.
+
+interviewer: It sounds like these feelings are taking a toll not just emotionally but physically. Have you noticed any changes in your sleep or appetite lately?
+
+patient: Yeah, it’s been rough. I’ve been waking up in the middle of the night, sometimes can’t fall back asleep. And I’ve noticed I’ve put on a few pounds—maybe stress eating? I just don’t feel like I have the energy to care about taking care of myself anymore.
+
+interviewer: It sounds like these challenges have been building for some time, and I appreciate your honesty about how they're affecting your life. Looking ahead, what would you most hope to achieve or change through working together in counseling?
+
+patient: I want to learn how to stop feeling so hopeless about my career and regain some confidence in myself. I’ve always thought I’m just stuck, but maybe I can find a way to move forward without letting self-doubt take over every time I try to look for something new. It would help if I could... well, maybe not *fix* everything, but at least not feel so paralyzed when I’m at work or thinking about my future. My coworkers notice I’m distant, and I’d like to stop pulling away from them, too.
+
+interviewer: It sounds like you’ve been trying to navigate these challenges on your own in various ways. Can you share more about what strategies or habits you’ve used to cope with these feelings—whether they’ve helped, made things harder, or something in between?
+
+patient: I’ve tried updating my resume and looking for jobs online, but it just made me feel worse because I’d compare myself to younger candidates with more experience. I also started avoiding applying for anything, which… yeah, that just made the hopelessness worse. My friend Linda suggested I take up a hobby to distract myself, so I’ve been baking at home, but even that feels pointless lately. I guess it helps a little, but most days I just can’t shake the feeling I’m not good enough for anything better.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: It takes courage to pursue growth despite feeling stuck, Georgia. Can you share if there have been any other challenging experiences in your life that might be connected to these feelings of self-doubt or hopelessness?
+
+patient: I suppose part of it might trace back to when I was younger. I started working as a cook right after high school and stayed in that role for decades. Over time, I kind of convinced myself that’s all I was ever going to be—just someone who keeps the kitchen running. When the promotion last year slipped through my fingers, it felt like the universe agreeing with that old thought: ‘See? You’re stuck here forever.’ I guess that fear of being overlooked… or not good enough, has been simmering under everything else.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I want to check in on your safety. Have you ever had thoughts of harming yourself or ending your life?
+
+patient: No, I haven’t had thoughts of ending my life. But there’ve been days when the weight of it all feels so heavy—I just want the constant pressure to stop. It’s more like feeling trapped than anything else.
+
+interviewer: I appreciate your honesty. Let’s talk about your energy levels. Have you noticed any periods where you felt unusually energetic, needed less sleep, or took more risks than usual over the past few months?
+
+patient: No, I haven't felt unusually energetic or needed less sleep. Actually, most days I feel drained, like I’m just going through the motions. The only time I feel slightly more awake is when I’m baking at home, but that’s just me trying to escape the stress, not really 'energy' in the way you’re asking. I’ve had trouble sleeping, though—it’s more like my mind races at night until I’m too exhausted to function in the morning.
+
+interviewer: Thank you for sharing that—stress can really take a toll on our energy and focus. Have you noticed any periods where you made impulsive decisions or felt like you couldn’t stop talking, even when others tried to interrupt?
+
+patient: No, I don’t think I’ve noticed that. I’ve been more... quiet, actually. Like, I second-guess everything I say before speaking, especially at work. Sometimes I even withdraw from conversations because I’m so focused on my own negative thoughts. It’s the opposite of what you’re describing, I think.
+
+interviewer: Thank you for explaining that—self-doubt and overthinking can definitely impact our interactions. Have you noticed any changes in your thinking, such as hearing voices, seeing things others don’t, or having strong beliefs that others might find unusual or paranoid?
+
+patient: No, I haven't experienced hearing voices or seeing things. My thoughts are more like... this constant negative voice in my head telling me I'm not good enough, but it's still my own mind, just stuck on the same worries about work and failure. Sometimes I feel paranoid coworkers are judging me, but that's probably just my own insecurity, not real paranoia.
+
+interviewer: Thank you for sharing that—internalized self-criticism can feel so consuming. Let’s shift to some practical questions to better understand your needs. Have you used alcohol, cannabis, or any other substances regularly in the past year, or made any changes to how you use them recently?
+
+patient: No, I haven't used alcohol or cannabis regularly in the past year. I've mostly dealt with stress through stress-eating and sleepless nights, but no substances. I try to stay focused on work, even when it's hard.
+
+interviewer: Thank you for clarifying your coping strategies. To ensure I have a complete picture, are you currently taking any medications, supplements, or vitamins? Also, have you been diagnosed with any medical conditions that might affect your sleep, energy, or mood (e.g., thyroid issues, chronic pain, sleep apnea)?
+
+patient: No, I’m not taking any medications, supplements, or vitamins right now. I haven’t been diagnosed with any medical issues that affect my sleep or energy—though I’ve noticed stress keeps me up at night sometimes. My doctor just says I’m ‘stressed but healthy’ during checkups.
+
+interviewer: I appreciate your openness about your struggles—Georgia, what supports or resources do you have in your life that help you cope with stress or these feelings of being stuck?
+
+patient: My friends are a help, though I haven’t told them about the job struggles—I just don’t want to burden them. Baking helps, oddly enough; it’s the one time I feel focused. And this counseling… it’s strange to say, but talking through it makes the weight feel a little lighter, even if I’m still scared to leave the kitchen.
+
+interviewer: Thank you for sharing how baking and counseling provide some relief. To fully understand your situation, have you used any other substances, such as stimulants, opioids, or prescription medications, either regularly or occasionally in the past year?
+
+patient: No, I haven’t used any substances like that in the past year. I’ve tried to cope by baking, but it only helps a little with the restlessness.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Let me summarize what we've discussed: Your feelings of being stuck in your job, tied to a lifelong belief of being 'just a kitchen worker,' were reinforced by a missed promotion a year ago. This led to hopelessness, self-doubt, and physical symptoms like sleep issues and low energy. Protective factors include your courage to seek help and baking as a coping tool. The cycle of self-comparison and withdrawal has kept these feelings going. What did I miss or get wrong here?
+
+patient: Your summary is pretty spot on, actually. One thing you might’ve missed is how the financial stress isn’t just background noise—it’s *constant*. Even small things, like saving for a new appliance, feel impossible when I’m stuck in this paycheck-to-paycheck rut. Also, the part about my job performance… I’ve started making more mistakes at work lately, like misplacing orders or burning pancakes. It’s embarrassing, and it makes me feel even worse about myself. That’s why I’ve been snapping at coworkers—they’re just trying to help, but I can’t handle the pressure. Everything feels like it’s spiraling.
+
+interviewer: Thank you for sharing that—it’s clear how financial strain and work mistakes are compounding your stress and self-criticism. Let me briefly recap: Your lifelong role as a cook has shaped your identity, but a missed promotion last year intensified fears of being stuck, leading to self-doubt, sleep issues, and strained relationships. Financial pressures and work errors now feel like a spiral. What did I miss or get wrong here?
+
+patient: That’s pretty much right, but maybe you missed the part about me stress-eating when I get overwhelmed at work? And I guess the fact that I’ve been avoiding applying for jobs because I feel like I’ll just fail anyway? Also, the snapping at coworkers—I didn’t mention how that made me feel ashamed afterward, like I’m turning into someone unlikable. But yeah, the rest of what you said feels accurate.
+
+interviewer: Thank you for adding those details about stress-eating, avoidance of job applications, and the shame after snapping at coworkers—it shows how self-criticism and fear of failure are deeply woven into your experience. To move forward, let’s briefly consider what steps might help: Would you prefer to focus first on rebuilding confidence in your skills, exploring practical job-search strategies, or addressing the emotional impact of self-doubt? What feels most important to you right now?
+
+patient: I think the emotional impact of self-doubt is what’s holding me back the most right now. It feels like this constant voice in my head saying, “You’re not good enough,” which makes me avoid even trying to apply for jobs. If I could quiet that voice a little, maybe I’d have the energy to actually focus on rebuilding confidence or exploring new opportunities without freezing up. The shame from snapping at coworkers also feels like it’s tied to that same root—like I’m punishing myself for not being the person I think I should be.
+
+interviewer: Your focus on self-doubt as the core barrier, and its connection to avoidance, shame, and energy depletion, is a critical insight. Let me offer a brief formulation: Longstanding identity tied to kitchen work, reinforced by a missed promotion and financial stress, has created a cycle where self-criticism (‘not good enough’) leads to avoidance of opportunities and strained relationships, which in turn fuels more self-criticism. What did I miss or get wrong here, Georgia?
+
+patient: That’s pretty much spot on. What you said about the kitchen being my identity—well, it’s both my safe place and my cage. After missing that promotion, I started seeing every mistake as proof I’d never be more than a ‘just okay’ cook. It’s like I’m ashamed to even try branching out now, even though part of me screams I deserve better. The financial stress makes it worse, like I’m failing at providing *and* at growing. I think the shame about coworkers judging me for being ‘stuck’ makes me withdraw more, which… yeah, it’s the cycle you said. But maybe the part about baking helps? It’s the only time I feel like *myself* without the self-criticism. Just… maybe that’s a small crack in the cycle?
+
+interviewer: I appreciate your openness about baking as a small but meaningful escape—it’s a valuable resource we can build on. To finalize our next steps: If we focus first on addressing the emotional impact of self-doubt (e.g., challenging the 'not good enough' voice), would that align with your goals? Also, is there anything else we haven’t covered that feels important to address today?
+
+patient: Yes, working on that self-doubt would mean a lot. I still catch myself thinking I’m ‘too old’ or ‘not qualified enough’ even when I know better. Also, I’ve been avoiding my coworkers so much lately—I’d like to feel like I can talk to them again without snapping or shutting down.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Reports persistent feelings of being 'trapped' in job since missed promotion 1 year ago, with worsening hopelessness, self-doubt, and sleep disturbances (midnight awakenings, fatigue). Noted weight gain from stress-eating. Avoids job applications due to perceived lack of qualifications. Withdrew from coworkers, leading to strained relationships and shame after snapping at colleagues.
+
+Objective: Struggles with work performance (mistakes in orders, burnt food), social withdrawal, and neglect of self-care. Financial stress exacerbates feelings of failure. Baking provides brief respite but insufficient relief. No acute risk; denies suicidal ideation but describes emotional 'weight' and trappedness.
+
+Assessment: Chronic self-identity tied to cooking role since high school, reinforced by missed promotion triggering cyclical self-criticism ('not good enough'). Financial strain and work errors amplify shame. Protective factors: courage to seek help, baking as partial coping mechanism. Core issue: self-doubt perpetuating avoidance and relational strain.
+
+Plan: Prioritize addressing self-doubt through cognitive restructuring. Explore practical job-search strategies while building confidence. Address relational withdrawal through communication skills. Monitor sleep hygiene and energy conservation. Leverage baking as therapeutic anchor. Reassess work performance impacts in 2-3 sessions.
+
+--- End Summary ---
+

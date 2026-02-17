@@ -1,0 +1,106 @@
+system: --- Session 202601282223 Start ---
+
+ --Patient ID 1301--
+
+system: --- Session 202601282223 Start ---
+
+ --Patient ID 1301--
+
+interviewer: Welcome, David. To start, is there a different name or pronoun you'd prefer me to use?
+
+patient: No, that's fine. I'm David, and I'm comfortable with he/him pronouns.
+
+interviewer: Thank you, David. Today, we'll be discussing your experiences and how we can support you. Are you comfortable proceeding with this session?
+
+patient: Yes, I'm comfortable proceeding. A bit nervous, but I'm ready to talk about it.
+
+interviewer: Thank you for being open about this, David. Do you have any questions about how today's session will proceed before we start?
+
+patient: Not really, no. I just want to make sure we can talk openly about the anxiety I feel when cooking Greek dishes. I hope this session helps me understand why it’s affecting me so much and how to enjoy cooking again without the self-doubt.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It takes courage to seek help when something you love feels affected, David. Can you share what you hope to achieve through counseling? What are your goals for this process?
+
+patient: I want to learn how to cook without the constant fear of failing or feeling inauthentic. Ideally, I’d like to understand why this stress feels so personal and find ways to rebuild my confidence. I also hope to rediscover the joy it used to bring me, not just as a hobby but as a way to connect with my family’s traditions.
+
+interviewer: Thank you for sharing your thoughtful goals, David. It sounds like this struggle has been deeply tied to your connection with family traditions. When did you first start feeling this anxiety and self-doubt about cooking Greek dishes, and what do you think triggered it?
+
+patient: It started a few years ago when I first tried making some traditional Greek recipes my grandpa used to cook. I remember attempting a dish like moussaka, but it tasted nothing like his version. I felt really embarrassed and started doubting if I could ever capture the 'real' flavors. Now, even small things like measuring spices feel stressful, like I'm failing part of my heritage.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate your openness, David. To ensure we address everything important, can you tell me if you've ever had thoughts of intentionally harming yourself or ending your life?
+
+patient: No, I haven't had thoughts of harming myself. However, the stress and self-doubt have been really tough on me emotionally, making me feel like I’m losing a part of my identity tied to my family’s traditions.
+
+interviewer: Thank you for sharing that, David. I want to ask about your energy levels and sleep—have you noticed any changes, like needing less sleep or feeling unusually restless or impulsive lately?
+
+patient: No major changes in energy or sleep duration, but I’ve noticed my mind stays active at night, replaying failed recipes or worrying about upcoming meals. Stress definitely affects my sleep quality, even if I still get 6–7 hours most nights.
+
+interviewer: Thank you for explaining how stress affects your sleep, David. Let’s shift to checking for other symptoms briefly—have you felt unusually restless, impulsive, or had a surge of energy lately that’s different from your usual self?
+
+patient: No, I haven’t noticed any of those symptoms. My stress is really tied to cooking, like feeling anxious about whether a dish will turn out right. It’s more about self-doubt than restlessness or anything else.
+
+interviewer: Thank you for clarifying how your anxiety manifests, David. To continue assessing your current state, have you experienced any periods where you felt unusually energetic, needed very little sleep, or took risks you wouldn’t normally consider?
+
+patient: No, I haven’t experienced those kinds of periods. My energy levels have actually been lower lately, especially when I’m stressed about cooking. I do feel overwhelmed sometimes, but it’s more like being mentally drained than feeling unusually energized or impulsive.
+
+interviewer: It sounds like your stress is deeply tied to your passion for cooking, which must be frustrating. Let’s briefly check for other symptoms—have you noticed any experiences where you hear voices, see things others don’t, or have thoughts that things are happening to you on purpose?
+
+patient: No, I haven’t experienced hearing voices or seeing things that others don’t. My struggles are more around anxiety and self-doubt when cooking, not with thoughts of things happening on purpose. I do get stressed about messing up recipes, but it’s more about fear of failure than... I don’t know, paranoia or anything like that.
+
+interviewer: Thank you for clarifying the nature of your anxiety, David. To cover all necessary factors, can you tell me if you currently use alcohol, cannabis, or any other substances, and if there have been any recent changes in your use?
+
+patient: I don’t currently use alcohol, cannabis, or any other substances. I’ve never really turned to them as a way to cope with stress, even though my anxiety can be frustrating at times.
+
+interviewer: Thank you for sharing so openly, David. To wrap up this part of our conversation, can you tell me if you’re currently taking any medications or supplements, and if there have been any recent changes to your regimen?
+
+patient: No, I'm not currently taking any medications or supplements. I haven't needed any in the past, and there haven’t been any recent changes to my regimen.
+
+interviewer: It sounds like your sleep disturbances are primarily stress-related, which is an important piece of the puzzle. To ensure we’re thorough, have you ever been diagnosed with any medical conditions like thyroid issues, sleep apnea, chronic pain, or a head injury that might contribute to these symptoms?
+
+patient: No, I haven’t been diagnosed with any medical conditions like thyroid issues or sleep apnea. My sleep problems feel tied to the stress of cooking—like when I’m overthinking recipes or worrying about failing, it keeps me up. I guess my brain just can’t relax until I’m sure everything’s perfect, which isn’t really possible.
+
+interviewer: It sounds like you have a strong support system in your family and friends. Can you tell me about any other supports or coping strategies that help you manage stress or difficult emotions related to cooking?
+
+patient: Yeah, I guess I try breaking down recipes into smaller steps to avoid feeling overwhelmed. For example, I’ll focus on perfecting one component at a time, like mastering the spice mix before tackling the whole dish. That helps me feel a bit more in control. Also, when I’m stressed, I’ll take short walks or listen to Greek music to calm down—my grandpa used to play bouzouki while cooking, so it feels like a connection to him, even if it’s not the same as cooking the food.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: David, let me recap what we've discussed: Your anxiety around cooking Greek dishes began after a failed attempt at moussaka, leading to persistent self-doubt and fear of inauthenticity. This stress impacts your enjoyment of cooking, family traditions, and sleep quality. Protective factors include family support and coping strategies like task breakdown, while perpetuating factors involve rumination and avoidance. Does this align with your experience, or is there something I missed? Moving forward, would you prefer to focus on challenging perfectionist thoughts about culinary traditions, or explore behavioral experiments to rebuild confidence in the kitchen?
+
+patient: Yes, that aligns with my experience—though I’d add that my grandfather’s recipes feel like a personal test of whether I’m ‘worthy’ of our heritage. The perfectionism isn’t just about cooking; it’s tied to proving my connection to my roots. I think starting with challenging those thoughts would help. I want to untangle the idea that ‘authentic’ means perfect, and maybe learn to see mistakes as part of the tradition, not a failure. The behavioral experiments could come later, once I feel safer emotionally.
+
+interviewer: Thank you for sharing that depth—it sounds like your grandfather’s recipes carry both a personal and cultural weight. To clarify, would you say the formulation I proposed—linking your anxiety to heritage expectations, the failed moussaka experience, and the ongoing rumination about perfection—captures the core of your experience, or is there another layer we should explore before setting next steps?
+
+patient: Yes, that formulation captures a big part of it—the pressure to honor my grandfather’s legacy and the fear of messing up something sacred feels personal. But maybe there’s another layer: when I cook with my family now, I’m hyper-aware of their expectations. Like, my mom or cousins might notice if the avgolemono doesn’t taste ‘right,’ and that social judgment amplifies the anxiety. It’s not just about my own perfectionism; it’s also about how my failures might reflect on our shared heritage. I don’t want to be the one who ‘breaks the chain’ of authentic cooking in our family.
+
+interviewer: Thank you for clarifying that social judgment from your family amplifies the anxiety—it’s clear how personal and cultural pressures intertwine here. To confirm, the formulation now includes: your grandfather’s legacy expectations, the initial failed moussaka experience, ongoing rumination about perfection, and the added layer of fearing your family’s judgment when cooking together. Does this cover all the key elements, or is there anything else we should adjust before we outline next steps?
+
+patient: Yes, those elements feel accurate. The fear of letting down my grandfather’s legacy and my family’s expectations is central. I’d also add that the pressure to ‘get it right’ has made me avoid cooking with my family altogether—like during holidays—which strains those relationships. And the rumination often loops even after meals, replaying every minor mistake. That’s probably it.
+
+interviewer: I appreciate your honesty about how the pressure to uphold family traditions has led to avoidance and strained relationships—this adds a crucial layer. Given our discussion, would you prefer to start with identifying specific cognitive distortions (e.g., ‘mistakes = failure of heritage’) and gradually reintroduce family cooking rituals, or focus first on reducing post-meal rumination through mindfulness techniques?
+
+patient: I think starting with identifying cognitive distortions would help me most—like the idea that mistakes mean I’m failing my family’s legacy. That’s been a big part of my anxiety. If I can untangle that thought, maybe the mindfulness work will feel more manageable afterward. I just want to stop seeing errors as personal failures first.
+
+interviewer: Thank you for prioritizing those cognitive patterns—they’re clearly central to your distress. Before we finalize next steps, let me confirm: Would you say the plan to untangle the ‘mistakes = failure of legacy’ distortion, paired with later behavioral experiments to rebuild confidence, addresses both your emotional and functional goals, or is there another piece we should integrate to ensure the approach feels complete for you?
+
+patient: Yes, that plan feels like a solid foundation, but I think integrating a piece on reconnecting with my grandfather’s values—like how he might view ‘authenticity’—could help me separate perfection from legacy. It’s not just about the food; it’s about honoring him without letting self-criticism define my connection to our heritage. That emotional bridge might be the missing link to fully reclaiming joy in cooking.
+
+interviewer: Thank you for emphasizing the importance of your grandfather’s values in reframing authenticity. To ensure we’ve captured all key elements, is there anything else we haven’t discussed that feels important to include in our understanding of your experience or the plan moving forward?
+
+patient: I think it’s also important to mention how this anxiety makes me avoid family gatherings where I’m expected to cook traditional dishes. Last holiday, I refused to make baklava because I was sure it’d be ‘wrong,’ which upset my mom. It’s like I’m not just failing the recipe, but letting down the whole family legacy.
+
+system: --- Phase 5 End ---
+

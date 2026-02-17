@@ -1,0 +1,154 @@
+system: --- Session 202601282101 Start ---
+
+ --Patient ID 3468--
+
+system: --- Session 202601282101 Start ---
+
+ --Patient ID 3468--
+
+interviewer: Hi Whitney, is there a different name or pronoun you'd prefer me to use?
+
+patient: No, Whitney is fine. I use she/her pronouns.
+
+interviewer: Thank you for sharing that, Whitney. Can you tell me if you’re comfortable proceeding with this session today?
+
+patient: I guess so... I’m a little nervous, but I want to figure this out. My job’s been so stressful lately, and I just can’t shake the feeling that I’m letting everyone down.
+
+interviewer: It’s okay to feel nervous—this is a safe space. Can you let me know if you have any questions about how today’s session will work before we begin?
+
+patient: No, I don’t have any questions. I just want to be honest about how I’ve been feeling.
+
+interviewer: It sounds like you're ready to begin. Just to clarify, this session will involve discussing your concerns and experiences to better understand what you're going through. How does that sound?
+
+patient: Yeah, I guess so. I just... I really want to figure out why I can't seem to get things right at work. The whole check-in mistake still haunts me, and I'm scared it'll happen again.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like these feelings have been really challenging to manage on your own. What are your hopes for therapy right now—what would you most like to see change or improve?
+
+patient: I guess... I really want to stop feeling like I’m failing at everything. I don’t want one mistake to define me or make me think I’m ‘worthless’ every time something goes wrong. It’s hard to explain, but I want to learn how to be kinder to myself when I mess up, and maybe actually believe that I can do better without it ruining my confidence. My coworker Sarah got upset with me last week after I messed up a reservation, and I still can’t stop replaying it… so I hope therapy helps me not take things so personally.
+
+interviewer: I appreciate you sharing that experience with Sarah—it sounds like those moments really stick with you. How has this been affecting your sleep and eating patterns lately, if at all?
+
+patient: Honestly, I’ve been having trouble sleeping most nights. I’ll lie awake replaying mistakes from work or worrying about what could go wrong tomorrow. Some days I barely get five hours. And with work so stressful, I’ve been skipping meals or just eating a couple of granola bars to get through the day—I tell myself I’m ‘saving time,’ but I know I’m not eating right. It’s like my brain won’t turn off, even when my body’s exhausted.
+
+interviewer: It sounds like the stress from work is really weighing on you, especially after mistakes. Can you tell me if these feelings have gotten worse, better, or stayed the same since they started a few months ago?
+
+patient: They've stayed about the same, honestly. Some days feel worse if I make a small mistake, like the other week when I mixed up a reservation time... but I guess they just don't seem to go away. I keep telling myself I'm trying harder, but the self-criticism never really lets up.
+
+interviewer: It sounds like you're putting in a lot of effort to manage the stress and self-criticism, even when it feels overwhelming. Have there been any other strategies or methods you've tried to cope with these feelings, either at work or in your personal life, that you found even slightly helpful or not helpful at all?
+
+patient: I’ve tried talking to my roommate about the stress sometimes—it helps a little, but I don’t want to burden them with everything. I also force myself to take short breaks at work, like stepping outside for fresh air, but it’s hard to focus. Honestly, positive affirmations feel fake when I’m spiraling, so they don’t really work for me.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: Thank you for sharing that, Whitney. It sounds like the pressure at work is really weighing on you. I’d like to ask about any difficult experiences or challenges you’ve faced in the past that might be contributing to this stress. Would that be okay?
+
+patient: Yeah, that’s okay. I’ve always been really hard on myself, even as a kid. Like, in middle school, I messed up a science project and my teacher gave me a B instead of an A—I stayed up for days convinced I’d ruined my future. It’s kind of stuck with me, you know? I guess I always thought if I wasn’t perfect, I was a disappointment.
+
+interviewer: It’s clear how self-criticism has shaped your experiences over time. Let’s explore a bit more about your support system—can you tell me about someone else in your life who has been especially helpful or understanding during stressful times, besides your roommate?
+
+patient: My mom used to be really supportive when I was younger, but we haven’t talked much about this stuff recently. She’s more focused on my sister’s college stuff, and I feel like bringing up my job problems would just make things awkward. I’ve tried texting her once or twice about stress, but I always delete the messages before sending them—I don’t want her to think I’m ‘quitting’ or making excuses.
+
+interviewer: It sounds like reaching out to your mom feels like a tightrope walk between wanting support and fearing judgment—that must be incredibly isolating. Would you be open to sharing any other challenges or difficult experiences in your life that might be contributing to this stress?
+
+patient: It definitely feels like walking on eggshells. My mom’s always had high expectations, and I worry if I talk to her, she’d just tell me to 'toughen up' instead of actually understanding how I’m feeling. Plus, I can’t shake the idea that if I mess up at work, it’s not just my problem—it’s like I’m failing my whole family, even if they never say it out loud. It makes it harder to ask for help, honestly.
+
+interviewer: Thank you for sharing that, Whitney. It sounds like the weight of family expectations and work pressure is creating a lot of internal conflict. Let’s gently explore if there have been any other difficult experiences or challenges in your life—perhaps earlier in your childhood or adolescence—that might be connected to these feelings of self-doubt or fear of failure? This could help us better understand patterns that might be contributing now.
+
+patient: I don’t remember major childhood issues, but I think I was always pushed to be ‘perfect’ in small ways. My first job was at a fast-food place when I was 14, and my manager criticized me harshly for dropping a tray one day. Even though it was an accident, I told myself I was clumsy and useless, which stuck with me. It feels similar to now, where one mistake feels like proof I’m failing, even if everything else is fine.
+
+interviewer: Thank you for sharing that, Whitney. It sounds like the pressure to perform perfectly has been a long-standing challenge for you. Let’s gently check in—have there been any other experiences in your life, perhaps involving significant stress or adversity, that you think might be connected to these feelings of self-doubt or fear of failure?
+
+patient: I don’t think so… I’ve always tried to do things right, but this job really brought it to a head. Maybe I’m just too hard on myself, but it’s never been like this before. The check-in mistake felt like the first time I really failed at something important.
+
+interviewer: It’s clear how self-criticism and fear of failure have shaped your experiences, especially in high-pressure situations like work. Would you be open to briefly discussing whether there have been any experiences in your life where you felt unsafe, overwhelmed, or significantly impacted by something that happened—whether it seemed big or small at the time?
+
+patient: I don't think I've had anything like that. This job is my first real one, and I've just been really stressed about getting everything right since I was new to it. It's the pressure I've never dealt with before.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Have you had any thoughts about harming yourself or ending your life recently? If so, could you share how often these thoughts occur and whether you have a specific plan or means in mind?
+
+patient: No, I haven't had thoughts about harming myself or ending my life. But the stress and self-criticism are really intense some days—I’ve felt like I can’t breathe from the pressure, but I’ve never gone that far. I just get stuck in these spirals where I think I’m failing everyone.
+
+interviewer: I appreciate your honesty, Whitney. It sounds like these self-critical thoughts are taking a toll. Let’s shift focus briefly—have you noticed any changes in your sleep patterns or energy levels lately? For example, feeling like you don’t need as much sleep or having a lot of energy and difficulty slowing down?
+
+patient: Yeah, my sleep... it's been really off. I lie awake most nights, replaying work mistakes or worrying about what could go wrong tomorrow. It feels like I can’t shut my brain off, even when I’m exhausted. The energy part—I don’t think I’ve had that. I’m tired all the time, honestly, from not sleeping well. It’s more like my mind won’t stop racing than anything else.
+
+interviewer: I appreciate you sharing so openly, Whitney. It sounds like the racing thoughts and exhaustion are really impacting your days. Let’s cover a few more details to help me understand better—have you used alcohol, cannabis, or other substances in the past year, especially more recently? Even if it was just once, I’d like to know.
+
+patient: No, I haven’t used any substances in the past year. I’ve focused on work and trying to stay on top of things, even though it’s been really tough.
+
+interviewer: I appreciate you sharing so honestly about the stress and racing thoughts—it sounds like a lot to carry. Let’s check a few more things to ensure we capture everything important. Have you ever experienced periods where you felt unusually happy, energetic, or restless for days at a time, or had trouble slowing down your thoughts or focusing on one thing?
+
+patient: Not really, no. I mean, I’ve had days where I feel overwhelmed or restless, but nothing like being unusually happy or hyper-focused. Usually, it’s the opposite—I’m just really anxious and down, especially at work. When I do feel a bit more energetic, it’s usually from stress or worrying about mistakes, not in a ‘good’ way.
+
+interviewer: I appreciate you sharing so clearly about the stress and self-criticism—it takes courage to open up like this. To ensure we’re covering everything carefully, have you ever experienced any unusual thoughts or sensations, like hearing voices others don’t, seeing things that worry you, or believing something strange that others don’t?
+
+patient: No, I haven’t heard voices or seen things that worry me. But sometimes my mind gets stuck on negative thoughts, like replaying mistakes over and over. It feels like... I can’t turn it off, even when I know the mistake was tiny.
+
+interviewer: I appreciate your openness so far. Let’s briefly check on medications—currently, are you taking any prescription medications, over-the-counter drugs, or supplements (like vitamins or herbal remedies)? If so, could you share what they’re for?
+
+patient: No, I’m not currently taking any prescription medications, over-the-counter drugs, or supplements. I’ve tried things like tea to help me sleep, but nothing that’s medically prescribed. My doctor hasn’t recommended anything for this, since I haven’t mentioned it to them yet—this is the first time I’ve sought help for it.
+
+interviewer: I appreciate your openness in discussing these challenges, Whitney. To ensure we’re thorough, have you experienced any medical issues like thyroid problems, chronic pain, or sleep apnea that might be contributing to your symptoms? Even if they seem unrelated, it’s helpful to know.
+
+patient: No, I haven’t experienced anything like that. The only physical thing I’ve noticed is my sleep being off—like lying awake for hours—and sometimes skipping meals because I’m too stressed, but my doctor last year said I was healthy otherwise.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Whitney, to recap: Your struggles with work-related self-criticism and sleep disruption began around 3 months ago after a check-in error, worsened by lifelong perfectionism and family expectations. We’ve explored how these patterns are maintained by rumination and fear of judgment. What did I miss or get wrong about your experience?
+
+patient: I think you’re right about the check-in error and the perfectionism, but maybe you missed how much my conflicts with coworkers—like the fight with Sarah—keep the self-blame going. Also, my fear that any mistake means I’m letting *my family* down, even if they never say that out loud... that’s a big part of why I can’t shake the guilt. Oh, and the middle school B example? That’s how this all started, I think. I’ve been carrying that same ‘I’m not enough’ feeling for years.
+
+interviewer: Thank you for sharing that depth—I appreciate your honesty. Let me check if I captured everything: We’ve discussed how your perfectionism and fear of disappointing your family amplify self-blame, especially after work mistakes or conflicts like the one with Sarah. The middle school B example highlights how these patterns started early. What did I miss or get wrong about your experience?
+
+patient: You got the main points right—perfectionism, the middle school example, and the Sarah conflict. What you might’ve missed is how my mom’s support feels different now. She’s always been encouraging, but lately, I worry she’ll think I’m ‘making excuses’ if I talk about stress. I’ve also been skipping meals more often than I mentioned, partly to avoid cooking stress, but it’s making me feel physically worse too. That’s probably not what you were asking about, but it’s part of it.
+
+interviewer: Thank you for sharing those important details about your mom’s support and the impact on your eating. To recap: We’ve discussed how lifelong perfectionism, early experiences with criticism, and recent work stressors like the check-in error and conflict with Sarah are contributing to your self-blame and anxiety. Your mom’s current dynamic and physical health changes are also part of this. What did I miss or get wrong about how these factors connect for you?
+
+patient: You mentioned my mom’s support, but I think you missed how much I’m afraid she’ll think I’m weak if I talk to her. I worry she’ll see my mistakes as me giving up, even if she never actually said that. Also, you didn’t mention how my chest feels tight sometimes when I’m stressed—it’s like I can’t catch my breath, which makes it harder to focus at work. Those physical sensations add to the spiral.
+
+interviewer: Thank you for highlighting those important nuances about your mom’s dynamic and the physical sensations—this adds critical context. To recap: We’ve explored how lifelong perfectionism, fear of familial disappointment, work stressors, and somatic anxiety (like chest tightness) maintain your self-critical spiral. Before we move to next steps, is there anything else I’ve missed about how these factors connect for you?
+
+patient: I think another piece is how my fear of being judged at work mirrors my fear of disappointing my mom—like if I ask for help or admit I’m struggling, they’ll see me as weak. It makes me isolate instead of coping healthily. Also, the chest tightness and sleeplessness leave me so exhausted that I’m more prone to mistakes, which then just feeds the cycle of self-blame. It feels like a loop I can’t escape.
+
+interviewer: Thank you for sharing how these interconnected fears and physical symptoms create a cycle that feels unbreakable. To ensure we’re aligned, here’s my understanding: Your self-criticism is fueled by perfectionism, fear of familial judgment, and work stress, worsened by physical symptoms like chest tightness and sleeplessness. These factors isolate you and increase mistakes, deepening the spiral. What did I miss or get wrong about how these elements interact for you, and how might we begin to untangle this loop together?
+
+patient: You captured the main points accurately—perfectionism, fear of letting people down, and the physical toll of stress. One thing you might’ve missed is how my supportive roommate knows I’m stressed but doesn’t know the full depth of my self-blame or chest tightness. I also avoid my mom because I fear she’ll think I’m ‘weak’ for struggling, even though she used to be my biggest cheerleader. My coworker conflicts (like Sarah’s frustration) make me hyper-aware that mistakes ‘validate’ my fear of being seen as untrustworthy. Maybe we could explore how to voice needs without feeling like I’m a burden? I’ve never asked for help without spiraling into ‘I should’ve handled it alone.’
+
+interviewer: Thank you for sharing those important details. To ensure we’re aligned, here’s my understanding: Your self-criticism is fueled by lifelong perfectionism, fear of familial judgment, and work stress, worsened by physical symptoms like chest tightness and sleeplessness. These factors isolate you and increase mistakes, deepening the spiral. What did I miss or get wrong about how these elements interact for you, and how might we begin to untangle this loop together?
+
+patient: You’re mostly right about the perfectionism and work stress—that check-in mistake still haunts me, and it feels like the start of this spiral. Maybe you missed how specific mistakes, like the reservation error with Sarah, keep replaying in my head, making me isolate more. I think my mom’s past support is why I push myself so hard now, but I guess that’s part of the problem. Where to start? Maybe learning to stop the self-criticism loop, like when I make a mistake, so I don’t freeze or overthink it at night. I want to feel like I can ask for help without feeling like a failure, but I don’t know how yet.
+
+interviewer: Thank you for that detailed reflection. To ensure we’re aligned, here’s my summary: Your self-criticism is fueled by perfectionism, fear of familial judgment, and work stress, worsened by physical symptoms like chest tightness and sleeplessness. These factors create a cycle of isolation and mistakes. We’ve identified wanting to break the self-criticism loop and learn to ask for help without feeling like a failure. Before we agree on next steps, is there anything else you’d like to add or correct about this model?
+
+patient: Yes—maybe add that the chest tightness is a recent physical symptom I haven’t mentioned before, and that the fear of letting my family down is tied to their high expectations even if they’ve never said it out loud. Also, the Sarah incident really crystallized how my self-criticism isolates me from colleagues—after that, I started avoiding team meetings because I felt everyone was judging me. The summary got most of it, but those details matter for understanding the isolation part.
+
+interviewer: Thank you for emphasizing the chest tightness and familial expectations—I’ve added those to our model. To move forward, let’s explore next steps: What would feel most helpful for addressing the self-criticism loop and improving your ability to ask for support? For example, would you prefer to focus on skills to manage physical symptoms first, or exploring patterns of thought around mistakes? What matters most to you right now?
+
+patient: I think understanding why I take mistakes so personally would help the most—like, why even small things feel like proof I’m failing. Also, learning how to ask for help without feeling like I’m admitting I’m not capable. My chest tightness and sleep issues probably won’t get better until I break the cycle of self-criticism, but I’m not sure where to start fixing that.
+
+interviewer: Thank you for that clarity. To ensure we’re aligned, let’s finalize next steps: I’ll focus on helping you reframe how mistakes are tied to self-worth and practice skills for asking for support without self-judgment. Is there anything else you’d like to add to this plan or adjust before we move forward?
+
+patient: I think the plan makes sense, but maybe we could also address how my fear of disappointing my family plays into this? My mom always encouraged me to be perfect, and I worry if I’m struggling, she’ll think I’m letting her down. Also, could we talk about how to manage the anxiety that hits me so fast when I mess up? Like, right when it happens, my brain just spirals and I can’t focus until it’s all replayed in my head. Those two things might be the root of a lot of this.
+
+interviewer: Thank you for those important additions about familial expectations and the physical anxiety response. To finalize, let’s ensure we’ve captured all your priorities: We’ll address reframing self-critical thoughts tied to perfectionism, develop strategies to ask for help without self-judgment, and explore how family dynamics contribute to your fear of failure. Is there anything else you’d like to add or adjust before we move forward?
+
+patient: Yes, I think that covers the main things. Maybe also the constant anxiety I feel—like a tightness in my chest or not being able to breathe sometimes when mistakes happen. It’s not just the thoughts, but the body reaction too. And maybe practical tools for calming myself during those moments, since the affirmations don’t really help when I’m spiraling. Otherwise, those priorities make sense. I’m ready to work on them.
+
+interviewer: Thank you for your thoughtful input—your insights about the chest tightness and fear of disappointing your family are crucial to our understanding. To finalize, let’s ensure we’ve captured all your priorities: We’ll focus on reframing self-critical thoughts, developing skills to ask for support without self-judgment, and addressing how family dynamics and physical anxiety responses contribute to your stress. Is there anything else you’d like to add or adjust before we move forward?
+
+patient: Thank you for summarizing it like that. I think those points are really important. Maybe also the chest tightness I feel when I’m stressed? It’s not like panic attacks, but it’s… heavy, like my anxiety is physically weighing me down. And maybe the pressure to be ‘perfect’ without showing I’m struggling? I don’t want to seem weak. But yes, working on not letting every mistake define me would help me sleep better. That’s about it, I think.
+
+system: --- Phase 5 End ---
+

@@ -1,0 +1,102 @@
+system: --- Session 202601290214 Start ---
+
+ --Patient ID 2496--
+
+system: --- Session 202601290214 Start ---
+
+ --Patient ID 2496--
+
+interviewer: Welcome, Mitchell. How would you like me to address you? Do you have any pronoun preferences I should know about?
+
+patient: Just Mitchell. Sir or Mr. Taylor if you prefer, but I’m fine with either.
+
+interviewer: Mitchell, before we begin, can you confirm that you're comfortable proceeding with this session today?
+
+patient: Yes, I'm comfortable proceeding. A little nervous, but I need to work through this.
+
+interviewer: Thank you for being open about your feelings, Mitchell. To set expectations, this session will focus on understanding your experiences and exploring ways to support you. Do you have any questions about how this process will work before we begin?
+
+patient: No, I think I understand the goal here. To be honest, I’m not used to talking about personal stuff, but I’m here to work through this. The main thing is figuring out why this one mistake feels so... paralyzing, you know? Let’s start.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: I appreciate your openness, Mitchell. Can you tell me a bit more about when these feelings first started and how they’ve changed over time?
+
+patient: It started last week when I burned that meal for my family. At first, I was just embarrassed, but now it’s worse. I can’t even think about cooking without getting anxious. My confidence’s totally crushed, and I’m avoiding the kitchen at work too. I’ve tried practicing, but every time I get paranoid I’ll mess up again. It’s like this one mistake defines me now.
+
+interviewer: Thank you for sharing that, Mitchell. It sounds like this incident has deeply affected your confidence and daily life. Can you tell me what you hope to achieve through counseling or what outcomes you’d consider helpful as we work through this?
+
+patient: I want to stop feeling paralyzed every time I think about cooking. Just being able to cook for my family without sweating it or dreading it... that would be a start. I miss the joy it used to bring me, and I’m scared I’ve lost that part of myself forever.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I appreciate your courage in sharing this difficult experience, Mitchell. It takes strength to confront moments that challenge our self-worth. To better understand patterns, can you share if there have been other times in your life when a specific mistake or failure felt similarly overwhelming? If not, that’s okay—we can explore other aspects.
+
+patient: I don't think so, no. Cooking has always been my passion, and I've handled kitchen stress before without this level of... paralysis. The closest might’ve been a time in high school when I spilled a dish during a restaurant apprenticeship—it embarrassed me, but I shrugged it off. This feels different, heavier. Like my whole identity as a chef is on the line now.
+
+interviewer: Thank you for sharing that, Mitchell. It’s understandable how deeply this incident feels tied to your identity as a chef. Let’s explore your support system—can you share how your family typically interacts around cooking, and have their reactions since the incident differed from what you expected?
+
+patient: Cooking was always how I connected with my family—it’s how we bond, you know? After the burned meal, I thought they’d be disappointed… but they actually tried to downplay it, said things like “it happens to everyone.” I just… couldn’t let them see how much it wrecked me. Now I avoid the kitchen at home too, and I think they’re confused why I’m pulling away. It’s like I’m punishing myself for something they don’t even hold against me.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I want to check in on your safety, Mitchell. Have you had any thoughts of harming yourself or ending your life since this incident?
+
+patient: No, I haven't had thoughts like that... but the embarrassment feels so heavy sometimes. It's like that one mistake made me question if I'm even the person I used to be. Cooking was my identity, and losing confidence in it feels like losing part of myself.
+
+interviewer: It sounds like the loss of confidence in cooking has been deeply unsettling for you. Can you tell me if you've noticed any recent changes in your energy levels or sleep patterns, such as feeling unusually restless or needing less sleep than usual?
+
+patient: Yes, I’ve been having trouble sleeping. I’ll lie awake thinking about the meal and what went wrong, which makes me restless. When I do sleep, I wake up feeling more tired than when I went to bed.
+
+interviewer: I’m sorry to hear how exhausting this has been for you. Have you noticed any periods recently where you’ve felt unusually energetic or had a lot of ideas that you couldn’t slow down, even if it wasn’t helpful?
+
+patient: No, I haven’t had those. I’ve mostly felt drained, especially after thinking about the incident. Sometimes stress keeps me up at night, but it’s more anxiety than energy.
+
+interviewer: It sounds like the emotional weight of this experience has been really heavy to carry. Have you noticed any changes in your thinking, such as hearing voices, seeing things others don’t, or having strong beliefs that feel unusual or confusing, even if they seem logical to you?
+
+patient: I don't think so. My main struggles have been with anxiety and self-doubt—like feeling paralyzed by fear when thinking about cooking. I haven’t heard voices or noticed anything others wouldn’t, but sometimes I feel like my shame is so loud it’s almost... deafening. It’s more about how I see myself now than anything external.
+
+interviewer: Thank you for sharing that. It sounds like your internal struggle is deeply affecting your sense of self. Let's shift to discuss some other factors that might be influencing this. Have you noticed any changes in your use of alcohol, cannabis, or other substances since this incident began?
+
+patient: No, I haven’t increased my use of alcohol or other substances. I’ve always had a drink after work to unwind, but I don’t think it’s changed since the incident. I guess I’m trying to avoid anything that might distract me from fixing this cooking thing, but it’s hard.
+
+interviewer: Thank you for clarifying. Let’s briefly review any medications or supplements you’re currently taking, including over-the-counter items or vitamins. Are you on any of these at the moment?
+
+patient: No, I’m not currently taking any medications, supplements, or vitamins. I haven’t seen a doctor for anything related to this, and I’ve mostly just been trying to push through it on my own.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Let me briefly recap: Your distress began after burning a meal for your family a week ago, leading to intense self-criticism and avoidance of cooking. This has disrupted your work, family bonding, and self-identity as a chef. Key factors include a history of tying self-worth to professional competence, mismatched family support, and anxiety-driven avoidance. What did I miss or need to adjust here?
+
+patient: You’re pretty accurate, but maybe missed a few threads. The sleep disruption is more pronounced—lying awake replaying the incident, even when I do sleep, it’s restless. Also, my supportive friends don’t know about this; I’ve kept it private. And while my family downplays it, I feel like I’m the one still punishing myself for something they’ve moved on from. I’ve also tried practicing recipes to rebuild confidence, but fear of failure stops me from finishing. That mix of wanting to fix it and being paralyzed by it is… exhausting.
+
+interviewer: Thank you for sharing those details—I appreciate your honesty. Let me try to integrate that into a broader understanding: It sounds like your identity as a chef and deep-seated fear of judgment have made this incident feel like a personal failure, not just a cooking mishap. The lack of external validation from family and the pressure to 'fix' it privately may be amplifying your self-criticism, while avoidance and rumination keep you stuck. Does that align with your experience, or did I miss something key?
+
+patient: That... that sounds right, yeah. I guess I didn’t realize how much my whole identity is tied to being good at cooking. My family’s trying to be supportive, but their reassurance just makes me feel like I should be over it by now, you know? It’s like I’m stuck in this loop of thinking, 'If I can’t even cook for them, what’s the point?' My work’s suffering too—mistakes at the restaurant feel bigger now, like they’re all proof I’m slipping. But I’m afraid to talk about it because it feels so… personal. Like admitting it’s not just a bad day but something deeper.
+
+interviewer: Thank you for sharing so openly—this clarity is a meaningful step. Let me try to outline a few factors that might be contributing: Your lifelong connection between self-worth and cooking (predisposing), the recent burned meal incident (precipitating), and patterns like avoidance and mismatched family support (perpetuating) may be maintaining this distress. Protective factors include your resilience and supportive friends. Does this align with your understanding, or is something missing?
+
+patient: Yes, that aligns with how I see it. The part about family support feeling mismatched is spot-on—they’re trying to be understanding, but their reassurances like 'it happens to everyone' make me feel like I’m overreacting, which adds to the shame. I guess I didn’t realize how deeply tying my identity to cooking has made this incident feel existentially threatening.
+
+interviewer: Thank you for confirming that model—it’s helpful to have clarity on these patterns. To move forward, what would you most want to address next? Are there specific strategies, conversations, or goals you’d feel comfortable prioritizing to rebuild confidence and reduce the shame around this experience?
+
+patient: I think the biggest thing is learning how to stop letting that one mistake define me. I want to work on... I don’t know, reframing the shame? Like, turning that fear into something manageable. Maybe starting with small steps—like cooking simple dishes again, but without the pressure. And... figuring out why this feels so different from other mistakes I’ve made before. My family doesn’t bring it up, but I can’t shake it. Maybe talking through why that shame sticks so hard would help?
+
+interviewer: Thank you for sharing that roadmap—it’s a thoughtful and actionable plan. To ensure we’re aligned: Our next steps could include exploring techniques to reframe self-critical thoughts around cooking, experimenting with low-stakes cooking practices to rebuild confidence, and examining patterns that make this incident feel uniquely identity-threatening. Is there anything else you’d like to prioritize or clarify before we move forward?
+
+patient: Thank you for outlining those steps. If I could add, I’d like to focus on how to rebuild that connection with my family around cooking again—maybe understanding why their reassurance didn’t reach me. Also, I’m curious about practical ways to face the kitchen without fear, even if it’s just small steps. The part about the incident feeling heavier than past mistakes… I’d like to unpack why that one moment hit so hard, like it stripped away something core.
+
+interviewer: Thank you for those additions—they’re meaningful and actionable. Let me synthesize our agreed next steps: 1) Explore reframing self-critical thoughts around cooking and family interactions, 2) Practice low-stakes cooking to rebuild confidence incrementally, and 3) Examine why this incident feels uniquely identity-threatening compared to past challenges. Is there anything else we haven’t covered that you’d like to address before we finalize this plan?
+
+patient: No, those three points feel like the right focus. I’ve been so caught up in the shame of that one mistake that I didn’t even realize how much it’s bled into everything else—work, family, even my sleep. Maybe working on those steps will help me stop seeing it as a defining moment instead of… just one bad night.
+
+system: --- Phase 5 End ---
+

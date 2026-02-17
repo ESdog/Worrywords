@@ -1,0 +1,142 @@
+system: --- Session 202601290115 Start ---
+
+ --Patient ID 4701--
+
+system: --- Session 202601290115 Start ---
+
+ --Patient ID 4701--
+
+interviewer: Hannah, can I use your name and pronouns as listed on your intake form, or would you prefer something different?
+
+patient: Yeah, Hannah Mitchell is fine. I use she/her pronouns.
+
+interviewer: Thank you for sharing that, Hannah. Would you be comfortable with me asking you some questions today to better understand what's going on?
+
+patient: Yes, that's fine. I'm a little nervous, but I want to work through this... the anxiety has been making everything harder, so talking about it feels like the right step.
+
+interviewer: It's completely normal to feel nervous when starting something new. Before we begin, do you have any questions about what we’ll be discussing today or how this session will work?
+
+patient: No, I don’t have any questions right now. I’m just a little nervous, but I’m ready to talk about it. I hope we can work on understanding why this fear keeps sticking around even though I know it was just an accident.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Thank you for sharing that, Hannah. It sounds like this fear has been really disruptive for you. Can you describe what physical or emotional sensations you notice when you think about visiting a park or when you're in a similar situation?
+
+patient: When I think about parks, my chest feels tight and my heartbeat speeds up, like it’s racing. I also get shaky, especially in my legs, which makes me feel like I might fall again. Emotionally, I just... panic. It’s this overwhelming fear that I’ll lose control or embarrass myself again, even though I know logically it was just a stumble. It’s like my body remembers the accident more than my brain does.
+
+interviewer: It sounds like your body's reaction to the memory of the accident is really intense and persistent. Can you tell me when this fear first started and how it has changed over time?
+
+patient: It started right after I tripped at the park last November, about 3-4 months ago. At first, I was just nervous about walking there, but now even thinking about parks makes my heart race. The anxiety feels constant, and I can’t even watch people relax in parks without getting uneasy. It’s like my brain can’t let go of that accident, even though I know it was just a slip.
+
+interviewer: It sounds like this anxiety has been really persistent and hard to shake, even when you're just thinking about parks. Have you noticed any patterns in when these feelings are worse—for example, specific times of day, certain types of parks, or situations where you feel less in control?
+
+patient: Yeah, it’s definitely worse in the afternoon when I’m off work and thinking about going out. I get really keyed up if I go near any parks that are busy or have lots of paths—like the ones near campus. Even if I’m just walking by, I start panicking. And when I’m with friends who don’t get it, like if they suggest going to a park, my chest gets tight and I have to fake a reason to leave. I don’t know why it’s worse then, but I feel totally trapped.
+
+interviewer: It sounds like being around friends who don’t understand your anxiety adds to your sense of isolation—thank you for sharing that. What have you tried to manage these feelings when they come up, and how effective have those strategies been?
+
+patient: I mostly try to tell myself it was just an accident and that parks are safe, but it doesn’t really help. Sometimes I listen to music or focus on work to distract myself, but the anxiety still creeps in. It’s frustrating because I know logically there’s no real danger, but my body still reacts like there is.
+
+interviewer: It sounds like your coping strategies are helping a little but not enough to ease the anxiety—thank you for sharing that vulnerability. Looking ahead, what would you most hope to achieve through therapy? For example, is there a specific goal you’d like to work toward related to parks, your anxiety, or other areas of your life?
+
+patient: I hope to learn how to manage the anxiety so I can visit parks again without panic. Ideally, I’d like to slowly rebuild my confidence in outdoor spaces and stop letting this fear control my life. My friends miss doing things together, and I miss feeling normal.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Have you ever had thoughts of hurting yourself or ending your life?
+
+patient: No, I haven't had thoughts of hurting myself or ending my life. My anxiety is really focused on avoiding parks and the fear of tripping again, but I don't have any harmful thoughts. I just want to be able to walk in a park without my body reacting like it's going to fall every time.
+
+interviewer: I appreciate you sharing that. It sounds like you're doing your best to cope despite the anxiety. Have you noticed any changes in your energy levels, sleep, or concentration recently that might be different from usual?
+
+patient: Lately, I’ve been having trouble falling asleep at night because my mind stays wired about parks or other stressors. It’s not constant, but some nights I’ll just replay the accident over and over. My focus at work has slipped a bit too—like zoning out during meetings. I don’t know if it’s just the anxiety or if I’m overall more exhausted now.
+
+interviewer: I appreciate you sharing those experiences with sleep and focus—it sounds like the anxiety is really taking a toll. Have you noticed any periods where you feel unusually energetic or have a lot of ideas, even if you don't get much sleep?
+
+patient: No, I haven't noticed anything like that. My anxiety mostly makes me exhausted—when I do sleep, I feel drained but still restless. I don’t get that energy or racing thoughts, even when stressed. It’s more like my mind’s stuck on repeat about the park incident.
+
+interviewer: I appreciate your openness about how the anxiety feels like a loop. Let’s explore a bit more to understand what might be contributing. Have you noticed any changes in your thinking, like seeing or hearing things that others don’t, or feeling paranoid about people’s intentions lately?
+
+patient: No, I haven’t experienced anything like that. My anxiety makes me hyper-aware of my surroundings in parks—like noticing every crack in the sidewalk or feeling like people are watching me if I hesitate—but it’s not paranoia. I just... my mind goes straight to ‘what if I trip again?’ even when there’s no real reason. It’s more about my body reacting than thinking someone’s out to get me.
+
+interviewer: It sounds like your focus on potential threats in parks is more about physical safety than distrust of others. Let’s briefly check on other factors that might influence your symptoms—have you used alcohol, cannabis, or any other substances recently, including to manage your anxiety?
+
+patient: No, I haven’t used any substances like alcohol or cannabis recently. I’ve tried to rationalize my fears and distract myself, but it’s not really helping. I’ve avoided using anything because I don’t want to deal with that kind of dependency—my anxiety feels bad enough already.
+
+interviewer: I appreciate your honesty about avoiding substances. Let’s briefly check on other factors—could you share if you’re currently taking any medications, supplements, or vitamins, including over-the-counter ones?
+
+patient: No, I’m not taking any medications, supplements, or vitamins right now. I haven’t needed any since my doctor checked me after the fall and said there were no injuries. I just take the occasional ibuprofen for headaches, but that’s about it.
+
+interviewer: I appreciate your openness about avoiding substances. Let’s briefly check on any other medical factors—have you ever been diagnosed with a medical condition like thyroid issues, sleep apnea, or chronic pain that might affect your mental health?
+
+patient: No, I haven't been diagnosed with any medical conditions like thyroid issues or chronic pain. I’ve had some stress-related physical symptoms, like tension headaches, but my primary care doctor never found anything serious. My main concerns are the anxiety and fear I’ve been having—it all feels connected to the park incident.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Hannah, based on our conversation, it sounds like your anxiety began after the park accident and has grown to the point where it’s affecting your work, relationships, and ability to enjoy outdoor activities. We’ve explored how the fear of tripping or losing control triggers physical symptoms and avoidance, and how this has become a cycle keeping your anxiety going. Your motivation to rebuild confidence and engage in life is a key strength. What did I miss, or how would you like to adjust this picture?
+
+patient: I think you got the main points, but maybe the timing of my anxiety spikes hasn’t been mentioned much—it’s worst in the afternoons or when I’m near parks during busy hours. Also, the sleep part is tricky: I lie awake replaying the fall, so even when I do sleep, I wake up exhausted. And... I guess I’m frustrated that I can’t just ‘snap out of it’ even though I know parks are safe. It feels like my brain is stuck in this loop of ‘what if it happens again?’
+
+interviewer: I appreciate you sharing how the timing and sleep patterns add depth to this—those afternoon spikes and reliving the fall at night are important pieces. Let me recap: Your anxiety began after the park accident, worsens in busy outdoor spaces or afternoons, and disrupts sleep by keeping you stuck in 'what if' loops. This cycle of fear-avoidance is understandable as a self-protective response, but it’s now limiting your life. What did I miss or need to adjust here?
+
+patient: You captured the main points, but maybe missed how my body physically reacts when I think about parks—like my chest feeling tight or legs shaking, even when I’m just imagining it. Also, the fear isn’t just about tripping again; it’s a general worry about *not being able to walk safely* in open spaces, even if I’m careful. I think you adjusted well, but maybe focusing more on the physical sensations could help connect the mental and body reactions.
+
+interviewer: Thank you for clarifying the physical reactions—they highlight how your body and mind are tightly linked in this anxiety cycle. To recap our formulation: Predisposing factors might include a natural sensitivity to physical safety, the precipitating event was the park accident, perpetuating factors are the avoidance and nighttime rumination, and your motivation to engage therapy is a key protective strength. Does this model align with your experience, or would you adjust any part of it before we plan next steps?
+
+patient: Yes, that sounds familiar. I think the accident definitely set this off, and avoiding parks has probably made it worse. The part about my body reacting even when I know it's safe feels exactly like what happens—I get that tightness in my chest even just hearing someone mention parks. I guess the nighttime rumination is part of it too, but I wasn’t sure if that counted. The model makes sense, but maybe the fear is stronger in the afternoons because I used to go to parks in the morning when it was less crowded. Now I feel unsafe even at different times. The motivation part is right—I really want to fix this and stop letting it control me.
+
+interviewer: Thank you for sharing that clarity about the physical and temporal patterns—it’s important to integrate those into our plan. Before we decide on next steps, is there anything else we haven’t covered that feels important to your experience or goals?
+
+patient: Yes, I think it’s important to mention how my anxiety affects my social life. Even when I try to push through and meet friends, I end up canceling or leaving early because the anxiety becomes too much. It’s hard to explain to them why I can’t just ‘relax,’ and that adds to my stress.
+
+interviewer: Thank you for adding that social impact—it’s clear how this anxiety creates a ripple effect. Before we decide on next steps, is there anything else you’d like to include in our understanding of your experience? If not, let’s discuss what steps feel most important to you moving forward.
+
+patient: I think that covers the main parts, but I guess I’d add how it’s frustrating because I *know* parks are safe, but my body still reacts like that day never ended. It’s like my brain won’t let me move past it. For next steps, maybe figuring out how to rebuild trust in my own safety? Like, learning to walk through parks again without feeling I’m about to fall. I just… want to feel normal there again. Maybe starting with small steps, like looking at park photos without panicking?
+
+interviewer: Thank you for sharing that desire to rebuild trust in your safety—it’s a meaningful and achievable goal. To wrap up this phase: Our formulation aligns with your experience of trauma-triggered anxiety, physical reactions, and avoidance patterns. Your next steps could include gradual exposure (e.g., park photos/videos first), CBT techniques for challenging 'what if' loops, and sleep hygiene improvements. Does this plan feel realistic and aligned with your goals, or would you adjust anything before we finalize it?
+
+patient: The plan sounds realistic, but I’d want to start *very* gradually with the exposure part—maybe just imagining being in a park first, since even thinking about it triggers my body’s reactions. Also, working on the sleep habits would help me feel more grounded overall. I’m worried about facing parks directly too soon, but I trust the process if we take small steps.
+
+interviewer: Thank you for sharing your thoughtful adjustments—starting with imagination and sleep hygiene makes sense as a foundation. Before we conclude, is there anything else you’d like to adjust or add to this plan to ensure it feels right for you?
+
+patient: I think adding gradual exposure steps would help—like maybe starting with looking at park photos, then walking near parks without going in, and slowly building up. Also, working on how to explain my anxiety to friends without feeling judged might ease the strain on my relationships. Those feel important for progress.
+
+interviewer: Thank you for those thoughtful additions about gradual exposure and communication strategies—they’ll be essential for building confidence and support. Before we conclude, is there anything else you’d like to adjust or add to ensure this plan fully addresses your needs and goals?
+
+patient: Maybe we could also work on how to handle the physical sensations—like the chest tightness and shaky legs—when they happen suddenly in public? And I’d like to explore why the fear feels so 'stuck' in my body even when I know logically it’s irrational. Oh, and maybe strategies to help me sleep through the night without replaying the accident?
+
+interviewer: Thank you for those additions—they’ll help address both the body-mind connection and practical steps for progress. To finalize: Our plan includes gradual exposure (starting with imagination/photos), strategies for physical symptoms during panic, and sleep techniques to break the rumination cycle. Is there anything else you’d like to adjust or add before we conclude this phase?
+
+patient: I think that plan makes sense—I especially like the idea of starting small with imagination. Maybe adding something about how to handle moments when I feel judged for having a panic attack in public? I worry people will think I'm overreacting if I need to leave a park or get shaky in a social setting. Also, could we touch on how to explain this to friends without feeling embarrassed? I miss connecting with them but fear their confusion might make me isolate more. And maybe check in on work-related anxiety tactics? My focus slipping there is starting to stress me out more.
+
+interviewer: I appreciate your detailed input about public judgment, communication with friends, and work strategies—these are crucial for addressing both safety and connection. Before we finalize, is there anything else you’d like to adjust or add to ensure the plan fully addresses your needs and goals?
+
+patient: I’d like to clarify that the nighttime anxiety is worse—sometimes I can’t fall asleep because I’m replaying the accident or imagining myself tripping again. Also, maybe add that avoiding parks means missing out on hobbies like gardening at community spaces or casual picnics with friends. I know logically it’s irrational, but my body still reacts like it’s in danger, and I need help breaking that cycle. Oh, and I’d like guidance on how to explain this to friends without them thinking I’m ‘overreacting.’
+
+interviewer: I appreciate your detailed additions about nighttime anxiety, missed hobbies, and communication strategies—they’re critical for a holistic plan. To finalize: Our plan now includes gradual exposure (starting with imagination/photos), sleep techniques to break rumination, strategies for managing physical symptoms in public, and tools to explain your experience to friends. Is there anything else you’d like to adjust or add before we conclude this phase?
+
+patient: The plan sounds like a good fit. I’m especially hoping the communication strategies will help me explain my anxiety to friends without feeling judged. Maybe we could also revisit how to handle panic attacks if they happen during exposure exercises—I get really shaky when the fear spikes.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Patient reports anxiety triggered by park environments since a fall 3-4 months ago. Symptoms include chest tightness, racing heart, leg shakiness, panic, and fear of losing control. Anxiety worsens in afternoons, near busy parks, and during social interactions. Nighttime rumination about the accident disrupts sleep. Patient states, 'It’s like my body remembers the accident more than my brain does,' and 'I just want to feel normal there again.'
+
+Objective: Avoidance of parks impacts work (reduced focus), social life (cancellations/early exits), and hobbies (community gardening). No suicidal ideation or substance use. No medical conditions identified. Patient denies hallucinations or paranoia but notes hyper-vigilance in parks.
+
+Assessment: Anxiety disorder (likely trauma-related) with somatic symptoms, avoidance, and functional impairment. Fear of falling perpetuates avoidance, creating a fear-avoidance cycle. Sleep disturbance and social isolation exacerbate distress. Patient acknowledges cognitive dissonance ('I know parks are safe, but my body still reacts').
+
+Plan: Gradual exposure (imagery/photos first), CBT for rumination and physical symptom management, sleep hygiene education. Address communication strategies for friends and workplace focus. Monitor panic attack coping during exposure. Prioritize rebuilding trust in safety through small steps.
+
+--- End Summary ---
+

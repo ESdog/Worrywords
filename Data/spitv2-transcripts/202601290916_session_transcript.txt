@@ -1,0 +1,118 @@
+system: --- Session 202601290916 Start ---
+
+ --Patient ID 2056--
+
+system: --- Session 202601290916 Start ---
+
+ --Patient ID 2056--
+
+interviewer: Thank you for sharing that, Jennifer. Would you prefer I use any specific pronouns when referring to you, or is there a particular way you'd like me to address you?
+
+patient: Please use 'she' and 'her' pronouns, and you can call me Jennifer. Thank you for being respectful of that.
+
+interviewer: Thank you for sharing that, Jennifer. Today, we'll be discussing what's been on your mind and how I can support you. Would you be comfortable proceeding with this conversation?
+
+patient: Yes, I’d like to proceed. It’s hard talking about it, but I need help. My friends have encouraged me to seek support, so here I am.
+
+interviewer: Thank you for trusting me with this, Jennifer. Before we begin, do you have any questions about how today’s session will work or what we might discuss?
+
+patient: No, I don’t think so. I just… I hope we can figure out how to make these feelings go away. I miss my dad and worry about Mark all the time, and it’s hard to focus on anything else.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like these feelings have been really overwhelming for you, especially with the added stress of your boyfriend being away. Can you tell me more about what you're hoping to achieve through counseling?
+
+patient: I guess I want to learn how to stop feeling so stuck in this sadness. I miss my dad every day, and worrying about Mark makes it hard to even enjoy small things. I’d like to find a way to carry on without feeling like I’m falling apart, you know? My friends help, but I need tools to handle the weight of it all myself.
+
+interviewer: Thank you for sharing that—I hear how heavy this has felt for you. When did you first start noticing these feelings of sadness and worry, and how have they changed or stayed the same over time?
+
+patient: The sadness started right after my dad died. At first, it felt like normal grief, but when Mark joined the army a few years later, it hit me harder. I used to cry myself to sleep sometimes, and now... it’s like the weight never lifts. The worrying about him and the guilt of missing my dad at the same time—it’s constant. Even when I try to focus on hobbies, my mind just drifts back to both of them.
+
+interviewer: Thank you for sharing that depth of your experience—it sounds like the weight of these losses has grown heavier over time. What specific changes or events in the past few months have led you to seek help for this now?
+
+patient: The feelings have gotten more intense lately—like my sleep is worse now, and I can't focus on simple things. I remember one night just sitting awake, crying, thinking about how I lost both my dad and feel so far from Mark. My friends kept urging me to talk to someone, and I realized I couldn't ignore it anymore because I was struggling to get through my days.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I appreciate your willingness to share so much already, Jennifer. I want to ask a bit more about your background—have you experienced any other challenging or traumatic events in your life that might be related to how you're feeling now?
+
+patient: Not really, the main things are my dad's passing and Mark being away. They’ve really taken a toll on me, especially how they overlap in my mind. Before that, life was manageable, even with regular stress. Maybe I had some anxiety when Mark first left, but it’s the combination of both losses that’s made things so hard. That’s why I’m here, to figure out how to carry both without feeling stuck.
+
+interviewer: It sounds like these two losses have created a heavy emotional burden. Have there been any other difficult experiences or challenges in your life that might be contributing to how you're feeling now?
+
+patient: Not really, it's mainly these two things. I guess I never had to handle so much grief all at once before—it feels overwhelming, like they piled up and I couldn’t catch a break. My dad was my anchor, and losing him made me feel unmoored. Then Mark leaving… it’s like I’m stuck in this loop of loss.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing so openly, Jennifer. Let’s touch on a few more things to ensure we’re addressing everything important. Have you noticed any changes in your energy levels or sleep patterns recently—like feeling unusually restless, needing less sleep, or having difficulty calming down?
+
+patient: Yes, my sleep has gotten much worse. I’ll lie awake for hours, crying or just thinking about them, and even when I do sleep, it’s restless. I feel exhausted all day but can’t shake the weight in my chest. My energy’s like a balloon losing air—drained, but I force myself to keep going for work and friends, even when it’s hard.
+
+interviewer: I’m sorry to hear how difficult this has been for you. Have you ever had thoughts of intentionally harming yourself or ending your life, even if only in passing? If so, could you share how often these thoughts occur, whether you’ve considered a plan, or if there are things that help you stay safe?
+
+patient: No, I haven’t had thoughts about intentionally harming myself. While I feel really overwhelmed at times, I’ve never gone that far. I do worry about being stuck in this sadness, but my friends checking in on me and the hope of things improving with counseling have helped me stay grounded.
+
+interviewer: It’s reassuring to hear that your friends and counseling provide a sense of stability. Let’s explore a few more areas to better understand your experience. Have you ever had periods where you felt unusually energetic, needed very little sleep, or engaged in risky behaviors—like spending sprees, impulsive decisions, or racing thoughts—that felt different from your usual pattern?
+
+patient: No, I haven’t experienced anything like that. My main struggles have been with feeling overwhelmed by sadness and self-pity, not with energy or impulsivity. I’ve actually had trouble sleeping because I’m too worried, but it’s more about restlessness than feeling hyper or reckless.
+
+interviewer: Thank you for clarifying that. Let’s briefly touch on substances—have you used alcohol, cannabis, or any other substances recently, either to cope or for other reasons? If so, how often and in what amounts?
+
+patient: No, I haven’t used alcohol or other substances to cope. I’ve tried staying busy with crafts and calling friends, but sometimes I just feel overwhelmed and can’t shake the sadness.
+
+interviewer: Thank you for sharing that. To ensure we cover all relevant factors, are you currently taking any medications, supplements, or vitamins? If so, could you share what they are and how you’ve been using them?
+
+patient: No, I'm not currently taking any medications, supplements, or vitamins. I haven't been prescribed anything for this, and I haven't tried any specific ones on my own either. My friends suggested things like herbal teas for sleep, but I haven't stuck with them.
+
+interviewer: Thank you for sharing that. To ensure we cover all important areas, have you experienced any hallucinations, delusions, or paranoid thoughts recently—such as hearing voices, believing things that others don’t, or feeling overly suspicious about people around you?
+
+patient: No, I haven't experienced anything like that. My struggles have been more around grief, worry, and feeling overwhelmed rather than hearing voices or having paranoid thoughts.
+
+interviewer: Thank you for sharing so much about your experiences. To wrap up this part of our conversation, are there any other medical concerns or conditions—like thyroid issues, chronic pain, or sleep disorders—that might be contributing to how you’re feeling now?
+
+patient: No, I don’t have any other medical concerns like that. My main issues are the emotional struggles I’ve been describing—the grief over my dad and worry about Mark, which have really disrupted my sleep and focus. My friends say I look tired, but I haven’t noticed anything else physically that feels connected.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: To recap, your grief from your father's passing and anxiety about Mark's military absence have created a compounding emotional burden, leading to sleep disturbances, low energy, and difficulty coping with daily tasks. Your friends' support and willingness to seek counseling are important strengths. What did I miss or misrepresent here?
+
+patient: You captured the core of it well, but I’d add two things. First, I feel guilty about missing Mark while also grieving Dad—that mix of loss and longing feels selfish, like I’m ‘double’ sad when I shouldn’t be. Second, the fear of losing *both* of them at once is paralyzing. Sometimes it’s not just the grief but the shame of feeling pitiful, like I’m failing to handle life’s normal struggles. Also, I didn’t mention the sleepless nights where I cry so hard I physically ache—those are the worst.
+
+interviewer: I hear how the physical ache from those sleepless nights adds to your emotional weight, Jennifer. Let me try to weave this all together: Your grief over your father’s death and anxiety about Mark’s absence have created a compounding burden, intensified by guilt over feeling 'double' sad and fear of losing both. Protective factors include your friends’ support and your proactive step into counseling. What did I miss or misrepresent here?
+
+patient: You captured the core of it well. I’d add the guilt over 'double' grief is tied to thinking I shouldn’t feel this sad about my dad since it’s been years, but Mark’s absence reignited all that. Also, the hobbies/distractions I tried—like gardening or calling friends—help briefly but never last. And yes, the fear of losing both feels like a shadow I can’t shake. Thank you for getting the basics right.
+
+interviewer: Jennifer, let me try to synthesize how these elements might be interacting: Your predisposing factors may include a lifelong tendency to internalize emotional weight, while the precipitating events were your father’s death and Mark’s enlistment. These losses have been perpetuated by guilt over feeling ‘double’ grief and ineffective coping strategies like hobbies that offer brief relief. Protective factors include your social support and proactive help-seeking. What did I miss or need to adjust here?
+
+patient: You captured the internalizing tendency and the dual losses well, but maybe missed how the guilt isn’t just about ‘double’ grief—it’s also about feeling like I’m failing to handle both losses ‘properly.’ Also, the fear of losing Mark (not just missing him) adds to the anxiety, and my sleep issues aren’t just about fatigue—they’re like a physical manifestation of being stuck in this emotional loop. Otherwise, your synthesis feels accurate.
+
+interviewer: I appreciate you clarifying how the guilt feels tied to both the intensity of grief and fear, and how sleep issues mirror that emotional 'stuckness.' Let’s shape a next step: Would you be open to exploring strategies to break the emotional loop—like structured grief processing for your father’s loss and practical tools to manage Mark’s absence—while also addressing the physical toll on your sleep? What other priorities would you add to this plan?
+
+patient: That sounds like a good approach—I’d agree to structured grief processing and practical tools. I’d also want to prioritize finding ways to honor my dad’s memory without feeling guilty for moving forward, and maybe tools to stay connected to Mark without letting worry dominate my thoughts. My sleep is a big piece of this too; even if I work through the grief, I can’t function without rest. I guess I’d also want to learn how to ‘hold both’ losses without them collapsing into one endless weight.
+
+interviewer: I appreciate your clarity on these priorities, Jennifer. Before finalizing our next steps, would you like to share any preferences about how we might approach therapy (e.g., talk therapy, structured exercises, connecting with support groups) or whether you'd consider exploring other tools like mindfulness or medication in the future?
+
+patient: I think talk therapy would be best for me right now—I feel like I need help unpacking these emotions and learning how to process both griefs without feeling overwhelmed. My friends have suggested mindfulness apps, so maybe incorporating something like that could help with the restless sleep. I haven’t considered medication, but if it became necessary later, I’d be open to discussing it. For now, I just want tools to feel less stuck.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Patient reports persistent grief following father’s death (timeline unspecified) and anxiety related to boyfriend’s military deployment (intensified over years). Symptoms include sleep disturbances (restless, crying spells), low energy, difficulty focusing, and emotional overwhelm. Guilt about 'double' grief (father’s loss + boyfriend’s absence) and fear of losing both. Notable quote: 'The weight never lifts... I need tools to handle the weight of it all.'
+
+Objective: No physical exam data. Patient denies suicidal ideation, hallucinations, delusions, or substance use. Reports functional impairment: struggles with daily tasks, social withdrawal despite friend support, and sleep-deprived fatigue impacting energy.
+
+Assessment: Complicated grief (prolonged father’s death) with adjustment disorder features (Mark’s deployment). Compounding losses contributing to emotional dysregulation, guilt, and sleep disruption. No acute safety concerns. Internalizing coping style noted.
+
+Plan: Prioritize structured grief processing for father’s loss and practical anxiety management tools for Mark’s absence. Explore mindfulness for sleep. Address guilt around 'double' grief and develop strategies to honor father without shame. Monitor sleep/functioning. Consider pharmacology if symptoms persist despite therapy.
+
+--- End Summary ---
+

@@ -1,0 +1,114 @@
+system: --- Session 202601281505 Start ---
+
+ --Patient ID 4909--
+
+system: --- Session 202601281505 Start ---
+
+ --Patient ID 4909--
+
+interviewer: Welcome, Becky. To start, may I use your name, and how would you like me to refer to you?
+
+patient: Yes, please call me Becky. I’m a comic book artist, so you might catch me doodling in the waiting room sometimes.
+
+interviewer: Thank you for sharing your passion for art. Becky, I’ll be asking some questions to understand your experiences better. Would that be okay with you?
+
+patient: Yes, that's okay. I just hope we can figure out how to get my creativity back... I've been stuck for months.
+
+interviewer: It makes sense that creativity feels tied up right now. Before we begin, do you have any questions about how this will work or anything else?
+
+patient: No, I don’t have any questions right now. I’m just hoping we can work through these feelings of... of doubting my own passion. It’s been eating at me for a while.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Thank you for sharing that, Becky. It sounds like this has been a challenging journey for you. Can you tell me a bit more about when these feelings of self-doubt first started and how they’ve changed over time?
+
+patient: It started a few years ago, maybe around 2021. At first, I’d just feel a little uneasy after social media arguments where people dismissed comic art as 'not real work.' But over time, those fleeting doubts became this constant hum in my head. Last year especially, comparing my passion to friends’ corporate jobs or my sister’s ‘practical’ career—like she’s some CEO—made me question if I was just… wasting time. Now, even when I draw, I’m half-convinced I should be doing something 'better' with my hours. It’s like the doubt follows me into my own creative space, and that’s crushing.
+
+interviewer: It sounds like the doubt has become a heavy presence in your creative process, making it hard to fully engage with your passion. What are you hoping therapy can help you achieve in terms of your relationship with your art and these feelings of self-doubt?
+
+patient: I guess I want to stop seeing my art as ‘not enough’ compared to what society says matters. You know, I’ve loved drawing since I was a kid, but lately it feels like I’m just… going through the motions. If therapy could help me remember why I started creating in the first place, that’d mean a lot. I also hope to figure out how to quiet this voice that says my hobbies are a waste of time—especially when I’m with other artists who seem so ‘serious’ about their work.
+
+interviewer: Thank you for sharing your hopes for therapy, Becky. It’s clear how deeply your passion for art is tied to your identity. To better understand how these feelings are affecting you daily, have you noticed any changes in your mood, sleep, or energy levels since these self-doubts began?
+
+patient: Yeah, definitely. My mood’s been... lower overall, like a constant cloud hanging over me. I used to get so excited about my art, but now it feels like a chore. I’ve also had trouble sleeping—sometimes I lie awake for hours thinking about whether my work even matters. And when I do sleep, I wake up tired. My energy’s worse too; even sketching for an hour leaves me drained. I’ve canceled plans with friends a few times because I just couldn’t muster the motivation to leave the house.
+
+interviewer: It sounds like the weight of these doubts has made even your creative process feel burdensome, which must be exhausting. Can you share a bit about what you’ve tried so far to manage these feelings—whether things that have helped, or strategies that might have made things harder?
+
+patient: I’ve tried telling myself that creating comics should be about joy, not validation, but the doubt still creeps in. I once forced myself to sketch daily for a month, thinking routine would help, but it felt like pushing through mud—it just made me hate drawing more. My friends who get it try to encourage me, but honestly, most people just say things like, “Why isn’t this a ‘real’ job?” which… yeah, that doesn’t help. I think I’m running out of options, which is why I’m here.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I want to understand if there have been any difficult or challenging experiences in your life that might be impacting how you feel about your art or yourself. Would you be comfortable sharing about that?
+
+patient: Those online arguments from 2021 really shook me. People called comic art '幼稚' or said it wasn't 'real' work, which made me second-guess everything. Then, seeing my sister climb the corporate ladder while I... well, while I'm drawing superheroes in my pajamas? It's hard to ignore that contrast. I keep thinking, 'Am I just... wasting my potential?'
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I want to make sure we address any urgent concerns. Have you ever had thoughts of harming yourself or ending your life, even if only in passing?
+
+patient: No, I haven't had thoughts of harming myself. But sometimes the emotional weight feels overwhelming, like I can't escape this doubt that I'm just... wasting my time on something 'childish' instead of doing something 'real.'
+
+interviewer: It sounds like the pressure to conform to certain expectations has been really heavy on your creative spirit. Let’s shift focus slightly—have you noticed any changes in your use of alcohol, cannabis, or other substances recently, either to cope or for other reasons?
+
+patient: Honestly, I haven’t really changed my habits with alcohol or anything else. Maybe a glass of wine sometimes when I’m too overwhelmed to sleep, but nothing heavy or regular. I don’t want to rely on that—it just makes the guilt worse. I’ve never used cannabis or other things, but I’ve thought about it... even though part of me says it would just feed the self-doubt.
+
+interviewer: It sounds like you’ve been managing without turning to substances for relief. Let’s explore a few more areas to ensure we’re addressing all factors. Have you noticed any periods where you felt unusually energetic, needed less sleep, or had a lot of ideas coming at once?
+
+patient: No, I haven’t experienced that. Lately, I’ve actually been feeling the opposite—like I can’t even muster the energy to start drawing sometimes. Before 2021, there were definitely bursts of creativity, but those feel forced now. Now it’s more like dragging myself to sketch for 30 minutes feels like climbing a mountain.
+
+interviewer: Have you noticed any changes in your thoughts or perceptions, such as hearing voices, seeing things others don’t, or having strong beliefs that feel unusual or hard to let go of, even when others disagree?
+
+patient: No, I haven't heard voices or seen things that others don't. But... the negative thoughts about my work feel almost like an unshakable belief. Like I keep telling myself my passion is frivolous, even when friends say they enjoy my art. It’s hard to explain—those doubts have become this automatic filter, making me question every choice related to my creativity.
+
+interviewer: It sounds like those persistent doubts are deeply tied to your creative identity. Let’s check a few more things to ensure we have a complete picture—could you share if you’re currently taking any medications, supplements, or vitamins regularly?
+
+patient: No, I'm not taking any medications, supplements, or vitamins regularly. My health hasn't been a big issue, so I haven't needed any of those. I do try to eat well most days, but that's about it.
+
+interviewer: It sounds like your energy challenges are deeply tied to your creative process. Let’s briefly check for any underlying medical factors—have you noticed any conditions like thyroid issues, sleep apnea, or chronic pain that might contribute to your fatigue or mood?
+
+patient: No, I haven’t been diagnosed with any of those physical conditions. But I *have* been struggling with sleep—mostly waking up in the middle of the night, which probably contributes to the tiredness. I’m not sure if it’s stress or something else, though.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Based on our discussion, it sounds like your self-doubt about comic art began after 2021 online criticism labeled it as '幼稚,' which collided with long-standing comparisons to your sister’s corporate success. This created a cycle where societal pressures and internalized guilt about 'wasting time' now make creative work feel burdensome, even though you still doodle and seek help to reconnect with your passion. Does this capture your experience accurately, or would you like to adjust anything?
+
+patient: Yes, that’s pretty much it. The 2021 criticism felt like a punch to the gut—I’d never questioned my art before, but suddenly people called it ‘幼稚,’ which I took to mean ‘childish’ or not serious. Comparing myself to my sister’s corporate ladder just made it worse; I felt like I was failing at both ‘real success’ and my own passion. Now, even when I doodle, there’s this nagging voice that says, ‘You’re just wasting time,’ and it’s exhausting. The guilt’s like a loop, and I can’t seem to turn it off.
+
+interviewer: It sounds like you’ve been carrying this weight alone for a long time, Becky—your resilience in keeping creative despite the exhaustion is something we can build on. Let me briefly outline a model of what’s been going on: Predisposing factors might include your deep connection to art as identity, while the 2021 criticism acted as a precipitating event. Perpetuating factors could be the relentless self-criticism and comparisons, while protective factors include your proactive help-seeking and continued doodling. Does this framework make sense, or would you add/correct anything?
+
+patient: The framework makes sense, though I’d add that the persistent invalidation from others—like people saying my work isn’t ‘real’—fuels the self-criticism. Also, the sleeplessness feels like it’s looping me back into the same tired, negative cycles every night.
+
+interviewer: I appreciate you sharing how invalidation from others and sleep disturbances are intensifying the cycle of self-criticism. Let me update the model to include these: the external invalidation (e.g., 'not real work') and sleeplessness are now key perpetuating factors. Does this revised framework feel accurate, or is there more to add? What did I miss?
+
+patient: Yes, that feels right. I think what’s missing is how my self-worth feels tied to my art. When I doubt it, I start questioning *myself*—like if I’m ‘failing’ at life because I’m not ‘serious.’ Also, the fear that others might see my passion as childish, not just dismissive comments… it’s like I’m stuck in this loop of proving it’s valid while it’s draining me.
+
+interviewer: Thank you for sharing that—it’s clear how deeply tied your self-worth is to your creative output, and how the fear of invalidation amplifies the emotional weight you’re carrying. To recap: Our model includes predisposing factors (art as identity), precipitating events (2021 criticism and sibling comparisons), perpetuating factors (self-criticism, sleeplessness, external invalidation), and protective factors (proactive help-seeking, doodling resilience). What did I miss, or is there anything you’d adjust before we discuss next steps?
+
+patient: Your model is pretty spot-on, but maybe the part about ‘doodling resilience’ feels a bit small. When I’m sketching randomly in my notebook, even if it’s messy, it’s like a tiny rebellion against the voice that says my work doesn’t matter. It’s not much, but it’s the only thing that still feels mine. Also, the sibling comparisons… I don’t think it’s just about her success. It’s like she doesn’t get that my art *is* my success, but I can’t explain it without sounding…幼稚, to use that word against myself. Maybe that’s part of the perpetuating cycle too—the shame of not being understood.
+
+interviewer: I appreciate you sharing how doodling is both a rebellion and a lifeline for you, Becky. What do you think would help us start untangling this loop of self-criticism and rekindle the sense of ownership you described in your doodling?
+
+patient: Honestly, I think starting would mean letting go of the pressure to make every piece ‘count’ as something big. For years, I tied my worth to how ‘serious’ my art was seen as, but when I doodle without that weight—like the superhero in pajamas sketches—it feels like I’m just... being me again. Maybe if I could focus on that joy first, instead of fixing what I think others want, it might quiet the voice that says I’m wasting time. But it’s hard; that voice is loud, especially when I scroll through social media and compare myself to others.
+
+interviewer: I appreciate your insight about how unstructured doodling reclaims your sense of self—let’s build on that. If we set a goal to explore creative practices that prioritize joy over productivity, while also addressing the sleep and social media cycles that amplify self-criticism, would that feel like a manageable next step? Is there anything else we haven’t covered that matters to you right now?
+
+patient: That sounds manageable, but the self-criticism is so automatic now—it’s like a broken record. Even trying to doodle feels like I’m ‘supposed’ to create something ‘good,’ so I freeze. And the social media part… every scroll feels like another reminder that my work isn’t ‘enough’ compared to others. Also, the sleep thing… I’ve been waking up at 3 a.m. staring at the ceiling, but I’m not sure if it’s the anxiety or just bad habits from late-night scrolling. Is it okay if I take this one step at a time?
+
+interviewer: It’s understandable that the self-criticism feels so entrenched—it’s like trying to quiet a storm that’s been raging for years. Let me propose a tentative next step plan: We could start by experimenting with small, joy-focused creative exercises (like your superhero-in-pajamas doodles) to rebuild confidence, while also exploring strategies to limit social media’s impact and address the 3 a.m. rumination cycle. Would this feel like a reasonable starting point, and is there anything else you’d want to prioritize first?
+
+patient: The plan sounds reasonable, especially the part about the superhero doodles—they’re the one thing I still laugh at sometimes. I guess I could try smaller exercises to ease back in... though the 3 a.m. rumination is tough. Sometimes I lie there thinking about my sister’s LinkedIn posts and wondering if I’m just... stuck in a fantasy. Could we also talk about how to stop that voice from winning at night? It’s like my brain won’t let me rest.
+
+interviewer: I’m glad the plan resonates, and I appreciate your honesty about the 3 a.m. rumination—it’s valid to feel overwhelmed by it. Let’s make addressing that part of our next steps. Before we finalize, is there anything else you’d like to add or adjust in this plan to ensure it feels right for you?
+
+patient: I think focusing on practical ways to quiet that critical voice when I create would help—like affirmations or grounding techniques. Also, maybe exploring how to set boundaries with comparisons to my sister or others, since that feels like a big weight. Oh, and the sleep thing—waking at 3 a.m. with these spiraling thoughts—if we could work on that rhythm, it might untangle some of the exhaustion fueling the doubt.
+
+system: --- Phase 5 End ---
+

@@ -1,0 +1,110 @@
+system: --- Session 202601290735 Start ---
+
+ --Patient ID 3187--
+
+system: --- Session 202601290735 Start ---
+
+ --Patient ID 3187--
+
+interviewer: Hi Sadie, just to make sure I have the correct details—could you confirm your name and let me know if you have any pronoun preferences?
+
+patient: My name is Sadie Ellis, and I go by she/her pronouns.
+
+interviewer: Thank you, Sadie. This session will focus on understanding your concerns and how we can work together. It will take about 45 minutes. Are you comfortable proceeding with that?
+
+patient: Yeah, I guess so. I mean, I’m a little nervous, but I want to figure out how to feel less... left out. I hope we can work on that together.
+
+interviewer: You mentioned feeling nervous but committed to working on these feelings of being left out—thank you for sharing that. Is there anything you’d like to ask me before we start?
+
+patient: No, I don’t think so… I guess I just want to know if we can figure out ways to help me feel less left out. I’m not sure where to start, but I want to try.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Can you tell me more about what's been troubling you lately and how it's been affecting your daily life?
+
+patient: Lately, I've been really struggling with feeling like I don't fit in when my friends play video games together. It started a few months ago, and it's gotten worse over time. I try to start game nights or ask them to play with me, but they always end up choosing each other instead. It makes me wonder if they don’t actually want me around, even though I know that’s probably not true. It’s been hard on my confidence, and I’ve been feeling sad a lot, especially when I see them laughing without me. I haven’t talked to them about it directly because I’m scared they’ll just avoid me more.
+
+interviewer: I appreciate your courage in sharing this. It sounds like these feelings have been building up and are really affecting your confidence and mood. Can you tell me what prompted you to seek counseling at this time, rather than earlier?
+
+patient: I think I tried to ignore it at first, hoping things would get better on their own. But when I realized these feelings weren’t going away and were making me feel sad almost every day, I knew I needed help. My self-esteem started to drop, and I worried it would get worse if I didn’t do something.
+
+interviewer: It’s commendable that you recognized the need for help and took this step. Can you share more about when these feelings of being left out first began and if there were any specific moments or changes that made them feel worse over time?
+
+patient: The feelings started a few months ago when I noticed my friends were spending more time playing games with each other instead of including me. It got worse when I tried joining in but they’d act like I wasn’t there, or just say, “We’re just finishing this match.” Even when I asked to play together, they’d brush me off. It’s like I’m invisible sometimes.
+
+interviewer: I’m sorry to hear that, Sadie. It’s tough when we feel invisible in groups we care about. How have these feelings been affecting your schoolwork or other daily activities lately? Have you noticed any changes in your energy or focus when this happens?
+
+patient: It’s made me kinda distracted in class sometimes. I’ll be daydreaming about why my friends don’t want to play with me, and then I miss assignments. Lately, I’ve been dragging my feet on homework because I feel like no one cares if I do well anyway. My head just feels... heavy when I try to focus, like I can’t shake the worry that I’m being left out.
+
+interviewer: I hear how heavy your head feels when you're trying to focus. Have you noticed any changes in your sleep or energy levels when you're feeling this way?
+
+patient: Yeah, I’ve been having trouble sleeping some nights. When I feel left out, my head feels so heavy I can’t stop thinking about it, so I’ll stay up late replaying things in my head. Then the next day I’m just… really tired, like I can’t catch up. It’s like my energy is drained even if I didn’t do much.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I appreciate your willingness to share so openly, Sadie. It sounds like these feelings of exclusion have been really heavy to carry. Let’s explore a bit more about your background—have you experienced any challenging or difficult situations in your life (like school stress, family changes, or other tough moments) that might be connected to how you’re feeling now?
+
+patient: I don’t think I’ve faced other major challenges besides this—my life has been pretty stable otherwise. But I guess the stress of school has felt heavier lately, maybe because I’m struggling to focus when I’m already so worried about being left out. It’s like everything piles up when I feel this isolated.
+
+interviewer: It sounds like the weight of school and social worries has been especially heavy lately. Can you tell me a bit about the friends you mentioned you can talk to—how have they supported you during stressful times?
+
+patient: My friends are the kind who listen when I need to vent about, like, school stress or family stuff. They’ll text me to check in or sit with me at lunch. But... I haven’t actually told them how I’ve been feeling about gaming and being excluded. I’m scared they’ll think I’m being dramatic or that it’ll make them avoid me more. When we do talk, I focus on lighter things instead of bringing it up.
+
+interviewer: It’s understandable to feel hesitant about bringing up such personal concerns, especially when you fear it might change how others see you. Have you experienced similar feelings of being excluded or worried about how others perceive you in the past?
+
+patient: No, I don't think I've experienced anything like this before. I've always been introverted, but this feels... heavier. Like, I used to just keep to myself without it hurting so much. Now it's like a shadow over everything else, which is kinda scary honestly.
+
+interviewer: It makes sense to want to protect your relationships while navigating these feelings. Let’s look at other factors—have you experienced any traumatic events or significant adversities in your life (like bullying, family conflict, or major life changes) that might be influencing how you view social connections now?
+
+patient: I don’t think I’ve experienced anything traumatic like bullying or major family conflicts. My family’s pretty stable, and I’ve never been teased harshly about this. But the isolation feels worse because it started gradually—like when my friends began spending more time together, I noticed myself being excluded more often. It’s hard not to overthink if there’s something *wrong* with me, even if there’s no big event to point to.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate your openness, Sadie. To ensure we address everything important, can you tell me if you've ever had thoughts about harming yourself or ending your life?
+
+patient: No, I haven’t had thoughts about harming myself or ending my life. But I do feel overwhelmed sometimes, like the weight of it all might crush me if I don’t find a way to feel included again.
+
+interviewer: I appreciate you sharing that sense of overwhelm—it sounds really heavy to carry alone. Have you noticed any changes in your energy levels or sleep patterns lately?
+
+patient: Yes, my sleep has been really off lately. I’ll lie awake for hours thinking about why my friends don’t include me, and when I finally fall asleep, I wake up exhausted. It’s made me feel sluggish all day, which makes schoolwork harder to focus on—like another thing piling up.
+
+interviewer: It sounds like your sleep disturbances are contributing significantly to your fatigue and academic challenges. Have you noticed any changes in your energy levels or felt like you don't need as much sleep lately? For example, have you felt unusually restless or had difficulty slowing down your thoughts?
+
+patient: No, I haven’t felt like I need less sleep, but my mind does race sometimes even when I’m tired. I’ll lie there replaying moments where I felt excluded or worrying about what friends might be doing without me. It’s like my brain won’t slow down, even when my body is exhausted from carrying that weight all day.
+
+interviewer: I appreciate you sharing how your mind stays active even when your body is tired—it sounds exhausting. Have you used alcohol, cannabis, or other substances in an attempt to cope with these feelings of isolation or anxiety?
+
+patient: No, I haven’t used anything like that. I’ve tried starting game nights to feel included, but it still doesn’t work. I just... get stuck in my head more, you know?
+
+interviewer: It’s clear how much effort you’re putting into finding connection—it’s understandable that starting game nights feels like a step, even if the outcome hasn’t matched your hope. Are you currently taking any medications, supplements, or vitamins, and if so, how are you tolerating them?
+
+patient: No, I’m not currently taking any medications, supplements, or vitamins. My doctor hasn’t prescribed anything for this, and I haven’t really considered it since I’m still focusing on talking things through. I guess I thought maybe working on my confidence or communication would help first.
+
+interviewer: I appreciate your honesty about not using substances or medications—it shows your commitment to addressing this through thoughtful steps. Have you noticed any times when you feel unusually energetic or restless, or when you take more risks than usual, even if it’s something small like staying up late or pushing yourself in school?
+
+patient: No, I don’t think so. Most days I actually feel more drained or sluggish, especially after not sleeping well. When I do push myself in school, it’s more out of trying to stay distracted than taking risks. I guess I sometimes stay up late replaying conversations in my head, but it’s not really a choice—I just can’t stop thinking about feeling left out.
+
+interviewer: I appreciate your honesty about your energy patterns. Have you noticed any changes in your thinking, like hearing voices, seeing things others don’t, or feeling that people are talking about you when they’re not?
+
+patient: No, I haven’t heard voices or seen things others don’t. I sometimes worry my friends are ignoring me, but it’s more about feeling excluded than thinking they’re secretly talking about me. I know they probably don’t mean to leave me out, but it still hurts.
+
+interviewer: I appreciate you sharing about the emotional weight of feeling excluded—it’s brave to acknowledge how much this affects your daily life. Have you been evaluated for any medical conditions like thyroid issues, sleep apnea, or chronic pain that might be contributing to these symptoms?
+
+patient: No, I haven’t had any medical evaluations for things like thyroid issues or sleep apnea. My main concerns have been about the emotional and social side of feeling left out, not physical health. But I guess it’s possible the tiredness I mentioned could be related to something else? I’ve just assumed it’s stress from school and feeling lonely.
+
+interviewer: I appreciate your openness about the weight of these feelings—it’s clear how much they’re impacting your life. To wrap up this part of our conversation, can you share what supports or coping strategies have helped you feel more stable or hopeful during difficult moments?
+
+patient: Honestly, I don’t have many… I’ve mostly tried playing games alone to feel in control, but it just reminds me of being excluded. Sometimes I’ll listen to music or podcasts to distract myself when I’m feeling overwhelmed, but the isolation still lingers. I guess I try to tell myself they’re busy, not that I’m unlikable, but it’s hard to believe it.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+system: --- Phase 5 End ---
+

@@ -1,0 +1,130 @@
+system: --- Session 202601290305 Start ---
+
+ --Patient ID 3505--
+
+system: --- Session 202601290305 Start ---
+
+ --Patient ID 3505--
+
+interviewer: Gregory, I'm Dr. Wilson. Today, we'll start by discussing your current concerns and how counseling can help. Would you be comfortable with that?
+
+patient: Yes, I’m willing to talk about it. It’s just... been really hard since the divorce. I can’t stop blaming myself for everything, and it’s isolating. But I need to figure this out, especially since it’s affecting my work and my daily life now.
+
+interviewer: It sounds like you're carrying a lot right now. Before we begin, do you have any questions about the process or what to expect in our sessions?
+
+patient: Honestly, I haven’t really done anything like this before, so I’m a little unsure what to expect. Maybe I could ask – how does counseling usually help someone like me who feels stuck in self-blame? And… is everything here confidential? I’m not used to opening up about these things.
+
+interviewer: It's good you're asking about confidentiality. It's important to know that our sessions are confidential, except in cases where there's a risk of harm to yourself or others. Does that make sense?
+
+patient: Yeah, that makes sense. I mean, I guess it’s reassuring to know I can talk freely without judgment. I’ve just been... holding a lot in lately.
+
+interviewer: Thank you for sharing that; it takes courage to confront emotions you've been holding inside. Would you like me to briefly explain how our sessions will work and what to expect?
+
+patient: Yes, please. I’m not really sure what to expect, but I’m willing to try. It’s just… been a while since I’ve talked about this stuff with anyone.
+
+interviewer: It’s okay to feel uncertain at first—this is a safe space to explore things at your own pace. Our sessions will typically last about 50 minutes, and we can work together to set goals that feel manageable for you. Does that sound like a good plan to start with?
+
+patient: Yes, that sounds good. I just hope I can actually do this without... without failing again like I always do.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like the divorce has really impacted your self-view and daily life. What are your main goals for coming to counseling right now?
+
+patient: My main goal is to stop hating myself for the divorce and learn how to feel... whole again. I guess I want to figure out why I keep thinking I’m broken, especially when I see families at work. Also, I need help not letting these thoughts ruin my job and my chances to make friends. I’m tired of feeling like a failure.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I appreciate your openness, Gregory. It takes courage to share these feelings. To better understand patterns, have you experienced similar feelings of self-blame or isolation in the past, perhaps during other challenging times?
+
+patient: No, this is the first time I’ve felt like this. Before the divorce, I handled stress by throwing myself into work or distractions, but this feels different—like the guilt is always there, even when I’m busy. I guess I never realized how much I tied my self-worth to having a family, so when that fell apart, it hit harder than anything before.
+
+interviewer: It takes strength to confront these feelings, Gregory. You mentioned having close friends—can you share how they’ve been supporting you through this difficult time?
+
+patient: My friends are... they're good people. They check in on me, take me out for coffee sometimes, but I haven't really told them how bad it's been. I don't want to burden them with my... my self-destruction. It's like they see me as the ‘cheerful single guy’ who just split up, not the one who feels broken every time he sees a kid's mom wave at the storytime crowd.
+
+interviewer: Thank you for sharing that, Gregory. It sounds like the pressure to appear 'cheerful' while hiding your pain is adding to your isolation. Can you describe any specific situations or events in your current life that feel particularly stressful or overwhelming?
+
+patient: The worst is during storytime or school visits when kids bring up their families. I force a smile but inside I’m crumbling, wondering why I can’t have that. Last week at the winter festival, a parent asked me to take photos with their kids—every ‘happy family’ picture felt like a knife. I excused myself and hid in the staff room, shaking. My coworker Karen tries to include me, but I just nod and withdraw, knowing I’ll mess up conversations by over-apologizing or going silent. It’s like I’m drowning in everyone else’s normalcy.
+
+interviewer: It sounds like these situations at work are deeply triggering for you, Gregory. Before we explore more about your current stressors, may I ask if there have been any other traumatic events or significant challenges in your life that might be connected to these feelings of self-blame or isolation?
+
+patient: Not that I can think of—my divorce is really the first time I’ve felt this way. Though... growing up, my dad was pretty emotionally distant, and I always felt like I had to prove myself to him. Maybe that’s part of why I can’t stop blaming myself now. I don’t know.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Thank you for sharing so openly, Gregory. It takes courage to confront these feelings. Have you experienced any thoughts of harming yourself or ending your life since the divorce?
+
+patient: No, I haven’t had thoughts like that. But there are days when the guilt feels so heavy I wonder if I’ll ever stop hating myself. I’m clinging to counseling as a way to stop spiraling—I don’t want to lose my job or push away the few friends I have left.
+
+interviewer: Thank you for sharing that Gregory. It’s clear how much weight you’re carrying right now. Have you noticed any changes in your use of alcohol, cannabis, or other substances since the divorce?
+
+patient: I haven't noticed any changes in my use of alcohol, cannabis, or other substances since the divorce. I don't use any substances regularly, but I have thought about it more lately, honestly.
+
+interviewer: Thank you for clarifying that, Gregory. It's important we explore all aspects to ensure your well-being. Have you noticed any periods where you felt unusually energetic, needed less sleep, or took more risks than usual recently? This helps us check for patterns like hypomania.
+
+patient: No, I haven’t felt unusually energetic or needed less sleep lately. Most days I feel drained, like I can’t even get through storytime without my thoughts pulling me under. I used to stay up late reading to avoid sleeping, but now I just... crash early and wake up stuck in the same headspace. It’s like my brain won’t let me rest.
+
+interviewer: It sounds like the cycle of exhaustion and persistent negative thoughts is really wearing on you. Have you experienced any hallucinations, delusions, or paranoid thoughts recently—like hearing voices, believing others are monitoring you, or seeing things others don’t?
+
+patient: No, I haven't experienced anything like that. The worst part is the relentless self-blame—like I’m a failure for not having a family, even though it’s not entirely in my control. Seeing kids at work just... itches at that guilt, but it’s still my own voice, not... not something else.
+
+interviewer: Thank you for clarifying that, Gregory. It’s clear how deeply this is affecting your self-perception. Are you currently taking any medications, vitamins, or supplements—prescribed or over-the-counter—that you’d like to mention? This includes things like antidepressants, sleep aids, or even daily multivitamins.
+
+patient: No, I'm not taking any prescribed medications, sleep aids, or antidepressants. I do take a daily multivitamin, just out of habit really—my ex used to make me take it to 'keep my energy up,' so I still grab it most days.
+
+interviewer: Thank you for explaining the multivitamin. Have you been diagnosed with any medical conditions that might affect your sleep, energy levels, or mood, such as thyroid issues, sleep apnea, or chronic pain? This helps us rule out physical contributors to your symptoms.
+
+patient: No, I haven’t been diagnosed with any medical conditions that affect my sleep, energy, or mood. I don’t have any significant physical illnesses, as far as I know.
+
+interviewer: It’s understandable to feel tempted when struggling with such intense emotions. Can you share which substances you’ve been thinking about using more lately? This helps us understand how to best support your well-being.
+
+patient: I haven’t been using any substances, but I’ll be honest—I did start drinking more at first after the divorce, just to... quiet the thoughts. But it never helped, and I felt worse afterward, so I stopped. Now I’m trying to focus on talking through it instead.
+
+interviewer: Thank you for your honesty, Gregory. It’s clear how challenging this has been for you. Can you tell me about any supports or activities that help you feel more stable or hopeful during difficult times? This could include friends, hobbies, or even small routines that provide comfort.
+
+patient: Honestly, there’s not much right now. I have a few friends, but I’ve been keeping things surface-level—I don’t want to be a burden. Sometimes I’ll read fiction to escape, but even that feels hollow lately. The only small thing is my morning walks to work; the quiet time helps me not spiral… but most days, even that feels like a chore.
+
+interviewer: It’s clear how challenging this has been for you. Have you used or considered using other substances like stimulants, opioids, or something else to cope with your emotions recently?
+
+patient: No, I haven’t used any substances like that. I’ve tried to distract myself with work, but it’s not working anymore. The guilt just... follows me everywhere, even when I’m trying to focus on stories or shelving books. It’s exhausting.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: To recap, your distress began after your divorce and has been fueled by self-blame over not having children or maintaining a family, which feels tied to your self-worth. We’ve explored how this impacts your work, relationships, and daily life, and how patterns of self-criticism and social withdrawal keep these feelings going. Protective factors include your willingness to seek help and small supports like your friends. What did I miss or get wrong about this picture?
+
+patient: You got the main points, but maybe missed how my dad’s emotional distance as a kid made me tie my worth to ‘being a family man’ in the first place. Also, I didn’t mention how I’ve avoided talking to my ex about co-parenting—there are no kids, but the silence feels like another failure. And… the interviewer didn’t ask about my mom, but she’s passed, and I wonder if that grief resurfaces in this loneliness.
+
+interviewer: Thank you for sharing those important additions, Gregory. It sounds like your childhood experiences with your emotionally distant father and the loss of your mother may have shaped how you view yourself as a 'family man,' while the silence with your ex and unspoken grief could be compounding your current loneliness. Let me try to piece this together: Your self-worth has been tied to family roles since childhood, the divorce amplified fears of failure, and unprocessed grief from your mom’s passing might now feel intertwined with this isolation. What did I miss or get wrong here?
+
+patient: You're right about my dad's emotional distance and how it made me equate self-worth with being a 'family man.' But I don't think my mom's loss is part of this—I don't remember her passing being that prominent in my childhood. She died when I was 8, but I was too young to process it deeply. Maybe the grief is still there, though? I hadn't connected it to this before... but the divorce feels like the main trigger for these thoughts, not unresolved childhood loss.
+
+interviewer: Thank you for clarifying that your mother’s loss hasn’t been central to this crisis—your focus on the divorce as the main trigger makes sense given its recent and direct impact on your self-view. To move forward, what would you most like to explore next? For example, should we focus on reframing self-critical thoughts, building strategies to manage work triggers, or exploring how childhood patterns might still be shaping your current challenges?
+
+patient: I think understanding how my childhood patterns—like the emotional distance from my dad—might be shaping my self-blame would help me make sense of why I’m stuck in this cycle. It feels like those old habits of blaming myself are worse now, especially when I see families at work, but I don’t know how to break free without knowing *why* they’re so strong.
+
+interviewer: Thank you for that insight, Gregory. To ensure we’re aligned, let’s briefly recap: We’ve identified how childhood emotional neglect and recent divorce have intensified self-blame, with triggers like family-centric work environments. Protective factors include your openness to therapy and small support networks. What would you like to prioritize first in our next steps—exploring childhood patterns, developing self-compassion strategies, or addressing work-related triggers? Is there anything else I’ve overlooked that should shape our plan?
+
+patient: I think starting with self-compassion strategies would help me most right now. The constant self-criticism is exhausting, and I need tools to quiet that voice, especially at work when I see families. But I also want to eventually understand why I tied my self-worth to having a family—maybe that connects to my dad’s emotional distance. For now, though, learning to be kinder to myself feels like the most urgent step.
+
+interviewer: Thank you for sharing your priorities, Gregory. To ensure we’re aligned, here’s a brief summary: Your current focus is on self-compassion strategies to manage self-criticism, especially at work, while also exploring how childhood patterns (like your father’s emotional distance) may have shaped your self-worth tied to family roles. We’ll start with practical tools for self-compassion and gradually connect them to deeper patterns. What did I miss or get wrong here?
+
+patient: You got the main points, but maybe missed how my fear of ‘failing’ again (like the divorce) makes me withdraw from work events even more, which worsens the isolation. Also, the morning walks I mentioned—are those part of the self-compassion tools? I wasn’t sure if they matter, but they’re one of the few things that briefly calm me.
+
+interviewer: Thank you for highlighting how the fear of failing again exacerbates work withdrawal and how morning walks serve as a subtle self-compassion tool for you. To ensure we’re aligned, let me briefly summarize: We’ve identified the cycle of self-blame → isolation → worsened self-criticism, alongside morning walks as a small but meaningful coping strategy. What did I miss or get wrong here?
+
+patient: You hit most of the key points, but maybe missed how the self-blame isn’t just about not having a family—it’s this deeper belief I *failed* at something core. The morning walks do help me ground, but it’s not so much self-compassion as... forcing myself to feel something real, like I’m still here. Oh, and I think you didn’t mention how scared I am that this work-isolation thing could actually cost me my job if I keep withdrawing like this.
+
+interviewer: Thank you for adding those important layers, Gregory. It sounds like the fear of job loss is compounding your existing fears of failure, and the morning walks—while not self-compassion yet—act as a grounding anchor. To ensure we’re aligned, here’s a revised summary: Your self-blame stems from a core belief of failure, worsened by work isolation and divorce triggers, with morning walks as a partial coping mechanism. Next steps include building self-compassion tools for work triggers and exploring how childhood patterns (like your father’s emotional distance) shaped these beliefs. Is there anything else I’ve missed or should adjust before we finalize this plan?
+
+patient: That feels mostly accurate, but maybe add that my friends are a source of quiet anxiety—I worry they’ll notice my distance or think I’m ‘too much’ if I open up. Also, the job fear isn’t just about losing it, but being seen as ‘unreliable’ if my triggers flare during storytime. The dad piece makes sense; I think his silence taught me to equate worth with ‘holding it together,’ which now backfires when I’m unraveling in private. Other than that, the summary’s spot on.
+
+system: --- Phase 5 End ---
+

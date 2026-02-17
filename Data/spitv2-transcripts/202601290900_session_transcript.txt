@@ -1,0 +1,114 @@
+system: --- Session 202601290900 Start ---
+
+ --Patient ID 2253--
+
+system: --- Session 202601290900 Start ---
+
+ --Patient ID 2253--
+
+interviewer: May I start by asking for your name and if you have any pronoun preferences?
+
+patient: My name is Franklin Baxter. I use he/him pronouns, if that’s what you’re asking. I’ve never really thought about it before, to be honest.
+
+interviewer: Franklin, today we'll be discussing your concerns and how counseling can help. Are you comfortable with that?
+
+patient: Yes, I’m comfortable. I’ve been dreading this a bit, but I know I need to talk about it. I just hope we can figure out why these thoughts won’t go away, even with friends around.
+
+interviewer: Thank you for opening up, Franklin. Do you have any immediate questions before we begin?
+
+patient: No, I don't have any questions right now. I'm a bit nervous but willing to see where this goes.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: Can you tell me more about what’s been most concerning for you lately, Franklin? I’d like to understand in your own words.
+
+patient: Lately, it’s this constant feeling that I’m destined to be alone forever. Even when I’m out with friends or trying to date, I can’t shake the thought that I’ll never find someone. It started getting worse a year ago after a string of rejections—each one chipped away at my confidence. I keep trying, like using dating apps or meeting people through mutual friends, but nothing sticks. The sad part is, I know I’m not *completely* alone, but it feels like my romantic future is just... closed off. It’s making me question my worth, honestly.
+
+interviewer: Thank you for sharing that, Franklin. It sounds like these feelings have been gradually intensifying over time. Have there been any specific moments or patterns in the past year where things felt particularly difficult, or times when the loneliness felt especially overwhelming?
+
+patient: Yeah, there was a specific time last winter after a date where the person I was seeing completely ghosted me. I just... stayed in my apartment for three days, didn't answer calls from friends. It felt like confirmation that I'd never be 'good enough' for anyone. Another pattern is when I scroll through social media late at night—seeing couples or friends traveling together makes the loneliness feel physical, like a weight in my chest.
+
+interviewer: Thank you for sharing those difficult experiences, Franklin. It sounds like these moments have really deepened your sense of isolation. Looking ahead, what would you most hope to achieve through counseling? How do you envision this support helping you in your daily life or relationships?
+
+patient: I guess I want to understand why these thoughts keep overpowering me, even when I know I have friends who care. I’d like to stop feeling like I’m broken when it comes to romance... maybe learn how to stop expecting rejection before it even happens. It’s hard not to feel like every failed date proves I’m unlovable, but I’m tired of letting that define me.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+interviewer: I want to make sure we’re considering all factors that might be contributing to your feelings of loneliness. Have you experienced any significant challenges or events in your past—like difficult relationships, major life changes, or situations where you felt deeply rejected—that might be influencing how you see yourself in romantic contexts? It’s okay if there’s nothing to share.
+
+patient: I don’t think there are any major events from my past that stand out like traumatic relationships or big rejections beyond what I’ve already mentioned. The dating rejections and being ghosted last year really hit hard, but I can’t pinpoint anything earlier that feels directly connected. Though… now that you mention it, I’ve always had a bit of a hard time opening up to people, even with friends. It’s weird—I’ll talk to them, but I don’t know if they realize how lonely I actually feel inside.
+
+interviewer: Thank you for sharing that vulnerability about feeling unseen even in friendships—it takes courage. Can you share a bit about your family or early experiences that might have shaped how you approach relationships? For example, how did you learn about connecting with others growing up?
+
+patient: My parents were... they weren’t unkind, but we weren’t super close. They had a practical marriage—stable, but not affectionate. I learned early that friendships required more effort to maintain, while romantic relationships felt... abstract. My mom would say love ‘just happens,’ but I always felt like I had to earn it. Maybe that’s why I push myself to be sociable but freeze when it comes to romance. It’s like I’m waiting for someone to prove I’m worthy of it.
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: Have you ever had thoughts of harming yourself or ending your life?
+
+patient: No, I haven’t had thoughts of harming myself or ending my life. The loneliness is heavy, but it hasn’t gone that far for me—though I do worry sometimes about what happens if this feeling never changes.
+
+interviewer: I appreciate you sharing that worry—it’s valid to feel uncertain about how things might change. Let’s talk a bit about habits that might affect your well-being: Can you tell me about your use of alcohol, cannabis, or other substances? No judgment—just to understand patterns or changes lately.
+
+patient: I don’t use cannabis or other substances. I have a drink occasionally—maybe a beer when I’m out with friends—but nothing heavy or regular. Lately, I’ve been cutting back because I want to stay focused on working through this mentally. It doesn’t really help the loneliness, though. I still feel... stuck in that headspace even when I’m drinking.
+
+interviewer: I appreciate your honesty about cutting back on alcohol to focus on your mental health. Can you tell me if you’re currently taking any medications or supplements—prescription, over-the-counter, or herbal—and whether you’ve noticed any changes in how they affect you lately?
+
+patient: I'm not currently taking any prescribed medications or supplements. I used to take an over-the-counter sleep aid occasionally, but I stopped a few months ago because it didn't really help and I was concerned about dependency.
+
+interviewer: It’s thoughtful of you to be cautious about dependency—thank you for that honesty. Let’s briefly check in on energy and sleep: Have you noticed any recent changes in your energy levels or sleep patterns, such as needing less sleep, feeling unusually restless, or having difficulty calming your thoughts at night?
+
+patient: Yes, I’ve noticed my sleep has been... irregular. Some nights I lie awake for hours, my mind replaying conversations or hypothetical scenarios about being alone. Other nights I’m so exhausted from anxiety I fall asleep quickly, but wake up feeling unrefreshed. The fatigue makes it harder to push through social interactions, which just reinforces the cycle.
+
+interviewer: It sounds like your sleep patterns are deeply tied to your anxiety about loneliness—thank you for sharing that vulnerability. Have you noticed any periods where you feel unusually energetic, restless, or like you don’t need as much sleep, even if it leads to risky behavior or impulsive decisions?
+
+patient: I don’t think so. My energy levels have mostly been on the low side, like when I’m stuck in those lonely thoughts. I’ve definitely felt restless, but it’s more like an anxious restlessness, not the kind where I feel overly energized or invincible. My focus has been on the weight of loneliness, not on feeling unusually driven or impulsive.
+
+interviewer: It’s important we cover all bases to understand what you’re experiencing. Have you noticed any hallucinations, delusions, or paranoid thoughts lately—such as hearing voices, believing others are monitoring you, or having unshakable fears about threats that others might not see?
+
+patient: No, I haven’t experienced hallucinations or delusions. My main struggle is with intrusive thoughts about being unlovable, not with paranoia or sensing things that aren’t there. Sometimes I feel like people don’t truly see me, but that’s more about emotional connection than distrust or fear.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: To ensure we’re aligned, here’s a summary: Your persistent loneliness and feelings of unlovability seem rooted in a mix of lifelong beliefs about needing to 'earn' love (predisposing), recent dating rejections (precipitating), and cycles of avoidance/social media comparison (perpetuating). Protective factors include your supportive friendships and proactive help-seeking. What did I miss or get wrong here?
+
+patient: You captured a lot accurately, but there’s one piece missing. The emotionally distant dynamic from my parents’ marriage—my dad was a workaholic, my mom people-pleasing—taught me that love is conditional. I equate it to 'performing,' which makes dating feel like an exam I’m failing. Also, the ghosting incident wasn’t just rejection; it felt like validation of my deepest fear that people can vanish without leaving a trace. And while I have friends, I sometimes wonder if they’d still care if they *really* knew how I feel… like I’m a burden. The summary didn’t mention that push-pull of craving connection but dreading being seen as 'too much.'
+
+interviewer: Thank you for sharing those important nuances—I appreciate your courage in opening up. Let me adjust my summary: Your lifelong conditioning around conditional love (from your parents’ emotionally distant marriage) has shaped a belief that romantic connection requires constant performance, while recent rejections and ghosting have reinforced fears of invisibility and abandonment. This creates a push-pull dynamic where you seek connection but fear being perceived as a burden. What did I miss or get wrong here?
+
+patient: You captured the core of it, but maybe missed how social media intensifies the sting—seeing couples’ highlights makes me feel like my loneliness is a personal failure. Also, the push-pull isn’t just about romantic contexts: I work hard to maintain friendships (texting groups, planning get-togethers), but it’s exhausting, and I worry my efforts mask a fear that even those connections aren’t ‘deep’ enough. The ghosting incident last winter was a turning point; I canceled plans with friends for weeks after, which made the isolation worse.
+
+interviewer: Thank you for adding those layers about social media and friendships—it’s clear how these dynamics intertwine with your core fears. What would you like to prioritize next in our work together, and is there anything else I haven’t touched on that feels important to address?
+
+patient: I think the biggest thing I want to work on is understanding why I keep expecting rejection, even when I know I have friends. It feels like every no is proof I’m unlovable, and I want to break that cycle. I also haven’t talked much about how my parents’ reserved marriage might’ve shaped my fear that love is something you have to earn, not something that can just... exist. Is that worth exploring?
+
+interviewer: Thank you for your thoughtful reflections on how your parents’ relationship and social media shape your fears. Let me synthesize what we’ve covered: Your lifelong belief that love must be earned—rooted in your parents’ emotionally distant marriage—interacts with recent dating rejections and social media comparisons, creating a cycle where rejection feels personal and connection feels unattainable. This manifests as anticipatory anxiety, self-protective isolation, and physical symptoms like chest tightness. What did I miss or get wrong here, and is there anything else you’d like to add before we plan next steps?
+
+patient: That’s pretty much on point. You missed that I keep trying to force myself into social situations—dating apps, friend gatherings—but it’s like my body tenses up, and I end up faking smiles. The chest tightness hits worst when I scroll through couples’ photos afterward, like I’m failing some invisible test. Also, my friends think I’m ‘content’ since I laugh a lot, but I’m terrified to admit how much this loneliness is eating me alive. It’s like I’m living a double life where I’m both the life of the party and a ghost in my own skin.
+
+interviewer: Thank you for sharing those additional layers about social pressure and emotional dissonance—it’s clear how these challenges compound your core fears. To conclude this phase, could we collaboratively identify 1–2 specific goals you’d like to prioritize next (e.g., exploring parental influences, developing tools for rejection sensitivity, or addressing social media triggers), and is there anything else we haven’t discussed that feels urgent to address?
+
+patient: The two goals I want to prioritize next are exploring how my parents’ emotionally distant relationship might have shaped my expectations of romantic love, and developing practical tools to manage the automatic belief that rejection reflects my inherent worth. I think unpacking how their marriage taught me to view love as something I have to earn—not as a basic human connection—could help me reframe my self-perception. For the tools, I’d like to address the physical anxiety I feel during dating situations (like the ‘weight’ in my chest) and the intrusive thoughts that kick in after social interactions. As for urgent topics, I don’t think there’s anything else right now—this feels like the core of what’s holding me back.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Reports persistent feelings of loneliness and unlovability worsening over the past year, intensified by dating rejections and a ghosting incident last winter. Describes intrusive thoughts about being 'broken' in romance, anticipatory anxiety in social/dating situations, and chest tightness during interactions. Sleep is irregular (insomnia with ruminative thoughts vs. fatiguing anxiety), exacerbating social withdrawal. Notes lifelong belief that love must be 'earned,' rooted in parents' emotionally distant marriage.
+
+Objective: Avoidant patterns in social/dating contexts despite proactive efforts (e.g., using apps, attending gatherings). Reports physical anxiety symptoms (chest tightness, restlessness). Maintains friendships but perceives them as superficial; fears being seen as a 'burden.' No acute risk identified; denies suicidal ideation or psychosis.
+
+Assessment: Chronic loneliness with maladaptive schema of conditional love (predisposing: parental modeling; precipitating: recent rejections; perpetuating: social media comparisons, performance-based approach to relationships). High rejection sensitivity with somatic anxiety. Protective factors: supportive friendships, insight into patterns, help-seeking.
+
+Plan: Prioritize (1) exploring parental influences on love schema and (2) developing tools to reframe rejection sensitivity and manage somatic anxiety. Address social media triggers and emotional dissonance in maintaining friendships. Monitor sleep-anxiety cycle.
+
+--- End Summary ---
+

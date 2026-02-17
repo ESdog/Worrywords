@@ -1,0 +1,126 @@
+system: --- Session 202601290019 Start ---
+
+ --Patient ID 1957--
+
+system: --- Session 202601290019 Start ---
+
+ --Patient ID 1957--
+
+interviewer: Greg, I understand you're here to discuss the feelings of guilt and anxiety you've been experiencing since the car accident. Would you be comfortable proceeding with that today?
+
+patient: Yeah, I guess so. It’s been hard to talk about, but... the accident really shook me. I keep thinking maybe I could’ve done something differently, you know? It’s not just the driving—my kids’ safety feels like it’s on me, and I can’t shake that guilt. (pauses, breathes sharply) My husband says I’m making a mountain out of a molehill, but... it’s not going away.
+
+interviewer: It sounds like the guilt over the accident is really weighing on you. Can you tell me if you have any questions about how we’ll approach our sessions or what this process involves?
+
+patient: Honestly, I’m not sure what to expect. I guess I’m wondering if we’ll work on managing the anxiety directly or if we’ll focus more on changing my thoughts about the accident. My husband thinks I should just "get over it," but it’s not that simple.
+
+interviewer: It’s understandable to feel unsure—this is a safe space to explore what works best for you. Is there anything else you’d like to ask before we begin?
+
+patient: No, I think we can start. I just wanted to mention that my husband feels I'm overreacting, but I really feel guilty about the accident.
+
+system: --- Phase 1 End ---
+
+system: ---
+
+interviewer: It sounds like the accident has left you feeling overwhelmed by guilt and anxiety, and it’s affecting your ability to drive and relate to your husband. Can you share what you hope therapy might help you achieve over time?
+
+patient: I guess I hope therapy can help me stop blaming myself for the accident and ease the anxiety that keeps me stuck at home. I want to drive my kids to soccer again without my hands shaking, and… I don’t know, maybe learn to talk to my husband without feeling like he sees me as a ‘wreck’ when I’m already falling apart inside.
+
+system: --- Phase 2 End ---
+
+system: ---
+
+system: --- Phase 3 End ---
+
+system: ---
+
+interviewer: I appreciate you sharing your experiences, Greg. It's understandable to feel overwhelmed by these thoughts. To better understand your current situation, have you used alcohol, cannabis, or any other substances regularly in the past month?
+
+patient: No, I haven't. I don't really use alcohol or cannabis, even before the accident. I’ve always tried to stay clear-headed for the kids’ sake.
+
+interviewer: I appreciate your clarity on this. To ensure we’re addressing all aspects of your well-being, have you had any thoughts about harming yourself or ending your life since the accident?
+
+patient: No, I haven't had thoughts like that. My main struggle is with the guilt and anxiety—like wondering if I somehow caused the accident or if I could've protected my kids better. It's more self-blame than... darker thoughts.
+
+interviewer: Thank you for clarifying that. To continue, have you noticed any periods where you feel unusually energetic, restless, or need very little sleep lately?
+
+patient: No, not really. I’ve been more tired than anything lately, honestly. The anxiety and guilt kind of wear me out, but I don’t feel restless or hyper. If anything, I sleep a lot, but it’s not restful sleep.
+
+interviewer: It sounds like the fatigue and guilt are really taking a toll. Have you experienced any unusual thoughts or perceptions lately, like hearing voices, seeing things others don’t, or believing things that seem out of step with reality?
+
+patient: No, I haven’t heard voices or seen things others don’t. But sometimes I have intrusive thoughts about the accident—like suddenly imagining it happening again in my mind when I’m driving, even if I’m not near traffic. It’s more like my brain won’t stop replaying it, not actual hallucinations.
+
+interviewer: It’s important to consider how medications or supplements might interact with your current symptoms. Are you currently taking any prescription medications, over-the-counter drugs, or supplements regularly?
+
+patient: No, I'm not currently taking any prescription medications, over-the-counter drugs, or supplements. I haven't really needed anything for that, and I guess I haven't thought about it much since the accident.
+
+interviewer: It’s good to hear you have friends in book clubs and PTA to connect with. Are there people in your life you can rely on for support during this time?
+
+patient: My husband and I used to talk about everything, but since the accident, it’s like we’re not on the same page. He means well, but his ‘just get over it’ attitude makes me hesitant to open up. The moms in my PTA group are nice, but I haven’t told them how much this is eating at me—I don’t want to sound like I’m making a big deal out of nothing.
+
+interviewer: It seems the accident has added significant emotional weight to your responsibilities. To ensure we’re thorough, have you experienced any medical issues or injuries since the accident that might be affecting your mental health or daily functioning?
+
+patient: No, I haven’t had any physical injuries or medical issues since the accident. The stress and anxiety are all mental—I just keep feeling like I failed my kids, and it’s making me avoid driving. My hands even shake sometimes when I try to get behind the wheel, but that’s probably just nervousness.
+
+interviewer: It sounds like the anxiety and guilt are deeply tied to your sense of responsibility as a parent. To ensure we’re thorough, have you experienced any medical conditions such as thyroid issues, sleep apnea, chronic pain, or head injuries that might be affecting your mental health or daily functioning?
+
+patient: No, I don’t have any of those medical conditions. The accident didn’t cause a head injury, but it’s shaken my confidence—mostly the emotional part, not physical.
+
+system: --- Phase 4 End ---
+
+system: ---
+
+interviewer: Let me briefly recap what we’ve covered so far: You’ve shared feelings of intense guilt and anxiety following a car accident a month ago, which you believe stemmed from stress-related driving errors. This has led to avoidance of driving, strained communication with your husband (who dismisses your concerns), and disrupted daily responsibilities. The distress centers on fearing parental failure and replaying the accident, with physical symptoms like shaky hands. Protective factors include your willingness to seek help and maintained social roles. What did I miss or get wrong here?
+
+patient: You captured the main points well, but maybe missed how my husband’s dismissiveness makes me feel like I’m being ignored or that my fears aren’t valid, which adds to my isolation. Also, the impact on my kids’ routines—like missing their events—has been harder than I realized. Oh, and I should mention I haven’t told my friends about the accident because I feel ashamed to admit I messed up as a parent.
+
+interviewer: Thank you for sharing those additional layers—it’s clear how the invalidation from your husband and the weight of parental expectations are compounding your distress. Let me offer a tentative framework: Your accident likely triggered trauma-related guilt (precipitating factor), which is being worsened by your husband’s dismissiveness (perpetuating) and your self-critical nature (predisposing). Protective factors include your willingness to seek help and your role as a present parent. How does this align with your experience? What might we add or adjust?
+
+patient: That framework makes sense, but I think the self-criticism part has roots before the accident—like, I’ve always felt like I have to be perfect at everything, especially since my job is ‘just’ being a homemaker. My husband’s dismissiveness definitely makes me feel like my feelings are invalid, which just piles onto the guilt. Maybe the accident amplified something that was already there, like a fear of failing my kids in every way. What I didn’t mention earlier is that I worry they’ll start avoiding me too, like my husband does, if they see me as unreliable. That fear probably keeps me stuck in the same cycle.
+
+interviewer: Thank you for sharing that fear about your children—it’s clear how deeply you care and how much this is affecting your sense of self. Before we move forward, is there anything else important we haven’t covered that you’d like to add? This will help ensure our next steps align with your needs.
+
+patient: I think what's hardest is feeling like I can't be the parent my kids need right now. Every time I think about driving, I'm terrified I'll freeze up or make another mistake. It's also been tough not being able to talk to my husband without it turning into an argument—like he doesn't get how overwhelming this is for me. I guess I just want them to know it's not 'overreacting,' it's like... part of me feels broken in a way I don't know how to fix.
+
+interviewer: Thank you for sharing that depth—it’s clear how much this is affecting your sense of identity and family dynamics. Let me summarize: We’ve identified trauma from the accident, self-criticism amplified by parental pressures, and relational strain due to invalidation. What did I miss, and what would be the first step you’d like us to focus on together to address these challenges?
+
+patient: I think you hit most of the big points, but maybe you missed how much my hands shake when I even think about driving now—it’s like my body’s betraying me. And the isolation part… I feel like I’ve become a stranger to my friends because I can’t talk about this without sounding weak. Maybe the first step is… figuring out how to face driving again, but not just the physical act. Like, learning to stop the self-blame spiral when I’m behind the wheel? And maybe… working on how to talk to my husband without him shutting me down. I can’t do this alone, but I don’t know where to start.
+
+interviewer: Thank you for sharing those important details—it’s clear how the physical anxiety (like shaky hands) and social withdrawal are adding to your emotional burden. Before we finalize our next steps, is there anything else we need to include to ensure we address all the challenges you’re facing? For example, any other goals or concerns about how we move forward?
+
+patient: I think it's important to address how to rebuild my confidence in driving safely while also working on communicating with my husband without feeling dismissed. I want practical steps to manage the anxiety and guilt, and ensure therapy helps both my emotional state and family dynamics.
+
+interviewer: Thank you for emphasizing the need for practical strategies—it’s clear how critical this balance is for your well-being and family. Before finalizing our plan, is there anything else we need to include to ensure we address all the challenges you’re facing? For example, any other goals or concerns about how we move forward?
+
+patient: I think focusing on rebuilding my confidence while driving and finding ways to communicate better with my husband would help. I also need strategies to stop the guilt from taking over, like when I’m trying to plan activities for the kids but freeze because of the anxiety.
+
+interviewer: Thank you for clarifying those priorities—it’s clear how crucial restoring confidence and improving communication are for your healing. Before finalizing our plan, let me confirm: Did I capture all the key areas you want us to address, or is there something else we need to include?
+
+patient: I think those two areas are the most important, but maybe we should also talk about the constant replaying of the accident in my mind? It feels like it’s on loop, and I don’t know how to make it stop. That might be part of what’s keeping me stuck.
+
+interviewer: Thank you for emphasizing the intrusive replaying of the accident—it’s clear how this mental loop is central to your distress and avoidance. Let me revise my summary: We’ve identified trauma-related guilt, self-criticism amplified by parental pressures, relational strain from invalidation, and intrusive accident memories disrupting your confidence and daily life. What did I miss or need to adjust here?
+
+patient: I think you got most of it, but maybe you missed how my hands physically shake when I try to drive now, and that my sleep is so restless it doesn’t help me feel rested. Also, I haven’t talked to my friends about it because I’m scared they’ll think I’m overreacting, just like my husband does, even though I feel isolated.
+
+interviewer: Thank you for adding those physical and relational layers—it’s clear how your shaken hands, restless sleep, and fear of isolation are deeply tied to your anxiety and guilt. Before we finalize our plan, is there anything else we need to include to ensure we address all the challenges you’re facing?
+
+patient: I think maybe we should also look at how I handle the pressure of being the main caregiver and decision-maker. My husband’s frustration makes me feel like I’m failing, which adds to the guilt. Also, I’m worried about how long this fear will last—will I ever feel safe driving again? I guess I need help untangling the accident from my identity as a parent.
+
+interviewer: Thank you for highlighting the pressure of being the main caregiver and your worry about how long this fear will last—it’s clear how these layers are intertwined with your sense of self and safety. What did I miss or need to adjust here before we finalize our plan?
+
+patient: I think you might have missed how my husband’s dismissal adds to my isolation—I feel like I can’t even talk about it at all if he’ll just brush it aside. Also, the part about my hands shaking when I try to drive—maybe that’s a physical symptom that needs more focus. I’m not sure how the plan will address both the guilt and the physical anxiety. Maybe I need to work on facing the driving fear step by step, but I’m scared to even start.
+
+system: --- Phase 5 End ---
+
+system: --- Session Summary ---
+
+Subjective: Patient reports persistent guilt and anxiety since a car accident 1 month ago, with intrusive accident memories, shaky hands when driving, and restless, non-restorative sleep. Feels isolated due to husband’s dismissive attitude ('just get over it') and avoids discussing accident with friends. Struggles with self-blame about parental failure and fears children may avoid him if they perceive him as unreliable.
+
+Objective: Avoidance of driving impacts family routines (e.g., missing kids’ events). No substance use, suicidal ideation, or physical injuries. Maintains social roles (PTA, book clubs) but with limited emotional disclosure. Husband’s invalidation exacerbates relational strain and emotional withdrawal.
+
+Assessment: Trauma-related guilt and anxiety with somatic symptoms (shaky hands), sleep disturbance, and maladaptive self-criticism. Relational strain and social isolation perpetuate distress. No acute safety concerns. Protective factors include willingness to seek help and parental role commitment.
+
+Plan: Prioritize CBT for anxiety management and guilt restructuring; gradual exposure to driving with anxiety mitigation strategies. Address communication patterns with husband to reduce invalidation. Target intrusive accident memories via trauma-focused techniques. Monitor physical symptoms (tremors, sleep) and consider pharmacology if symptoms persist. Reassess driving safety and functional goals.
+
+--- End Summary ---
+
